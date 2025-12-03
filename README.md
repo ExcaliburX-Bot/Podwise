@@ -1,35 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-03 09:10  
-> 📊 **分析进度**: 0/2 已完成
+> 📅 **更新时间**: 2025-12-03 09:19  
+> 📊 **分析进度**: 0/1 已完成
 
 ---
 
-## 🎯 Top 2 热门播客
+## 🎯 Top 1 热门播客
 
-### 1. 【测试数据】API暂时无法访问，这是自动生成的演示条目
+### 1. Ep 56. 对话 Hawstein：从独立开发，到追寻人生的意义
 
-**播客**: 测试播客
+**播客**: 捕蛇者说
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://media.xyzcdn.net/example.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 请检查 fetch_podcasts.py 中的 API 地址是否最新
-
-**播客**: 系统通知
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://media.xyzcdn.net/example2.mp3)
+- 🎵 [音频文件](https://chrt.fm/track/6AGABB/r.typlog.com/eyJzIjozNTIsImUiOjgzMjIzLCJ0IjoxfQ.Fge4WkWpBXPcBM2Cr80utVUzDCs/pythonhunter/8245279839_643518.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

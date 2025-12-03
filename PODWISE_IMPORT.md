@@ -1,7 +1,7 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-03 09:10:04
-> 📊 总计: 2 个播客
+> 📅 生成时间: 2025-12-03 09:19:06
+> 📊 总计: 1 个播客
 
 ---
 
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【测试数据】API暂时无法访问，这是自动生成的演示条目
+### 1. Ep 56. 对话 Hawstein：从独立开发，到追寻人生的意义
 
-**播客名称**: 测试播客
+**播客名称**: 捕蛇者说
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://media.xyzcdn.net/example.mp3
+https://chrt.fm/track/6AGABB/r.typlog.com/eyJzIjozNTIsImUiOjgzMjIzLCJ0IjoxfQ.Fge4WkWpBXPcBM2Cr80utVUzDCs/pythonhunter/8245279839_643518.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,34 +39,7 @@ https://media.xyzcdn.net/example.mp3
 
 音频链接（点击复制）:
 ```
-https://media.xyzcdn.net/example.mp3
-```
-
-</details>
-
----
-
-### 2. 请检查 fetch_podcasts.py 中的 API 地址是否最新
-
-**播客名称**: 系统通知
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://media.xyzcdn.net/example2.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://media.xyzcdn.net/example2.mp3
+https://chrt.fm/track/6AGABB/r.typlog.com/eyJzIjozNTIsImUiOjgzMjIzLCJ0IjoxfQ.Fge4WkWpBXPcBM2Cr80utVUzDCs/pythonhunter/8245279839_643518.mp3
 ```
 
 </details>

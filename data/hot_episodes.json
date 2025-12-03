@@ -1,22 +1,13 @@
 [
   {
-    "eid": "655c8096d09983d4a6e88888",
-    "title": "【测试数据】API暂时无法访问，这是自动生成的演示条目",
+    "eid": "9839_643518.mp3",
+    "title": "Ep 56. 对话 Hawstein：从独立开发，到追寻人生的意义",
     "podcast": {
-      "title": "测试播客"
+      "title": "捕蛇者说"
     },
-    "enclosureUrl": "https://media.xyzcdn.net/example.mp3",
-    "duration": 3600,
-    "pubDate": "2025-12-03T09:10:04.900013"
-  },
-  {
-    "eid": "655c8096d09983d4a6e99999",
-    "title": "请检查 fetch_podcasts.py 中的 API 地址是否最新",
-    "podcast": {
-      "title": "系统通知"
-    },
-    "enclosureUrl": "https://media.xyzcdn.net/example2.mp3",
-    "duration": 1800,
-    "pubDate": "2025-12-03T09:10:04.900021"
+    "enclosureUrl": "https://chrt.fm/track/6AGABB/r.typlog.com/eyJzIjozNTIsImUiOjgzMjIzLCJ0IjoxfQ.Fge4WkWpBXPcBM2Cr80utVUzDCs/pythonhunter/8245279839_643518.mp3",
+    "duration": 0,
+    "pubDate": "2025-08-09T07:07:41+00:00",
+    "source_rss": "https://pythonhunter.org/episodes/feed.xml"
   }
 ]

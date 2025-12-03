@@ -1,6 +1,3 @@
-# 1. 【测试数据】API暂时无法访问，这是自动生成的演示条目
-https://media.xyzcdn.net/example.mp3
-
-# 2. 请检查 fetch_podcasts.py 中的 API 地址是否最新
-https://media.xyzcdn.net/example2.mp3
+# 1. Ep 56. 对话 Hawstein：从独立开发，到追寻人生的意义
+https://chrt.fm/track/6AGABB/r.typlog.com/eyJzIjozNTIsImUiOjgzMjIzLCJ0IjoxfQ.Fge4WkWpBXPcBM2Cr80utVUzDCs/pythonhunter/8245279839_643518.mp3
 
