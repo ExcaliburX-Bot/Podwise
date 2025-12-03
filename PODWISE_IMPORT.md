@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-03 09:28:00
+> 📅 生成时间: 2025-12-03 09:49:10
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Is AI slopifying the job market? (Two Indicators)
+### 1. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/692fb7a93fec3166cffd583c/media.xyzcdn.net/lu-w1J8Jv5Tal_sTzT-vA4IMTOMT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/692fb7a93fec3166cffd583c/media.xyzcdn.net/lu-w1J8Jv5Tal_sTzT-vA4IMTOMT.m4a
+```
+
+</details>
+
+---
+
+### 2. Is AI slopifying the job market? (Two Indicators)
 
 **播客名称**: Planet Money
 
@@ -46,7 +73,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 2. 第2856期:The economics of Christmas
+### 3. 第2856期:The economics of Christmas
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
+### 4. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
 
 **播客名称**: 贝望录
 
@@ -100,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9f
 
 ---
 
-### 4. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
+### 5. 清华博士穿越沙漠，寻找绿氢的 iPhone 时刻
 
-**播客名称**: 人民公园说AI
+**播客名称**: 此话当真
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/692c5c02ba2292550f850e8a/media.xyzcdn.net/nu5-0xGSoIdKOhkQpbRbjCJT1MSV.MP3
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,95 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/692c5c02ba229255
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/692c5c02ba2292550f850e8a/media.xyzcdn.net/nu5-0xGSoIdKOhkQpbRbjCJT1MSV.MP3
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a
 ```
 
 </details>
 
 ---
 
-### 5. vol.226 十一月没有肖邦，但也可以嚣张
+### 6. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/692eb23e3fec3166cfdacd01/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrXPDE5Q1IMWUInJyYrH2N7izanP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/692eb23e3fec3166cfdacd01/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrXPDE5Q1IMWUInJyYrH2N7izanP.m4a
+```
+
+</details>
+
+---
+
+### 7. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a
+```
+
+</details>
+
+---
+
+### 8. 从点 A 到点 B，我们一起绕路
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3
+```
+
+</details>
+
+---
+
+### 9. vol.226 十一月没有肖邦，但也可以嚣张
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/692db1a2ba229255
 
 ---
 
-### 6. 143: 再聊 Attention：阿里、Kimi 都在用的 DeltaNet 和线性注意力新改进
+### 10. 143: 再聊 Attention：阿里、Kimi 都在用的 DeltaNet 和线性注意力新改进
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -175,114 +283,6 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b133
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b1339287-7582-4e09-b160-9f63d13ef7e5.mp3
-```
-
-</details>
-
----
-
-### 7. vol.554 喜夜群英会｜李梓溪，又名李九千、93%i人99%j人、真·百灵鸟、收纳DIY达人
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_wuUREvefCzZUSCjMfeEuKFPjjxtbZugKrwPNpwgQUHqbBZjyDQcHXFNZVN-01.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_wuUREvefCzZUSCjMfeEuKFPjjxtbZugKrwPNpwgQUHqbBZjyDQcHXFNZVN-01.m4a
-```
-
-</details>
-
----
-
-### 8. 513: 129 Cars
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3
-```
-
-</details>
-
----
-
-### 9. 和前《原神》主创恶少聊AI游戏创业｜“这一次，我要做个游戏圈的‘渣男’”
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/692c59adba2292550f84849d/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljprhrBedfF461fA_zKopkea6Frz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/692c59adba2292550f84849d/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljprhrBedfF461fA_zKopkea6Frz.m4a
-```
-
-</details>
-
----
-
-### 10. 对谈哈浮飞行相机王孟秋：被大疆“对标”8年，为什么还坚持做底层创新？-Vol84
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6929be90ba2292550f42f965/media.xyzcdn.net/636669d51064cb55f31505fc/lk0v6h2_hEiOOvG8DVghY29bIxhT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6929be90ba2292550f42f965/media.xyzcdn.net/636669d51064cb55f31505fc/lk0v6h2_hEiOOvG8DVghY29bIxhT.m4a
 ```
 
 </details>
