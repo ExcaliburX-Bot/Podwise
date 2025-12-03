@@ -3,8 +3,12 @@ import os
 from datetime import datetime
 
 def update_readme():
-    json_path = 'data/hot_episodes.json'
-    readme_path = 'README.md'
+    # 获取路径
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    root_dir = os.path.dirname(current_dir)
+    
+    json_path = os.path.join(root_dir, 'data', 'hot_episodes.json')
+    readme_path = os.path.join(root_dir, 'README.md')
     
     if not os.path.exists(json_path):
         print("数据文件不存在，跳过更新")
@@ -13,7 +17,6 @@ def update_readme():
     with open(json_path, 'r', encoding='utf-8') as f:
         episodes = json.load(f)
 
-    # 生成 Markdown 表格
     table_lines = []
     table_lines.append("| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |")
     table_lines.append("| :---: | :--- | :--- | :--- |")
@@ -22,16 +25,12 @@ def update_readme():
         title = ep.get('title', '无标题').replace('|', '-')
         link = ep.get('enclosureUrl', '#')
         podcast = ep.get('podcast', {}).get('title', '未知')
-        # 截取日期 YYYY-MM-DD
         pub_date = ep.get('pubDate', '')[:10]
-        
-        # 这里的封面图暂时用占位符，因为 RSS 里提取封面比较耗时，先从简
         img = "https://placehold.co/60x60/png?text=POD"
         
         row = f"| <img src='{img}' width='40'> | [{title}]({link}) | {podcast} | {pub_date} |"
         table_lines.append(row)
 
-    # 读取现有的 README (如果有的话)
     header = "# 🎙️ 我的播客订阅日报\n\n每天自动抓取最新单集，方便导入 Podwise。\n\n"
     footer = f"\n\n_最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}_"
     
