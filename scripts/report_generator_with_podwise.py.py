@@ -1,179 +1,92 @@
-"""
-智能报告生成器 - 整合 Podwise 分析结果
-"""
-
 import json
 import os
 from datetime import datetime
 
-def generate_report():
-    """生成包含 Podwise 分析链接的智能报告"""
-    
+def main():
     # 读取追踪数据
-    try:
-        with open('data/podwise_tracking.json', 'r', encoding='utf-8') as f:
-            tracking = json.load(f)
-    except FileNotFoundError:
-        print("❌ 错误: 找不到 data/podwise_tracking.json")
-        print("请先运行 podwise_import_helper.py")
-        return
+    tracking_file = 'data/podwise_tracking.json'
     
-    episodes = tracking.get('episodes', [])
-    
-    # 统计数据
+    # 如果没有追踪数据，说明还没运行过 import helper，或者出错了
+    if not os.path.exists(tracking_file):
+        print(f"⚠️ 未找到追踪数据 {tracking_file}，尝试直接读取热榜数据作为兜底...")
+        # 兜底逻辑：如果 tracking 文件不存在，尝试读取 hot_episodes
+        hot_file = 'data/hot_episodes.json'
+        if os.path.exists(hot_file):
+            with open(hot_file, 'r', encoding='utf-8') as f:
+                hot_data = json.load(f)
+            # 构造临时的 episodes 数据结构用于生成报告
+            episodes = []
+            for i, item in enumerate(hot_data[:10], 1):
+                episodes.append({
+                    "rank": i,
+                    "title": item.get('title', '未知标题'),
+                    "podcast": item.get('podcast', {}).get('title', '未知播客'),
+                    "xiaoyuzhou_url": f"https://www.xiaoyuzhoufm.com/episode/{item.get('eid', '')}",
+                    "audio_url": item.get('enclosureUrl', ''),
+                    "imported": False,
+                    "podwise_url": "",
+                    "notes": ""
+                })
+        else:
+            print("❌ 连热榜数据也没找到，无法生成报告。")
+            return
+    else:
+        with open(tracking_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        episodes = data.get('episodes', [])
+
     total = len(episodes)
-    imported = sum(1 for ep in episodes if ep.get('imported', False))
+    imported_count = sum(1 for e in episodes if e.get('imported'))
     
-    # 生成 README
-    readme = f"""# 🎙️ 小宇宙播客热榜 - AI 智能分析版
+    # 生成 README 内容
+    content = f"""# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-> 🤖 **AI 分析工具**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: {datetime.now().strftime('%Y年%m月%d日 %H:%M')}  
-> 📊 **分析进度**: {imported}/{total} 已完成
-
----
-
-## 📈 本期概览
-
-- 🎯 **热榜播客**: {total} 个
-- ✅ **AI 分析完成**: {imported} 个
-- ⏳ **待分析**: {total - imported} 个
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: {datetime.now().strftime('%Y-%m-%d %H:%M')}  
+> 📊 **分析进度**: {imported_count}/{total} 已完成
 
 ---
 
 ## 🎯 Top {total} 热门播客
 
 """
-    
-    # 生成每个播客的详细信息
-    for episode in episodes:
-        rank = episode.get('rank', 0)
-        title = episode.get('title', '未知标题')
-        podcast = episode.get('podcast', '未知播客')
-        xiaoyuzhou_url = episode.get('xiaoyuzhou_url', '')
-        audio_url = episode.get('audio_url', '')
-        imported = episode.get('imported', False)
-        podwise_url = episode.get('podwise_url', '')
-        notes = episode.get('notes', '')
+
+    for ep in episodes:
+        status = "✅ AI 已分析" if ep.get('imported') else "⏳ 等待导入"
+        podwise_link = ep.get('podwise_url', '')
         
-        # 状态标记
-        status = "✅ 已分析" if imported else "⏳ 待分析"
+        content += f"### {ep['rank']}. {ep['title']}\n\n"
+        content += f"**播客**: {ep['podcast']}\n\n"
+        content += f"**状态**: {status}\n\n"
         
-        readme += f"""### {rank}. {title}
+        content += "**链接**:\n"
+        content += f"- 🎧 [小宇宙收听]({ep['xiaoyuzhou_url']})\n"
+        content += f"- 🎵 [音频文件]({ep['audio_url']})\n"
+        
+        if ep.get('imported') and podwise_link:
+            content += f"- 🧠 **[Podwise 智能分析]({podwise_link})** (摘要/思维导图/金句)\n"
+        else:
+            content += f"- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)\n"
+            
+        if ep.get('notes'):
+            content += f"\n> 💡 **笔记**: {ep['notes']}\n"
+            
+        content += "\n---\n\n"
 
-**播客**: {podcast}
+    content += """## 🛠️ 如何使用
 
-**状态**: {status}
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
 
-**链接**:
+*Powered by GitHub Actions & Podwise*
 """
-        
-        # 添加小宇宙链接
-        if xiaoyuzhou_url:
-            readme += f"- 🎧 [小宇宙收听]({xiaoyuzhou_url})\n"
-        
-        # 添加音频链接
-        if audio_url:
-            readme += f"- 🎵 [音频地址]({audio_url})\n"
-        
-        # 添加 Podwise 分析链接
-        if imported and podwise_url:
-            readme += f"- 🤖 [Podwise AI 分析]({podwise_url}) ⭐\n"
-        elif not imported:
-            readme += f"- 📥 [点击导入到 Podwise](https://podwise.ai) (复制音频链接)\n"
-        
-        # 添加备注
-        if notes:
-            readme += f"\n**💡 备注**: {notes}\n"
-        
-        readme += "\n---\n\n"
-    
-    # 添加使用说明
-    readme += f"""
-## 🚀 如何使用
 
-### 查看 AI 分析
-
-点击播客旁边的 **"Podwise AI 分析"** 链接，可以查看：
-
-- 📝 **智能摘要**: AI 生成的内容概要
-- 🗺️ **思维导图**: 可视化的内容结构
-- 🔑 **关键词**: 核心话题和概念
-- 💬 **金句摘录**: 精彩观点集锦
-- 📊 **章节划分**: 内容时间轴
-
-### 导入新播客
-
-1. 点击 **"点击导入到 Podwise"**
-2. 在 Podwise 点击 **"Import via URL"**
-3. 粘贴音频链接
-4. 等待 AI 分析完成（3-5 分钟）
-
-### 更新追踪数据
-
-编辑 `data/podwise_tracking.json`:
-
-```json
-{{
-  "rank": 1,
-  "imported": true,
-  "podwise_url": "https://podwise.ai/episodes/YOUR_ID",
-  "notes": "很棒的内容！"
-}}
-```
-
----
-
-## 📊 统计数据
-
-| 指标 | 数值 |
-|------|------|
-| 📈 总播客数 | {total} |
-| ✅ 已分析 | {imported} |
-| ⏳ 待分析 | {total - imported} |
-| 📊 完成率 | {imported/total*100:.1f}% |
-
----
-
-## 🔄 自动更新
-
-本报告由 GitHub Actions 自动生成和更新：
-
-- ⏰ **更新频率**: 每 6 小时
-- 🤖 **数据来源**: 小宇宙播客热榜 API
-- 🧠 **AI 分析**: Podwise
-
----
-
-## 📝 相关文件
-
-- 📋 [导入清单](PODWISE_IMPORT.md) - 待导入播客列表
-- 📊 [追踪数据](data/podwise_tracking.json) - 导入状态追踪
-- 🔗 [音频链接](data/audio_urls.txt) - 纯文本链接列表
-
----
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 PR！
-
----
-
-**🤖 Powered by [Podwise](https://podwise.ai) | 📡 Data from [小宇宙](https://xiaoyuzhoufm.com)**
-
-*最后更新: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}*
-"""
-    
-    # 保存 README
     with open('README.md', 'w', encoding='utf-8') as f:
-        f.write(readme)
+        f.write(content)
     
-    print("✅ 智能报告已生成: README.md")
-    print(f"\n📊 统计:")
-    print(f"   - 总播客数: {total}")
-    print(f"   - 已分析: {imported}")
-    print(f"   - 待分析: {total - imported}")
-    print(f"   - 完成率: {imported/total*100:.1f}%")
+    print(f"✅ 报告已生成: README.md (已分析: {imported_count}/{total})")
 
-if __name__ == '__main__':
-    generate_report()
+if __name__ == "__main__":
+    main()
