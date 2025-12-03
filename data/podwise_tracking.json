@@ -1,0 +1,26 @@
+{
+  "generated_at": "2025-12-03T09:10:04.952017",
+  "total_count": 2,
+  "episodes": [
+    {
+      "rank": 1,
+      "title": "【测试数据】API暂时无法访问，这是自动生成的演示条目",
+      "podcast": "测试播客",
+      "audio_url": "https://media.xyzcdn.net/example.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "请检查 fetch_podcasts.py 中的 API 地址是否最新",
+      "podcast": "系统通知",
+      "audio_url": "https://media.xyzcdn.net/example2.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    }
+  ]
+}
