@@ -1,38 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2025-12-03 12:43  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [抖音 第2集 - 字节系列](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a) | 乱翻书 | 2025-12-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/692fb7a93fec3166cffd583c/media.xyzcdn.net/lu-w1J8Jv5Tal_sTzT-vA4IMTOMT.m4a) | 知行小酒馆 | 2025-12-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第2856期:The economics of Christmas](https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812466&track_id=935772891&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b709-audiofreehighqps/83/68/GKwRIasNACIYABrvZAQ-MoV5.m4a) | 英语每日一听 | 每天少于5分钟 | 2025-12-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a) | 贝望录 | 2025-12-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [清华博士穿越沙漠，寻找绿氢的 iPhone 时刻](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a) | 此话当真 | 2025-12-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/692eb23e3fec3166cfdacd01/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrXPDE5Q1IMWUInJyYrH2N7izanP.m4a) | 忽左忽右 | 2025-12-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.311 红鱼之姻：为什么我们越亲密，就越折磨](https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a) | 文化有限 | 2025-12-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [从点 A 到点 B，我们一起绕路](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3) | 周末变奏 Key Change | 2025-12-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [143: 再聊 Attention：阿里、Kimi 都在用的 DeltaNet 和线性注意力新改进](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b1339287-7582-4e09-b160-9f63d13ef7e5.mp3) | 晚点聊 LateTalk | 2025-12-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.554 喜夜群英会｜李梓溪，又名李九千、93%i人99%j人、真·百灵鸟、收纳DIY达人](https://tk.wavpub.com/WPDL_wuUREvefCzZUSCjMfeEuKFPjjxtbZugKrwPNpwgQUHqbBZjyDQcHXFNZVN-01.m4a) | 无聊斋 | 2025-12-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [513: 129 Cars](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9746364557.mp3) | This American Life | 2025-11-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [339. 家庭如何帮助孩子“涵容”情感？——耐受不可耐受之事](https://jt.ximalaya.com//GKwRIJIM_4yCAkfx0gQ-CGuF.m4a?channel=rss&album_id=6990384&track_id=935697037&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/6201-audiofreehighqps/27/E7/GKwRIJIM_4yCAkfx0gQ-CGuF.m4a) | Blow Your Mind (BYM S02) | 2025-11-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [118. 德里镇，同乐者，秋冬美剧变好看了？都是她的错](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6929b7c0ba2292550f4183ee/media.xyzcdn.net/5e7c9577418a84a04606b797/lissVTdk8F_m8-FZfyzswjwxsvEn.m4a) | 英美剧漫游指南KillingTV | 2025-11-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [121. 对DeepMind谭捷的访谈：机器人、跨本体、世界模型、Gemini Robotics 1.5和Google](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/692965c0ba2292550f3551f7/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lpZ3Gpi6rsvxUOt1HLD3I3UAGFkV.m4a) | 张小珺Jùn｜商业访谈录 | 2025-11-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [股债汇“三杀”：高市早苗的经济政策将把日本带向何方？](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/692850fbf2b167179813e15e/media.xyzcdn.net/nlZQ6C7qvmAcCnnepXTK885JrUi4.mp3) | 东亚观察局 | 2025-11-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Ep180 运气和勇气：我的人生决策原则（附35条问答）](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/692826b1cf0deb51a00d66b8/media.xyzcdn.net/5eae66d1418a84a046472b4d/lm1YUIVz7QgHdmfQ1yKYFiYwB8bU.m4a) | 基本无害 Mostly Harmless | 2025-11-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [87.冬日特辑：好奇怪，天一冷就想囤点这个这个还有这个](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69281f4c9ccdf1f2d52b03ea/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ltfU_-9PIO2aImGfS0YVfR4T3Z6O.m4a) | 展开讲讲 | 2025-11-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [李逗逗：喜剧“孤独女王”来啦！想赢、想演鬼，想继续勇敢](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/692729650084e2631de81ad9/media.xyzcdn.net/63d945ece725b5378a158d29/lorxY84uWlfm7E1pvsYS78VhkpaF.m4a) | 搞钱女孩 | 2025-11-26 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.77 我们在谈论AI游戏的时候，我们到底在谈论什么？](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6926f3fb0084e2631ddf570a/media.xyzcdn.net/6507bc165c88d2412626b401/lper42qVGQXnFWb7jfwbJv9-gEIO.m4a) | 屠龙之术 | 2025-11-26 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [【随机波动165】冬日书影音放送：当日常生活走向悬疑](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/4f00a248-4e69-42a2-8f94-491401c1cbe5.mp3) | 随机波动StochasticVolatility | 2025-11-26 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [No.178 🚘️ 生死李书福：穷小子娶洋媳妇还是骑士救公主？](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/692473644c49bc580f69bf03/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lj0w7CtgKBa0UYBECGafh8HkLnjK.m4a) | 半拿铁 | 商业沉浮录 | 2025-11-26 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [11月新歌推荐丨郑兴、姜思达、ROSALÍA、小枝…❄️适合冬天！](https://tk.wavpub.com/WPDL_zsUygBUcWJSbYNnsAVBxEjJCqTHBWRhqJudMCAbzduayDbcXNKtdguCpbN-47.mp3) | Vibration 歪波音室 | 2025-11-26 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [EP117 豆包月活过亿，阿里再造「千问」是不是晚了？](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69236db36018cc2c983d8b54/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmp0PzdIg2iJOW5k3cNnnvVqq6Sa.m4a) | 硬地骇客 | 2025-11-23 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [「你觉得 AI 有泡沫吗？」——有！｜对谈莫傑麟](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/692035926018cc2c98f08264/media.xyzcdn.net/648b0b641c48983391a63f98/lpP8GvMaKgJvyhS0tJWqa-kMk1WT.m4a) | 42章经 | 2025-11-22 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [094.我的人生信条：不抱怨、不解释、低头做事、死磕到底](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/692023e7cbba038b42a1c293/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lvOPFCApXjyHncbIdlR2PKFuIFM9.m4a) | 喷嚏 | 2025-11-22 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [127. 全球化之路：出海其实也挺难](https://rio.xyzcdn.net/crazycapital/ep127.mp3) | 疯投圈 | 2025-11-21 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [No.209 为什么西游记是一本商业名著？](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/691943f06018cc2c9807192e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmLftOt9X3csw6CcCJ-SbHXKFYnS.m4a) | 三五环 | 2025-11-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [倒闭潮之后，画廊还能怎么活下去？](https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/691607ebe42e3466f2d42c13/media.mp3) | 艺术有读 | 2025-11-13 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [EP66 - 当写代码不再是壁垒：VibeCoding 如何让创意的人更值钱？](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/690de5aed99642be96f279d5/media.xyzcdn.net/646a8c23023239d3851f5e70/lnm8RRBLE4HPw3wrQEXn2L78yqLU.m4a) | 出海去孵化器 | 2025-11-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [13 男性焦虑回报，女性焦虑价值？容貌能决定我们如何被爱吗？](https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/68ff301c01567203213d6ce6/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lk7QV2M1-oKzwz8ABuK8H_to3iQ5.m4a) | 鸟鸟快乐实验室 | 2025-10-27 |
+---
 
-_最后更新: 2025-12-03 10:31:51_
+## 🎯 Top 10 热门播客
+
+### 1. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166cf1229ab/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltcnhcAXDBsMyUugKXLBP4Wpwahl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 抖音 第2集 | 字节系列
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2856期:The economics of Christmas
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812466&track_id=935772891&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b709-audiofreehighqps/83/68/GKwRIasNACIYABrvZAQ-MoV5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 清华博士穿越沙漠，寻找绿氢的 iPhone 时刻
+
+**播客**: 此话当真
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/692eb23e3fec3166cfdacd01/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrXPDE5Q1IMWUInJyYrH2N7izanP.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/692c5c02ba2292550f850e8a/media.xyzcdn.net/nu5-0xGSoIdKOhkQpbRbjCJT1MSV.MP3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 从点 A 到点 B，我们一起绕路
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.226 十一月没有肖邦，但也可以嚣张
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/692db1a2ba2292550fb89cf2/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnVX8wqug9MH6LZCcComr3iM0Bjf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*
