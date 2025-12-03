@@ -1,0 +1,27 @@
+name: Fetch Podcast Hot List
+
+on:
+  workflow_dispatch:  # 允许手动触发
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时运行一次
+
+jobs:
+  fetch-hotlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch podcast hot list
+        run: |
+          echo "开始抓取播客热榜..."
+          # 这里先创建一个示例文件
+          echo '{"podcasts": []}' > hotlist.json
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add hotlist.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update hotlist"
+          git push
