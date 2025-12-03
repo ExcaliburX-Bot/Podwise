@@ -1,4 +1,4 @@
-name: Fetch Podcast Hot List
+name: 播客热榜自动抓取
 
 on:
   workflow_dispatch:  # 允许手动触发
@@ -6,22 +6,208 @@ on:
     - cron: '0 */6 * * *'  # 每6小时运行一次
 
 jobs:
-  fetch-hotlist:
+  fetch-and-process:
     runs-on: ubuntu-latest
+    
     steps:
-      - name: Checkout repository
+      # 步骤1：检出代码
+      - name: 检出仓库
         uses: actions/checkout@v3
-
-      - name: Fetch podcast hot list
+      
+      # 步骤2：设置 Python 环境
+      - name: 设置 Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      # 步骤3：安装依赖
+      - name: 安装依赖
         run: |
-          echo "开始抓取播客热榜..."
-          # 这里先创建一个示例文件
-          echo '{"podcasts": []}' > hotlist.json
+          pip install requests
+      
+      # 步骤4：抓取所有播客数据
+      - name: 抓取播客数据
+        run: |
+          python << 'EOF'
+          import requests
+          import json
+          import os
+          from datetime import datetime
+          
+          # 定义要抓取的数据源
+          sources = {
+              'full': 'https://xyzrank.eddiehe.top/full.json',
+              'new_podcasts': 'https://xyzrank.eddiehe.top/new_podcasts.json',
+              'hot_episodes': 'https://xyzrank.eddiehe.top/hot_episodes.json',
+              'hot_episodes_new': 'https://xyzrank.eddiehe.top/hot_episodes_new.json'
+          }
+          
+          # 创建数据目录
+          os.makedirs('data', exist_ok=True)
+          
+          # 抓取所有数据
+          results = {}
+          for name, url in sources.items():
+              try:
+                  print(f"\n正在抓取: {name}...")
+                  response = requests.get(url, timeout=30)
+                  response.raise_for_status()
+                  data = response.json()
+                  
+                  # 保存到文件
+                  filename = f'data/{name}.json'
+                  with open(filename, 'w', encoding='utf-8') as f:
+                      json.dump(data, f, ensure_ascii=False, indent=2)
+                  
+                  results[name] = data
+                  
+                  # 打印统计信息
+                  if 'data' in data:
+                      if 'episodes' in data['data']:
+                          count = len(data['data']['episodes'])
+                          print(f"✓ {name}: 成功抓取 {count} 个播客单集")
+                      elif 'podcasts' in data['data']:
+                          count = len(data['data']['podcasts'])
+                          print(f"✓ {name}: 成功抓取 {count} 个播客")
+                  else:
+                      print(f"✓ {name}: 抓取成功")
+                      
+              except Exception as e:
+                  print(f"✗ {name}: 抓取失败 - {str(e)}")
+          
+          print(f"\n抓取完成时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+          EOF
+      
+      # 步骤5：生成综合报告
+      - name: 生成综合报告
+        run: |
+          python << 'EOF'
+          import json
+          import os
+          from datetime import datetime
+          
+          # 读取所有数据
+          data_files = {
+              'full': 'data/full.json',
+              'new_podcasts': 'data/new_podcasts.json',
+              'hot_episodes': 'data/hot_episodes.json',
+              'hot_episodes_new': 'data/hot_episodes_new.json'
+          }
+          
+          datasets = {}
+          for name, filepath in data_files.items():
+              if os.path.exists(filepath):
+                  with open(filepath, 'r', encoding='utf-8') as f:
+                      datasets[name] = json.load(f)
+          
+          # 生成 Markdown 报告
+          report = f"""# 🎙️ 中文播客热榜
 
-      - name: Commit and push if changed
+> 数据来源: [xyzrank.eddiehe.top](https://xyzrank.eddiehe.top)  
+> 更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  
+> 自动更新: 每6小时
+
+---
+
+## 📊 数据统计
+
+"""
+          
+          # 统计信息
+          if 'hot_episodes' in datasets and 'data' in datasets['hot_episodes']:
+              hot_count = len(datasets['hot_episodes']['data'].get('episodes', []))
+              report += f"- 🔥 热门单集: {hot_count} 个\n"
+          
+          if 'hot_episodes_new' in datasets and 'data' in datasets['hot_episodes_new']:
+              new_hot_count = len(datasets['hot_episodes_new']['data'].get('episodes', []))
+              report += f"- 🆕 新热门单集: {new_hot_count} 个\n"
+          
+          if 'new_podcasts' in datasets and 'data' in datasets['new_podcasts']:
+              new_podcast_count = len(datasets['new_podcasts']['data'].get('podcasts', []))
+              report += f"- ✨ 新播客: {new_podcast_count} 个\n"
+          
+          if 'full' in datasets and 'data' in datasets['full']:
+              full_count = len(datasets['full']['data'].get('podcasts', []))
+              report += f"- 📚 全部播客: {full_count} 个\n"
+          
+          report += "\n---\n\n"
+          
+          # 热门单集 Top 10
+          if 'hot_episodes' in datasets and 'data' in datasets['hot_episodes']:
+              episodes = datasets['hot_episodes']['data'].get('episodes', [])
+              report += "## 🔥 热门单集 Top 10\n\n"
+              
+              for i, ep in enumerate(episodes[:10], 1):
+                  report += f"""### {i}. {ep.get('title', '未知标题')}
+
+- **播客**: {ep.get('podcastName', '未知')}
+- **播放量**: {ep.get('playCount', 0):,}
+- **评论数**: {ep.get('commentCount', 0):,}
+- **时长**: {ep.get('duration', 0)} 分钟
+- **发布时间**: {ep.get('postTime', '未知')[:10]}
+- **链接**: [收听]({ep.get('link', '#')})
+
+"""
+          
+          # 新热门单集 Top 5
+          if 'hot_episodes_new' in datasets and 'data' in datasets['hot_episodes_new']:
+              episodes_new = datasets['hot_episodes_new']['data'].get('episodes', [])
+              report += "\n---\n\n## 🆕 新热门单集 Top 5\n\n"
+              
+              for i, ep in enumerate(episodes_new[:5], 1):
+                  report += f"""### {i}. {ep.get('title', '未知标题')}
+
+- **播客**: {ep.get('podcastName', '未知')}
+- **播放量**: {ep.get('playCount', 0):,}
+- **评论数**: {ep.get('commentCount', 0):,}
+- **时长**: {ep.get('duration', 0)} 分钟
+- **链接**: [收听]({ep.get('link', '#')})
+
+"""
+          
+          # 新播客 Top 5
+          if 'new_podcasts' in datasets and 'data' in datasets['new_podcasts']:
+              podcasts = datasets['new_podcasts']['data'].get('podcasts', [])
+              report += "\n---\n\n## ✨ 新播客推荐 Top 5\n\n"
+              
+              for i, pod in enumerate(podcasts[:5], 1):
+                  report += f"""### {i}. {pod.get('title', '未知标题')}
+
+- **作者**: {pod.get('author', '未知')}
+- **订阅数**: {pod.get('subscription', 0):,}
+- **单集数**: {pod.get('totalEpisodesCount', 0)}
+- **分类**: {pod.get('primaryGenreName', '未知')}
+- **链接**: [订阅]({pod.get('link', '#')})
+
+"""
+          
+          # 页脚
+          report += """
+---
+
+## 📁 数据文件
+
+- [完整播客列表](data/full.json)
+- [新播客列表](data/new_podcasts.json)
+- [热门单集](data/hot_episodes.json)
+- [新热门单集](data/hot_episodes_new.json)
+
+---
+
+*本项目由 GitHub Actions 自动更新*
+"""
+          
+          # 保存报告
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(report)
+          
+          print("✓ 报告生成完成！")
+          EOF
+      
+      # 步骤6：提交更改
+      - name: 提交更改到仓库
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add hotlist.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update hotlist"
-          git push
+          git add data/*.json README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 更新播客热榜数据 $(date '+%Y-%m-%d %H:%M:%S')" && git push)
