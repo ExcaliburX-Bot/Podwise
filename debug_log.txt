@@ -2,4 +2,4 @@
 ✅ 找到 OPML 文件: /home/runner/work/Podwise/Podwise/subscriptions.opml
 📂 解析 OPML 成功 (正则暴力模式): 找到 63 个订阅源
 🚀 开始抓取 63 个源 (过去 7 天)...
-✅ 成功连接并解析了 63 个播客源
+✅ 成功连接并解析了 62 个播客源
