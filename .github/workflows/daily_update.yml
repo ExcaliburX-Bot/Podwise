@@ -28,7 +28,7 @@ jobs:
           pip install requests
 
       - name: 抓取订阅更新
-        run: python scripts/fetch_podcasts.py
+        run: python scripts/fetch_rss.py
 
       - name: 生成 Podwise 导入清单
         run: python scripts/generate_import_list.py
@@ -62,5 +62,5 @@ jobs:
           to: ${{ secrets.MAIL_TO }} # 收件人邮箱
           from: Podwise Bot
           # 直接把生成的导入清单作为邮件正文发送
-          body: file://PODWISE_IMPORT.md 
-          content_type: text/markdown
+          html_body: file://PODWISE_IMPORT.html
+
