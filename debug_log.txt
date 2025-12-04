@@ -1,6 +1,5 @@
 📍 脚本运行目录: /home/runner/work/Podwise/Podwise/scripts
-🏠 项目根目录: /home/runner/work/Podwise/Podwise
 ✅ 找到 OPML 文件: /home/runner/work/Podwise/Podwise/subscriptions.opml
-⚠️ 解析 OPML 出错: not well-formed (invalid token): line 201, column 124
-⚠️ OPML 文件是空的或格式不对，使用保底列表
-🚀 开始抓取 1 个源...
+📂 解析 OPML 成功 (正则暴力模式): 找到 63 个订阅源
+🚀 开始抓取 63 个源 (过去 7 天)...
+✅ 成功连接并解析了 63 个播客源
