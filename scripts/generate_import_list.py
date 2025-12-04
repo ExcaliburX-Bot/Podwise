@@ -1,5 +1,6 @@
 import json
 import os
+import urllib.parse
 from datetime import datetime
 
 def generate_import_list():
@@ -28,17 +29,22 @@ def generate_import_list():
         pod = ep.get('podcast', {}).get('title', '未知播客')
         link = ep.get('link', '')
         
+        # --- 🛡️ 保底机制 ---
+        # 如果链接为空，生成一个 Google 搜索链接
+        if not link:
+            query = urllib.parse.quote(f"{pod} {title}")
+            link = f"https://www.google.com/search?q={query}"
+        # ------------------
+        
         lines.append(f"**[{title}]({link})**")
         lines.append(f"> 📻 {pod}")
         lines.append("")
 
     lines.append("\n## 📋 批量复制 (用于 Podwise 导入)")
-    lines.append("> 复制下面的链接，粘贴到 Podwise 批量导入框：")
     lines.append("```text")
     for ep in episodes:
-        # 这里现在直接输出网页链接
         link = ep.get('link', '')
-        if link:
+        if link and link.startswith('http'):
             lines.append(link)
     lines.append("```")
 
