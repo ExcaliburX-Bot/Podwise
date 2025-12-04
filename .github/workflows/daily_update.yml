@@ -25,7 +25,10 @@ jobs:
 
       - name: 安装依赖
         run: |
-          pip install requests
+          python -m pip install --upgrade pip
+          pip install feedparser requests  # 👈 强制安装，不管有没有 requirements.txt
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
 
       - name: 抓取订阅更新
         run: python scripts/fetch_rss.py
