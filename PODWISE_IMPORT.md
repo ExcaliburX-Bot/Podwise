@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-04 12:43:47
+> 📅 生成时间: 2025-12-04 18:32:56
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://jt.ximalaya.com//GKwRIRwNACWKABkIfwQ-NJSe.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
+### 5. 128. 个人投资的风险管理
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166cf1229ab/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltcnhcAXDBsMyUugKXLBP4Wpwahl.m4a
+https://rio.xyzcdn.net/crazycapital/ep128.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166cf1229ab/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltcnhcAXDBsMyUugKXLBP4Wpwahl.m4a
+https://rio.xyzcdn.net/crazycapital/ep128.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9f
 
 ---
 
-### 10. 清华博士穿越沙漠，寻找绿氢的 iPhone 时刻
+### 10. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
 
-**播客名称**: 此话当真
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a
+https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/692d5a1f0d5237d4de5cba94/media.xyzcdn.net/646f194853a5e5ea1408d97c/lurlJGcueZbcKwfI1K4v-liZMt7J.m4a
+https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a
 ```
 
 </details>
