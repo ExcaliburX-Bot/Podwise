@@ -5,22 +5,19 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta
 
 # ==========================================
-# 备用手动列表 (如果没有上传 OPML 文件，会用这个)
+# 1. 这里加了一个真实的 RSS (机核网)，保证测试时一定有数据！
 MANUAL_FEEDS = [
-    "https://feeds.xyz/example1",
-    "https://feeds.xyz/example2",
+    "https://feed.xyz/example1", 
+    "https://www.gcores.com/rss",  # <--- 这是一个真实的测试源
 ]
 # ==========================================
 
 def parse_opml(opml_path):
-    """解析 OPML 文件提取 RSS 链接"""
     urls = []
     try:
         tree = ET.parse(opml_path)
         root = tree.getroot()
-        # 递归查找所有 outline 标签
         for outline in root.findall('.//outline'):
-            # 标准 OPML 通常把链接放在 xmlUrl 属性里
             url = outline.get('xmlUrl')
             if url:
                 urls.append(url)
@@ -30,7 +27,6 @@ def parse_opml(opml_path):
     return urls
 
 def get_best_link(entry):
-    """强力提取链接逻辑"""
     if entry.get('link'): return entry.get('link')
     if entry.get('links'):
         for l in entry.get('links', []):
@@ -46,33 +42,32 @@ def fetch_rss():
     root_dir = os.path.dirname(current_dir)
     data_dir = os.path.join(root_dir, 'data')
     
-    # 1. 尝试寻找根目录下的 subscriptions.opml
     opml_path = os.path.join(root_dir, 'subscriptions.opml')
     
     rss_feeds = []
     if os.path.exists(opml_path):
         rss_feeds = parse_opml(opml_path)
     else:
-        print("ℹ️ 未找到 subscriptions.opml，使用手动列表")
+        print("ℹ️ 未找到 subscriptions.opml，使用手动列表 (含测试源)")
         rss_feeds = MANUAL_FEEDS
 
     if not os.path.exists(data_dir):
         os.makedirs(data_dir)
 
     all_episodes = []
-    yesterday = datetime.now() - timedelta(days=1)
+    
+    # ==========================================
+    # 2. 修改这里：把 days=1 改成 days=7 (抓取过去一周的)
+    time_threshold = datetime.now() - timedelta(days=7)
+    # ==========================================
 
-    print(f"🚀 开始处理 {len(rss_feeds)} 个订阅源...")
+    print(f"🚀 开始处理 {len(rss_feeds)} 个订阅源 (查找 {time_threshold.strftime('%Y-%m-%d')} 之后的更新)...")
 
     for feed_url in rss_feeds:
         try:
-            # 设置超时，防止卡死
             feed = feedparser.parse(feed_url)
             podcast_title = feed.feed.get('title', '未知播客')
             
-            # 简单的日志输出，避免刷屏
-            # print(f"Checking: {podcast_title}") 
-
             for entry in feed.entries:
                 try:
                     if hasattr(entry, 'published_parsed') and entry.published_parsed:
@@ -83,10 +78,10 @@ def fetch_rss():
                 except:
                     continue
 
-                if pub_date > yesterday:
+                # 使用新的 7 天时间阈值
+                if pub_date > time_threshold:
                     final_link = get_best_link(entry)
-                    
-                    print(f"   ✅ 新更新: {podcast_title} - {entry.title[:20]}...")
+                    print(f"   ✅ 抓取到: {podcast_title} - {entry.title[:15]}...")
 
                     all_episodes.append({
                         'title': entry.title,
