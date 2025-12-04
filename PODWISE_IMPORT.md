@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-03 18:32:42
+> 📅 生成时间: 2025-12-04 01:29:23
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
+### 1. 128. 个人投资的风险管理
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep128.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep128.mp3
+```
+
+</details>
+
+---
+
+### 2. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166
 
 ---
 
-### 2. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
+### 3. 抖音 第2集 | 字节系列
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a
+```
+
+</details>
+
+---
+
+### 4. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
 
 **播客名称**: 知行小酒馆
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/692fb7a93fec3166
 
 ---
 
-### 3. Is AI slopifying the job market? (Two Indicators)
+### 5. Is AI slopifying the job market? (Two Indicators)
 
 **播客名称**: Planet Money
 
@@ -100,15 +154,15 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 4. 第2856期:The economics of Christmas
+### 6. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812466&track_id=935772891&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b709-audiofreehighqps/83/68/GKwRIasNACIYABrvZAQ-MoV5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +174,14 @@ https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812466&track_id=935772891&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b709-audiofreehighqps/83/68/GKwRIasNACIYABrvZAQ-MoV5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
+### 7. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/692eb23e3fec3166
 
 ---
 
-### 6. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
+### 8. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
 
 **播客名称**: 文化有限
 
@@ -181,7 +235,7 @@ https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
+### 9. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
 
 **播客名称**: 人民公园说AI
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/692c5c02ba229255
 
 ---
 
-### 8. 从点 A 到点 B，我们一起绕路
+### 10. 从点 A 到点 B，我们一起绕路
 
 **播客名称**: 周末变奏 Key Change
 
@@ -229,60 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCf
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3
-```
-
-</details>
-
----
-
-### 9. vol.226 十一月没有肖邦，但也可以嚣张
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/692db1a2ba2292550fb89cf2/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnVX8wqug9MH6LZCcComr3iM0Bjf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/692db1a2ba2292550fb89cf2/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnVX8wqug9MH6LZCcComr3iM0Bjf.m4a
-```
-
-</details>
-
----
-
-### 10. 143: 再聊 Attention：阿里、Kimi 都在用的 DeltaNet 和线性注意力新改进
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b1339287-7582-4e09-b160-9f63d13ef7e5.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b1339287-7582-4e09-b160-9f63d13ef7e5.mp3
 ```
 
 </details>

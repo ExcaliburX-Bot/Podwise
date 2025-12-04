@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-03 18:32  
+> 📅 **更新时间**: 2025-12-04 01:29  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
+### 1. 128. 个人投资的风险管理
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep128.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
+### 3. 抖音 第2集 | 字节系列
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
 
 **播客**: 知行小酒馆
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. Is AI slopifying the job market? (Two Indicators)
+### 5. Is AI slopifying the job market? (Two Indicators)
 
 **播客**: Planet Money
 
@@ -47,20 +73,20 @@
 
 ---
 
-### 4. 第2856期:The economics of Christmas
+### 6. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNACIYABrvZAQ-MoV5.m4a?channel=rss&album_id=14812466&track_id=935772891&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b709-audiofreehighqps/83/68/GKwRIasNACIYABrvZAQ-MoV5.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
+### 7. 447 高林谈魏玛德国的消亡：帝国顽疾、金融危机与摩登民粹的上台
 
 **播客**: 忽左忽右
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
+### 8. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
 
 **播客**: 文化有限
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
+### 9. 2025 Scaling law结束了，2026 AI的泡沫会破吗？｜对话「苔藓之火」Raymond
 
 **播客**: 人民公园说AI
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 从点 A 到点 B，我们一起绕路
+### 10. 从点 A 到点 B，我们一起绕路
 
 **播客**: 周末变奏 Key Change
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDc2NCwidCI6MX0.VdIhQAEjGxGps3by5tJxjCfxg3A/keychangefm/8235394859_919052.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.226 十一月没有肖邦，但也可以嚣张
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/692db1a2ba2292550fb89cf2/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnVX8wqug9MH6LZCcComr3iM0Bjf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 143: 再聊 Attention：阿里、Kimi 都在用的 DeltaNet 和线性注意力新改进
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b1339287-7582-4e09-b160-9f63d13ef7e5.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
