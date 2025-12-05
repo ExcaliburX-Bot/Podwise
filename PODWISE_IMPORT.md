@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-05 12:41:42
+> 📅 生成时间: 2025-12-05 18:27:59
 > 📊 总计: 10 个播客
 
 ---
@@ -81,7 +81,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9f
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FsqrFK-uFrfrv-FFP_WmdBfFjMVA.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FsqrFK-uFrfrv-FFP_WmdBfFjMVA.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/693236054ef12f9f
 
 ---
 
-### 5. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
-```
-
-</details>
-
----
-
-### 6. 第2858期:Death of diesel
+### 5. 第2858期:Death of diesel
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -175,6 +148,33 @@ https://jt.ximalaya.com//GKwRIasNACjlABsO2QQ-NnzH.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIasNACjlABsO2QQ-NnzH.m4a?channel=rss&album_id=14812466&track_id=935781032&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1d8d-audiofreehighqps/38/89/GKwRIasNACjlABsO2QQ-NnzH.m4a
+```
+
+</details>
+
+---
+
+### 6. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6931c0c03fec3166
 
 ---
 
-### 9. No.210 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69316f4d3fec3166cf43d0ce/media.xyzcdn.net/nuSVhLWBxaJhVWZ2j6dOzXDY4sZN.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69316f4d3fec3166cf43d0ce/media.xyzcdn.net/nuSVhLWBxaJhVWZ2j6dOzXDY4sZN.mp3
-```
-
-</details>
-
----
-
-### 10. Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈
+### 9. Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈
 
 **播客名称**: 人民公园说AI
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6931678e3fec3166
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6931678e3fec3166cf4271a9/media.xyzcdn.net/FmO-yVm2IozGRlmc3NaAX1_xBB3h.m4a
+```
+
+</details>
+
+---
+
+### 10. 婧言：美术生→财务→年入百万纹眉师，教你职业转型翻身思路
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693097a64ef12f9fe9c61e7e/media.xyzcdn.net/63d945ece725b5378a158d29/lu6Gbvti53UJ7BiNpZto0Gl-ZvkN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693097a64ef12f9fe9c61e7e/media.xyzcdn.net/63d945ece725b5378a158d29/lu6Gbvti53UJ7BiNpZto0Gl-ZvkN.m4a
 ```
 
 </details>
