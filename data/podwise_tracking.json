@@ -1,9 +1,39 @@
 {
-  "generated_at": "2025-12-05T01:29:24.793037",
+  "generated_at": "2025-12-05T06:32:21.589670",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "Vol.78 和老钱聊聊风险投资这项工作---串台面基",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/693236054ef12f9fe9fd7ea1/media.xyzcdn.net/6507bc165c88d2412626b401/lunSKwNNq8JfVqp7o1j0-ljUnAf1.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "第2858期:Death of diesel",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIasNACjlABsO2QQ-NnzH.m4a?channel=rss&album_id=14812466&track_id=935781032&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1d8d-audiofreehighqps/38/89/GKwRIasNACjlABsO2QQ-NnzH.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准",
+      "podcast": "贝望录",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
       "title": "237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅",
       "podcast": "沈奕斐的播客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a",
@@ -13,17 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "S7 Vol.36 派迅智能华鑫：制造业的「菜鸟驿站」，如何重构了工厂物流？",
-      "podcast": "创业内幕 Startup Insider",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwNBwlsAWe7qARBQlVQ.m4a?channel=rss&album_id=20119986&track_id=937399355&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d77b-audiofreehighqps/96/F9/GKwRIRwNBwlsAWe7qARBQlVQ.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
+      "rank": 5,
       "title": "263 “政冷经热”六百年：大明年间的东亚观察局",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6931c0c03fec3166cf51b95d/media.xyzcdn.net/nvUZvb29ULXhEM1HjiX8neZ_CJgy.mp3",
@@ -33,7 +53,27 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "S7 Vol.36 派迅智能华鑫：制造业的「菜鸟驿站」，如何重构了工厂物流？",
+      "podcast": "创业内幕 Startup Insider",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwNBwlsAWe7qARBQlVQ.m4a?channel=rss&album_id=20119986&track_id=937399355&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d77b-audiofreehighqps/96/F9/GKwRIRwNBwlsAWe7qARBQlVQ.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "title": "No.210 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王",
+      "podcast": "三五环",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69316f4d3fec3166cf43d0ce/media.xyzcdn.net/nuSVhLWBxaJhVWZ2j6dOzXDY4sZN.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 8,
       "title": "Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6931678e3fec3166cf4271a9/media.xyzcdn.net/FmO-yVm2IozGRlmc3NaAX1_xBB3h.m4a",
@@ -43,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "婧言：美术生→财务→年入百万纹眉师，教你职业转型翻身思路",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693097a64ef12f9fe9c61e7e/media.xyzcdn.net/63d945ece725b5378a158d29/lu6Gbvti53UJ7BiNpZto0Gl-ZvkN.m4a",
@@ -53,50 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "128. 个人投资的风险管理",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep128.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12",
-      "podcast": "半拿铁 | 商业沉浮录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166cf1229ab/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltcnhcAXDBsMyUugKXLBP4Wpwahl.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "抖音 第2集 | 字节系列",
-      "podcast": "乱翻书",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/692fffb03fec3166cf0cc292/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lleq3KaMerr9PfbJ5o1bP13uRujX.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/692fb7a93fec3166cffd583c/media.xyzcdn.net/lu-w1J8Jv5Tal_sTzT-vA4IMTOMT.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "Is AI slopifying the job market? (Two Indicators)",
-      "podcast": "Planet Money",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
