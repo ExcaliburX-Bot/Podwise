@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-04 18:32  
+> 📅 **更新时间**: 2025-12-05 01:29  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.210 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王
+### 1. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
 
-**播客**: 三五环
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69316f4d3fec3166cf43d0ce/media.xyzcdn.net/nuSVhLWBxaJhVWZ2j6dOzXDY4sZN.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈
+### 2. S7 Vol.36 派迅智能华鑫：制造业的「菜鸟驿站」，如何重构了工厂物流？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNBwlsAWe7qARBQlVQ.m4a?channel=rss&album_id=20119986&track_id=937399355&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d77b-audiofreehighqps/96/F9/GKwRIRwNBwlsAWe7qARBQlVQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 263 “政冷经热”六百年：大明年间的东亚观察局
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6931c0c03fec3166cf51b95d/media.xyzcdn.net/nvUZvb29ULXhEM1HjiX8neZ_CJgy.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈
 
 **播客**: 人民公园说AI
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 婧言：美术生→财务→年入百万纹眉师，教你职业转型翻身思路
+### 5. 婧言：美术生→财务→年入百万纹眉师，教你职业转型翻身思路
 
 **播客**: 搞钱女孩
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. 第2857期:We are electric
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNACWKABkIfwQ-NJSe.m4a?channel=rss&album_id=14812466&track_id=935776826&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4d36-audiofreehighqps/6E/DA/GKwRIRwNACWKABkIfwQ-NJSe.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 128. 个人投资的风险管理
+### 6. 128. 个人投资的风险管理
 
 **播客**: 疯投圈
 
@@ -73,7 +86,20 @@
 
 ---
 
-### 6. 抖音 第2集 | 字节系列
+### 7. No.179 👥 王兴的「连环」创业史：校内、饭否与海内 | 中国互联网故事12
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69301bbe3fec3166cf1229ab/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltcnhcAXDBsMyUugKXLBP4Wpwahl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 抖音 第2集 | 字节系列
 
 **播客**: 乱翻书
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
+### 9. SP08 李录、比尔·阿克曼、琳达·拉施克：通往投资大师的路，从来不止一条
 
 **播客**: 知行小酒馆
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Is AI slopifying the job market? (Two Indicators)
+### 10. Is AI slopifying the job market? (Two Indicators)
 
 **播客**: Planet Money
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6738841889.mp3?t=podcast&e=nx-s1-5629273&p=510289&d=1136&size=18192597)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 204. 一场女性身材焦虑自救局，六层楼X吕洞宾X Bessie X小畅在狂喜播客节的女性健康话题第四轮对话
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/692e691f4ef12f9fe96f851d/media.xyzcdn.net/5e285856418a84a04627b7be/llhvjOiZpCkfOszs74wmjtO2UDUt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.311 红鱼之姻：为什么我们越亲密，就越折磨
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNAKJEAqu3yAQ-fF25.m4a?channel=rss&album_id=29887212&track_id=935893055&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/d4f8-audiofreehighqps/5A/BD/GKwRIDoNAKJEAqu3yAQ-fF25.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
