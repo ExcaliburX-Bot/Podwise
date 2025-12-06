@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-05 18:27  
+> 📅 **更新时间**: 2025-12-06 01:24  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 冬日限定歌单：陪你温暖地发呆
+### 1. 第2859期:Is your showerhead as clean as you think?
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINACtrABOuhAQ-OJUR.m4a?channel=rss&album_id=14812466&track_id=935784403&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3ab2-audiofreehighqps/C8/6A/GKwRIaINACtrABOuhAQ-OJUR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. How hurricanes became a hot investment
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 冬日限定歌单：陪你温暖地发呆
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
+### 4. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
 
 **播客**: 知行小酒馆
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 中统局往事01｜蒋家天下陈家党：陈立夫、CC系与情报王国的诞生
+### 5. 中统局往事01｜蒋家天下陈家党：陈立夫、CC系与情报王国的诞生
 
 **播客**: 忽左忽右
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. Vol.78 和老钱聊聊风险投资这项工作---串台面基
+### 6. Vol.78 和老钱聊聊风险投资这项工作---串台面基
 
 **播客**: 屠龙之术
 
@@ -60,20 +86,7 @@
 
 ---
 
-### 5. 第2858期:Death of diesel
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNACjlABsO2QQ-NnzH.m4a?channel=rss&album_id=14812466&track_id=935781032&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1d8d-audiofreehighqps/38/89/GKwRIasNACjlABsO2QQ-NnzH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
+### 7. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
 
 **播客**: 贝望录
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
+### 8. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
 
 **播客**: 沈奕斐的播客
 
@@ -99,7 +112,20 @@
 
 ---
 
-### 8. 263 “政冷经热”六百年：大明年间的东亚观察局
+### 9. S7 Vol.36 派迅智能华鑫：制造业的「菜鸟驿站」，如何重构了工厂物流？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNBwlsAWe7qARBQlVQ.m4a?channel=rss&album_id=20119986&track_id=937399355&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d77b-audiofreehighqps/96/F9/GKwRIRwNBwlsAWe7qARBQlVQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 263 “政冷经热”六百年：大明年间的东亚观察局
 
 **播客**: 东亚观察局
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6931c0c03fec3166cf51b95d/media.xyzcdn.net/nvUZvb29ULXhEM1HjiX8neZ_CJgy.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Scaling law终结｜中国“应试教育”报应在了美国模型上？解读AI大神Ilya最新访谈
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6931678e3fec3166cf4271a9/media.xyzcdn.net/FmO-yVm2IozGRlmc3NaAX1_xBB3h.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 婧言：美术生→财务→年入百万纹眉师，教你职业转型翻身思路
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693097a64ef12f9fe9c61e7e/media.xyzcdn.net/63d945ece725b5378a158d29/lu6Gbvti53UJ7BiNpZto0Gl-ZvkN.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
