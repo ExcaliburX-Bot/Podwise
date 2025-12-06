@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-06 01:24:52
+> 📅 生成时间: 2025-12-06 06:28:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2859期:Is your showerhead as clean as you think?
+### 1. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a
+```
+
+</details>
+
+---
+
+### 2. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166cf868e01/media.xyzcdn.net/6507bc165c88d2412626b401/lj4-VoK9mjE_UXpqH_fGJ5cOHFko.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166cf868e01/media.xyzcdn.net/6507bc165c88d2412626b401/lj4-VoK9mjE_UXpqH_fGJ5cOHFko.m4a
+```
+
+</details>
+
+---
+
+### 3. 第2859期:Is your showerhead as clean as you think?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIaINACtrABOuhAQ-OJUR.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. How hurricanes became a hot investment
+### 4. How hurricanes became a hot investment
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 3. 冬日限定歌单：陪你温暖地发呆
+### 5. 冬日限定歌单：陪你温暖地发呆
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +154,7 @@ https://tk.wavpub.com/WPDL_KYGsDUHpkpVYjqfGVmXVvrJERzQndLLbXhPhpTfvzxuGJVHXMveeG
 
 ---
 
-### 4. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
+### 6. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
 
 **播客名称**: 知行小酒馆
 
@@ -127,88 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9f
 
 ---
 
-### 5. 中统局往事01｜蒋家天下陈家党：陈立夫、CC系与情报王国的诞生
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
-```
-
-</details>
-
----
-
-### 6. Vol.78 和老钱聊聊风险投资这项工作---串台面基
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/693236054ef12f9fe9fd7ea1/media.xyzcdn.net/6507bc165c88d2412626b401/lunSKwNNq8JfVqp7o1j0-ljUnAf1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/693236054ef12f9fe9fd7ea1/media.xyzcdn.net/6507bc165c88d2412626b401/lunSKwNNq8JfVqp7o1j0-ljUnAf1.m4a
-```
-
-</details>
-
----
-
-### 7. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
-```
-
-</details>
-
----
-
-### 8. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
+### 7. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
 
 **播客名称**: 沈奕斐的播客
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a
+```
+
+</details>
+
+---
+
+### 8. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
 ```
 
 </details>
