@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-07 06:28:53
+> 📅 生成时间: 2025-12-07 12:37:03
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 1. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a
+```
+
+</details>
+
+---
+
+### 2. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166
 
 ---
 
-### 2. 095.我这岁数了，不求白幼瘦，但求肌肉！
+### 3. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a
+```
+
+</details>
+
+---
+
+### 4. 095.我这岁数了，不求白幼瘦，但求肌肉！
 
 **播客名称**: 喷嚏
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166
 
 ---
 
-### 3. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
+### 5. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
 
 **播客名称**: 展开讲讲
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9f
 
 ---
 
-### 4. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
+### 6. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166
 
 ---
 
-### 5. How hurricanes became a hot investment
+### 7. How hurricanes became a hot investment
 
 **播客名称**: Planet Money
 
@@ -154,7 +208,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 6. 冬日限定歌单：陪你温暖地发呆
+### 8. 冬日限定歌单：陪你温暖地发呆
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,7 +235,7 @@ https://tk.wavpub.com/WPDL_KYGsDUHpkpVYjqfGVmXVvrJERzQndLLbXhPhpTfvzxuGJVHXMveeG
 
 ---
 
-### 7. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
+### 9. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
 
 **播客名称**: 知行小酒馆
 
@@ -202,60 +256,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9fe90cbbba/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt2TeAxzJlR8omqiQmCW8rrIg8lo.m4a
-```
-
-</details>
-
----
-
-### 8. 中统局往事01｜蒋家天下陈家党：陈立夫、CC系与情报王国的诞生
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a
-```
-
-</details>
-
----
-
-### 9. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a
 ```
 
 </details>

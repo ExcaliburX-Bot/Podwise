@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-07 06:28  
+> 📅 **更新时间**: 2025-12-07 12:37  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 1. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. 095.我这岁数了，不求白幼瘦，但求肌肉！
+### 3. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 095.我这岁数了，不求白幼瘦，但求肌肉！
 
 **播客**: 喷嚏
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
+### 5. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
 
 **播客**: 展开讲讲
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
+### 6. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
 
 **播客**: 屠龙之术
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. How hurricanes became a hot investment
+### 7. How hurricanes became a hot investment
 
 **播客**: Planet Money
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 冬日限定歌单：陪你温暖地发呆
+### 8. 冬日限定歌单：陪你温暖地发呆
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
+### 9. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
 
 **播客**: 知行小酒馆
 
@@ -95,32 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9fe90cbbba/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt2TeAxzJlR8omqiQmCW8rrIg8lo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 中统局往事01｜蒋家天下陈家党：陈立夫、CC系与情报王国的诞生
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6932a5893fec3166cf6f7d1c/media.xyzcdn.net/FkjVaHYRlPY8iKEA-JGc-dlN8Ezt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 237.为什么人到中年更想折腾？50岁后如何看待KPI?｜对话闺蜜秦畅
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69315d634ef12f9fe9e49f89/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUAAUYb2YflPgq_x0StCVw4UPNi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
