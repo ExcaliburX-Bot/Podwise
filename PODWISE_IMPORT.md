@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-07 12:37:03
+> 📅 生成时间: 2025-12-07 18:26:57
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
+### 1. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-c7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-c7.m4a
+```
+
+</details>
+
+---
+
+### 2. 在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a
+```
+
+</details>
+
+---
+
+### 3. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
 
 **播客名称**: 三五环
 
@@ -46,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9f
 
 ---
 
-### 2. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 4. 第2860期:'Lost' spider found after 40 years
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINAC0lAAVNFAQ-OruW.m4a?channel=rss&album_id=14812466&track_id=935786957&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52b5-audiofreehighqps/0D/7E/GKwRIaINAC0lAAVNFAQ-OruW.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINAC0lAAVNFAQ-OruW.m4a?channel=rss&album_id=14812466&track_id=935786957&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52b5-audiofreehighqps/0D/7E/GKwRIaINAC0lAAVNFAQ-OruW.m4a
+```
+
+</details>
+
+---
+
+### 5. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166
 
 ---
 
-### 3. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
+### 6. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
 
 **播客名称**: 42章经
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166
 
 ---
 
-### 4. 095.我这岁数了，不求白幼瘦，但求肌肉！
+### 7. 095.我这岁数了，不求白幼瘦，但求肌肉！
 
 **播客名称**: 喷嚏
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166
 
 ---
 
-### 5. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
+### 8. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
 
 **播客名称**: 展开讲讲
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9f
 
 ---
 
-### 6. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
+### 9. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
 
 **播客名称**: 屠龙之术
 
@@ -181,61 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166
 
 ---
 
-### 7. How hurricanes became a hot investment
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8679367393.mp3?t=podcast&e=nx-s1-5622088&p=510289&d=1857&size=29719493
-```
-
-</details>
-
----
-
-### 8. 冬日限定歌单：陪你温暖地发呆
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_KYGsDUHpkpVYjqfGVmXVvrJERzQndLLbXhPhpTfvzxuGJVHXMveeGNSCXh-51.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_KYGsDUHpkpVYjqfGVmXVvrJERzQndLLbXhPhpTfvzxuGJVHXMveeGNSCXh-51.mp3
-```
-
-</details>
-
----
-
-### 9. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
+### 10. E215 对话欧阳应霁：生活可以没意义，但绝不能没意思
 
 **播客名称**: 知行小酒馆
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6932839b4ef12f9fe90cbbba/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt2TeAxzJlR8omqiQmCW8rrIg8lo.m4a
-```
-
-</details>
-
----
-
-### 10. 204. 英伦奇葩说丨原来飞机晚点也能“赔钱”，一次讲明白英国 / 欧盟航班赔偿标准
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693124e33fec3166cf336779/media.xyzcdn.net/5e285856418a84a04627b7be/lik21Mvg4VMvizEE6oiUCJcvCvOh.m4a
 ```
 
 </details>
