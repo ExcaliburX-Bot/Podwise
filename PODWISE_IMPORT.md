@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-08 06:35:28
+> 📅 生成时间: 2025-12-08 12:42:41
 > 📊 总计: 10 个播客
 
 ---
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9f
 
 ---
 
-### 8. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 8. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166cf969262/media.xyzcdn.net/5eae66d1418a84a046472b4d/lk5W_EDViBKnB_PW-Q9qptz7R4f-.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166cf969262/media.xyzcdn.net/5eae66d1418a84a046472b4d/lk5W_EDViBKnB_PW-Q9qptz7R4f-.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a
 ```
 
 </details>

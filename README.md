@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-08 06:35  
+> 📅 **更新时间**: 2025-12-08 12:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -99,15 +99,15 @@
 
 ---
 
-### 8. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 8. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
 
-**播客**: 基本无害 Mostly Harmless
+**播客**: 42章经
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166cf969262/media.xyzcdn.net/5eae66d1418a84a046472b4d/lk5W_EDViBKnB_PW-Q9qptz7R4f-.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
