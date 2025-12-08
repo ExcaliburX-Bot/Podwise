@@ -1,9 +1,19 @@
 {
-  "generated_at": "2025-12-08T12:42:41.595057",
+  "generated_at": "2025-12-08T18:31:45.678881",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-c7.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "第2861期:Pets at work",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIUENAYIDABupBgQ-1s6z.m4a?channel=rss&album_id=14812466&track_id=936066654&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2bae-audiofreehighqps/4E/1D/GKwRIUENAYIDABupBgQ-1s6z.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "普阿山：怀旧似返乡，而创作像是从梦里跳伞",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3",
@@ -43,20 +53,10 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "876: Bigger Than Me",
       "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -64,9 +64,9 @@
     },
     {
       "rank": 7,
-      "title": "No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫",
-      "podcast": "三五环",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a",
+      "title": "在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "095.我这岁数了，不求白幼瘦，但求肌肉！",
-      "podcast": "喷嚏",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166cf76c586/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lmOQZTyuUEa9hSOsOHAyWpj33qJT.m4a",
+      "title": "88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里",
+      "podcast": "展开讲讲",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里",
-      "podcast": "展开讲讲",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a",
+      "title": "Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166cf868e01/media.xyzcdn.net/6507bc165c88d2412626b401/lj4-VoK9mjE_UXpqH_fGJ5cOHFko.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

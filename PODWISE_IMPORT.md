@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-08 12:42:41
+> 📅 生成时间: 2025-12-08 18:31:45
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
+### 1. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
 
 **播客名称**: 无聊斋
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZM
 
 ---
 
-### 2. 第2861期:Pets at work
+### 3. 第2861期:Pets at work
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIUENAYIDABupBgQ-1s6z.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
+### 4. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
 
 **播客名称**: 人民公园说AI
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9f
 
 ---
 
-### 4. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
+### 5. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_D
 
 ---
 
-### 5. 876: Bigger Than Me
+### 6. 876: Bigger Than Me
 
 **播客名称**: This American Life
 
@@ -135,7 +162,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_D
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +174,14 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pd
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
 ```
 
 </details>
 
 ---
 
-### 6. 在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪
+### 7. 在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪
 
 **播客名称**: 十字路口Crossing
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a
-```
-
-</details>
-
----
-
-### 7. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166
 
 ---
 
-### 9. 095.我这岁数了，不求白幼瘦，但求肌肉！
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166cf76c586/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lmOQZTyuUEa9hSOsOHAyWpj33qJT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166cf76c586/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lmOQZTyuUEa9hSOsOHAyWpj33qJT.m4a
-```
-
-</details>
-
----
-
-### 10. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
+### 9. 88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里
 
 **播客名称**: 展开讲讲
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.79 腾讯 AI「松弛感」背后：高筑墙、广积粮、缓称王---串台三五环
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166cf868e01/media.xyzcdn.net/6507bc165c88d2412626b401/lj4-VoK9mjE_UXpqH_fGJ5cOHFko.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69339ade3fec3166cf868e01/media.xyzcdn.net/6507bc165c88d2412626b401/lj4-VoK9mjE_UXpqH_fGJ5cOHFko.m4a
 ```
 
 </details>
