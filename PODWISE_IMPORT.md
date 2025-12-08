@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-07 18:26:57
+> 📅 生成时间: 2025-12-08 01:29:46
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZM
 
 ---
 
-### 2. 在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪
+### 2. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9f
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a
 ```
 
 </details>
 
 ---
 
-### 3. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
+### 3. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3
+```
+
+</details>
+
+---
+
+### 4. 876: Bigger Than Me
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp3/chrt.fm/track/138C95/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3
+```
+
+</details>
+
+---
+
+### 5. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
 
 **播客名称**: 三五环
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9f
 
 ---
 
-### 4. 第2860期:'Lost' spider found after 40 years
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINAC0lAAVNFAQ-OruW.m4a?channel=rss&album_id=14812466&track_id=935786957&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52b5-audiofreehighqps/0D/7E/GKwRIaINAC0lAAVNFAQ-OruW.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINAC0lAAVNFAQ-OruW.m4a?channel=rss&album_id=14812466&track_id=935786957&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52b5-audiofreehighqps/0D/7E/GKwRIaINAC0lAAVNFAQ-OruW.m4a
-```
-
-</details>
-
----
-
-### 5. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
+### 6. Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166
 
 ---
 
-### 6. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
+### 7. Dify 从被低估到成为明星项目，到底做对了什么｜对谈 Dify 创始人路宇
 
 **播客名称**: 42章经
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/693285733fec3166cf688645/media.xyzcdn.net/648b0b641c48983391a63f98/loBSm2rmmxY7GiScNiiDo37PsTjJ.m4a
-```
-
-</details>
-
----
-
-### 7. 095.我这岁数了，不求白幼瘦，但求肌肉！
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166cf76c586/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lmOQZTyuUEa9hSOsOHAyWpj33qJT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6932d65b3fec3166cf76c586/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lmOQZTyuUEa9hSOsOHAyWpj33qJT.m4a
 ```
 
 </details>
