@@ -1,9 +1,29 @@
 {
-  "generated_at": "2025-12-09T12:43:40.109626",
+  "generated_at": "2025-12-09T18:28:01.037242",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "122. 朱啸虎现实主义故事的第三次连载：人工智能的盛筵与泡泡",
+      "podcast": "张小珺Jùn｜商业访谈录",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693834013fec3166cf262bd0/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lt8N4mGIZOL0FRxV0kUOVoqOnFu5.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6937ec0f3fec3166cf17cf15/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj44W6woxs0ecgIWhqvr8BPfXnCi.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3",
       "podcast": "二维吾码",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a",
@@ -13,17 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "第2862期:Ransomware",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIMANAYWsABv5EgQ-2SU4.m4a?channel=rss&album_id=14812466&track_id=936070453&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d95-audiofreehighqps/7A/31/GKwRIMANAYWsABv5EgQ-2SU4.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "魔都“负豪”自曝：亏掉一个亿后才明白，赚钱不是对努力的回报",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693705c83fec3166cff86b5d/media.xyzcdn.net/63d945ece725b5378a158d29/lhWFY_F18otHxagwveG84nUg5sws.m4a",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a",
@@ -43,7 +53,17 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "vol.227旧物旧梦旧时光，新歌新梗心滚烫",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 7,
       "title": "戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85",
       "podcast": "脑放电波",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a",
@@ -53,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-8e.mp3",
@@ -63,30 +83,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "普阿山：怀旧似返乡，而创作像是从梦里跳伞",
-      "podcast": "周末变奏 Key Change",
-      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "876: Bigger Than Me",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
