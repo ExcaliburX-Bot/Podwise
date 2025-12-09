@@ -1,9 +1,19 @@
 {
-  "generated_at": "2025-12-09T01:29:11.033903",
+  "generated_at": "2025-12-09T06:33:26.366774",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3",
+      "podcast": "二维吾码",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "第2862期:Ransomware",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIMANAYWsABv5EgQ-2SU4.m4a?channel=rss&album_id=14812466&track_id=936070453&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d95-audiofreehighqps/7A/31/GKwRIMANAYWsABv5EgQ-2SU4.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "魔都“负豪”自曝：亏掉一个亿后才明白，赚钱不是对努力的回报",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693705c83fec3166cff86b5d/media.xyzcdn.net/63d945ece725b5378a158d29/lhWFY_F18otHxagwveG84nUg5sws.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a",
@@ -33,7 +43,17 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "vol.227旧物旧梦旧时光，新歌新梗心滚烫",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85",
       "podcast": "脑放电波",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a",
@@ -43,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-8e.mp3",
@@ -53,7 +73,17 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读",
+      "podcast": "人民公园说AI",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "普阿山：怀旧似返乡，而创作像是从梦里跳伞",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3",
@@ -63,40 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
-      "title": "876: Bigger Than Me",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "title": "在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫",
-      "podcast": "三五环",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "Ep181 无聊是我至今为止人生的最大困境 ft.孙书恒&小罗",
-      "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693419ee3fec3166cf969262/media.xyzcdn.net/5eae66d1418a84a046472b4d/lk5W_EDViBKnB_PW-Q9qptz7R4f-.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
