@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-09T06:33:26.366774",
+  "generated_at": "2025-12-09T12:43:40.109626",
   "total_count": 10,
   "episodes": [
     {
@@ -44,16 +44,6 @@
     },
     {
       "rank": 5,
-      "title": "vol.227旧物旧梦旧时光，新歌新梗心滚烫",
-      "podcast": "正经叭叭",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
       "title": "戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85",
       "podcast": "脑放电波",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a",
@@ -63,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-8e.mp3",
@@ -73,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a",
@@ -83,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "普阿山：怀旧似返乡，而创作像是从梦里跳伞",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3",
@@ -93,10 +83,20 @@
       "notes": ""
     },
     {
+      "rank": 9,
+      "title": "876: Bigger Than Me",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 10,
-      "title": "在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a",
+      "title": "No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫",
+      "podcast": "三五环",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

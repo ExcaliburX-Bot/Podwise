@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-09 06:33  
+> 📅 **更新时间**: 2025-12-09 12:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. vol.227旧物旧梦旧时光，新歌新梗心滚烫
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
+### 5. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
 
 **播客**: 脑放电波
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
+### 6. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
 
 **播客**: 无聊斋
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
+### 7. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
 
 **播客**: 人民公园说AI
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
+### 8. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
 
 **播客**: 周末变奏 Key Change
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 在「缓慢、昂贵且分散」的市场，AI 的机会最性感 | 对谈 Mizzen AI 孙克强&李一豪
+### 9. 876: Bigger Than Me
 
-**播客**: 十字路口Crossing
+**播客**: This American Life
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69358bf44ef12f9fe9638add/media.xyzcdn.net/60502e253c92d4f62c2a9577/lnOEdnUly4dbwS2_KfIXD8bQZrC2.m4a)
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3654508416.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.211 串台妙妙屋 | 33 号远征队与绝望中的法式浪漫
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69355ab94ef12f9fe95b85d5/media.xyzcdn.net/5e280fab418a84a0461faa3c/lomQnQNquQ2u3vu-hFFG_epS2yfl.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
