@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-10 06:33  
+> 📅 **更新时间**: 2025-12-10 12:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 206. 中国品牌出海，一半是机会，一半是坑
+### 1. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Strange threadfellows: How the U.S. military shaped what we all wear
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 206. 中国品牌出海，一半是机会，一半是坑
 
 **播客**: 贝望录
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 第2863期:The rise of machine 2
+### 4. 第2863期:The rise of machine 2
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +60,20 @@
 
 ---
 
-### 3. 448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事
+### 5. 251.从Substack到《纽约客》：美国媒体的原子化与百年长青
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6937f4694ef12f9fe9be4212/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lor-5FXuBc_rtVpM8uL9YgEOSi66.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事
 
 **播客**: 忽左忽右
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
+### 7. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
 
 **播客**: 二维吾码
 
@@ -60,20 +99,20 @@
 
 ---
 
-### 5. 魔都“负豪”自曝：亏掉一个亿后才明白，赚钱不是对努力的回报
+### 8. Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同
 
-**播客**: 搞钱女孩
+**播客**: 文化有限
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693705c83fec3166cff86b5d/media.xyzcdn.net/63d945ece725b5378a158d29/lhWFY_F18otHxagwveG84nUg5sws.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. vol.227旧物旧梦旧时光，新歌新梗心滚烫
+### 9. vol.227旧物旧梦旧时光，新歌新梗心滚烫
 
 **播客**: 正经叭叭
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
+### 10. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
 
 **播客**: 脑放电波
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.555 喜夜群英会｜摇汞青年：白月光变“魔童”、平凡不认命、接受不完整
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_psLNHMbpaGXVKcwDNRrsmMxWLJkTUnbseGsKKPCeuRTZGJrgnqHZMxPxad-8e.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 卷起来了！行业垂直模型时代到来？｜亚马逊云科技re:Invent 2025解读
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/693587764ef12f9fe962af92/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrnMKCI9WUoSaIS7snnCGUd9G3dL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 普阿山：怀旧似返乡，而创作像是从梦里跳伞
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ2OSwidCI6MX0.MXJancUZBxONZ0Rn3oUbM_DlSFc/keychangefm/8234960918_548996.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
