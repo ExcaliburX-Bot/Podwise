@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-10 12:43:31
+> 📅 生成时间: 2025-12-10 18:30:37
 > 📊 总计: 10 个播客
 
 ---
@@ -127,7 +127,34 @@ https://jt.ximalaya.com//GKwRIDoNAY1vABgO3AQ-3fq2.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 251.从Substack到《纽约客》：美国媒体的原子化与百年长青
+### 5. 122. 朱啸虎现实主义故事的第三次连载：人工智能的盛筵与泡泡
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693834013fec3166cf262bd0/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lt8N4mGIZOL0FRxV0kUOVoqOnFu5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693834013fec3166cf262bd0/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lt8N4mGIZOL0FRxV0kUOVoqOnFu5.m4a
+```
+
+</details>
+
+---
+
+### 6. 251.从Substack到《纽约客》：美国媒体的原子化与百年长青
 
 **播客名称**: 乱翻书
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6937f4694ef12f9f
 
 ---
 
-### 6. 448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事
+### 7. 448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6937ec0f3fec3166
 
 ---
 
-### 7. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
+### 8. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
 
 **播客名称**: 二维吾码
 
@@ -208,7 +235,34 @@ https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299
 
 ---
 
-### 8. Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同
+### 9. 魔都“负豪”自曝：亏掉一个亿后才明白，赚钱不是对努力的回报
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693705c83fec3166cff86b5d/media.xyzcdn.net/63d945ece725b5378a158d29/lhWFY_F18otHxagwveG84nUg5sws.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/693705c83fec3166cff86b5d/media.xyzcdn.net/63d945ece725b5378a158d29/lhWFY_F18otHxagwveG84nUg5sws.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同
 
 **播客名称**: 文化有限
 
@@ -229,60 +283,6 @@ https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a
-```
-
-</details>
-
----
-
-### 9. vol.227旧物旧梦旧时光，新歌新梗心滚烫
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a
-```
-
-</details>
-
----
-
-### 10. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
 ```
 
 </details>
