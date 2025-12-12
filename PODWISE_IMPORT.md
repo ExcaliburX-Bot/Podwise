@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-12 12:43:02
+> 📅 生成时间: 2025-12-12 18:32:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
+### 1. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
-**播客名称**: 知行小酒馆
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/693b957037f52a644e841ee6/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llXiib1b3CxFeEV0qcbbm5ktz7G5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a644e92ac5e/media.xyzcdn.net/FunEW3OQuRE1qObc_494vCCkOk9I.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/693b957037f52a64
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/693b957037f52a644e841ee6/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llXiib1b3CxFeEV0qcbbm5ktz7G5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a644e92ac5e/media.xyzcdn.net/FunEW3OQuRE1qObc_494vCCkOk9I.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://jt.ximalaya.com//GKwRIaINBe99ACSOpwRA1TZf.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. 252. AI眼镜替代手机？至少10年起步，可能更久
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
-```
-
-</details>
-
----
-
-### 7. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+### 6. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
 
 **播客名称**: 东亚观察局
 
@@ -208,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da1
 
 ---
 
-### 8. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
+### 7. 🎄圣诞 Mixtape：希望快乐不止这一天
 
-**播客名称**: 搞钱女孩
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6939b9222a383da1676fe798/media.xyzcdn.net/63d945ece725b5378a158d29/lk-5gwRDfFYVc2TdzPHrR2k5cxLO.m4a
+https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6939b9222a383da1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6939b9222a383da1676fe798/media.xyzcdn.net/63d945ece725b5378a158d29/lk-5gwRDfFYVc2TdzPHrR2k5cxLO.m4a
+https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
 ```
 
 </details>
 
 ---
 
-### 9. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
+### 8. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6938bf454ef12f9f
 
 ---
 
-### 10. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+### 9. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cc
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
+```
+
+</details>
+
+---
+
+### 10. Strange threadfellows: How the U.S. military shaped what we all wear
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316
 ```
 
 </details>
