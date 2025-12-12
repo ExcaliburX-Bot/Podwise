@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-11 18:30:15
+> 📅 生成时间: 2025-12-12 01:40:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 🎄圣诞 Mixtape：希望快乐不止这一天
+### 1. 第2865期:Airbnb
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINBe99ACSOpwRA1TZf.m4a?channel=rss&album_id=14812466&track_id=937160603&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/680a-audiofreehighqps/48/E5/GKwRIaINBe99ACSOpwRA1TZf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINBe99ACSOpwRA1TZf.m4a?channel=rss&album_id=14812466&track_id=937160603&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/680a-audiofreehighqps/48/E5/GKwRIaINBe99ACSOpwRA1TZf.m4a
+```
+
+</details>
+
+---
+
+### 2. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a644e659cfd/media.xyzcdn.net/FlROLmr8obbTeRfD1pqscVnA4JI-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a644e659cfd/media.xyzcdn.net/FlROLmr8obbTeRfD1pqscVnA4JI-.m4a
+```
+
+</details>
+
+---
+
+### 3. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
+```
+
+</details>
+
+---
+
+### 4. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
+```
+
+</details>
+
+---
+
+### 5. 🎄圣诞 Mixtape：希望快乐不止这一天
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,34 +154,7 @@ https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVR
 
 ---
 
-### 2. 第2864期:Career
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINBevFABuC2wRA0qHz.m4a?channel=rss&album_id=14812466&track_id=937155725&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/884e-audiofreehighqps/22/6A/GKwRIJINBevFABuC2wRA0qHz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINBevFABuC2wRA0qHz.m4a?channel=rss&album_id=14812466&track_id=937155725&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/884e-audiofreehighqps/22/6A/GKwRIJINBevFABuC2wRA0qHz.m4a
-```
-
-</details>
-
----
-
-### 3. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
+### 6. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6939b9222a383da1
 
 ---
 
-### 4. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
+### 7. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -127,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6938bf454ef12f9f
 
 ---
 
-### 5. 206. 中国品牌出海，一半是机会，一半是坑
+### 8. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
 
-**播客名称**: 贝望录
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693832ff3fec3166cf25f345/media.xyzcdn.net/5e285856418a84a04627b7be/luNEYCbSfeavXBM_iwiI4Boxr2D1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,22 +228,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693832ff3fec3166
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693832ff3fec3166cf25f345/media.xyzcdn.net/5e285856418a84a04627b7be/luNEYCbSfeavXBM_iwiI4Boxr2D1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 251.从Substack到《纽约客》：美国媒体的原子化与百年长青
+### 9. 448 「扇耳光比赛」之外的通背拳：抗战时代的北平武林与国术往事
 
-**播客名称**: 乱翻书
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6937f4694ef12f9fe9be4212/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lor-5FXuBc_rtVpM8uL9YgEOSi66.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6937ec0f3fec3166cf17cf15/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj44W6woxs0ecgIWhqvr8BPfXnCi.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,68 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6937f4694ef12f9f
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6937f4694ef12f9fe9be4212/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lor-5FXuBc_rtVpM8uL9YgEOSi66.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6937ec0f3fec3166cf17cf15/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj44W6woxs0ecgIWhqvr8BPfXnCi.m4a
 ```
 
 </details>
 
 ---
 
-### 7. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
-
-**播客名称**: 二维吾码
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.312 安娜·卡列尼娜：幸福的家庭家家相似，不幸的家庭各各不同
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIasNDH4QAv5OTgRDdF3J.m4a?channel=rss&album_id=29887212&track_id=938508856&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f6ac-audiofreehighqps/51/5F/GKwRIasNDH4QAv5OTgRDdF3J.m4a
-```
-
-</details>
-
----
-
-### 9. vol.227旧物旧梦旧时光，新歌新梗心滚烫
+### 10. vol.227旧物旧梦旧时光，新歌新梗心滚烫
 
 **播客名称**: 正经叭叭
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a
-```
-
-</details>
-
----
-
-### 10. 戴血糖仪喝可乐：我们为什么迷恋健康数据？聊当代“生物骇客”-Vol85
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6933dfd13fec3166cf8efb13/media.xyzcdn.net/636669d51064cb55f31505fc/luFOu_IUJgopD4P3IU7bWZkCWt2G.m4a
 ```
 
 </details>
