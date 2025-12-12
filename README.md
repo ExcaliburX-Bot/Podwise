@@ -1,40 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-12 01:40  
+> 📅 **更新时间**: 2025-12-12 06:33  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2865期:Airbnb
+### 1. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINBe99ACSOpwRA1TZf.m4a?channel=rss&album_id=14812466&track_id=937160603&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/680a-audiofreehighqps/48/E5/GKwRIaINBe99ACSOpwRA1TZf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
-
-**播客**: 贝望录
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a644e659cfd/media.xyzcdn.net/FlROLmr8obbTeRfD1pqscVnA4JI-.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872efe5-4fa0-47b1-aeb9-07bfa173ea52.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
+### 2. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
 
 **播客**: 创业内幕 Startup Insider
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+### 3. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
 
 **播客**: 东亚观察局
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 🎄圣诞 Mixtape：希望快乐不止这一天
+### 4. 🎄圣诞 Mixtape：希望快乐不止这一天
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
+### 5. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
 
 **播客**: 搞钱女孩
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
+### 6. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+### 7. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Strange threadfellows: How the U.S. military shaped what we all wear
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1957767868.mp3?t=podcast&e=nx-s1-5639211&p=510289&d=2170&size=34728316)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. vol.227旧物旧梦旧时光，新歌新梗心滚烫
+### 10. AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3
 
-**播客**: 正经叭叭
+**播客**: 二维吾码
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6936de3c3fec3166cff21ba9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqcuIvM8ftHvUhTBVRnwlj0Atrgo.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
