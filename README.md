@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-13 01:26  
+> 📅 **更新时间**: 2025-12-13 06:30  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 129. 体验化增长：Peet's、亚朵、源氏木语
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep129.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2866期:The Antidote
+### 1. 第2866期:The Antidote
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -30,6 +17,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENBfyvABK_FQRA3qPY.m4a?channel=rss&album_id=14812466&track_id=937181672&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/224d-audiofreehighqps/47/5E/GKwRIUENBfyvABK_FQRA3qPY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 129. 体验化增长：Peet's、亚朵、源氏木语
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep129.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,33 +99,7 @@
 
 ---
 
-### 8. 252. AI眼镜替代手机？至少10年起步，可能更久
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 🎄圣诞 Mixtape：希望快乐不止这一天
+### 8. 🎄圣诞 Mixtape：希望快乐不止这一天
 
 **播客**: Vibration 歪波音室
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6938bf454ef12f9fe9d4a210/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhqMgcWsISM6qFHglVjyi3CCbrlP.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

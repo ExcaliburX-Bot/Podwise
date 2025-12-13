@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-13 01:26:41
+> 📅 生成时间: 2025-12-13 06:30:17
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 129. 体验化增长：Peet's、亚朵、源氏木语
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep129.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep129.mp3
-```
-
-</details>
-
----
-
-### 2. 第2866期:The Antidote
+### 1. 第2866期:The Antidote
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -67,6 +40,33 @@ https://jt.ximalaya.com//GKwRIUENBfyvABK_FQRA3qPY.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUENBfyvABK_FQRA3qPY.m4a?channel=rss&album_id=14812466&track_id=937181672&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/224d-audiofreehighqps/47/5E/GKwRIUENBfyvABK_FQRA3qPY.m4a
+```
+
+</details>
+
+---
+
+### 2. 129. 体验化增长：Peet's、亚朵、源氏木语
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
 ```
 
 </details>
@@ -208,61 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872
 
 ---
 
-### 8. 252. AI眼镜替代手机？至少10年起步，可能更久
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
-```
-
-</details>
-
----
-
-### 9. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
-```
-
-</details>
-
----
-
-### 10. 🎄圣诞 Mixtape：希望快乐不止这一天
+### 8. 🎄圣诞 Mixtape：希望快乐不止这一天
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +229,60 @@ https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVR
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
+```
+
+</details>
+
+---
+
+### 9. 挑战微信，必死无疑？一个25岁AI创始人的野心 | 对话陈春宇： Intent 创始人/CEO
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6938bf454ef12f9fe9d4a210/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhqMgcWsISM6qFHglVjyi3CCbrlP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6938bf454ef12f9fe9d4a210/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhqMgcWsISM6qFHglVjyi3CCbrlP.m4a
+```
+
+</details>
+
+---
+
+### 10. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
 ```
 
 </details>
