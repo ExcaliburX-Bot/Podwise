@@ -1,40 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-13 06:30  
+> 📅 **更新时间**: 2025-12-13 12:38  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2866期:The Antidote
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENBfyvABK_FQRA3qPY.m4a?channel=rss&album_id=14812466&track_id=937181672&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/224d-audiofreehighqps/47/5E/GKwRIUENBfyvABK_FQRA3qPY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 129. 体验化增长：Peet's、亚朵、源氏木语
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep129.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. When Chicago pawned its parking meters
+### 1. When Chicago pawned its parking meters
 
 **播客**: Planet Money
 
@@ -47,7 +21,7 @@
 
 ---
 
-### 4. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
+### 2. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -60,20 +34,7 @@
 
 ---
 
-### 5. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a644e92ac5e/media.xyzcdn.net/FunEW3OQuRE1qObc_494vCCkOk9I.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 123. 对ONE2X创始人王冠3小时访谈：生成系统、没有中间商赚差价、平台的权力分配
+### 3. 123. 对ONE2X创始人王冠3小时访谈：生成系统、没有中间商赚差价、平台的权力分配
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -86,7 +47,7 @@
 
 ---
 
-### 7. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+### 4. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
 **播客**: 晚点聊 LateTalk
 
@@ -95,6 +56,45 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872efe5-4fa0-47b1-aeb9-07bfa173ea52.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a644e659cfd/media.xyzcdn.net/FlROLmr8obbTeRfD1pqscVnA4JI-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 252. AI眼镜替代手机？至少10年起步，可能更久
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
