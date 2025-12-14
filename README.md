@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-14 01:46  
+> 📅 **更新时间**: 2025-12-14 06:30  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/693b957037f52a644e841ee6/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llXiib1b3CxFeEV0qcbbm5ktz7G5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
+### 6. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
 **播客**: 忽左忽右
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+### 7. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+### 8. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
 
 **播客**: 贝望录
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 252. AI眼镜替代手机？至少10年起步，可能更久
+### 9. 🎄圣诞 Mixtape：希望快乐不止这一天
 
-**播客**: 乱翻书
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
