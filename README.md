@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-13 18:27  
+> 📅 **更新时间**: 2025-12-14 01:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 129. 体验化增长：Peet's、亚朵、源氏木语
+### 1. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da167c0b3b6/media.xyzcdn.net/ngMLMlBjlg1paYznes9GQ6808j0o.MP3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2867期:Hacked off
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENCIfRABl2nwRB4OGV.m4a?channel=rss&album_id=14812466&track_id=937719410&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9962-audiofreehighqps/09/96/GKwRIJENCIfRABl2nwRB4OGV.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da167ecfcde/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk_UTklYIZcaJcEa0AJvX95W15mZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 129. 体验化增长：Peet's、亚朵、源氏木语
 
 **播客**: 疯投圈
 
@@ -21,7 +60,20 @@
 
 ---
 
-### 2. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
+### 5. When Chicago pawned its parking meters
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -34,7 +86,7 @@
 
 ---
 
-### 3. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
+### 7. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
 **播客**: 忽左忽右
 
@@ -47,7 +99,7 @@
 
 ---
 
-### 4. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+### 8. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +112,7 @@
 
 ---
 
-### 5. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+### 9. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
 
 **播客**: 贝望录
 
@@ -73,7 +125,7 @@
 
 ---
 
-### 6. 252. AI眼镜替代手机？至少10年起步，可能更久
+### 10. 252. AI眼镜替代手机？至少10年起步，可能更久
 
 **播客**: 乱翻书
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 🎄圣诞 Mixtape：希望快乐不止这一天
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 宏宏：从降薪50%的金融女到全网25W粉的博主，如何用跑步找回搞钱主体性
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6939b9222a383da1676fe798/media.xyzcdn.net/63d945ece725b5378a158d29/lk-5gwRDfFYVc2TdzPHrR2k5cxLO.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
