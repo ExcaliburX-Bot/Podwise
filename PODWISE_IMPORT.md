@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-14 12:38:48
+> 📅 生成时间: 2025-12-14 18:28:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 与 Koji 的 2026 开年对谈：The Year of R
+### 1. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
 
-**播客名称**: 此话当真
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
+https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a64
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
+https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第2867期:Hacked off
+### 2. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da167c0b3b6/media.xyzcdn.net/ngMLMlBjlg1paYznes9GQ6808j0o.MP3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da167c0b3b6/media.xyzcdn.net/ngMLMlBjlg1paYznes9GQ6808j0o.MP3
+```
+
+</details>
+
+---
+
+### 3. 第2867期:Hacked off
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJENCIfRABl2nwRB4OGV.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
+### 4. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -100,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da1
 
 ---
 
-### 4. When Chicago pawned its parking meters
+### 5. 129. 体验化增长：Peet's、亚朵、源氏木语
 
-**播客名称**: Planet Money
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,14 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 音频链接（点击复制）:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8939912017.mp3?t=podcast&e=nx-s1-5642708&p=510289&d=1856&size=29699013
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
 ```
 
 </details>
 
 ---
 
-### 5. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
+### 6. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a64
 
 ---
 
-### 6. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+### 7. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872
 
 ---
 
-### 7. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+### 8. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
 
 **播客名称**: 贝望录
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a64
 
 ---
 
-### 8. 252. AI眼镜替代手机？至少10年起步，可能更久
+### 9. 252. AI眼镜替代手机？至少10年起步，可能更久
 
 **播客名称**: 乱翻书
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a64
 
 ---
 
-### 9. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+### 10. S7 Vol.37 VITURE 姜公略：一位「XR老炮」眼中的人机交互未来
 
-**播客名称**: 东亚观察局
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
+https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
-```
-
-</details>
-
----
-
-### 10. 🎄圣诞 Mixtape：希望快乐不止这一天
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
+https://jt.ximalaya.com//GKwRIJENDyFJAb_3HgREkrV9.m4a?channel=rss&album_id=20119986&track_id=939094289&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/67ef-audiofreehighqps/78/BC/GKwRIJENDyFJAb_3HgREkrV9.m4a
 ```
 
 </details>
