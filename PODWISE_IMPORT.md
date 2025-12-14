@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-14 06:30:07
+> 📅 生成时间: 2025-12-14 12:38:48
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+### 1. 与 Koji 的 2026 开年对谈：The Year of R
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 此话当真
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da167c0b3b6/media.xyzcdn.net/ngMLMlBjlg1paYznes9GQ6808j0o.MP3
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da167c0b3b6/media.xyzcdn.net/ngMLMlBjlg1paYznes9GQ6808j0o.MP3
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da1
 
 ---
 
-### 4. 129. 体验化增长：Peet's、亚朵、源氏木语
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep129.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep129.mp3
-```
-
-</details>
-
----
-
-### 5. When Chicago pawned its parking meters
+### 4. When Chicago pawned its parking meters
 
 **播客名称**: Planet Money
 
@@ -154,7 +127,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 6. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
+### 5. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a64
 
 ---
 
-### 7. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+### 6. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -208,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872
 
 ---
 
-### 8. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+### 7. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
 
 **播客名称**: 贝望录
 
@@ -235,7 +208,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a64
 
 ---
 
-### 9. 🎄圣诞 Mixtape：希望快乐不止这一天
+### 8. 252. AI眼镜替代手机？至少10年起步，可能更久
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/693aef2137f52a644e74704d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqdUpeIwBgxjoCPnjeO7SFhblEKZ.m4a
+```
+
+</details>
+
+---
+
+### 9. 264 面对《鬼灭之刃》的火爆 姆们80后主播只想说：列列列！
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/693b30822a383da167a222f6/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltVUa2C5pAxT0-a_LqHvcxyt7yWw.m4a
+```
+
+</details>
+
+---
+
+### 10. 🎄圣诞 Mixtape：希望快乐不止这一天
 
 **播客名称**: Vibration 歪波音室
 
@@ -256,33 +283,6 @@ https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVR
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_WEkRufATWXMLhyYDGtjQHWVTKtaYnZZyWhdZXjXSrfacGCuWChdVRGtBgL-d3.mp3
-```
-
-</details>
-
----
-
-### 10. No.180 🛩️ 从廉航到无人机：一部关于梦想、技术与自由的空中进化史
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69392809281939cce659449c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsT8lCZ79H1Q_d-oVgscJRxneURc.m4a
 ```
 
 </details>
