@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-15 01:43  
+> 📅 **更新时间**: 2025-12-15 06:35  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 255: Our Holiday Gift-Giving Guide
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 与 Koji 的 2026 开年对谈：The Year of R
+### 3. 与 Koji 的 2026 开年对谈：The Year of R
 
 **播客**: 此话当真
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+### 4. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
+### 5. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. 129. 体验化增长：Peet's、亚朵、源氏木语
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep129.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. When Chicago pawned its parking meters
+### 6. When Chicago pawned its parking meters
 
 **播客**: Planet Money
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
+### 7. E216 2025 年，我花得最幸福的一笔钱 | 小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
+### 8. 中统局往事02｜1931年国共情报战：徐恩曾、顾顺章与上海生死斗
 
 **播客**: 忽左忽右
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/693bdb8b37f52a644e92ac5e/media.xyzcdn.net/FunEW3OQuRE1qObc_494vCCkOk9I.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 144: 从「大而强」到「小而强」，密度法则、RL 的 Scaling Law 和智能的分布式未来
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d872efe5-4fa0-47b1-aeb9-07bfa173ea52.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 21. 找出路丨从广告导演到雪山领队，一个95后“超级个体”的野生人生
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693aa1d837f52a644e659cfd/media.xyzcdn.net/FlROLmr8obbTeRfD1pqscVnA4JI-.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
