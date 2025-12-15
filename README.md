@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-15 06:35  
+> 📅 **更新时间**: 2025-12-15 12:45  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2868期:Hashtag
+### 1. 第2868期:Hashtag
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,20 +21,20 @@
 
 ---
 
-### 3. 与 Koji 的 2026 开年对谈：The Year of R
+### 2. 255: Our Holiday Gift-Giving Guide
 
-**播客**: 此话当真
+**播客**: This American Life
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a)
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+### 3. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
 
 **播客**: 十字路口Crossing
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
+### 4. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -69,6 +56,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da167ecfcde/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk_UTklYIZcaJcEa0AJvX95W15mZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 129. 体验化增长：Peet's、亚朵、源氏木语
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep129.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

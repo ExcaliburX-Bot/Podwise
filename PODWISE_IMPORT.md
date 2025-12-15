@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-15 06:35:49
+> 📅 生成时间: 2025-12-15 12:45:52
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a
-```
-
-</details>
-
----
-
-### 2. 第2868期:Hashtag
+### 1. 第2868期:Hashtag
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,15 +46,15 @@ https://jt.ximalaya.com//GKwRIasNCIjbABq1RgRB4ZQS.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 与 Koji 的 2026 开年对谈：The Year of R
+### 2. 255: Our Holiday Gift-Giving Guide
 
-**播客名称**: 此话当真
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +66,14 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a64
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693e1c1a37f52a644ecc4a66/media.xyzcdn.net/646f194853a5e5ea1408d97c/ltQ_4yjEWIO6PLxNWsVZ2AmOfmxP.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3
 ```
 
 </details>
 
 ---
 
-### 4. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
+### 3. 2026 开年AI对谈：the year of R | 对谈真格基金戴雨森
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/693becad2a383da1
 
 ---
 
-### 5. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
+### 4. 124. 年终回顾【站在2025年之外】和戴雨森聊2026年预期、The Year of R、回调、我们如何下注
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -148,6 +121,33 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da1
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/693d7c172a383da167ecfcde/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk_UTklYIZcaJcEa0AJvX95W15mZ.m4a
+```
+
+</details>
+
+---
+
+### 5. 129. 体验化增长：Peet's、亚朵、源氏木语
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep129.mp3
 ```
 
 </details>
