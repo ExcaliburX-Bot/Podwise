@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-16 12:44:08
+> 📅 生成时间: 2025-12-16 18:32:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1675e42f7/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvM2gQfF17jNTyXyT7ZCKOxTNaS9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1675e42f7/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvM2gQfF17jNTyXyT7ZCKOxTNaS9.m4a
-```
-
-</details>
-
----
-
-### 2. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
+### 1. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
 
 **播客名称**: 忽左忽右
 
@@ -67,6 +40,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69412a834c65abaf
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69412a834c65abaff345a953/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTsSOXG5fULuDtb0kHmk1xcgBd7.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2869期:The line
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINCIl1ABlyOARB4gmO.m4a?channel=rss&album_id=14812466&track_id=937720632&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f15b-audiofreehighqps/4F/50/GKwRIJINCIl1ABlyOARB4gmO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINCIl1ABlyOARB4gmO.m4a?channel=rss&album_id=14812466&track_id=937720632&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f15b-audiofreehighqps/4F/50/GKwRIJINCIl1ABlyOARB4gmO.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6940097937f52a64
 
 ---
 
-### 8. Vol.80 我去大内密谈和相爷聊了聊AI
+### 8. 对话真格合伙人刘元：和 Manus 的一周，和肖弘的十年
+
+**播客名称**: 此话当真
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693ff2b337f52a644e12516b/media.xyzcdn.net/646f194853a5e5ea1408d97c/lvUAC7-7dNyMfgljRZX8d3ucHFp8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693ff2b337f52a644e12516b/media.xyzcdn.net/646f194853a5e5ea1408d97c/lvUAC7-7dNyMfgljRZX8d3ucHFp8.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.80 我去大内密谈和相爷聊了聊AI
 
 **播客名称**: 屠龙之术
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69400a5f2a383da1
 
 ---
 
-### 9. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
+### 10. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
 
 **播客名称**: 无聊斋
 
@@ -256,33 +283,6 @@ https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKT
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a
-```
-
-</details>
-
----
-
-### 10. 255: Our Holiday Gift-Giving Guide
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR2389843838.mp3
 ```
 
 </details>
