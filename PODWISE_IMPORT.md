@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-17 12:44:11
+> 📅 生成时间: 2025-12-17 18:32:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.181 🦘 王兴的无限游戏：美团团购、外卖、酒旅及其它 | 中国互联网故事13
+### 1. PM does a pop culture draft: 1999 edition
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226
+```
+
+</details>
+
+---
+
+### 2. 145: 对话极壳孙宽：首个「消费级外骨骼」的诞生
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e6ebd-a621-4c0b-ae25-a0f68a64664c.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e6ebd-a621-4c0b-ae25-a0f68a64664c.mp3
+```
+
+</details>
+
+---
+
+### 3. 一年投资50家AI公司；当我们都不知道答案时，我是怎么想的？| 对话杨洁：锦秋基金创始合伙人
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694217cd5e8cb26fdf3e1c05/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltcqRVnw9rCWDZ03VTOUf6A2z9np.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694217cd5e8cb26fdf3e1c05/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltcqRVnw9rCWDZ03VTOUf6A2z9np.m4a
+```
+
+</details>
+
+---
+
+### 4. No.181 🦘 王兴的无限游戏：美团团购、外卖、酒旅及其它 | 中国互联网故事13
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694254cbcefa18ad
 
 ---
 
-### 2. 姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》
+### 5. 姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,34 +154,7 @@ https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYs
 
 ---
 
-### 3. 东观西望丨6. “过传统”还是 “过感觉”？英日圣诞节过法大不同
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a
-```
-
-</details>
-
----
-
-### 4. 第2870期:Iraq pursues volleyball dream
+### 6. 第2870期:Iraq pursues volleyball dream
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +181,34 @@ https://jt.ximalaya.com//GKwRIJINCJC7ABHnOARB5q0Z.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 125. 与Altimeter合伙人Freda聊：下注OpenAI、Robinhood往事，美国资本坏小孩、算盘与泡沫
+### 7. 东观西望丨6. “过传统”还是 “过感觉”？英日圣诞节过法大不同
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a
+```
+
+</details>
+
+---
+
+### 8. 125. 与Altimeter合伙人Freda聊：下注OpenAI、Robinhood往事，美国资本坏小孩、算盘与泡沫
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694180874c65abaf
 
 ---
 
-### 6. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
+### 9. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69412a834c65abaf
 
 ---
 
-### 7. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
+### 10. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
 
 **播客名称**: 硬地骇客
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.313 文明的进程：现代人的“体面感”从哪里来？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a
-```
-
-</details>
-
----
-
-### 9. vol.228十年饮冰难凉热血，笨蛋一身敢闯长夜
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/694030482a383da167498e74/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhvJiGrt59eNZEKs3aZdt9657p6g.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/694030482a383da167498e74/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhvJiGrt59eNZEKs3aZdt9657p6g.m4a
-```
-
-</details>
-
----
-
-### 10. Ep182 格鲁吉亚攻略，蚋出没注意，古风夜生活
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693ff9c42a383da1673e2b81/media.xyzcdn.net/5eae66d1418a84a046472b4d/loY2jBaGCHmNH-obzG9pVLy0mt86.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/693ff9c42a383da1673e2b81/media.xyzcdn.net/5eae66d1418a84a046472b4d/loY2jBaGCHmNH-obzG9pVLy0mt86.m4a
 ```
 
 </details>
