@@ -1,14 +1,79 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-16 18:32  
+> 📅 **更新时间**: 2025-12-17 01:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
+### 1. 姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYsrVDzc-5e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2870期:Iraq pursues volleyball dream
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINCJC7ABHnOARB5q0Z.m4a?channel=rss&album_id=14812466&track_id=937728907&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4930-audiofreehighqps/61/EA/GKwRIJINCJC7ABHnOARB5q0Z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 东观西望丨6. “过传统”还是 “过感觉”？英日圣诞节过法大不同
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 125. 与Altimeter合伙人Freda聊：下注OpenAI、Robinhood往事，美国资本坏小孩、算盘与泡沫
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694180874c65abaff3576bc4/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsrDKieZADVUCDFfO6k_FABduDMz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1675e42f7/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvM2gQfF17jNTyXyT7ZCKOxTNaS9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳
 
 **播客**: 忽左忽右
 
@@ -21,20 +86,7 @@
 
 ---
 
-### 2. 第2869期:The line
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINCIl1ABlyOARB4gmO.m4a?channel=rss&album_id=14812466&track_id=937720632&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f15b-audiofreehighqps/4F/50/GKwRIJINCIl1ABlyOARB4gmO.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
+### 7. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
 
 **播客**: 硬地骇客
 
@@ -47,20 +99,7 @@
 
 ---
 
-### 4. Vol.313 文明的进程：现代人的“体面感”从哪里来？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. vol.228十年饮冰难凉热血，笨蛋一身敢闯长夜
+### 8. vol.228十年饮冰难凉热血，笨蛋一身敢闯长夜
 
 **播客**: 正经叭叭
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. Ep182 格鲁吉亚攻略，蚋出没注意，古风夜生活
+### 9. Ep182 格鲁吉亚攻略，蚋出没注意，古风夜生活
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,20 +125,7 @@
 
 ---
 
-### 7. 119. 结合多版舞台剧，《怪奇物语》大结局终极预测
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6940097937f52a644e16b2ec/media.xyzcdn.net/5e7c9577418a84a04606b797/lmoDkSkPe-OjUjBqYpd76G_hJ_tc.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 对话真格合伙人刘元：和 Manus 的一周，和肖弘的十年
+### 10. 对话真格合伙人刘元：和 Manus 的一周，和肖弘的十年
 
 **播客**: 此话当真
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693ff2b337f52a644e12516b/media.xyzcdn.net/646f194853a5e5ea1408d97c/lvUAC7-7dNyMfgljRZX8d3ucHFp8.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.80 我去大内密谈和相爷聊了聊AI
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69400a5f2a383da16741ac60/media.xyzcdn.net/6507bc165c88d2412626b401/lg3DH-K1kZNFYD1iHjiU2pV20XR6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. vol.556 老友信箱｜2026年，快乐快乐接！接！好运好运接！接！
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_jvsHCEvHGBNHNULEddQsRgxEgQttLdwpGGuRKMZxCGeazkFMbbKKTPXcqH-a5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
