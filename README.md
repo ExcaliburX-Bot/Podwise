@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-18 06:33  
+> 📅 **更新时间**: 2025-12-18 12:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2871期:The power of friendship to keep you young
+### 1. 特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2871期:The power of friendship to keep you young
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENCUxMABAzGwRCIyYL.m4a?channel=rss&album_id=14812466&track_id=937848756&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c9db-audiofreehighqps/52/BA/GKwRIUENCUxMABAzGwRCIyYL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 陈浪浪：三本逆袭进大厂，副业恋爱两开花，“不要脸”是我的王炸
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6942ebdd52d4707aaa1faa5b/media.xyzcdn.net/63d945ece725b5378a158d29/llkVf6PYx9kNu4krVt0Q3mMrDf2Y.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列
+### 8. 125. 与Altimeter合伙人Freda聊：下注OpenAI、Robinhood往事，美国资本坏小孩、算盘与泡沫
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694180874c65abaff3576bc4/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsrDKieZADVUCDFfO6k_FABduDMz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列
 
 **播客**: 三五环
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
+### 10. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
 
 **播客**: 硬地骇客
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.313 文明的进程：现代人的“体面感”从哪里来？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
