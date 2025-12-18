@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-18 12:42:52
+> 📅 生成时间: 2025-12-18 18:31:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史
+### 1. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
 
-**播客名称**: 忽左忽右
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707a
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
 ```
 
 </details>
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIUENCUxMABAzGwRCIyYL.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 145: 对话极壳孙宽：首个「消费级外骨骼」的诞生
+### 3. 陈浪浪：三本逆袭进大厂，副业恋爱两开花，“不要脸”是我的王炸
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6942ebdd52d4707aaa1faa5b/media.xyzcdn.net/63d945ece725b5378a158d29/llkVf6PYx9kNu4krVt0Q3mMrDf2Y.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6942ebdd52d4707aaa1faa5b/media.xyzcdn.net/63d945ece725b5378a158d29/llkVf6PYx9kNu4krVt0Q3mMrDf2Y.m4a
+```
+
+</details>
+
+---
+
+### 4. 145: 对话极壳孙宽：首个「消费级外骨骼」的诞生
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e
 
 ---
 
-### 4. 一年投资50家AI公司；当我们都不知道答案时，我是怎么想的？| 对话杨洁：锦秋基金创始合伙人
+### 5. 一年投资50家AI公司；当我们都不知道答案时，我是怎么想的？| 对话杨洁：锦秋基金创始合伙人
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694217cd5e8cb26f
 
 ---
 
-### 5. No.181 🦘 王兴的无限游戏：美团团购、外卖、酒旅及其它 | 中国互联网故事13
+### 6. No.181 🦘 王兴的无限游戏：美团团购、外卖、酒旅及其它 | 中国互联网故事13
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694254cbcefa18ad
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694254cbcefa18ad6acf68f4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llMd_oKVuLPgm3Qki5kMYm8JdOGh.m4a
-```
-
-</details>
-
----
-
-### 6. 姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYsrVDzc-5e.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYsrVDzc-5e.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1
 
 ---
 
-### 10. EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？
+### 10. Vol.313 文明的进程：现代人的“体面感”从哪里来？
 
-**播客名称**: 硬地骇客
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a
+https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a
+https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a
 ```
 
 </details>
