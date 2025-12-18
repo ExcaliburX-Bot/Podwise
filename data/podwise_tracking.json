@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-18T01:27:56.235618",
+  "generated_at": "2025-12-18T06:33:35.392921",
   "total_count": 10,
   "episodes": [
     {
@@ -24,16 +24,6 @@
     },
     {
       "rank": 3,
-      "title": "PM does a pop culture draft: 1999 edition",
-      "podcast": "Planet Money",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
       "title": "145: 对话极壳孙宽：首个「消费级外骨骼」的诞生",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e6ebd-a621-4c0b-ae25-a0f68a64664c.mp3",
@@ -43,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "一年投资50家AI公司；当我们都不知道答案时，我是怎么想的？| 对话杨洁：锦秋基金创始合伙人",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694217cd5e8cb26fdf3e1c05/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltcqRVnw9rCWDZ03VTOUf6A2z9np.m4a",
@@ -53,10 +43,20 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "No.181 🦘 王兴的无限游戏：美团团购、外卖、酒旅及其它 | 中国互联网故事13",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694254cbcefa18ad6acf68f4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llMd_oKVuLPgm3Qki5kMYm8JdOGh.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "title": "姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYsrVDzc-5e.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,16 +74,6 @@
     },
     {
       "rank": 8,
-      "title": "125. 与Altimeter合伙人Freda聊：下注OpenAI、Robinhood往事，美国资本坏小孩、算盘与泡沫",
-      "podcast": "张小珺Jùn｜商业访谈录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694180874c65abaff3576bc4/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsrDKieZADVUCDFfO6k_FABduDMz.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
       "title": "No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列",
       "podcast": "三五环",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1675e42f7/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvM2gQfF17jNTyXyT7ZCKOxTNaS9.m4a",
@@ -93,10 +83,20 @@
       "notes": ""
     },
     {
+      "rank": 9,
+      "title": "EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？",
+      "podcast": "硬地骇客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 10,
-      "title": "449 美国媒体续命2025：Netflix、派拉蒙世纪大竞购华纳",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69412a834c65abaff345a953/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTsSOXG5fULuDtb0kHmk1xcgBd7.m4a",
+      "title": "Vol.313 文明的进程：现代人的“体面感”从哪里来？",
+      "podcast": "文化有限",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJINFe8rAvI-LQRH9U31.m4a?channel=rss&album_id=29887212&track_id=940975087&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/dd3e-audiofreehighqps/C9/06/GKwRIJINFe8rAvI-LQRH9U31.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
