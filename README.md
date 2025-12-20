@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-20 06:30  
+> 📅 **更新时间**: 2025-12-20 12:38  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. What AI data centers are doing to your electric bill
+### 1. 096.你别笑了，说出这些口头禅的我羞耻极了
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. What AI data centers are doing to your electric bill
 
 **播客**: Planet Money
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2873期:How do interactive conversations change communication
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANCVWwAAQDGQRCJ5S_.m4a?channel=rss&album_id=14812466&track_id=937858062&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fe0f-audiofreehighqps/1A/DA/GKwRIMANCVWwAAQDGQRCJ5S_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,20 +99,7 @@
 
 ---
 
-### 8. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
+### 8. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
 
 **播客**: 东亚观察局
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
+### 9. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
 
-**播客**: 人民公园说AI
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

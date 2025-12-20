@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-20 06:30:49
+> 📅 生成时间: 2025-12-20 12:38:38
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. What AI data centers are doing to your electric bill
+### 1. 096.你别笑了，说出这些口头禅的我羞耻极了
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a
+```
+
+</details>
+
+---
+
+### 2. What AI data centers are doing to your electric bill
 
 **播客名称**: Planet Money
 
@@ -40,33 +67,6 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 音频链接（点击复制）:
 ```
 https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727
-```
-
-</details>
-
----
-
-### 2. 第2873期:How do interactive conversations change communication
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMANCVWwAAQDGQRCJ5S_.m4a?channel=rss&album_id=14812466&track_id=937858062&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fe0f-audiofreehighqps/1A/DA/GKwRIMANCVWwAAQDGQRCJ5S_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMANCVWwAAQDGQRCJ5S_.m4a?channel=rss&album_id=14812466&track_id=937858062&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fe0f-audiofreehighqps/1A/DA/GKwRIMANCVWwAAQDGQRCJ5S_.m4a
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bd
 
 ---
 
-### 8. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a
-```
-
-</details>
-
----
-
-### 9. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
+### 8. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
 
 **播客名称**: 东亚观察局
 
@@ -262,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69443943e5ac0b31
 
 ---
 
-### 10. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
+### 9. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
 
-**播客名称**: 人民公园说AI
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
+https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bde
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
+https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a
+```
+
+</details>
+
+---
+
+### 10. 特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a
 ```
 
 </details>
