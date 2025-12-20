@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-19 18:29  
+> 📅 **更新时间**: 2025-12-20 01:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
+### 1. What AI data centers are doing to your electric bill
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2873期:How do interactive conversations change communication
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANCVWwAAQDGQRCJ5S_.m4a?channel=rss&album_id=14812466&track_id=937858062&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fe0f-audiofreehighqps/1A/DA/GKwRIMANCVWwAAQDGQRCJ5S_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6944f8889f70e5d6b32ad9dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lk1PSi9LVFaz3rJDMK7qTwaDnQdv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
 
 **播客**: 鸟鸟快乐实验室
 
@@ -21,33 +60,20 @@
 
 ---
 
-### 2. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
+### 5. vol.557 见天地｜33天，1000 公里，徒步横跨西班牙，她只为找到一个答案
 
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6943c23652d4707aaa3d6fc3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnsZIg-Qtb59RKTz4reXsz2gLFux.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第2872期:A longer daily walk could be better for your heart
-
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINCU3zAAW5vQRCI-cg.m4a?channel=rss&album_id=14812466&track_id=937850201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d750-audiofreehighqps/46/11/GKwRIaINCU3zAAW5vQRCI-cg.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_DZKpqcwKuNCSypApvEGuGxpPSNugKvdfnpmwbzyaBfrVfuhtBeEWPDnazj-ae.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
+### 6. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
 
 **播客**: 乱翻书
 
@@ -56,32 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bdbcac0d44/media.xyzcdn.net/ntcPdm3pcRmwEQuhQLqkrwvoP_96.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69443943e5ac0b31c9c4ba7b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvb3_dir3UOSKtVKhX7ehApWHuG1.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. PM does a pop culture draft: 1999 edition
+### 10. 145: 对话极壳孙宽：首个「消费级外骨骼」的诞生
 
-**播客**: Planet Money
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6323009370.mp3?t=podcast&e=nx-s1-5645069&p=510289&d=3290&size=52646226)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e6ebd-a621-4c0b-ae25-a0f68a64664c.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
