@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-21 06:30  
+> 📅 **更新时间**: 2025-12-21 12:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2874期:How does an open press affect you
+### 1. 不是圣诞节歌单，但很暖很应景
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENCd78AAOUjARCbjK_.m4a?channel=rss&album_id=14812466&track_id=937979176&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a99c-audiofreehighqps/31/21/GKwRIJENCd78AAOUjARCbjK_.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDk5NiwidCI6MX0.gEvJZmcLYiW-rK07iqla94t5Bxk/keychangefm/8233691429_887388.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
-
-**播客**: 鸟鸟快乐实验室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6944fd6ee0674912edc26ad8/media.xyzcdn.net/nt4AlFG291mNLZke2j_PCiA_hMqN.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
+### 5. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
 
 **播客**: 沈奕斐的播客
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
+### 6. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
 
 **播客**: 乱翻书
 
@@ -99,20 +86,7 @@
 
 ---
 
-### 8. S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
+### 7. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
 
 **播客**: 东亚观察局
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
+### 8. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
 
 **播客**: 人民公园说AI
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 陈浪浪：三本逆袭进大厂，副业恋爱两开花，“不要脸”是我的王炸
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6942ebdd52d4707aaa1faa5b/media.xyzcdn.net/63d945ece725b5378a158d29/llkVf6PYx9kNu4krVt0Q3mMrDf2Y.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
