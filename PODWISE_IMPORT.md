@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-21 18:28:19
+> 📅 生成时间: 2025-12-22 01:45:14
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,88 @@ https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQc
 
 ---
 
-### 2. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
+### 2. 第2875期:Female in Ghana's capital supports northern counterparts
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNCesYABN4HQRCdov5.m4a?channel=rss&album_id=14812466&track_id=937993550&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/28f4-audiofreehighqps/12/F3/GKwRIRwNCesYABN4HQRCdov5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNCesYABN4HQRCdov5.m4a?channel=rss&album_id=14812466&track_id=937993550&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/28f4-audiofreehighqps/12/F3/GKwRIRwNCesYABN4HQRCdov5.m4a
+```
+
+</details>
+
+---
+
+### 3. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694795da9f70e5d6b371d207/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsPgqlZYi761879YeMvxLnNu2lSP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694795da9f70e5d6b371d207/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsPgqlZYi761879YeMvxLnNu2lSP.m4a
+```
+
+</details>
+
+---
+
+### 4. 877: The Making Of 
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9476446844.mp3
+```
+
+</details>
+
+---
+
+### 5. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
 
 **播客名称**: 十字路口Crossing
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6944f3729f70e5d6
 
 ---
 
-### 3. 不是圣诞节歌单，但很暖很应景
+### 6. 不是圣诞节歌单，但很暖很应景
 
 **播客名称**: 周末变奏 Key Change
 
@@ -100,15 +181,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDk5NiwidCI6MX0.gEvJZmcLYiW-rK07iqla94t
 
 ---
 
-### 4. 第2874期:How does an open press affect you
+### 7. 096.你别笑了，说出这些口头禅的我羞耻极了
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 喷嚏
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENCd78AAOUjARCbjK_.m4a?channel=rss&album_id=14812466&track_id=937979176&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a99c-audiofreehighqps/31/21/GKwRIJENCd78AAOUjARCbjK_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,41 +201,14 @@ https://jt.ximalaya.com//GKwRIJENCd78AAOUjARCbjK_.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENCd78AAOUjARCbjK_.m4a?channel=rss&album_id=14812466&track_id=937979176&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a99c-audiofreehighqps/31/21/GKwRIJENCd78AAOUjARCbjK_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a
 ```
 
 </details>
 
 ---
 
-### 5. What AI data centers are doing to your electric bill
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2939853820.mp3?t=podcast&e=nx-s1-5649814&p=510289&d=1934&size=30953727
-```
-
-</details>
-
----
-
-### 6. E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
+### 8. E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6944f8889f70e5d6
 
 ---
 
-### 7. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
+### 9. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
 
 **播客名称**: 鸟鸟快乐实验室
 
@@ -208,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6944fd6ee0674912
 
 ---
 
-### 8. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
+### 10. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
 
-**播客名称**: 乱翻书
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bdbcac0d44/media.xyzcdn.net/ntcPdm3pcRmwEQuhQLqkrwvoP_96.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6943c23652d4707aaa3d6fc3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnsZIg-Qtb59RKTz4reXsz2gLFux.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bd
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bdbcac0d44/media.xyzcdn.net/ntcPdm3pcRmwEQuhQLqkrwvoP_96.mp3
-```
-
-</details>
-
----
-
-### 9. 外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69443943e5ac0b31c9c4ba7b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvb3_dir3UOSKtVKhX7ehApWHuG1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69443943e5ac0b31c9c4ba7b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvb3_dir3UOSKtVKhX7ehApWHuG1.m4a
-```
-
-</details>
-
----
-
-### 10. 豆包手机！GUI Agent是真革命还是开倒车？｜ 深度对话张和
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69438656c4f10bdeea00f9df/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrx1lkatltXwWHkdTIWHxkl41PI1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6943c23652d4707aaa3d6fc3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnsZIg-Qtb59RKTz4reXsz2gLFux.m4a
 ```
 
 </details>
