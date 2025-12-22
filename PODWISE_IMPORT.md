@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-22 01:45:14
+> 📅 生成时间: 2025-12-22 06:35:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
+### 1. 【随机波动166】从盖茨比到马斯克的百年富豪幻梦
 
-**播客名称**: 无聊斋
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-3b.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/37637cee-3a4e-4dda-82bd-e69eb7c72b44.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQc
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-3b.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/37637cee-3a4e-4dda-82bd-e69eb7c72b44.mp3
 ```
 
 </details>
