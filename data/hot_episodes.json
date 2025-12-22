@@ -10,6 +10,16 @@
     "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
+    "eid": "fQcExnMb-3b.m4a",
+    "title": "vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！",
+    "podcast": {
+      "title": "无聊斋"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-3b.m4a",
+    "pubDate": "2025-12-22T00:05:00+08:00",
+    "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
+  },
+  {
     "eid": "BN4HQRCdov5.m4a",
     "title": "第2875期:Female in Ghana's capital supports northern counterparts",
     "podcast": {
@@ -60,26 +70,6 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
-    "eid": "89RJ1n8k0V2.m4a",
-    "title": "096.你别笑了，说出这些口头禅的我羞耻极了",
-    "podcast": {
-      "title": "喷嚏"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a",
-    "pubDate": "2025-12-20T06:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
-  },
-  {
-    "eid": "K7qTwaDnQdv.m4a",
-    "title": "E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6944f8889f70e5d6b32ad9dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lk1PSi9LVFaz3rJDMK7qTwaDnQdv.m4a",
-    "pubDate": "2025-12-19T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
     "eid": "j_PCiA_hMqN.mp3",
     "title": "14 在需要“哄自己上班”的世界里，建一个安全的小房子",
     "podcast": {
@@ -110,16 +100,6 @@
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
-    "eid": "ZoBAwRJZN5f.m4a",
-    "title": "S7 Vol.38 Moka李国兴&纪源资本吴陈尧：招到对的人，AI可能更在行？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaINGXKmAZoBAwRJZN5f.m4a?channel=rss&album_id=20119986&track_id=941716071&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/e858-audiofreehighqps/28/FB/GKwRIaINGXKmAZoBAwRJZN5f.m4a",
-    "pubDate": "2025-12-18T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "X7ehApWHuG1.m4a",
     "title": "外交、经济、日元、人设：高市早苗的哪张骨牌会先倒？",
     "podcast": {
@@ -140,16 +120,6 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "8-c5PvhHYX2.m4a",
-    "title": "特番｜从齐柏林飞艇到迈巴赫后座：漫谈德式豪车百年技术史",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6943c29f52d4707aaa3d873d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkNIlEmofgkZWjxBY8-c5PvhHYX2.m4a",
-    "pubDate": "2025-12-18T09:10:46+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
     "eid": "t0Q3mMrDf2Y.m4a",
     "title": "陈浪浪：三本逆袭进大厂，副业恋爱两开花，“不要脸”是我的王炸",
     "podcast": {
@@ -158,6 +128,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6942ebdd52d4707aaa1faa5b/media.xyzcdn.net/63d945ece725b5378a158d29/llkVf6PYx9kNu4krVt0Q3mMrDf2Y.m4a",
     "pubDate": "2025-12-17T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "0f68a64664c.mp3",
+    "title": "145: 对话极壳孙宽：首个「消费级外骨骼」的诞生",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aa6e6ebd-a621-4c0b-ae25-a0f68a64664c.mp3",
+    "pubDate": "2025-12-17T17:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "5kMYm8JdOGh.m4a",
@@ -170,6 +150,26 @@
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
+    "eid": "CYsrVDzc-5e.mp3",
+    "title": "姜思达来了！大福源、女士菜、非常6+1和他的《家庭故事》",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_xaGWFGzVtakRKtQndwCZGUztcwVNGFsbuBGceGbnBCdKrvqjvuCYsrVDzc-5e.mp3",
+    "pubDate": "2025-12-17T06:00:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+  },
+  {
+    "eid": "4wstOuzRF3W.m4a",
+    "title": "东观西望丨6. “过传统”还是 “过感觉”？英日圣诞节过法大不同",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/693fc1602a383da16732928f/media.xyzcdn.net/5e285856418a84a04627b7be/lkGWwmxDFa2r0JjSI4wstOuzRF3W.m4a",
+    "pubDate": "2025-12-17T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+  },
+  {
     "eid": "7ZCKOxTNaS9.m4a",
     "title": "No.212 邯郸：倔了三千年的城，也是山河四省的平均脸 | 山河四省系列",
     "podcast": {
@@ -178,6 +178,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6940ebfe2a383da1675e42f7/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvM2gQfF17jNTyXyT7ZCKOxTNaS9.m4a",
     "pubDate": "2025-12-16T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "_rUSMWLaO3M.m4a",
+    "title": "EP118 对话祥宇：从 AlphaFold 到大语言模型：AI 会颠覆药物研发，还是被高估了？",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69405a112a383da1674ca11f/media.xyzcdn.net/640ee2438be5d40013fe4a87/lrJkHyZ2Ow7P891bw_rUSMWLaO3M.m4a",
+    "pubDate": "2025-12-15T23:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "vI-LQRH9U31.m4a",
@@ -220,16 +230,6 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
-    "eid": "ZX8d3ucHFp8.m4a",
-    "title": "对话真格合伙人刘元：和 Manus 的一周，和肖弘的十年",
-    "podcast": {
-      "title": "此话当真"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/693ff2b337f52a644e12516b/media.xyzcdn.net/646f194853a5e5ea1408d97c/lvUAC7-7dNyMfgljRZX8d3ucHFp8.m4a",
-    "pubDate": "2025-12-15T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
     "eid": "IrM_iwuKckd.m4a",
     "title": "消费机器人浪潮前夜：2026就能“有用”吗？对谈维他动力哲伦 ｜ 串台「开始连接 LinkStart」",
     "podcast": {
@@ -238,16 +238,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/693fe1832a383da16739ced6/media.xyzcdn.net/636669d51064cb55f31505fc/loSbksqVcJ1PnztYWIrM_iwuKckd.m4a",
     "pubDate": "2025-12-15T14:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
-  },
-  {
-    "eid": "jiU2pV20XR6.m4a",
-    "title": "Vol.80 我去大内密谈和相爷聊了聊AI",
-    "podcast": {
-      "title": "屠龙之术"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69400a5f2a383da16741ac60/media.xyzcdn.net/6507bc165c88d2412626b401/lg3DH-K1kZNFYD1iHjiU2pV20XR6.m4a",
-    "pubDate": "2025-12-15T13:49:23+00:00",
-    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
     "eid": "pital/ep129.mp3",
@@ -280,16 +270,6 @@
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
-    "eid": "x_nXoER370O.m4a",
-    "title": "88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里",
-    "podcast": {
-      "title": "展开讲讲"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6932fc0d4ef12f9fe9215e17/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhs8cHr6vQvgvbKfUx_nXoER370O.m4a",
-    "pubDate": "2025-12-06T04:43:54+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
-  },
-  {
     "eid": "kfx0gQ-CGuF.m4a",
     "title": "339. 家庭如何帮助孩子“涵容”情感？——耐受不可耐受之事",
     "podcast": {
@@ -298,5 +278,25 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIM_4yCAkfx0gQ-CGuF.m4a?channel=rss&album_id=6990384&track_id=935697037&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/6201-audiofreehighqps/27/E7/GKwRIJIM_4yCAkfx0gQ-CGuF.m4a",
     "pubDate": "2025-11-29T02:30:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/6990384.xml"
+  },
+  {
+    "eid": "TTTSwQ9SSIm.m4a",
+    "title": "Gamma、Remove.bg 和 Quartr，这三个 AI 爆款是怎么做出来的 ？",
+    "podcast": {
+      "title": "AI炼金术"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIM_gnRATTTSwQ9SSIm.m4a?channel=rss&album_id=74194808&track_id=935329965&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6f50-audiofreehighqps/60/CE/GKwRIJIM_gnRATTTSwQ9SSIm.m4a",
+    "pubDate": "2025-11-27T12:39:22+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+  },
+  {
+    "eid": "42c13/media.mp3",
+    "title": "倒闭潮之后，画廊还能怎么活下去？",
+    "podcast": {
+      "title": "艺术有读"
+    },
+    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/691607ebe42e3466f2d42c13/media.mp3",
+    "pubDate": "2025-11-13T21:25:34+00:00",
+    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
   }
 ]

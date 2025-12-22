@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-22 06:35  
+> 📅 **更新时间**: 2025-12-22 12:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 第2875期:Female in Ghana's capital supports northern counterparts
+### 2. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-3b.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2875期:Female in Ghana's capital supports northern counterparts
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
+### 4. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 877: The Making Of 
+### 5. 877: The Making Of 
 
 **播客**: This American Life
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
+### 6. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 不是圣诞节歌单，但很暖很应景
+### 7. 不是圣诞节歌单，但很暖很应景
 
 **播客**: 周末变奏 Key Change
 
@@ -86,33 +99,7 @@
 
 ---
 
-### 7. 096.你别笑了，说出这些口头禅的我羞耻极了
-
-**播客**: 喷嚏
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. E217 孟岩对话张立宪：在不确定的时代，体面地把一件事做下去
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6944f8889f70e5d6b32ad9dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lk1PSi9LVFaz3rJDMK7qTwaDnQdv.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
+### 8. 14 在需要“哄自己上班”的世界里，建一个安全的小房子
 
 **播客**: 鸟鸟快乐实验室
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
+### 9. 238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05
 
 **播客**: 沈奕斐的播客
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6943c23652d4707aaa3d6fc3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnsZIg-Qtb59RKTz4reXsz2gLFux.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 253. 2026视频播客乱预测，我们在美国挖掘的业界内幕
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69442ff8038062bdbcac0d44/media.xyzcdn.net/ntcPdm3pcRmwEQuhQLqkrwvoP_96.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
