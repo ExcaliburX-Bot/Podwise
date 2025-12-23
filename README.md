@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-23 01:41  
+> 📅 **更新时间**: 2025-12-23 06:34  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+### 1. 第2876期:Why don't Americans trust traditional media
 
-**播客**: 文化有限
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANCrC6AAS-owRCte4o.m4a?channel=rss&album_id=14812466&track_id=938115559&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5fae-audiofreehighqps/37/8C/GKwRIMANCrC6AAS-owRCte4o.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

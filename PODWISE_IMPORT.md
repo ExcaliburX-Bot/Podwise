@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-23 01:41:37
+> 📅 生成时间: 2025-12-23 06:34:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+### 1. 第2876期:Why don't Americans trust traditional media
 
-**播客名称**: 文化有限
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
+https://jt.ximalaya.com//GKwRIMANCrC6AAS-owRCte4o.m4a?channel=rss&album_id=14812466&track_id=938115559&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5fae-audiofreehighqps/37/8C/GKwRIMANCrC6AAS-owRCte4o.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
+https://jt.ximalaya.com//GKwRIMANCrC6AAS-owRCte4o.m4a?channel=rss&album_id=14812466&track_id=938115559&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5fae-audiofreehighqps/37/8C/GKwRIMANCrC6AAS-owRCte4o.m4a
 ```
 
 </details>
