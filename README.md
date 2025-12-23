@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-22 18:30  
+> 📅 **更新时间**: 2025-12-23 01:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.229关于major让我感到没辙的是...
+### 1. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.229关于major让我感到没辙的是...
 
 **播客**: 正经叭叭
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
+### 3. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
 
 **播客**: 屠龙之术
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 2025年终观察：科技如何改变我们？-Vol88
+### 4. 2025年终观察：科技如何改变我们？-Vol88
 
 **播客**: 脑放电波
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 254.三天即被封杀，豆包手机只是一场核试验？
+### 5. 254.三天即被封杀，豆包手机只是一场核试验？
 
 **播客**: 乱翻书
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
+### 6. 【随机波动166】从盖茨比到马斯克的百年富豪幻梦
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/37637cee-3a4e-4dda-82bd-e69eb7c72b44.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
 
 **播客**: 无聊斋
 
@@ -73,20 +99,7 @@
 
 ---
 
-### 6. 第2875期:Female in Ghana's capital supports northern counterparts
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNCesYABN4HQRCdov5.m4a?channel=rss&album_id=14812466&track_id=937993550&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/28f4-audiofreehighqps/12/F3/GKwRIRwNCesYABN4HQRCdov5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
+### 8. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 877: The Making Of 
+### 9. 877: The Making Of 
 
 **播客**: This American Life
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
+### 10. 揭秘千人「AI漫剧」工厂：野蛮生长和内容理想 | 对话酱油
 
 **播客**: 十字路口Crossing
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6944f3729f70e5d6b329d02d/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrOlMJMXLSncjTpgfG0Wg87r-U2B.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 不是圣诞节歌单，但很暖很应景
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDk5NiwidCI6MX0.gEvJZmcLYiW-rK07iqla94t5Bxk/keychangefm/8233691429_887388.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
