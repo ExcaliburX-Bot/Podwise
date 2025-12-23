@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-23 12:43:33
+> 📅 生成时间: 2025-12-23 18:30:54
 > 📊 总计: 10 个播客
 
 ---
@@ -127,7 +127,34 @@ https://jt.ximalaya.com//GKwRIMANCrC6AAS-owRCte4o.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. vol.229关于major让我感到没辙的是...
+### 5. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
+```
+
+</details>
+
+---
+
+### 6. vol.229关于major让我感到没辙的是...
 
 **播客名称**: 正经叭叭
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6949684f0f2ae6a8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6949684f0f2ae6a86795a307/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgPg748qDbSWDN2i7UB1D4QjYD16.m4a
-```
-
-</details>
-
----
-
-### 6. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3763
 
 ---
 
-### 10. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
+### 10. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
 
-**播客名称**: 无聊斋
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-30.mp3
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694795da9f70e5d6b371d207/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsPgqlZYi761879YeMvxLnNu2lSP.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQc
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-30.mp3
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694795da9f70e5d6b371d207/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsPgqlZYi761879YeMvxLnNu2lSP.m4a
 ```
 
 </details>
