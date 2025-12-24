@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-23 18:30  
+> 📅 **更新时间**: 2025-12-24 01:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑
+### 1. 第2877期:New type of scientist inspire national scientist movement
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NCyWuAA4FawRC7sYB.m4a?channel=rss&album_id=14812466&track_id=938222007&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d0a1-audiofreehighqps/DF/5F/GKwRIW4NCyWuAA4FawRC7sYB.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑
 
 **播客**: 人民公园说AI
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？
+### 3. No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？
 
 **播客**: 三五环
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 450 恐龙·巨猿·大地懒：罗三洋谈地质变迁与远古巨兽演化
+### 4. 450 恐龙·巨猿·大地懒：罗三洋谈地质变迁与远古巨兽演化
 
 **播客**: 忽左忽右
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694a618e0f2ae6a867b72c40/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmGi2tYXU3xht9K_kSULUs-nfNXh.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第2876期:Why don't Americans trust traditional media
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANCrC6AAS-owRCte4o.m4a?channel=rss&album_id=14812466&track_id=938115559&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5fae-audiofreehighqps/37/8C/GKwRIMANCrC6AAS-owRCte4o.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 126. 和红杉郑庆生聊：经济史的流量革命、人类行为模式的不可预期，与创始人性格
+### 10. vol.558 见面聊聊｜2026年我只做一件事：投资寄几！对寄几好！我就是命好！
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694795da9f70e5d6b371d207/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lsPgqlZYi761879YeMvxLnNu2lSP.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_ewGFRAvhNeumHqdshysGLJMGaRjcZQrZKCycqFQnGamUGjDJEwfQcExnMb-30.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
