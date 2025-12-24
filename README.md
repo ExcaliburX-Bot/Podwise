@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-24 01:39  
+> 📅 **更新时间**: 2025-12-24 06:34  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,15 +86,15 @@
 
 ---
 
-### 7. 2025年终观察：科技如何改变我们？-Vol88
+### 7. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
 
-**播客**: 脑放电波
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6949502f0b60b7bf75dd9cc3/media.xyzcdn.net/636669d51064cb55f31505fc/liERviRQCPxaJqpVvPBsBjp5WuaQ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

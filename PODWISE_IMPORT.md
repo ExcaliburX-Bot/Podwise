@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-24 01:39:33
+> 📅 生成时间: 2025-12-24 06:34:32
 > 📊 总计: 10 个播客
 
 ---
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6949684f0f2ae6a8
 
 ---
 
-### 7. 2025年终观察：科技如何改变我们？-Vol88
+### 7. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
 
-**播客名称**: 脑放电波
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6949502f0b60b7bf75dd9cc3/media.xyzcdn.net/636669d51064cb55f31505fc/liERviRQCPxaJqpVvPBsBjp5WuaQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6949502f0b60b7bf
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6949502f0b60b7bf75dd9cc3/media.xyzcdn.net/636669d51064cb55f31505fc/liERviRQCPxaJqpVvPBsBjp5WuaQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
 ```
 
 </details>
