@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-25 01:40:55
+> 📅 生成时间: 2025-12-25 06:33:48
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIW4NDdNxABpr2gREAUzP.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 搞钱亦修心！如何拥有不内耗、高效能的人生？
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
-```
-
-</details>
-
----
-
-### 4. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大利益联盟和第三个范式Online Learning
+### 3. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7b
 
 ---
 
-### 5. No.182 🏅 天才、资本、国家：黄金面前人人平等
+### 4. No.182 🏅 天才、资本、国家：黄金面前人人平等
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a8
 
 ---
 
-### 6. The summer I turned binge-y
+### 5. The summer I turned binge-y
 
 **播客名称**: Planet Money
 
@@ -181,7 +154,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 7. Christmas and Commerce
+### 6. Christmas and Commerce
 
 **播客名称**: This American Life
 
@@ -208,15 +181,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？
+### 7. 年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑
 
-**播客名称**: 三五环
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/694a7c9d0b60b7bf7508d595/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgzX2dxwsl63piPrusOphraZuP8s.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/694a7c9d0b60b7bf7508d595/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgzX2dxwsl63piPrusOphraZuP8s.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 450 恐龙·巨猿·大地懒：罗三洋谈地质变迁与远古巨兽演化
+### 8. 450 恐龙·巨猿·大地懒：罗三洋谈地质变迁与远古巨兽演化
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694a618e0f2ae6a8
 
 ---
 
-### 10. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+### 9. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
 
 **播客名称**: 文化有限
 
@@ -283,6 +256,33 @@ https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.229关于major让我感到没辙的是...
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6949684f0f2ae6a86795a307/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgPg748qDbSWDN2i7UB1D4QjYD16.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6949684f0f2ae6a86795a307/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgPg748qDbSWDN2i7UB1D4QjYD16.m4a
 ```
 
 </details>
