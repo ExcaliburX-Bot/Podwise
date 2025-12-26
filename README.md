@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-26 01:41  
+> 📅 **更新时间**: 2025-12-26 06:33  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
+### 6. 搞钱亦修心！如何拥有不内耗、高效能的人生？
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. No.182 🏅 天才、资本、国家：黄金面前人人平等
+### 8. No.182 🏅 天才、资本、国家：黄金面前人人平等
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -95,19 +108,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a867c135ad/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liP6YYQmD2-Vamaa35hV1TrFubsa.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. The summer I turned binge-y
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5731009908.mp3?t=podcast&e=nx-s1-5646673&p=510289&d=1856&size=29706119)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+### 10. No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？
 
-**播客**: 文化有限
+**播客**: 三五环
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
