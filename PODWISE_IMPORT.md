@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-25 18:29:41
+> 📅 生成时间: 2025-12-26 01:41:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈
+### 1. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
+```
+
+</details>
+
+---
+
+### 2. 第2879期:Festival atmosphere and film and television highlights
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINDdVRABsXpgREAlBr.m4a?channel=rss&album_id=14812466&track_id=938794186&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ae5-audiofreehighqps/13/F9/GKwRIJINDdVRABsXpgREAlBr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINDdVRABsXpgREAlBr.m4a?channel=rss&album_id=14812466&track_id=938794186&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ae5-audiofreehighqps/13/F9/GKwRIJINDdVRABsXpgREAlBr.m4a
+```
+
+</details>
+
+---
+
+### 3. 255.无招奋起金箍棒，打碎一个旧钉钉
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a
+```
+
+</details>
+
+---
+
+### 4. S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈
 
 **播客名称**: 无聊斋
 
@@ -46,15 +154,15 @@ https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfE
 
 ---
 
-### 2. 第2878期:The US should avoid lagging behind China in AI
+### 6. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4NDdNxABpr2gREAUzP.m4a?channel=rss&album_id=14812466&track_id=938792341&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2eb1-audiofreehighqps/AF/00/GKwRIW4NDdNxABpr2gREAUzP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +174,14 @@ https://jt.ximalaya.com//GKwRIW4NDdNxABpr2gREAUzP.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4NDdNxABpr2gREAUzP.m4a?channel=rss&album_id=14812466&track_id=938792341&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2eb1-audiofreehighqps/AF/00/GKwRIW4NDdNxABpr2gREAUzP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 搞钱亦修心！如何拥有不内耗、高效能的人生？
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
-```
-
-</details>
-
----
-
-### 4. No.182 🏅 天才、资本、国家：黄金面前人人平等
+### 7. No.182 🏅 天才、资本、国家：黄金面前人人平等
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a8
 
 ---
 
-### 5. The summer I turned binge-y
+### 8. The summer I turned binge-y
 
 **播客名称**: Planet Money
 
@@ -154,34 +235,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 6. Christmas and Commerce
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3
-```
-
-</details>
-
----
-
-### 7. 年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑
+### 9. 年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑
 
 **播客名称**: 人民公园说AI
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/694a7c9d0b60b7bf
 
 ---
 
-### 8. No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
+### 10. Vol.314 冬日特辑：没有坏天气，只有不同种类的阳光和雪
 
 **播客名称**: 文化有限
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJENHsTPA4MIZwRLuxQN.m4a?channel=rss&album_id=29887212&track_id=942745962&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/f5fe-audiofreehighqps/E7/A2/GKwRIJENHsTPA4MIZwRLuxQN.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.81 智谱 or MiniMax，无论谁是第一股，都牛逼---串台苔藓之火
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69495dfe0b60b7bf75e020d6/media.xyzcdn.net/6507bc165c88d2412626b401/lrpa5Ynr8CjCSAJADW646tfTboFh.m4a
 ```
 
 </details>
