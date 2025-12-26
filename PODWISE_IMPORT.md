@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-26 12:41:37
+> 📅 生成时间: 2025-12-26 18:30:01
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
+### 1. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
+```
+
+</details>
+
+---
+
+### 2. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
 
 **播客名称**: 忽左忽右
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f89717fa7c/media.xyzcdn.net/FgChF7-_One-3ZF7MqjWOyv-163d.m4a
-```
-
-</details>
-
----
-
-### 2. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
 ```
 
 </details>
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa
 
 ---
 
-### 7. 第2879期:Festival atmosphere and film and television highlights
+### 7. 【年终总结・韩国篇】李在明：“文在寅ProMax版”实行“科学的事大主义”
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINDdVRABsXpgREAlBr.m4a?channel=rss&album_id=14812466&track_id=938794186&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ae5-audiofreehighqps/13/F9/GKwRIJINDdVRABsXpgREAlBr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://jt.ximalaya.com//GKwRIJINDdVRABsXpgREAlBr.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINDdVRABsXpgREAlBr.m4a?channel=rss&album_id=14812466&track_id=938794186&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ae5-audiofreehighqps/13/F9/GKwRIJINDdVRABsXpgREAlBr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfE
 
 ---
 
-### 10. 搞钱亦修心！如何拥有不内耗、高效能的人生？
+### 10. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
 
-**播客名称**: 搞钱女孩
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a
 ```
 
 </details>
