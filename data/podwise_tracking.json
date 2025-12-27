@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T06:31:16.764517",
+  "generated_at": "2025-12-27T12:40:01.809144",
   "total_count": 10,
   "episodes": [
     {
@@ -14,26 +14,6 @@
     },
     {
       "rank": 2,
-      "title": "E218 对话黄晓丹：如何摆脱无聊？（不是辞职）",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
-      "title": "中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f89717fa7c/media.xyzcdn.net/FgChF7-_One-3ZF7MqjWOyv-163d.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
       "title": "Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a",
@@ -43,17 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向",
-      "podcast": "晚点聊 LateTalk",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
+      "rank": 3,
       "title": "The Rest of the Story, 2025",
       "podcast": "Planet Money",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413",
@@ -63,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 4,
       "title": "Vol.82 我和小庄聊了聊他们的“职业分享日”",
       "podcast": "屠龙之术",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a",
@@ -73,7 +43,17 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "【年终总结・韩国篇】李在明：“文在寅ProMax版”实行“科学的事大主义”",
+      "podcast": "东亚观察局",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "255.无招奋起金箍棒，打碎一个旧钉钉",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a",
@@ -83,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课",
       "podcast": "创业内幕 Startup Insider",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a",
@@ -93,10 +73,30 @@
       "notes": ""
     },
     {
+      "rank": 8,
+      "title": "搞钱亦修心！如何拥有不内耗、高效能的人生？",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/694c30ee946dca09252ddc15/media.xyzcdn.net/63d945ece725b5378a158d29/lliHE_F-FLZQSfqvaie1KeK1fVYr.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "No.182 🏅 天才、资本、国家：黄金面前人人平等",
+      "podcast": "半拿铁 | 商业沉浮录",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a867c135ad/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liP6YYQmD2-Vamaa35hV1TrFubsa.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 10,
-      "title": "vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈",
-      "podcast": "无聊斋",
-      "audio_url": "https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfEmXbBe-10.mp3",
+      "title": "Christmas and Commerce",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4815535274.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
