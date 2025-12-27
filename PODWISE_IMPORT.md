@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-26 18:30:01
+> 📅 生成时间: 2025-12-27 01:29:48
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
+### 1. 第2880期:Australia wildfire rips through homes
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANDeH0AASOlQREC2k9.m4a?channel=rss&album_id=14812466&track_id=938809636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fea-audiofreehighqps/01/90/GKwRIMANDeH0AASOlQREC2k9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANDeH0AASOlQREC2k9.m4a?channel=rss&album_id=14812466&track_id=938809636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fea-audiofreehighqps/01/90/GKwRIMANDeH0AASOlQREC2k9.m4a
+```
+
+</details>
+
+---
+
+### 2. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
 
 **播客名称**: 知行小酒馆
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd019921
 
 ---
 
-### 2. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
+### 3. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
 
 **播客名称**: 忽左忽右
 
@@ -73,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f8
 
 ---
 
-### 3. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
+### 4. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +120,14 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
 ```
 
 </details>
 
 ---
 
-### 4. The Rest of the Story, 2025
+### 5. The Rest of the Story, 2025
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 5. Vol.82 我和小庄聊了聊他们的“职业分享日”
+### 6. Vol.82 我和小庄聊了聊他们的“职业分享日”
 
 **播客名称**: 屠龙之术
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77
 
 ---
 
-### 6. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
+### 7. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
 
 **播客名称**: 贝望录
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa
 
 ---
 
-### 7. 【年终总结・韩国篇】李在明：“文在寅ProMax版”实行“科学的事大主义”
+### 8. 255.无招奋起金箍棒，打碎一个旧钉钉
 
-**播客名称**: 东亚观察局
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,34 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a
-```
-
-</details>
-
----
-
-### 8. S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a
 ```
 
 </details>
