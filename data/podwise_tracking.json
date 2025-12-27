@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-27T01:29:48.214694",
+  "generated_at": "2025-12-27T06:31:16.764517",
   "total_count": 10,
   "episodes": [
     {
@@ -44,6 +44,16 @@
     },
     {
       "rank": 5,
+      "title": "146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "The Rest of the Story, 2025",
       "podcast": "Planet Money",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413",
@@ -53,20 +63,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Vol.82 我和小庄聊了聊他们的“职业分享日”",
       "podcast": "屠龙之术",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序",
-      "podcast": "贝望录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈",
-      "podcast": "无聊斋",
-      "audio_url": "https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfEmXbBe-10.mp3",
+      "title": "S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课",
+      "podcast": "创业内幕 Startup Insider",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning",
-      "podcast": "张小珺Jùn｜商业访谈录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a",
+      "title": "vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈",
+      "podcast": "无聊斋",
+      "audio_url": "https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfEmXbBe-10.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

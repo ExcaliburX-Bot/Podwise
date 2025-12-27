@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-27 01:29  
+> 📅 **更新时间**: 2025-12-27 06:31  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. The Rest of the Story, 2025
+### 5. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. The Rest of the Story, 2025
 
 **播客**: Planet Money
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Vol.82 我和小庄聊了聊他们的“职业分享日”
+### 7. Vol.82 我和小庄聊了聊他们的“职业分享日”
 
 **播客**: 屠龙之术
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,7 +112,20 @@
 
 ---
 
-### 9. vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈
+### 9. S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.559 班宇：写作是普通劳动，和种田、打螺丝、织毛衣也没啥区别｜创作者对谈
 
 **播客**: 无聊斋
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_TnHhYBDjBCNzURkHLssyPZkcPvkXpFWnrscKBqJCvNsMmpMEPwCfEmXbBe-10.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
