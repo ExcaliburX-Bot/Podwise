@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-28 06:32  
+> 📅 **更新时间**: 2025-12-28 12:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
+### 2. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
 
 **播客**: 知行小酒馆
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
+### 3. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
 
 **播客**: 忽左忽右
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
+### 4. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
+### 5. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. The Rest of the Story, 2025
+### 6. The Rest of the Story, 2025
 
 **播客**: Planet Money
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. Vol.82 我和小庄聊了聊他们的“职业分享日”
+### 7. Vol.82 我和小庄聊了聊他们的“职业分享日”
 
 **播客**: 屠龙之术
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 255.钉钉告别移动互联网
+### 10. S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课
 
-**播客**: 乱翻书
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNIk_ZARl_rQRNIaDr.m4a?channel=rss&album_id=20119986&track_id=943468662&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/92ba-audiofreehighqps/5D/27/GKwRIRwNIk_ZARl_rQRNIaDr.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
