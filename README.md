@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2025-12-28 18:29  
+> 📅 **更新时间**: 2025-12-29 01:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.560 2025过去了，我很怀念它
+### 1. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_jyhAZMBYXKqgFkysQdXxDDMfVFCCgCXBhyqtaWsyydJGwjzqwHawHjNPbc-b0.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.560 2025过去了，我很怀念它
 
 **播客**: 无聊斋
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 第2881期:What can our ancestors teach us about sleep?
+### 3. 第2882期:Child diabetes discovery could lead to drug breakthrough
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -29,12 +42,51 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINEo8NABS2wQRGQ_BK.m4a?channel=rss&album_id=14812466&track_id=940003171&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/511f-audiofreehighqps/4A/03/GKwRIaINEo8NABS2wQRGQ_BK.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
+### 4. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
+
+**播客**: 硬地骇客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9ef29388a/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmJ5rMEBef8y8p0aYfpTQOqNHiu2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 801: Must Be Rats on the Brain
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f897318453/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltRuXY81GDe37y8NOOBI2d1xvWLj.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
 
 **播客**: 42章经
 
@@ -47,7 +99,20 @@
 
 ---
 
-### 4. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
+### 8. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
 
 **播客**: 忽左忽右
 
@@ -60,7 +125,7 @@
 
 ---
 
-### 5. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
+### 10. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -69,71 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. The Rest of the Story, 2025
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 255.钉钉告别移动互联网
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 【年终总结・韩国篇】李在明：“文在寅ProMax版”实行“科学的事大主义”
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/694d8d8c07f7c63e431fd8e9/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg53CNitTV9X-JKMuwIBaUPNX-ZI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
