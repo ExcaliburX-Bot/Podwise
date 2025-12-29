@@ -20,26 +20,6 @@
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
-    "eid": "ASomgRGRTG2.m4a",
-    "title": "第2882期:Child diabetes discovery could lead to drug breakthrough",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a",
-    "pubDate": "2025-12-29T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
-    "eid": "fpTQOqNHiu2.m4a",
-    "title": "EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9ef29388a/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmJ5rMEBef8y8p0aYfpTQOqNHiu2.m4a",
-    "pubDate": "2025-12-28T22:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
-  },
-  {
     "eid": "R7388469053.mp3",
     "title": "801: Must Be Rats on the Brain",
     "podcast": {
@@ -70,16 +50,6 @@
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
-    "eid": "WASqks8CUPe.m4a",
-    "title": "E218 对话黄晓丹：如何摆脱无聊？（不是辞职）",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a",
-    "pubDate": "2025-12-26T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
     "eid": "qjWOyv-163d.m4a",
     "title": "中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云",
     "podcast": {
@@ -88,16 +58,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f89717fa7c/media.xyzcdn.net/FgChF7-_One-3ZF7MqjWOyv-163d.m4a",
     "pubDate": "2025-12-26T10:37:17+00:00",
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "2qYpZLKNQFm.m4a",
-    "title": "Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人",
-    "podcast": {
-      "title": "基本无害 Mostly Harmless"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a",
-    "pubDate": "2025-12-26T10:03:40+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
     "eid": "4540423d150.mp3",
@@ -130,6 +90,26 @@
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
+    "eid": "BxawHNvoErj.m4a",
+    "title": "207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a",
+    "pubDate": "2025-12-26T03:57:22+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+  },
+  {
+    "eid": "0MmevobWf3t.m4a",
+    "title": "255.钉钉告别移动互联网",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/694d62e407f7c63e431d6c0d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lqTu-ztDxcxPcGkPK0MmevobWf3t.m4a",
+    "pubDate": "2025-12-25T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
     "eid": "Rl_rQRNIaDr.m4a",
     "title": "S7 Vol.39 年终收官特辑：如何用好AI，是创业者的必修课",
     "podcast": {
@@ -150,6 +130,16 @@
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
+    "eid": "7Y1LluY0AG-.m4a",
+    "title": "127. 大模型季报跨年对谈：和广密预言一场AI War、两大联盟和第三个范式Online Learning",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/694bbc49d996dd7bfddeecbf/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lk-xE9_krCr5qUwWm7Y1LluY0AG-.m4a",
+    "pubDate": "2025-12-24T23:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
     "eid": "5hV1TrFubsa.m4a",
     "title": "No.182 🏅 天才、资本、国家：黄金面前人人平等",
     "podcast": {
@@ -158,26 +148,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a867c135ad/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liP6YYQmD2-Vamaa35hV1TrFubsa.m4a",
     "pubDate": "2025-12-24T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
-    "eid": "sOphraZuP8s.m4a",
-    "title": "年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑",
-    "podcast": {
-      "title": "人民公园说AI"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/694a7c9d0b60b7bf7508d595/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgzX2dxwsl63piPrusOphraZuP8s.m4a",
-    "pubDate": "2025-12-23T12:12:50+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
-  },
-  {
-    "eid": "uIrkeEP43Jz.m4a",
-    "title": "No.213 对谈脉脉创始人林凡：当「找工作太容易」的时代结束之后，职场正在发生什么变化？",
-    "podcast": {
-      "title": "三五环"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/694a01f20f2ae6a867a34826/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltK-5llWzAMRUAZtouIrkeEP43Jz.m4a",
-    "pubDate": "2025-12-23T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
     "eid": "4MIZwRLuxQN.m4a",
@@ -240,6 +210,16 @@
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
   },
   {
+    "eid": "j_PCiA_hMqN.mp3",
+    "title": "14 在需要“哄自己上班”的世界里，建一个安全的小房子",
+    "podcast": {
+      "title": "鸟鸟快乐实验室"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6944fd6ee0674912edc26ad8/media.xyzcdn.net/nt4AlFG291mNLZke2j_PCiA_hMqN.mp3",
+    "pubDate": "2025-12-19T07:31:52+00:00",
+    "source_rss": "https://feed.xyzfm.space/uuumubpgwqgx"
+  },
+  {
     "eid": "reXsz2gLFux.m4a",
     "title": "238.领导PUA我怎么办？如何处理职场人际关系？｜职场系列05",
     "podcast": {
@@ -248,6 +228,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6943c23652d4707aaa3d6fc3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnsZIg-Qtb59RKTz4reXsz2gLFux.m4a",
     "pubDate": "2025-12-19T00:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
+  },
+  {
+    "eid": "pd76G_hJ_tc.m4a",
+    "title": "119. 结合多版舞台剧，《怪奇物语》大结局终极预测",
+    "podcast": {
+      "title": "英美剧漫游指南KillingTV"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6940097937f52a644e16b2ec/media.xyzcdn.net/5e7c9577418a84a04606b797/lmoDkSkPe-OjUjBqYpd76G_hJ_tc.m4a",
+    "pubDate": "2025-12-15T16:00:08+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
     "eid": "ZX8d3ucHFp8.m4a",
@@ -270,6 +260,16 @@
     "source_rss": "https://crazy.capital/feed"
   },
   {
+    "eid": "WU-WQRDwrnG.m4a",
+    "title": "AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3",
+    "podcast": {
+      "title": "二维吾码"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a",
+    "pubDate": "2025-12-09T06:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
+  },
+  {
     "eid": "x_nXoER370O.m4a",
     "title": "88.对话李逗逗&王男：要站在台上，要把笔牢牢握在手里",
     "podcast": {
@@ -280,6 +280,16 @@
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
+    "eid": "kfx0gQ-CGuF.m4a",
+    "title": "339. 家庭如何帮助孩子“涵容”情感？——耐受不可耐受之事",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIM_4yCAkfx0gQ-CGuF.m4a?channel=rss&album_id=6990384&track_id=935697037&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/6201-audiofreehighqps/27/E7/GKwRIJIM_4yCAkfx0gQ-CGuF.m4a",
+    "pubDate": "2025-11-29T02:30:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
+  },
+  {
     "eid": "TTTSwQ9SSIm.m4a",
     "title": "Gamma、Remove.bg 和 Quartr，这三个 AI 爆款是怎么做出来的 ？",
     "podcast": {
@@ -288,15 +298,5 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIM_gnRATTTSwQ9SSIm.m4a?channel=rss&album_id=74194808&track_id=935329965&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6f50-audiofreehighqps/60/CE/GKwRIJIM_gnRATTTSwQ9SSIm.m4a",
     "pubDate": "2025-11-27T12:39:22+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
-    "eid": "42c13/media.mp3",
-    "title": "倒闭潮之后，画廊还能怎么活下去？",
-    "podcast": {
-      "title": "艺术有读"
-    },
-    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/691607ebe42e3466f2d42c13/media.mp3",
-    "pubDate": "2025-11-13T21:25:34+00:00",
-    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
   }
 ]

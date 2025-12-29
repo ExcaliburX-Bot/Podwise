@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-29 01:49:10
+> 📅 生成时间: 2025-12-29 06:35:23
 > 📊 总计: 10 个播客
 
 ---
@@ -73,61 +73,7 @@ https://tk.wavpub.com/WPDL_YZPYrXkWkguusJHfjSdnFLJCAFHyyxUKbLYWcYYZZAnFYSPaxkTZw
 
 ---
 
-### 3. 第2882期:Child diabetes discovery could lead to drug breakthrough
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a
-```
-
-</details>
-
----
-
-### 4. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
-
-**播客名称**: 硬地骇客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9ef29388a/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmJ5rMEBef8y8p0aYfpTQOqNHiu2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9ef29388a/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmJ5rMEBef8y8p0aYfpTQOqNHiu2.m4a
-```
-
-</details>
-
----
-
-### 5. 801: Must Be Rats on the Brain
+### 3. 801: Must Be Rats on the Brain
 
 **播客名称**: This American Life
 
@@ -154,7 +100,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
+### 4. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
 
 **播客名称**: 十字路口Crossing
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f8
 
 ---
 
-### 7. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
+### 5. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
 
 **播客名称**: 42章经
 
@@ -208,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77
 
 ---
 
-### 8. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
-```
-
-</details>
-
----
-
-### 9. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
+### 6. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
 
 **播客名称**: 忽左忽右
 
@@ -262,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f8
 
 ---
 
-### 10. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
+### 7. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +201,88 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
+```
+
+</details>
+
+---
+
+### 8. The Rest of the Story, 2025
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR8474649292.mp3?t=podcast&e=nx-s1-5657342&p=510289&d=1702&size=27241413
+```
+
+</details>
+
+---
+
+### 9. Vol.82 我和小庄聊了聊他们的“职业分享日”
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/694e25b944647f77684e7743/media.xyzcdn.net/6507bc165c88d2412626b401/lrtrYbA7Q7he7YSx_TRh6RGsOk0q.m4a
+```
+
+</details>
+
+---
+
+### 10. 207. 英伦奇葩说丨为什么英国邮编总填不对？聊聊英国邮政编码的隐藏秩序
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/694e06d563a654fa60ea866d/media.xyzcdn.net/5e285856418a84a04627b7be/lnafOGw9xX7-8whHOBxawHNvoErj.m4a
 ```
 
 </details>
