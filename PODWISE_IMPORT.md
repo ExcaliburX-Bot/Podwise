@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-30 06:33:30
+> 📅 生成时间: 2025-12-30 12:43:26
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…
+### 1. No.214 低能量人的电池使用指南
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6953550a14db1df9ef775507/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg2sJ1JT94I11FghYffUrLi83hxt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6953550a14db1df9ef775507/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg2sJ1JT94I11FghYffUrLi83hxt.m4a
+```
+
+</details>
+
+---
+
+### 2. 451 聂辉华谈政治经济学视角下的基层权力与秩序
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a
+```
+
+</details>
+
+---
+
+### 3. 257.半佛怕爆款，三表拒AI，冰汝谢川普：我们为什么坚守图文？
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695384792db086f897c8b5d3/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhQ1BPRcP7D5qaNdfQccMHAzz-Mn.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695384792db086f897c8b5d3/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhQ1BPRcP7D5qaNdfQccMHAzz-Mn.m4a
+```
+
+</details>
+
+---
+
+### 4. 128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695331cb2db086f8
 
 ---
 
-### 2. Why economists got free trade with China so wrong
+### 5. Why economists got free trade with China so wrong
 
 **播客名称**: Planet Money
 
@@ -73,7 +154,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 3. 第2883期:Brexit: Do we have a decision?
+### 6. 第2883期:Brexit: Do we have a decision?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,34 +181,7 @@ https://jt.ximalaya.com//GKwRIJINEpdWABoiXgRGSFvS.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.315 人生解忧：不确定的时代，如何寻找安心之道
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887212&track_id=944744715&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0af4-audiofreehighqps/0D/1A/GKwRIJINKFDPAtvmogRPoDL8.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887212&track_id=944744715&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0af4-audiofreehighqps/0D/1A/GKwRIJINKFDPAtvmogRPoDL8.m4a
-```
-
-</details>
-
----
-
-### 5. vol.230 旅游城市聊旅游，厦门让人很上头
+### 7. vol.230 旅游城市聊旅游，厦门让人很上头
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6952a53e2db086f8
 
 ---
 
-### 6. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
+### 8. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,34 +235,7 @@ https://tk.wavpub.com/WPDL_jyhAZMBYXKqgFkysQdXxDDMfVFCCgCXBhyqtaWsyydJGwjzqwHawH
 
 ---
 
-### 7. vol.560 2025过去了，我很怀念它
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_YZPYrXkWkguusJHfjSdnFLJCAFHyyxUKbLYWcYYZZAnFYSPaxkTZwQcpXg-90.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_YZPYrXkWkguusJHfjSdnFLJCAFHyyxUKbLYWcYYZZAnFYSPaxkTZwQcpXg-90.m4a
-```
-
-</details>
-
----
-
-### 8. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
+### 9. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
 
 **播客名称**: 硬地骇客
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9
 
 ---
 
-### 9. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
+### 10. 801: Must Be Rats on the Brain
 
-**播客名称**: 十字路口Crossing
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f897318453/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltRuXY81GDe37y8NOOBI2d1xvWLj.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f897318453/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltRuXY81GDe37y8NOOBI2d1xvWLj.m4a
-```
-
-</details>
-
----
-
-### 10. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3
 ```
 
 </details>
