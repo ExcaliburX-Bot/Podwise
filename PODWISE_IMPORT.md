@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-30 01:41:55
+> 📅 生成时间: 2025-12-30 06:33:30
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Why economists got free trade with China so wrong
+### 1. 128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695331cb2db086f897b50ea9/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lhO_DypJQFbhkcdm1FPQRo2wY9aP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695331cb2db086f897b50ea9/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lhO_DypJQFbhkcdm1FPQRo2wY9aP.m4a
+```
+
+</details>
+
+---
+
+### 2. Why economists got free trade with China so wrong
 
 **播客名称**: Planet Money
 
@@ -46,7 +73,34 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 2. Vol.315 人生解忧：不确定的时代，如何寻找安心之道
+### 3. 第2883期:Brexit: Do we have a decision?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINEpdWABoiXgRGSFvS.m4a?channel=rss&album_id=14812466&track_id=940012674&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ddb-audiofreehighqps/86/DD/GKwRIJINEpdWABoiXgRGSFvS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINEpdWABoiXgRGSFvS.m4a?channel=rss&album_id=14812466&track_id=940012674&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1ddb-audiofreehighqps/86/DD/GKwRIJINEpdWABoiXgRGSFvS.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.315 人生解忧：不确定的时代，如何寻找安心之道
 
 **播客名称**: 文化有限
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.230 旅游城市聊旅游，厦门让人很上头
+### 5. vol.230 旅游城市聊旅游，厦门让人很上头
 
 **播客名称**: 正经叭叭
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6952a53e2db086f8
 
 ---
 
-### 4. 256.“Build in Public”在中文互联网的新实践，就是小红书的“AMA”？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695263e22db086f8979b5580/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lppGqCbVFJCrQnkhajlncc3QMNOy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695263e22db086f8979b5580/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lppGqCbVFJCrQnkhajlncc3QMNOy.m4a
-```
-
-</details>
-
----
-
-### 5. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
+### 6. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +181,7 @@ https://tk.wavpub.com/WPDL_jyhAZMBYXKqgFkysQdXxDDMfVFCCgCXBhyqtaWsyydJGwjzqwHawH
 
 ---
 
-### 6. vol.560 2025过去了，我很怀念它
+### 7. vol.560 2025过去了，我很怀念它
 
 **播客名称**: 无聊斋
 
@@ -181,7 +208,7 @@ https://tk.wavpub.com/WPDL_YZPYrXkWkguusJHfjSdnFLJCAFHyyxUKbLYWcYYZZAnFYSPaxkTZw
 
 ---
 
-### 7. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
+### 8. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
 
 **播客名称**: 硬地骇客
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9
 
 ---
 
-### 8. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
+### 9. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
 
 **播客名称**: 十字路口Crossing
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f8
 
 ---
 
-### 9. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
+### 10. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
 
 **播客名称**: 42章经
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a
-```
-
-</details>
-
----
-
-### 10. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
 ```
 
 </details>
