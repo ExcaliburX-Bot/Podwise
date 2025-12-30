@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-29 18:31:29
+> 📅 生成时间: 2025-12-30 01:41:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.230 旅游城市聊旅游，厦门让人很上头
+### 1. Why economists got free trade with China so wrong
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274
+```
+
+</details>
+
+---
+
+### 2. Vol.315 人生解忧：不确定的时代，如何寻找安心之道
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887212&track_id=944744715&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0af4-audiofreehighqps/0D/1A/GKwRIJINKFDPAtvmogRPoDL8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887212&track_id=944744715&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0af4-audiofreehighqps/0D/1A/GKwRIJINKFDPAtvmogRPoDL8.m4a
+```
+
+</details>
+
+---
+
+### 3. vol.230 旅游城市聊旅游，厦门让人很上头
 
 **播客名称**: 正经叭叭
 
@@ -46,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6952a53e2db086f8
 
 ---
 
-### 2. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
+### 4. 256.“Build in Public”在中文互联网的新实践，就是小红书的“AMA”？
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695263e22db086f8979b5580/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lppGqCbVFJCrQnkhajlncc3QMNOy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695263e22db086f8979b5580/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lppGqCbVFJCrQnkhajlncc3QMNOy.m4a
+```
+
+</details>
+
+---
+
+### 5. 12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,7 +154,7 @@ https://tk.wavpub.com/WPDL_jyhAZMBYXKqgFkysQdXxDDMfVFCCgCXBhyqtaWsyydJGwjzqwHawH
 
 ---
 
-### 3. vol.560 2025过去了，我很怀念它
+### 6. vol.560 2025过去了，我很怀念它
 
 **播客名称**: 无聊斋
 
@@ -100,34 +181,7 @@ https://tk.wavpub.com/WPDL_YZPYrXkWkguusJHfjSdnFLJCAFHyyxUKbLYWcYYZZAnFYSPaxkTZw
 
 ---
 
-### 4. 第2882期:Child diabetes discovery could lead to drug breakthrough
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINEpFwAASomgRGRTG2.m4a?channel=rss&album_id=14812466&track_id=940006132&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45e9-audiofreehighqps/BE/CF/GKwRIJINEpFwAASomgRGRTG2.m4a
-```
-
-</details>
-
----
-
-### 5. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
+### 7. EP119 对话小孙：骑行800公里把自己救出深渊：宁愿每天工作22小时，我也不想再上班了
 
 **播客名称**: 硬地骇客
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9
 
 ---
 
-### 6. 801: Must Be Rats on the Brain
+### 8. 钱去哪了？谁在出手？与刘旌复盘 2025 VC 们的新共识与暗流
 
-**播客名称**: This American Life
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f897318453/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltRuXY81GDe37y8NOOBI2d1xvWLj.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +228,41 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/694f570e2db086f897318453/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltRuXY81GDe37y8NOOBI2d1xvWLj.m4a
 ```
 
 </details>
 
 ---
 
-### 7. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
+### 9. 中美 AI 创投的真实差异｜对谈 Leonis Capital 合伙人 Jenny
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/694e181744647f77684bb4f1/media.xyzcdn.net/648b0b641c48983391a63f98/lh3BbNd3MtLK-zVruSZLMFqSEXNy.m4a
+```
+
+</details>
+
+---
+
+### 10. E218 对话黄晓丹：如何摆脱无聊？（不是辞职）
 
 **播客名称**: 知行小酒馆
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd019921
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a
-```
-
-</details>
-
----
-
-### 8. 中统局往事03｜从炮制「伍豪事件」、与朱家骅斗法到章亚若命案疑云
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f89717fa7c/media.xyzcdn.net/FgChF7-_One-3ZF7MqjWOyv-163d.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/694e5be02db086f89717fa7c/media.xyzcdn.net/FgChF7-_One-3ZF7MqjWOyv-163d.m4a
-```
-
-</details>
-
----
-
-### 9. Ep183 颜如晶的多重宇宙：永远做第二个吃螃蟹的人
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/694e5a0f14db1df9efd1830e/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmXo56fgkUHf8ZtQF2qYpZLKNQFm.m4a
-```
-
-</details>
-
----
-
-### 10. 146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3
 ```
 
 </details>
