@@ -1,13 +1,23 @@
 [
   {
-    "eid": "1812c3a92bc.mp3",
-    "title": "【随机波动167】大火、高层与老屋里的人",
+    "eid": "cFpp2RNiYzR.m4a",
+    "title": "89.展讲的年终问答：2025，我就问你梆梆不梆梆",
     "podcast": {
-      "title": "随机波动StochasticVolatility"
+      "title": "展开讲讲"
     },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3",
-    "pubDate": "2025-12-31T12:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/stovol/rss"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8970a428b/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmee61BigGdIvs_bucFpp2RNiYzR.m4a",
+    "pubDate": "2025-12-31T10:25:02+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
+    "eid": "pt_CwRQJcFT.m4a",
+    "title": "【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫",
+    "podcast": {
+      "title": "AI炼金术"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a",
+    "pubDate": "2025-12-31T00:50:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
     "eid": "Bpl-ARGSpIu.m4a",
@@ -18,26 +28,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIasNEpsPABpl-ARGSpIu.m4a?channel=rss&album_id=14812466&track_id=940016808&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e28-audiofreehighqps/93/0C/GKwRIasNEpsPABpl-ARGSpIu.m4a",
     "pubDate": "2025-12-31T00:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
-    "eid": "gEIXUJa9jcv.m4a",
-    "title": "239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a",
-    "pubDate": "2025-12-31T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
-  },
-  {
-    "eid": "CuaSn3VYD9w.m4a",
-    "title": "2025年度总结：不管搞成还是搞砸，人生的复利都在时间里",
-    "podcast": {
-      "title": "搞钱女孩"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a",
-    "pubDate": "2025-12-30T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
     "eid": "83adb396be1.mp3",
@@ -70,26 +60,6 @@
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
-    "eid": "9Vo6--ZA9MW.m4a",
-    "title": "451 聂辉华谈政治经济学视角下的基层权力与秩序",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a",
-    "pubDate": "2025-12-30T10:26:30+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "QccMHAzz-Mn.m4a",
-    "title": "257.半佛怕爆款，三表拒AI，冰汝谢川普：我们为什么坚守图文？",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695384792db086f897c8b5d3/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhQ1BPRcP7D5qaNdfQccMHAzz-Mn.m4a",
-    "pubDate": "2025-12-30T08:00:31+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
     "eid": "FPQRo2wY9aP.m4a",
     "title": "128. Manus决定出售前最后的访谈：啊，这奇幻的2025年漂流啊…",
     "podcast": {
@@ -100,6 +70,26 @@
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
+    "eid": "9&size=24636274",
+    "title": "Why economists got free trade with China so wrong",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1072019742.mp3?t=podcast&e=nx-s1-5660865&p=510289&d=1539&size=24636274",
+    "pubDate": "2025-12-30T00:05:16+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "tvmogRPoDL8.m4a",
+    "title": "Vol.315 人生解忧：不确定的时代，如何寻找安心之道",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJINKFDPAtvmogRPoDL8.m4a?channel=rss&album_id=29887212&track_id=944744715&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0af4-audiofreehighqps/0D/1A/GKwRIJINKFDPAtvmogRPoDL8.m4a",
+    "pubDate": "2025-12-29T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+  },
+  {
     "eid": "9BrAxLoNvZS.m4a",
     "title": "vol.230 旅游城市聊旅游，厦门让人很上头",
     "podcast": {
@@ -108,16 +98,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6952a53e2db086f897a9d25e/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/liLoFanqmxayzApzb9BrAxLoNvZS.m4a",
     "pubDate": "2025-12-29T16:31:29+00:00",
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
-    "eid": "awHjNPbc-b0.mp3",
-    "title": "12月新歌推荐丨🎇再见2025！范晓萱、祁紫檀、Nas、REJAY…",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPDL_jyhAZMBYXKqgFkysQdXxDDMfVFCCgCXBhyqtaWsyydJGwjzqwHawHjNPbc-b0.mp3",
-    "pubDate": "2025-12-29T05:25:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "TZwQcpXg-90.m4a",
@@ -138,6 +118,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69514abe14db1df9ef29388a/media.xyzcdn.net/640ee2438be5d40013fe4a87/lmJ5rMEBef8y8p0aYfpTQOqNHiu2.m4a",
     "pubDate": "2025-12-28T22:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+  },
+  {
+    "eid": "R7388469053.mp3",
+    "title": "801: Must Be Rats on the Brain",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR7388469053.mp3",
+    "pubDate": "2025-12-28T18:00:00-05:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
     "eid": "OBI2d1xvWLj.m4a",
@@ -168,6 +158,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/694e32b6dd0199213185f9c7/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkRzrt74fp5XqU3ZxWASqks8CUPe.m4a",
     "pubDate": "2025-12-26T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
+  },
+  {
+    "eid": "4540423d150.mp3",
+    "title": "146: Gemini 3翻盘背后、Agent需要什么大模型、RL创业机会，与前 Google 创业者、硅谷投资人聊湾区动向",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8c30e7a6-4d1d-44d1-a0e1-d4540423d150.mp3",
+    "pubDate": "2025-12-26T09:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "TRh6RGsOk0q.m4a",
@@ -210,16 +210,6 @@
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
-    "eid": "5hV1TrFubsa.m4a",
-    "title": "No.182 🏅 天才、资本、国家：黄金面前人人平等",
-    "podcast": {
-      "title": "半拿铁 | 商业沉浮录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/694a96d80f2ae6a867c135ad/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liP6YYQmD2-Vamaa35hV1TrFubsa.m4a",
-    "pubDate": "2025-12-24T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
     "eid": "sOphraZuP8s.m4a",
     "title": "年度颁奖：Google无敌、Claude Code封神、阿里逆袭与奥特曼的忧虑",
     "podcast": {
@@ -240,46 +230,6 @@
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
-    "eid": "1429_887388.mp3",
-    "title": "不是圣诞节歌单，但很暖很应景",
-    "podcast": {
-      "title": "周末变奏 Key Change"
-    },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDk5NiwidCI6MX0.gEvJZmcLYiW-rK07iqla94t5Bxk/keychangefm/8233691429_887388.mp3",
-    "pubDate": "2025-12-21T11:39:12+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
-    "eid": "89RJ1n8k0V2.m4a",
-    "title": "096.你别笑了，说出这些口头禅的我羞耻极了",
-    "podcast": {
-      "title": "喷嚏"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69459dc29f70e5d6b34383b7/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lnis4krkc0r4TloBK89RJ1n8k0V2.m4a",
-    "pubDate": "2025-12-20T06:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
-  },
-  {
-    "eid": "j_PCiA_hMqN.mp3",
-    "title": "14 在需要“哄自己上班”的世界里，建一个安全的小房子",
-    "podcast": {
-      "title": "鸟鸟快乐实验室"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6944fd6ee0674912edc26ad8/media.xyzcdn.net/nt4AlFG291mNLZke2j_PCiA_hMqN.mp3",
-    "pubDate": "2025-12-19T07:31:52+00:00",
-    "source_rss": "https://feed.xyzfm.space/uuumubpgwqgx"
-  },
-  {
-    "eid": "pd76G_hJ_tc.m4a",
-    "title": "119. 结合多版舞台剧，《怪奇物语》大结局终极预测",
-    "podcast": {
-      "title": "英美剧漫游指南KillingTV"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6940097937f52a644e16b2ec/media.xyzcdn.net/5e7c9577418a84a04606b797/lmoDkSkPe-OjUjBqYpd76G_hJ_tc.m4a",
-    "pubDate": "2025-12-15T16:00:08+00:00",
-    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
-  },
-  {
     "eid": "ZX8d3ucHFp8.m4a",
     "title": "对话真格合伙人刘元：和 Manus 的一周，和肖弘的十年",
     "podcast": {
@@ -298,5 +248,55 @@
     "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep129.mp3",
     "pubDate": "2025-12-13T00:00:00+00:00",
     "source_rss": "https://crazy.capital/feed"
+  },
+  {
+    "eid": "WU-WQRDwrnG.m4a",
+    "title": "AI CODING编程提效：能产出内容的才是好AI｜硅谷AI转型录No.3",
+    "podcast": {
+      "title": "二维吾码"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4NDV_PAWU-WQRDwrnG.m4a?channel=rss&album_id=44299765&track_id=938682989&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/3c5d-audiofreehighqps/63/36/GKwRIW4NDV_PAWU-WQRDwrnG.m4a",
+    "pubDate": "2025-12-09T06:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
+  },
+  {
+    "eid": "kfx0gQ-CGuF.m4a",
+    "title": "339. 家庭如何帮助孩子“涵容”情感？——耐受不可耐受之事",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIM_4yCAkfx0gQ-CGuF.m4a?channel=rss&album_id=6990384&track_id=935697037&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/6201-audiofreehighqps/27/E7/GKwRIJIM_4yCAkfx0gQ-CGuF.m4a",
+    "pubDate": "2025-11-29T02:30:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
+  },
+  {
+    "eid": "42c13/media.mp3",
+    "title": "倒闭潮之后，画廊还能怎么活下去？",
+    "podcast": {
+      "title": "艺术有读"
+    },
+    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/691607ebe42e3466f2d42c13/media.mp3",
+    "pubDate": "2025-11-13T21:25:34+00:00",
+    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
+  },
+  {
+    "eid": "EXn2L78yqLU.m4a",
+    "title": "EP66 | 当写代码不再是壁垒：VibeCoding 如何让创意的人更值钱？",
+    "podcast": {
+      "title": "出海去孵化器"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/690de5aed99642be96f279d5/media.xyzcdn.net/646a8c23023239d3851f5e70/lnm8RRBLE4HPw3wrQEXn2L78yqLU.m4a",
+    "pubDate": "2025-11-07T12:32:51+00:00",
+    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
+  },
+  {
+    "eid": "_eW1wKJ8pXO.m4a",
+    "title": "#25 中国消费品牌如何落地美国市场？对话「出海北美第一站」Telling创始人瑞哥",
+    "podcast": {
+      "title": "出海相对论"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/68ff13030156720321375057/media.xyzcdn.net/63b7dd49289d2739647d9587/lroHafHgXDJoV4yfN_eW1wKJ8pXO.m4a",
+    "pubDate": "2025-10-27T06:51:19+00:00",
+    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
   }
 ]
