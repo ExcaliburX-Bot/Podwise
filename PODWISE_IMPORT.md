@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-01 12:42:24
+> 📅 生成时间: 2026-01-01 18:30:27
 > 📊 总计: 10 个播客
 
 ---
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8
 
 ---
 
-### 7. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
+### 7. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
 
-**播客名称**: AI炼金术
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
 ```
 
 </details>
