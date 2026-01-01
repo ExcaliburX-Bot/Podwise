@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2025-12-31 18:30:23
+> 📅 生成时间: 2026-01-01 01:51:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
+### 1. 第2885期: Selling nostalgia
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
+https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtp
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
+https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 【随机波动167】大火、高层与老屋里的人
+### 2. Indicators of the Year, Past and Future
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,41 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408f
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5451251852.mp3?t=podcast&e=nx-s1-5662590&p=510289&d=1097&size=17553119
 ```
 
 </details>
 
 ---
 
-### 3. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
+### 3. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6954a8b92db086f897f7f47c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmGGBqkUtB3F-pEZtjBOi6c3aNJi.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6954a8b92db086f897f7f47c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmGGBqkUtB3F-pEZtjBOi6c3aNJi.m4a
+```
+
+</details>
+
+---
+
+### 4. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
 
 **播客名称**: 展开讲讲
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8
 
 ---
 
-### 4. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
+### 5. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
 
 **播客名称**: AI炼金术
 
@@ -127,7 +154,7 @@ https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194
 
 ---
 
-### 5. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
+### 6. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
 
 **播客名称**: 沈奕斐的播客
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
-```
-
-</details>
-
----
-
-### 6. 第2884期: Falling price in oil
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIasNEpsPABpl-ARGSpIu.m4a?channel=rss&album_id=14812466&track_id=940016808&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e28-audiofreehighqps/93/0C/GKwRIasNEpsPABpl-ARGSpIu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIasNEpsPABpl-ARGSpIu.m4a?channel=rss&album_id=14812466&track_id=940016808&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e28-audiofreehighqps/93/0C/GKwRIasNEpsPABpl-ARGSpIu.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9
 
 ---
 
-### 8. Ep184 深圳生存手册：大量新鲜的搞钱方式涌入我的脑子
+### 8. 59 不包饺子包真心：这世界仍有什么值得我们赞美和感恩
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/113291273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F21a02d8d-cadb-ac13-d5d0-f83adb396be1.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/113291273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F21a02d8d-cadb-ac13-d5d0-f83adb396be1.mp3
+```
+
+</details>
+
+---
+
+### 9. Ep184 深圳生存手册：大量新鲜的搞钱方式涌入我的脑子
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695370632db086f8
 
 ---
 
-### 9. 451 聂辉华谈政治经济学视角下的基层权力与秩序
+### 10. No.214 低能量人的电池使用指南
 
-**播客名称**: 忽左忽右
+**播客名称**: 三五环
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6953550a14db1df9ef775507/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg2sJ1JT94I11FghYffUrLi83hxt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a
-```
-
-</details>
-
----
-
-### 10. 257.半佛怕爆款，三表拒AI，冰汝谢川普：我们为什么坚守图文？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695384792db086f897c8b5d3/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhQ1BPRcP7D5qaNdfQccMHAzz-Mn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695384792db086f897c8b5d3/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhQ1BPRcP7D5qaNdfQccMHAzz-Mn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6953550a14db1df9ef775507/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg2sJ1JT94I11FghYffUrLi83hxt.m4a
 ```
 
 </details>
