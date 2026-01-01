@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-01 06:33  
+> 📅 **更新时间**: 2026-01-01 12:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Indicators of the Year, Past and Future
+### 1. 第2885期: Selling nostalgia
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Indicators of the Year, Past and Future
 
 **播客**: Planet Money
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
+### 3. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
 
 **播客**: 周末变奏 Key Change
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 【随机波动167】大火、高层与老屋里的人
+### 4. 【随机波动167】大火、高层与老屋里的人
 
 **播客**: 随机波动StochasticVolatility
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
+### 5. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
+### 6. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
 
 **播客**: 展开讲讲
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
+### 7. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
 
 **播客**: AI炼金术
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
