@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-01 01:51:41
+> 📅 生成时间: 2026-01-01 06:33:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2885期: Selling nostalgia
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a
-```
-
-</details>
-
----
-
-### 2. Indicators of the Year, Past and Future
+### 1. Indicators of the Year, Past and Future
 
 **播客名称**: Planet Money
 
@@ -73,7 +46,61 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 3. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
+### 2. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
+```
+
+</details>
+
+---
+
+### 3. 【随机波动167】大火、高层与老屋里的人
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3
+```
+
+</details>
+
+---
+
+### 4. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6954a8b92db086f8
 
 ---
 
-### 4. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
+### 5. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
 
 **播客名称**: 展开讲讲
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8
 
 ---
 
-### 5. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
+### 6. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
 
 **播客名称**: AI炼金术
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
+### 7. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
 
 **播客名称**: 沈奕斐的播客
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
-```
-
-</details>
-
----
-
-### 7. 2025年度总结：不管搞成还是搞砸，人生的复利都在时间里
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
 ```
 
 </details>
