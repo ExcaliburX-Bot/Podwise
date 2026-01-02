@@ -1,14 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-01 18:30  
+> 📅 **更新时间**: 2026-01-02 01:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2885期: Selling nostalgia
+### 1. 第2886期: The Panama papers
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -16,7 +16,7 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENEvZuABvJWARGfcy4.m4a?channel=rss&album_id=14812466&track_id=940099796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ba6-audiofreehighqps/FB/AC/GKwRIUENEvZuABvJWARGfcy4.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NEvoSABnd0ARGf_Gj.m4a?channel=rss&album_id=14812466&track_id=940102432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1ae-audiofreehighqps/8C/F4/GKwRIW4NEvoSABnd0ARGf_Gj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,20 +112,7 @@
 
 ---
 
-### 9. Ep184 深圳生存手册：大量新鲜的搞钱方式涌入我的脑子
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695370632db086f897c3798c/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhNUEXDP8OxfAje87LG6BWZh5a3J.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.214 低能量人的电池使用指南
+### 9. No.214 低能量人的电池使用指南
 
 **播客**: 三五环
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6953550a14db1df9ef775507/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg2sJ1JT94I11FghYffUrLi83hxt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 451 聂辉华谈政治经济学视角下的基层权力与秩序
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69539c9914db1df9ef88fdc6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltVObesGrcYNOoMbz9Vo6--ZA9MW.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
