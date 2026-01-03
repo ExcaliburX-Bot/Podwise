@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-03 12:39:44
+> 📅 生成时间: 2026-01-03 18:28:46
 > 📊 总计: 10 个播客
 
 ---
@@ -235,15 +235,15 @@ https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194
 
 ---
 
-### 9. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
+### 9. 2025年度总结：不管搞成还是搞砸，人生的复利都在时间里
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
 ```
 
 </details>
