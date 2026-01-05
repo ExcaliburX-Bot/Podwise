@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-05 02:04  
+> 📅 **更新时间**: 2026-01-05 06:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.561 喜夜群英会｜对话喜夜总制片人李楠楠：喜剧是用真诚和好笑的方式，讲普通人的故事
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TFNykmdtUJNxZzZNLthhRYCQfKNQmJyTMzFqMpNKStkbmyEXHFsaXMAnLj-93.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. AI时代是谁的黄金时代？｜和张咋啦聊：文科生、积极行动、爆款的规律、普通人也能赢
+### 1. AI时代是谁的黄金时代？｜和张咋啦聊：文科生、积极行动、爆款的规律、普通人也能赢
 
 **播客**: 十字路口Crossing
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. 第2889期: Volkswagen scandal
+### 2. 第2889期: Volkswagen scandal
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. Venezuela’s recent economic history (Update)
+### 3. Venezuela’s recent economic history (Update)
 
 **播客**: Planet Money
 
@@ -60,20 +47,7 @@
 
 ---
 
-### 5. 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. EP69 | 写代码前先做这 1 步：用内容营销验证出海项目是否值得做
+### 4. EP69 | 写代码前先做这 1 步：用内容营销验证出海项目是否值得做
 
 **播客**: 出海去孵化器
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. 中统局往事04｜如何指导文化特务工作：潘公展与张道藩
+### 5. 中统局往事04｜如何指导文化特务工作：潘公展与张道藩
 
 **播客**: 忽左忽右
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
+### 6. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
 
 **播客**: 周末变奏 Key Change
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
+### 7. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -125,15 +99,41 @@
 
 ---
 
-### 10. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
+### 8. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
 
-**播客**: 展开讲讲
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8970a428b/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmee61BigGdIvs_bucFpp2RNiYzR.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 2025年度总结：不管搞成还是搞砸，人生的复利都在时间里
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

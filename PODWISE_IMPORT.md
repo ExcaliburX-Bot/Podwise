@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-05 02:04:48
+> 📅 生成时间: 2026-01-05 06:40:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.561 喜夜群英会｜对话喜夜总制片人李楠楠：喜剧是用真诚和好笑的方式，讲普通人的故事
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_TFNykmdtUJNxZzZNLthhRYCQfKNQmJyTMzFqMpNKStkbmyEXHFsaXMAnLj-93.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_TFNykmdtUJNxZzZNLthhRYCQfKNQmJyTMzFqMpNKStkbmyEXHFsaXMAnLj-93.m4a
-```
-
-</details>
-
----
-
-### 2. AI时代是谁的黄金时代？｜和张咋啦聊：文科生、积极行动、爆款的规律、普通人也能赢
+### 1. AI时代是谁的黄金时代？｜和张咋啦聊：文科生、积极行动、爆款的规律、普通人也能赢
 
 **播客名称**: 十字路口Crossing
 
@@ -73,7 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/695af1289b789249
 
 ---
 
-### 3. 第2889期: Volkswagen scandal
+### 2. 第2889期: Volkswagen scandal
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +73,7 @@ https://jt.ximalaya.com//GKwRIW4NE94oABr0agRG5usM.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Venezuela’s recent economic history (Update)
+### 3. Venezuela’s recent economic history (Update)
 
 **播客名称**: Planet Money
 
@@ -127,34 +100,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 5. 850: If You Want to Destroy My Sweater, Hold This Thread as I Walk Away
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5866161429.mp3
-```
-
-</details>
-
----
-
-### 6. EP69 | 写代码前先做这 1 步：用内容营销验证出海项目是否值得做
+### 4. EP69 | 写代码前先做这 1 步：用内容营销验证出海项目是否值得做
 
 **播客名称**: 出海去孵化器
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ac902db086f8
 
 ---
 
-### 7. 中统局往事04｜如何指导文化特务工作：潘公展与张道藩
+### 5. 中统局往事04｜如何指导文化特务工作：潘公展与张道藩
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6957966d14db1df9
 
 ---
 
-### 8. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
+### 6. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +181,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtp
 
 ---
 
-### 9. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
+### 7. No.183 💄 欧莱雅：从厨房实验室里走出的美之帝国
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6954a8b92db086f8
 
 ---
 
-### 10. 89.展讲的年终问答：2025，我就问你梆梆不梆梆
+### 8. 【2025年终盘点】从模型红利到 Agent 闭环的实战复盘 | 徐文浩 x 任鑫
 
-**播客名称**: 展开讲讲
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8970a428b/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmee61BigGdIvs_bucFpp2RNiYzR.m4a
+https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6954f6372db086f8970a428b/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmee61BigGdIvs_bucFpp2RNiYzR.m4a
+https://jt.ximalaya.com//GKwRIDoNKZjpApt_CwRQJcFT.m4a?channel=rss&album_id=74194808&track_id=945006296&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df01-audiofreehighqps/88/AF/GKwRIDoNKZjpApt_CwRQJcFT.m4a
+```
+
+</details>
+
+---
+
+### 9. 239.一家四口共看《阿凡达3》:褒贬不一的神作续集，值得看吗？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69539cb42db086f897ceede8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgTqAYXiuG6mhdpF9gEIXUJa9jcv.m4a
+```
+
+</details>
+
+---
+
+### 10. 2025年度总结：不管搞成还是搞砸，人生的复利都在时间里
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6954170414db1df9ef9fe420/media.xyzcdn.net/63d945ece725b5378a158d29/loliWBFDPk9Tviq5rCuaSn3VYD9w.m4a
 ```
 
 </details>
