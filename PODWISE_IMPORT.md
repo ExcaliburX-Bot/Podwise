@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-05 18:32:46
+> 📅 生成时间: 2026-01-06 01:43:52
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep185 深圳生存手册：去岭南，去办公大楼约会！
+### 1. 第2890期:What makes good wildlife photography
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a09edc2193/media.xyzcdn.net/5eae66d1418a84a046472b4d/lku8P41bk0CxIZcrecIXaFYvwLAx.m4a
+https://jt.ximalaya.com//GKwRIJING8LxABK1AgRKZV8k.m4a?channel=rss&album_id=14812466&track_id=942165718&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ed57-audiofreehighqps/F1/64/GKwRIJING8LxABK1AgRKZV8k.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a0
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a09edc2193/media.xyzcdn.net/5eae66d1418a84a046472b4d/lku8P41bk0CxIZcrecIXaFYvwLAx.m4a
+https://jt.ximalaya.com//GKwRIJING8LxABK1AgRKZV8k.m4a?channel=rss&album_id=14812466&track_id=942165718&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ed57-audiofreehighqps/F1/64/GKwRIJING8LxABK1AgRKZV8k.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 239人的《怪奇物语》Will坦白戏&最终集Reaction｜番外
+### 2. 10倍增长比2倍更容易？新年一起告别无效努力！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939e653a730/media.xyzcdn.net/63d945ece725b5378a158d29/llP0VCmm0q9Ky7IwQ8XmyrUldUxT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939e653a730/media.xyzcdn.net/63d945ece725b5378a158d29/llP0VCmm0q9Ky7IwQ8XmyrUldUxT.m4a
+```
+
+</details>
+
+---
+
+### 3. vol.231 叭叭KTV对唱季
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/695bcc61bdbeb6a09ee6b42f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSM6cjCep0qOhE8eig7Q7erncYy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/695bcc61bdbeb6a09ee6b42f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSM6cjCep0qOhE8eig7Q7erncYy.m4a
+```
+
+</details>
+
+---
+
+### 4. 239人的《怪奇物语》Will坦白戏&最终集Reaction｜番外
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/695bca09092c0a58
 
 ---
 
-### 3. AI重塑记录：从“数字囤积”到记忆引擎，从笔记到创作-对谈闪念贝壳Ping-Vol88
+### 5. AI重塑记录：从“数字囤积”到记忆引擎，从笔记到创作-对谈闪念贝壳Ping-Vol88
 
 **播客名称**: 脑放电波
 
@@ -94,60 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/695a42deba709206
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/695a42deba709206704bd2d3/media.xyzcdn.net/636669d51064cb55f31505fc/lo78o-XHxWpLCesXCAOxbiwGLiy5.m4a
-```
-
-</details>
-
----
-
-### 4. 番外 11：互联网如何重塑我们的生活与钱包
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695a79446d3ad49786c2a979/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrMCEjhzZzE3JzklqmC04ydVEUOj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695a79446d3ad49786c2a979/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrMCEjhzZzE3JzklqmC04ydVEUOj.m4a
-```
-
-</details>
-
----
-
-### 5. EP70 | 没有资本的独立开发者，为什么反而更该先做社区？
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ad0d14db1df9eff4a9e8/media.xyzcdn.net/646a8c23023239d3851f5e70/ltlsaz4j66kER13u2Ealo_ix2tl_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ad0d14db1df9eff4a9e8/media.xyzcdn.net/646a8c23023239d3851f5e70/ltlsaz4j66kER13u2Ealo_ix2tl_.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/695af1289b789249
 
 ---
 
-### 8. 第2889期: Volkswagen scandal
+### 8. Venezuela’s recent economic history (Update)
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4NE94oABr0agRG5usM.m4a?channel=rss&album_id=14812466&track_id=940375447&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fae3-audiofreehighqps/5F/B5/GKwRIW4NE94oABr0agRG5usM.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://jt.ximalaya.com//GKwRIW4NE94oABr0agRG5usM.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4NE94oABr0agRG5usM.m4a?channel=rss&album_id=14812466&track_id=940375447&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fae3-audiofreehighqps/5F/B5/GKwRIW4NE94oABr0agRG5usM.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4805122417.mp3?t=podcast&e=nx-s1-5666322&p=510289&d=1345&size=21522896
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 10. 中统局往事04｜如何指导文化特务工作：潘公展与张道藩
+### 10. Sea Power：穿过时间薄雾，从《极乐迪斯科》再出发
 
-**播客名称**: 忽左忽右
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6957966d14db1df9ef06c3cd/media.xyzcdn.net/FoJq7LsHnhhMN4OszS106jY3cFFS.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6957966d14db1df9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6957966d14db1df9ef06c3cd/media.xyzcdn.net/FoJq7LsHnhhMN4OszS106jY3cFFS.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NDQ3NywidCI6MX0.GeA-s_WCcB4qzODp-ppKrtpX4bU/keychangefm/8232806415_402283.mp3
 ```
 
 </details>
