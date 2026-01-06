@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-06 12:44:18
+> 📅 生成时间: 2026-01-06 18:31:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 452 安史之乱中的政治宣传、权力斗争与历史迷雾
+### 1. No.184 💣 2025 年终企划「震楼机」新闻盘点 | x半拿铁·周刊
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695cb72521cd486af72f6177/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljtUwAZ-jtZ7CwhEu0gvEReORG70.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695cb72521cd486af72f6177/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljtUwAZ-jtZ7CwhEu0gvEReORG70.m4a
+```
+
+</details>
+
+---
+
+### 2. 452 安史之乱中的政治宣传、权力斗争与历史迷雾
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/695cd79421cd486a
 
 ---
 
-### 2. #26 中科大00后辍学创业，贷款200万打造AI版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志
+### 3. 2026 AI上岸の姿势：大厂收购、国产上市、硬件风口谁能领跑?｜对谈进击的沈帅波
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/695cd03ec1e012a7aba2861a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgu_QotBKqx_FXoeMSoxBMajImeX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/695cd03ec1e012a7aba2861a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgu_QotBKqx_FXoeMSoxBMajImeX.m4a
+```
+
+</details>
+
+---
+
+### 4. #26 中科大00后辍学创业，贷款200万打造AI版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志
 
 **播客名称**: 出海相对论
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/695cc31a21cd486a
 
 ---
 
-### 3. 扭扭爵士 New Nu-Jazz 2025 年第四辑
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyNywidCI6MX0.5wja50V4xBU1ZlL1z3ZOCTr51QY/keychangefm/8232336755_080237.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyNywidCI6MX0.5wja50V4xBU1ZlL1z3ZOCTr51QY/keychangefm/8232336755_080237.mp3
-```
-
-</details>
-
----
-
-### 4. 第2890期:What makes good wildlife photography
+### 5. 第2890期:What makes good wildlife photography
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJING8LxABK1AgRKZV8k.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 10倍增长比2倍更容易？新年一起告别无效努力！
+### 6. 10倍增长比2倍更容易？新年一起告别无效努力！
 
 **播客名称**: 搞钱女孩
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939
 
 ---
 
-### 6. Vol.316 莱博维茨的赞歌：这世界为什么总在同一个地方跌倒？
+### 7. Vol.316 莱博维茨的赞歌：这世界为什么总在同一个地方跌倒？
 
 **播客名称**: 文化有限
 
@@ -181,7 +208,7 @@ https://jt.ximalaya.com//GKwRIW4NMRweAwpG6wRTdBMs.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. vol.231 叭叭KTV对唱季
+### 8. vol.231 叭叭KTV对唱季
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/695bcc61bdbeb6a0
 
 ---
 
-### 8. 239人的《怪奇物语》Will坦白戏&最终集Reaction｜番外
+### 9. Ep185 深圳生存手册：去岭南，去办公大楼约会！
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a09edc2193/media.xyzcdn.net/5eae66d1418a84a046472b4d/lku8P41bk0CxIZcrecIXaFYvwLAx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a09edc2193/media.xyzcdn.net/5eae66d1418a84a046472b4d/lku8P41bk0CxIZcrecIXaFYvwLAx.m4a
+```
+
+</details>
+
+---
+
+### 10. 239人的《怪奇物语》Will坦白戏&最终集Reaction｜番外
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/695bca09092c0a58
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/695bca09092c0a5872023d6e/media.xyzcdn.net/5e7c9577418a84a04606b797/lr1nJRPxZ3u9XUdmBKP5u4AAD0q4.m4a
-```
-
-</details>
-
----
-
-### 9. AI重塑记录：从“数字囤积”到记忆引擎，从笔记到创作-对谈闪念贝壳Ping-Vol88
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/695a42deba709206704bd2d3/media.xyzcdn.net/636669d51064cb55f31505fc/lo78o-XHxWpLCesXCAOxbiwGLiy5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/695a42deba709206704bd2d3/media.xyzcdn.net/636669d51064cb55f31505fc/lo78o-XHxWpLCesXCAOxbiwGLiy5.m4a
-```
-
-</details>
-
----
-
-### 10. EP70 | 没有资本的独立开发者，为什么反而更该先做社区？
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ad0d14db1df9eff4a9e8/media.xyzcdn.net/646a8c23023239d3851f5e70/ltlsaz4j66kER13u2Ealo_ix2tl_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ad0d14db1df9eff4a9e8/media.xyzcdn.net/646a8c23023239d3851f5e70/ltlsaz4j66kER13u2Ealo_ix2tl_.m4a
 ```
 
 </details>
