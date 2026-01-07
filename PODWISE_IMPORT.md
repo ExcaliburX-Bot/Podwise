@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-07 01:42:51
+> 📅 生成时间: 2026-01-07 06:34:24
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://tk.wavpub.com/WPDL_gzxrEjnPJPGJbXTZbfwXeahvnKemePLGRSWjsDANrKKmTFQhtKSJG
 
 ---
 
-### 3. 第2891期:Ultra-processed food is a global health threat, experts warn
+### 3. 208. 她们的底线 倩与倩丨卫生巾 vs 剃须刀，一次性别产品的商业对照实验
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/695cdb8e21cd486af7386204/media.xyzcdn.net/5e285856418a84a04627b7be/lro-1LHAUw-YczDx2kMpPOGyz2iL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/695cdb8e21cd486af7386204/media.xyzcdn.net/5e285856418a84a04627b7be/lro-1LHAUw-YczDx2kMpPOGyz2iL.m4a
+```
+
+</details>
+
+---
+
+### 4. 第2891期:Ultra-processed food is a global health threat, experts warn
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -94,33 +121,6 @@ https://jt.ximalaya.com//GKwRIW4NH8DvAAPyhgRMF5Yv.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4NH8DvAAPyhgRMF5Yv.m4a?channel=rss&album_id=14812466&track_id=942943067&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9ac5-audiofreehighqps/C6/3F/GKwRIW4NH8DvAAPyhgRMF5Yv.m4a
-```
-
-</details>
-
----
-
-### 4. 2026，AI视频「大年」将至｜对谈OiiOii创始人闹闹：亲历微信与字节后，如何抓住下一波机会？
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/695d9741c1e012a7abb9ebc2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljyrVNrDgDvUbzWgQqSGEa2AuIMy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/695d9741c1e012a7abb9ebc2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljyrVNrDgDvUbzWgQqSGEa2AuIMy.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/695cfa18c1e012a7
 
 ---
 
-### 6. No.184 💣 2025 年终企划「震楼机」新闻盘点 | x半拿铁·周刊
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695cb72521cd486af72f6177/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljtUwAZ-jtZ7CwhEu0gvEReORG70.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695cb72521cd486af72f6177/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljtUwAZ-jtZ7CwhEu0gvEReORG70.m4a
-```
-
-</details>
-
----
-
-### 7. 452 安史之乱中的政治宣传、权力斗争与历史迷雾
+### 6. 452 安史之乱中的政治宣传、权力斗争与历史迷雾
 
 **播客名称**: 忽左忽右
 
@@ -208,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/695cd79421cd486a
 
 ---
 
-### 8. 2026 AI趋势：大厂收购、国产上市、硬件风口谁能领跑?｜对谈进击的沈帅波
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/695cd03ec1e012a7aba2861a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgu_QotBKqx_FXoeMSoxBMajImeX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/695cd03ec1e012a7aba2861a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgu_QotBKqx_FXoeMSoxBMajImeX.m4a
-```
-
-</details>
-
----
-
-### 9. #26 中科大00后辍学创业，贷款200万打造AI版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志
+### 7. #26 中科大00后辍学创业，贷款200万打造AI版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志
 
 **播客名称**: 出海相对论
 
@@ -262,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/695cc31a21cd486a
 
 ---
 
-### 10. 扭扭爵士 New Nu-Jazz 2025 年第四辑
+### 8. 扭扭爵士 New Nu-Jazz 2025 年第四辑
 
 **播客名称**: 周末变奏 Key Change
 
@@ -283,6 +229,60 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyNywidCI6MX0.5wja50V4xBU1ZlL1z3ZOCTr
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyNywidCI6MX0.5wja50V4xBU1ZlL1z3ZOCTr51QY/keychangefm/8232336755_080237.mp3
+```
+
+</details>
+
+---
+
+### 9. 10倍增长比2倍更容易？新年一起告别无效努力！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939e653a730/media.xyzcdn.net/63d945ece725b5378a158d29/llP0VCmm0q9Ky7IwQ8XmyrUldUxT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939e653a730/media.xyzcdn.net/63d945ece725b5378a158d29/llP0VCmm0q9Ky7IwQ8XmyrUldUxT.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.316 莱博维茨的赞歌：这世界为什么总在同一个地方跌倒？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4NMRweAwpG6wRTdBMs.m4a?channel=rss&album_id=29887212&track_id=946450491&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/add6-audiofreehighqps/60/8C/GKwRIW4NMRweAwpG6wRTdBMs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4NMRweAwpG6wRTdBMs.m4a?channel=rss&album_id=29887212&track_id=946450491&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/add6-audiofreehighqps/60/8C/GKwRIW4NMRweAwpG6wRTdBMs.m4a
 ```
 
 </details>
