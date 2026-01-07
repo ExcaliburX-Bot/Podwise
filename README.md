@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-07 06:34  
+> 📅 **更新时间**: 2026-01-07 12:44  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,15 +47,15 @@
 
 ---
 
-### 4. 第2891期:Ultra-processed food is a global health threat, experts warn
+### 4. 2026，AI视频「大年」将至｜对谈OiiOii创始人闹闹：亲历微信与字节后，如何抓住下一波机会？
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NH8DvAAPyhgRMF5Yv.m4a?channel=rss&album_id=14812466&track_id=942943067&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9ac5-audiofreehighqps/C6/3F/GKwRIW4NH8DvAAPyhgRMF5Yv.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/695d9741c1e012a7abb9ebc2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljyrVNrDgDvUbzWgQqSGEa2AuIMy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,15 +86,15 @@
 
 ---
 
-### 7. #26 中科大00后辍学创业，贷款200万打造AI版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志
+### 7. 2026 AI趋势：大厂收购、国产上市、硬件风口谁能领跑?｜对谈进击的沈帅波
 
-**播客**: 出海相对论
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/695cc31a21cd486af7326a4c/media.xyzcdn.net/63b7dd49289d2739647d9587/lhNXQA2OV7JdFHDNC7yRO2w_RQNj.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/695cd03ec1e012a7aba2861a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgu_QotBKqx_FXoeMSoxBMajImeX.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,28 +112,28 @@
 
 ---
 
-### 9. 10倍增长比2倍更容易？新年一起告别无效努力！
+### 9. vol.231 叭叭KTV对唱季
 
-**播客**: 搞钱女孩
+**播客**: 正经叭叭
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695bf68e5cdff939e653a730/media.xyzcdn.net/63d945ece725b5378a158d29/llP0VCmm0q9Ky7IwQ8XmyrUldUxT.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/695bcc61bdbeb6a09ee6b42f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSM6cjCep0qOhE8eig7Q7erncYy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. Vol.316 莱博维茨的赞歌：这世界为什么总在同一个地方跌倒？
+### 10. Ep185 深圳生存手册：去岭南，去办公大楼约会！
 
-**播客**: 文化有限
+**播客**: 基本无害 Mostly Harmless
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NMRweAwpG6wRTdBMs.m4a?channel=rss&album_id=29887212&track_id=946450491&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/add6-audiofreehighqps/60/8C/GKwRIW4NMRweAwpG6wRTdBMs.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/695b9d21bdbeb6a09edc2193/media.xyzcdn.net/5eae66d1418a84a046472b4d/lku8P41bk0CxIZcrecIXaFYvwLAx.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
