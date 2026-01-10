@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-10 06:31:07
+> 📅 生成时间: 2026-01-10 12:39:48
 > 📊 总计: 10 个播客
 
 ---
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64a
 
 ---
 
-### 5. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f75aaad16/media.xyzcdn.net/Fm_PECBdZ2BLuDiyrvDgGuqw7u2S.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f75aaad16/media.xyzcdn.net/Fm_PECBdZ2BLuDiyrvDgGuqw7u2S.m4a
-```
-
-</details>
-
----
-
-### 6. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
+### 5. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56
 
 ---
 
-### 7. 新年广播电视报：一起活到人生电视剧重聚的那一年
+### 6. 新年广播电视报：一起活到人生电视剧重聚的那一年
 
 **播客名称**: 展开讲讲
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61
 
 ---
 
-### 8. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
+### 7. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
 
 **播客名称**: 东亚观察局
 
@@ -235,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56
 
 ---
 
-### 9. 129. 全球大模型第一股的上市访谈，和智谱CEO张鹏聊：敢问路在何方？
+### 8. AI 养蛊，我的 AI 分身开始自己写日记了！| 对话 AI 野生布道师余一
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7abf0be09/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/liEES-JtJxuXJqZStaCtRdJmWHWb.m4a
+https://jt.ximalaya.com//GKwRIUENNWnZAvDscARVgCcA.m4a?channel=rss&album_id=74194808&track_id=947435050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/600b-audiofreehighqps/62/0B/GKwRIUENNWnZAvDscARVgCcA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +228,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7abf0be09/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/liEES-JtJxuXJqZStaCtRdJmWHWb.m4a
+https://jt.ximalaya.com//GKwRIUENNWnZAvDscARVgCcA.m4a?channel=rss&album_id=74194808&track_id=947435050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/600b-audiofreehighqps/62/0B/GKwRIUENNWnZAvDscARVgCcA.m4a
+```
+
+</details>
+
+---
+
+### 9. 番外 12 ：钟馗说，我一个状元的底子，怎么就成驱魔大神了？| 完整版请转至故事篇
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a
 ```
 
 </details>

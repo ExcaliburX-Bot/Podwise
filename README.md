@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-10 06:31  
+> 📅 **更新时间**: 2026-01-10 12:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f75aaad16/media.xyzcdn.net/Fm_PECBdZ2BLuDiyrvDgGuqw7u2S.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
+### 5. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
 
 **播客**: 沈奕斐的播客
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 新年广播电视报：一起活到人生电视剧重聚的那一年
+### 6. 新年广播电视报：一起活到人生电视剧重聚的那一年
 
 **播客**: 展开讲讲
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
+### 7. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
 
 **播客**: 东亚观察局
 
@@ -112,15 +99,28 @@
 
 ---
 
-### 9. 129. 全球大模型第一股的上市访谈，和智谱CEO张鹏聊：敢问路在何方？
+### 8. AI 养蛊，我的 AI 分身开始自己写日记了！| 对话 AI 野生布道师余一
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7abf0be09/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/liEES-JtJxuXJqZStaCtRdJmWHWb.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENNWnZAvDscARVgCcA.m4a?channel=rss&album_id=74194808&track_id=947435050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/600b-audiofreehighqps/62/0B/GKwRIUENNWnZAvDscARVgCcA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 番外 12 ：钟馗说，我一个状元的底子，怎么就成驱魔大神了？| 完整版请转至故事篇
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
