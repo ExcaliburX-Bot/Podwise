@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-10 18:28  
+> 📅 **更新时间**: 2026-01-11 01:51  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
+### 1. 第2895期:How AI could change the skills you need
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANM-0ZABC6MwRUyYEv.m4a?channel=rss&album_id=14812466&track_id=947101244&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b4d7-audiofreehighqps/51/DB/GKwRIMANM-0ZABC6MwRUyYEv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
 
 **播客**: 42章经
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 097.防止变笨的邪修大法，我这样对抗算法
+### 3. 097.防止变笨的邪修大法，我这样对抗算法
 
 **播客**: 喷嚏
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. So are we in an AI bubble? Here are clues to look for.
+### 4. So are we in an AI bubble? Here are clues to look for.
 
 **播客**: Planet Money
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
+### 5. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
+### 6. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f75aaad16/media.xyzcdn.net/Fm_PECBdZ2BLuDiyrvDgGuqw7u2S.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
+### 8. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
 
 **播客**: 沈奕斐的播客
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 新年广播电视报：一起活到人生电视剧重聚的那一年
+### 9. 新年广播电视报：一起活到人生电视剧重聚的那一年
 
 **播客**: 展开讲讲
 
@@ -99,41 +125,15 @@
 
 ---
 
-### 8. 120. 《怪奇物语》Finale：童话、异类、蜂巢、混乱善良、女性高光、在一起
+### 10. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
 
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/695fd020d4b8fa56f5f99e74/media.xyzcdn.net/nhogH8m1RlD8wzP_uUqIXaLJ7_0A.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 番外 12 ：钟馗说，我一个状元的底子，怎么就成驱魔大神了？| 完整版请转至故事篇
-
-**播客**: 半拿铁 | 商业沉浮录
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 死磕薪资不如创造“新资”！商学院教授教你如何创造新收入 | 2026马上开挂VOL.1
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695e8f9721cd486af77ea2a2/media.xyzcdn.net/63d945ece725b5378a158d29/ltZTcnu9UFTNAK1VutXbbiNdd-Qc.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56f5fae707/media.xyzcdn.net/njZIHu9rti8Lad6dwYXt1oz_zRiL.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
