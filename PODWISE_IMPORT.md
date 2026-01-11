@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-11 01:51:34
+> 📅 生成时间: 2026-01-11 06:32:44
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://jt.ximalaya.com//GKwRIMANM-0ZABC6MwRUyYEv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
+### 2. Vol.83 25页PPT记录一场中国AI“全明星赛”
 
-**播客名称**: 42章经
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f75c3edb8/media.xyzcdn.net/648b0b641c48983391a63f98/ll07TIl2xuyGLCMBxon0WUy1zx4Z.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69629a78f8b05f9f75e200a5/media.xyzcdn.net/6507bc165c88d2412626b401/lh-CVf5tFCgywyS8Eabq3D-zB5_i.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f75c3edb8/media.xyzcdn.net/648b0b641c48983391a63f98/ll07TIl2xuyGLCMBxon0WUy1zx4Z.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69629a78f8b05f9f75e200a5/media.xyzcdn.net/6507bc165c88d2412626b401/lh-CVf5tFCgywyS8Eabq3D-zB5_i.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6961e9f1e235ea65
 
 ---
 
-### 4. So are we in an AI bubble? Here are clues to look for.
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958
-```
-
-</details>
-
----
-
-### 5. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
+### 4. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64a
 
 ---
 
-### 6. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
+### 5. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f
 
 ---
 
-### 7. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
+### 6. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,34 +181,7 @@ https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
-```
-
-</details>
-
----
-
-### 9. 新年广播电视报：一起活到人生电视剧重聚的那一年
+### 7. 新年广播电视报：一起活到人生电视剧重聚的那一年
 
 **播客名称**: 展开讲讲
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61
 
 ---
 
-### 10. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
+### 8. AI 养蛊，我的 AI 分身开始自己写日记了！| 对话 AI 野生布道师余一
 
-**播客名称**: 东亚观察局
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56f5fae707/media.xyzcdn.net/njZIHu9rti8Lad6dwYXt1oz_zRiL.mp3
+https://jt.ximalaya.com//GKwRIUENNWnZAvDscARVgCcA.m4a?channel=rss&album_id=74194808&track_id=947435050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/600b-audiofreehighqps/62/0B/GKwRIUENNWnZAvDscARVgCcA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56f5fae707/media.xyzcdn.net/njZIHu9rti8Lad6dwYXt1oz_zRiL.mp3
+https://jt.ximalaya.com//GKwRIUENNWnZAvDscARVgCcA.m4a?channel=rss&album_id=74194808&track_id=947435050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/600b-audiofreehighqps/62/0B/GKwRIUENNWnZAvDscARVgCcA.m4a
+```
+
+</details>
+
+---
+
+### 9. 番外 12 ：钟馗说，我一个状元的底子，怎么就成驱魔大神了？| 完整版请转至故事篇
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltXukT69kCwJo9B0fgLGJgefV7Fl.m4a
+```
+
+</details>
+
+---
+
+### 10. 129. 全球大模型第一股的上市访谈，和智谱CEO张鹏聊：敢问路在何方？
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7abf0be09/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/liEES-JtJxuXJqZStaCtRdJmWHWb.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/695f008dc1e012a7abf0be09/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/liEES-JtJxuXJqZStaCtRdJmWHWb.m4a
 ```
 
 </details>
