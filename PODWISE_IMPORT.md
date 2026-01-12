@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-12 01:48:24
+> 📅 生成时间: 2026-01-12 06:37:09
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2896期:The year of rage bait Rage bait
+### 1. vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812466&track_id=947102702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b75-audiofreehighqps/B9/50/GKwRIUENM-9AAAPrLARUyxjr.m4a
+https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812466&track_id=947102702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b75-audiofreehighqps/B9/50/GKwRIUENM-9AAAPrLARUyxjr.m4a
+https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6961e9f1e235ea65
 
 ---
 
-### 6. So are we in an AI bubble? Here are clues to look for.
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958
-```
-
-</details>
-
----
-
-### 7. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
+### 6. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64a
 
 ---
 
-### 8. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
+### 7. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -229,6 +202,33 @@ https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=6990384&track_id=947602187&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/3b32-audiofreehighqps/F8/BA/GKwRIRwNNkMXAZdTSARV2omi.m4a
+```
+
+</details>
+
+---
+
+### 8. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61
 
 ---
 
-### 10. 240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境
+### 10. 【年终总结・日本篇】往昔荣光的违和感：“昭和百年”道尽内心纠结
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56f5fae707/media.xyzcdn.net/njZIHu9rti8Lad6dwYXt1oz_zRiL.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/695fd768d4b8fa56f5fae707/media.xyzcdn.net/njZIHu9rti8Lad6dwYXt1oz_zRiL.mp3
 ```
 
 </details>
