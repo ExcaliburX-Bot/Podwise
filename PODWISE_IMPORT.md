@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-12 12:47:04
+> 📅 生成时间: 2026-01-12 18:32:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
+### 1. vol.232 叭叭2025年终总结
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6964f8b4f8b05f9f75307865/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpB5rYyqKq3hNj_96_ZaW3mOiknJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6964f8b4f8b05f9f75307865/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpB5rYyqKq3hNj_96_ZaW3mOiknJ.m4a
+```
+
+</details>
+
+---
+
+### 2. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
 
 **播客名称**: 乱翻书
 
@@ -46,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65
 
 ---
 
-### 2. 第2896期:The year of rage bait Rage bait
+### 3. vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812466&track_id=947102702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b75-audiofreehighqps/B9/50/GKwRIUENM-9AAAPrLARUyxjr.m4a
+https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +93,14 @@ https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUENM-9AAAPrLARUyxjr.m4a?channel=rss&album_id=14812466&track_id=947102702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b75-audiofreehighqps/B9/50/GKwRIUENM-9AAAPrLARUyxjr.m4a
+https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3
 ```
 
 </details>
 
 ---
 
-### 3. 878: New Lore Drop
+### 4. 878: New Lore Drop
 
 **播客名称**: This American Life
 
@@ -100,7 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 4. Vol.83 25页PPT记录一场中国AI“全明星赛”
+### 5. Vol.83 25页PPT记录一场中国AI“全明星赛”
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69629a78f8b05f9f
 
 ---
 
-### 5. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
+### 6. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
 
 **播客名称**: 42章经
 
@@ -154,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f
 
 ---
 
-### 6. So are we in an AI bubble? Here are clues to look for.
+### 7. 097.防止变笨的邪修大法，我这样对抗算法
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6961e9f1e235ea65bc13991e/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luTWsdDmd2WOaj6-PixtpylpWkyi.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6961e9f1e235ea65bc13991e/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luTWsdDmd2WOaj6-PixtpylpWkyi.m4a
+```
+
+</details>
+
+---
+
+### 8. So are we in an AI bubble? Here are clues to look for.
 
 **播客名称**: Planet Money
 
@@ -181,34 +235,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 7. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64ad0067f8e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvIUCbWfqnnSE_5ki3dmTgL4AOdT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64ad0067f8e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvIUCbWfqnnSE_5ki3dmTgL4AOdT.m4a
-```
-
-</details>
-
----
-
-### 8. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
+### 9. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
 
 **播客名称**: 忽左忽右
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f
 
 ---
 
-### 9. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
+### 10. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=6990384&track_id=947602187&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/3b32-audiofreehighqps/F8/BA/GKwRIRwNNkMXAZdTSARV2omi.m4a
-```
-
-</details>
-
----
-
-### 10. 新年广播电视报：一起活到人生电视剧重聚的那一年
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61e1e62b9c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lskEGW8imLGqb2xZowcWtcQqJysT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61e1e62b9c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lskEGW8imLGqb2xZowcWtcQqJysT.m4a
 ```
 
 </details>
