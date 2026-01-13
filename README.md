@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-12 18:32  
+> 📅 **更新时间**: 2026-01-13 01:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.232 叭叭2025年终总结
+### 1. 第2897期:A man who lives in nature
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENN3wlAAtr4wRWhdyh.m4a?channel=rss&album_id=14812466&track_id=947860412&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/53a8-audiofreehighqps/8D/C7/GKwRIUENN3wlAAtr4wRWhdyh.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.232 叭叭2025年终总结
 
 **播客**: 正经叭叭
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
+### 3. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
 
 **播客**: 乱翻书
 
@@ -34,33 +47,7 @@
 
 ---
 
-### 3. vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 878: New Lore Drop
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9811926071.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. Vol.83 25页PPT记录一场中国AI“全明星赛”
+### 4. Vol.83 25页PPT记录一场中国AI“全明星赛”
 
 **播客**: 屠龙之术
 
@@ -73,20 +60,7 @@
 
 ---
 
-### 6. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f75c3edb8/media.xyzcdn.net/648b0b641c48983391a63f98/ll07TIl2xuyGLCMBxon0WUy1zx4Z.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 097.防止变笨的邪修大法，我这样对抗算法
+### 5. 097.防止变笨的邪修大法，我这样对抗算法
 
 **播客**: 喷嚏
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. So are we in an AI bubble? Here are clues to look for.
+### 6. So are we in an AI bubble? Here are clues to look for.
 
 **播客**: Planet Money
 
@@ -112,7 +86,20 @@
 
 ---
 
-### 9. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
+### 7. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64ad0067f8e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvIUCbWfqnnSE_5ki3dmTgL4AOdT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
 
 **播客**: 忽左忽右
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
+### 9. BYM养育03｜魏雪漫：与妈妈做最后的告别，一场关于死亡的准备
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNNkMXAZdTSARV2omi.m4a?channel=rss&album_id=6990384&track_id=947602187&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/3b32-audiofreehighqps/F8/BA/GKwRIRwNNkMXAZdTSARV2omi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 新年广播电视报：一起活到人生电视剧重聚的那一年
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61e1e62b9c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lskEGW8imLGqb2xZowcWtcQqJysT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
