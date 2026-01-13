@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-13 01:40  
+> 📅 **更新时间**: 2026-01-13 06:34  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2897期:A man who lives in nature
+### 1. Dry Cleaning：给自己一份许可，以脆弱面对世界
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENN3wlAAtr4wRWhdyh.m4a?channel=rss&album_id=14812466&track_id=947860412&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/53a8-audiofreehighqps/8D/C7/GKwRIUENN3wlAAtr4wRWhdyh.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyOCwidCI6MX0.AWeE-X9kF8ous6Mb14LPx5IetXo/keychangefm/8231763015_996588.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,15 +34,15 @@
 
 ---
 
-### 3. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
+### 3. vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”
 
-**播客**: 乱翻书
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. 097.防止变笨的邪修大法，我这样对抗算法
+### 5. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f75c3edb8/media.xyzcdn.net/648b0b641c48983391a63f98/ll07TIl2xuyGLCMBxon0WUy1zx4Z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 097.防止变笨的邪修大法，我这样对抗算法
 
 **播客**: 喷嚏
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. So are we in an AI bubble? Here are clues to look for.
+### 7. So are we in an AI bubble? Here are clues to look for.
 
 **播客**: Planet Money
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
+### 8. E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -95,19 +108,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64ad0067f8e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvIUCbWfqnnSE_5ki3dmTgL4AOdT.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 中统局往事05｜叛徒与卧底：从丁默邨、李士群「76号」魔窟到沈之岳的双面间谍疑云
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6960cb0af8b05f9f75aaad16/media.xyzcdn.net/Fm_PECBdZ2BLuDiyrvDgGuqw7u2S.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
