@@ -1,13 +1,13 @@
 [
   {
-    "eid": "ArpMgRWiK99.m4a",
-    "title": "第2898期:Dyker Heights Christmas Lights",
+    "eid": "xC85jp-DF_P.m4a",
+    "title": "东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "贝望录"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoNN4FXAArpMgRWiK99.m4a?channel=rss&album_id=14812466&track_id=947865579&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f70-audiofreehighqps/57/1F/GKwRIDoNN4FXAArpMgRWiK99.m4a",
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272a72e58d5/media.xyzcdn.net/5e285856418a84a04627b7be/ljgvHeMqCIsUKHGpTxC85jp-DF_P.m4a",
     "pubDate": "2026-01-14T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
     "eid": "eKuZPXi8Hb2.m4a",
@@ -18,6 +18,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a",
     "pubDate": "2026-01-13T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "1MNcjvCcr8k.mp3",
+    "title": "EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272a73de3c8/media.xyzcdn.net/npVGFwL64kTCSQZvN1MNcjvCcr8k.mp3",
+    "pubDate": "2026-01-13T16:56:49+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+  },
+  {
+    "eid": "uHSMgCSsAZ1.m4a",
+    "title": "453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例",
+    "podcast": {
+      "title": "忽左忽右"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696603fa109824f9e13e9712/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqsZMquHdv-DHUAnauHSMgCSsAZ1.m4a",
+    "pubDate": "2026-01-13T08:58:49+00:00",
+    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
     "eid": "xyh6QRW3vvU.m4a",
@@ -50,16 +70,6 @@
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
-    "eid": "C8BM5wnqJoz.m4a",
-    "title": "258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a",
-    "pubDate": "2026-01-12T07:25:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
     "eid": "FujvErGU-3f.mp3",
     "title": "vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”",
     "podcast": {
@@ -68,16 +78,6 @@
     "enclosureUrl": "https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3",
     "pubDate": "2026-01-12T00:05:00+08:00",
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
-  },
-  {
-    "eid": "R4348481700.mp3",
-    "title": "The Americans Outside My Window",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3",
-    "pubDate": "2026-01-12T00:00:00-05:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
     "eid": "abq3D-zB5_i.m4a",
@@ -110,14 +110,24 @@
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
   },
   {
-    "eid": "OO5NsaZ8lMP.m4a",
-    "title": "240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境",
+    "eid": "4&size=23590958",
+    "title": "So are we in an AI bubble? Here are clues to look for.",
     "podcast": {
-      "title": "沈奕斐的播客"
+      "title": "Planet Money"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a",
-    "pubDate": "2026-01-09T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
+    "enclosureUrl": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR9029304346.mp3?t=podcast&e=nx-s1-5672643&p=510289&d=1474&size=23590958",
+    "pubDate": "2026-01-10T02:03:46+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "3dmTgL4AOdT.m4a",
+    "title": "E219 2025 年的最后一页，我选择这样写下｜小酒馆故事会🍻",
+    "podcast": {
+      "title": "知行小酒馆"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6960a90f74b7d64ad0067f8e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvIUCbWfqnnSE_5ki3dmTgL4AOdT.m4a",
+    "pubDate": "2026-01-09T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "wcWtcQqJysT.m4a",
@@ -128,6 +138,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61e1e62b9c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lskEGW8imLGqb2xZowcWtcQqJysT.m4a",
     "pubDate": "2026-01-09T00:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
+    "eid": "OO5NsaZ8lMP.m4a",
+    "title": "240.成长就是对自己祛魅？如何接受自己的不完美？与小商聊聊两代人的成长困境",
+    "podcast": {
+      "title": "沈奕斐的播客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/695f86ced4b8fa56f5ea4aa0/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqXEaOzfzHCGaRY7EOO5NsaZ8lMP.m4a",
+    "pubDate": "2026-01-09T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "YXt1oz_zRiL.mp3",
@@ -160,16 +180,6 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "fdvXnbw_390.m4a",
-    "title": "番外 12 ：钟馗说，我一个状元的底子，怎么就成驱魔大神了？| 完整版请转至故事篇",
-    "podcast": {
-      "title": "半拿铁 | 商业沉浮录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/695f9a43d4b8fa56f5edaf68/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liKvvdivbcuJAkLWGfdvXnbw_390.m4a",
-    "pubDate": "2026-01-08T12:00:44+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
     "eid": "aCtRdJmWHWb.m4a",
     "title": "129. 全球大模型第一股的上市访谈，和智谱CEO张鹏聊：敢问路在何方？",
     "podcast": {
@@ -188,6 +198,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/695e8f9721cd486af77ea2a2/media.xyzcdn.net/63d945ece725b5378a158d29/ltZTcnu9UFTNAK1VutXbbiNdd-Qc.m4a",
     "pubDate": "2026-01-07T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "SJGKbQDA-f4.mp3",
+    "title": "2025年度音乐大赏：风格六大象限&非正经特别奖",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_gzxrEjnPJPGJbXTZbfwXeahvnKemePLGRSWjsDANrKKmTFQhtKSJGKbQDA-f4.mp3",
+    "pubDate": "2026-01-07T06:00:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "qSGEa2AuIMy.m4a",
@@ -230,16 +250,6 @@
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
-    "eid": "Ealo_ix2tl_.m4a",
-    "title": "EP70 | 没有资本的独立开发者，为什么反而更该先做社区？",
-    "podcast": {
-      "title": "出海去孵化器"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6956ad0d14db1df9eff4a9e8/media.xyzcdn.net/646a8c23023239d3851f5e70/ltlsaz4j66kER13u2Ealo_ix2tl_.m4a",
-    "pubDate": "2026-01-05T10:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
-  },
-  {
     "eid": "1812c3a92bc.mp3",
     "title": "【随机波动167】大火、高层与老屋里的人",
     "podcast": {
@@ -248,16 +258,6 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3",
     "pubDate": "2025-12-31T12:00:00+08:00",
     "source_rss": "https://feeds.fireside.fm/stovol/rss"
-  },
-  {
-    "eid": "83adb396be1.mp3",
-    "title": "59 不包饺子包真心：这世界仍有什么值得我们赞美和感恩",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/113291273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-30%2F21a02d8d-cadb-ac13-d5d0-f83adb396be1.mp3",
-    "pubDate": "2025-12-30T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "ffUrLi83hxt.m4a",
