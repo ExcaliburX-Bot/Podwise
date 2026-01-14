@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-14 06:34  
+> 📅 **更新时间**: 2026-01-14 12:45  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
+### 1. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lst201HsPr-Ze-b1jZGSttPP5X0_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. How much money President Trump and his family have made
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
 
 **播客**: 贝望录
 
@@ -21,7 +47,20 @@
 
 ---
 
-### 2. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
+### 4. 第2898期:Dyker Heights Christmas Lights
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNN4FXAArpMgRWiK99.m4a?channel=rss&album_id=14812466&track_id=947865579&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f70-audiofreehighqps/57/1F/GKwRIDoNN4FXAArpMgRWiK99.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
 
 **播客**: 人民公园说AI
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
+### 6. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
 
 **播客**: 硬地骇客
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
+### 7. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
 
 **播客**: 忽左忽右
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
+### 8. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
 
 **播客**: 文化有限
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. Dry Cleaning：给自己一份许可，以脆弱面对世界
+### 9. Dry Cleaning：给自己一份许可，以脆弱面对世界
 
 **播客**: 周末变奏 Key Change
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. vol.232 叭叭2025年终总结
+### 10. vol.232 叭叭2025年终总结
 
 **播客**: 正经叭叭
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6964f8b4f8b05f9f75307865/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpB5rYyqKq3hNj_96_ZaW3mOiknJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.562 喜夜群英会｜聊聊八级钳工唐山高海宝、树妖姥姥鲁菜张泰维的“喜剧老人来时路”
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tvDZeBYPTNEgbVbLxehpUxMfcHvtyQwDBTXpkCvEeKsGeFqZszFujvErGU-3f.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.83 25页PPT记录一场中国AI“全明星赛”
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69629a78f8b05f9f75e200a5/media.xyzcdn.net/6507bc165c88d2412626b401/lh-CVf5tFCgywyS8Eabq3D-zB5_i.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. All in AI 的第一个三年｜对谈绿洲资本合伙人张津剑
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6961bd3af8b05f9f75c3edb8/media.xyzcdn.net/648b0b641c48983391a63f98/ll07TIl2xuyGLCMBxon0WUy1zx4Z.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
