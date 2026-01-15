@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-15 06:34  
+> 📅 **更新时间**: 2026-01-15 12:45  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+### 1. AI Coding 言出法随，未来什么还会值钱？
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2899期:Internet access in rural areas
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANONY9ABUpSwRXSReM.m4a?channel=rss&album_id=14812466&track_id=948145611&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7897-audiofreehighqps/90/90/GKwRIMANONY9ABUpSwRXSReM.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
 
 **播客**: 搞钱女孩
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
+### 5. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -29,12 +68,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkqrtDTNZo2kfGlyRolIBVpUiM1a.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/liIuYqz76poMuWotW2zUR9gcCZXG.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
+### 6. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
+### 7. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
 
 **播客**: 贝望录
 
@@ -60,20 +99,7 @@
 
 ---
 
-### 5. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
+### 8. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
 
 **播客**: 硬地骇客
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
+### 9. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
 
 **播客**: 忽左忽右
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
+### 10. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
 
 **播客**: 文化有限
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NN_VhAxyh6QRW3vvU.m4a?channel=rss&album_id=29887212&track_id=947975269&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0822-audiofreehighqps/D0/4D/GKwRIW4NN_VhAxyh6QRW3vvU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. The Americans Outside My Window
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

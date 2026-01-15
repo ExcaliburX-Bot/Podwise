@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-15 06:34:31
+> 📅 生成时间: 2026-01-15 12:45:19
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+### 1. AI Coding 言出法随，未来什么还会值钱？
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
+```
+
+</details>
+
+---
+
+### 3. 第2899期:Internet access in rural areas
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANONY9ABUpSwRXSReM.m4a?channel=rss&album_id=14812466&track_id=948145611&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7897-audiofreehighqps/90/90/GKwRIMANONY9ABUpSwRXSReM.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANONY9ABUpSwRXSReM.m4a?channel=rss&album_id=14812466&track_id=948145611&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7897-audiofreehighqps/90/90/GKwRIMANONY9ABUpSwRXSReM.m4a
+```
+
+</details>
+
+---
+
+### 4. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
 
 **播客名称**: 搞钱女孩
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272
 
 ---
 
-### 2. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
+### 5. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -54,7 +135,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkqrtDTNZo2kfGlyRolIBVpUiM1a.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/liIuYqz76poMuWotW2zUR9gcCZXG.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkqrtDTNZo2kfGlyRolIBVpUiM1a.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/liIuYqz76poMuWotW2zUR9gcCZXG.m4a
 ```
 
 </details>
 
 ---
 
-### 3. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
+### 6. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598d
 
 ---
 
-### 4. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
+### 7. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
 
 **播客名称**: 贝望录
 
@@ -127,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272
 
 ---
 
-### 5. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a
-```
-
-</details>
-
----
-
-### 6. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
+### 8. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
 
 **播客名称**: 硬地骇客
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272
 
 ---
 
-### 7. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
+### 9. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696603fa109824f9
 
 ---
 
-### 8. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
+### 10. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
 
 **播客名称**: 文化有限
 
@@ -229,60 +283,6 @@ https://jt.ximalaya.com//GKwRIW4NN_VhAxyh6QRW3vvU.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4NN_VhAxyh6QRW3vvU.m4a?channel=rss&album_id=29887212&track_id=947975269&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0822-audiofreehighqps/D0/4D/GKwRIW4NN_VhAxyh6QRW3vvU.m4a
-```
-
-</details>
-
----
-
-### 9. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a
-```
-
-</details>
-
----
-
-### 10. The Americans Outside My Window
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR4348481700.mp3
 ```
 
 </details>
