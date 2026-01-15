@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-14 18:34:20
+> 📅 生成时间: 2026-01-15 01:42:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
+### 1. 第2899期:Internet access in rural areas
 
-**播客名称**: 无聊斋
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
+https://jt.ximalaya.com//GKwRIMANONY9ABUpSwRXSReM.m4a?channel=rss&album_id=14812466&track_id=948145611&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7897-audiofreehighqps/90/90/GKwRIMANONY9ABUpSwRXSReM.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHU
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
+https://jt.ximalaya.com//GKwRIMANONY9ABUpSwRXSReM.m4a?channel=rss&album_id=14812466&track_id=948145611&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7897-audiofreehighqps/90/90/GKwRIMANONY9ABUpSwRXSReM.m4a
 ```
 
 </details>
 
 ---
 
-### 2. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
+### 2. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
+```
+
+</details>
+
+---
+
+### 3. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -73,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272
 
 ---
 
-### 3. How much money President Trump and his family have made
+### 4. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
 
-**播客名称**: Planet Money
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lst201HsPr-Ze-b1jZGSttPP5X0_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,68 +120,14 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 音频链接（点击复制）:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lst201HsPr-Ze-b1jZGSttPP5X0_.m4a
 ```
 
 </details>
 
 ---
 
-### 4. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272a72e58d5/media.xyzcdn.net/5e285856418a84a04627b7be/ljgvHeMqCIsUKHGpTxC85jp-DF_P.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272a72e58d5/media.xyzcdn.net/5e285856418a84a04627b7be/ljgvHeMqCIsUKHGpTxC85jp-DF_P.m4a
-```
-
-</details>
-
----
-
-### 5. 第2898期:Dyker Heights Christmas Lights
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoNN4FXAArpMgRWiK99.m4a?channel=rss&album_id=14812466&track_id=947865579&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f70-audiofreehighqps/57/1F/GKwRIDoNN4FXAArpMgRWiK99.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoNN4FXAArpMgRWiK99.m4a?channel=rss&album_id=14812466&track_id=947865579&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f70-audiofreehighqps/57/1F/GKwRIDoNN4FXAArpMgRWiK99.m4a
-```
-
-</details>
-
----
-
-### 6. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
+### 5. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
 
 **播客名称**: 人民公园说AI
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272
 
 ---
 
-### 7. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
+### 6. EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象
 
 **播客名称**: 硬地骇客
 
@@ -202,6 +175,33 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272a73de3c8/media.xyzcdn.net/npVGFwL64kTCSQZvN1MNcjvCcr8k.mp3
+```
+
+</details>
+
+---
+
+### 7. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696603fa109824f9e13e9712/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqsZMquHdv-DHUAnauHSMgCSsAZ1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696603fa109824f9e13e9712/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqsZMquHdv-DHUAnauHSMgCSsAZ1.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyOCwidCI6MX0.AWeE-X9kF8ous6Mb14LPx5I
 
 ---
 
-### 10. 258.对话光帆科技董红光：当耳机长出眼睛， “说一下”开始取代“点十下”
+### 10. vol.232 叭叭2025年终总结
 
-**播客名称**: 乱翻书
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6964f8b4f8b05f9f75307865/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpB5rYyqKq3hNj_96_ZaW3mOiknJ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69649d43e235ea65bc6b156c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lquPi9T95ggH2ZM_SC8BM5wnqJoz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6964f8b4f8b05f9f75307865/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpB5rYyqKq3hNj_96_ZaW3mOiknJ.m4a
 ```
 
 </details>
