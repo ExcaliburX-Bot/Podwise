@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-16 06:34  
+> 📅 **更新时间**: 2026-01-16 12:44  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2900期:A Day in the Life of a Room Attendant
+### 1. 148: 访谈它石创始人陈亦伦：具身的三道曙光和第一道关卡
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNONmRAA_yfARXSwI5.m4a?channel=rss&album_id=14812466&track_id=948149887&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2fd4-audiofreehighqps/9D/D3/GKwRIasNONmRAA_yfARXSwI5.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/86b56730-d176-4fc4-8b5f-a5dbb8b5e404.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
+### 3. 第2900期:A Day in the Life of a Room Attendant
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNONmRAA_yfARXSwI5.m4a?channel=rss&album_id=14812466&track_id=948149887&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2fd4-audiofreehighqps/9D/D3/GKwRIasNONmRAA_yfARXSwI5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
 
 **播客**: 东亚观察局
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69690b77ef1cf272a798dd59/media.xyzcdn.net/njvapy5CyksvL_wFnH163UGhelYh.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. AI Coding 言出法随，未来什么还会值钱？
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. How much money President Trump and his family have made
+### 8. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lst201HsPr-Ze-b1jZGSttPP5X0_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. How much money President Trump and his family have made
 
 **播客**: Planet Money
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
+### 10. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
 
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 453 从抓捕马杜罗事件漫谈美式隐蔽行动与特种作战：以拉美和中东为例
-
-**播客**: 忽左忽右
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696603fa109824f9e13e9712/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqsZMquHdv-DHUAnauHSMgCSsAZ1.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272a72e58d5/media.xyzcdn.net/5e285856418a84a04627b7be/ljgvHeMqCIsUKHGpTxC85jp-DF_P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
