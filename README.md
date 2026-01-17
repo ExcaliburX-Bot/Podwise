@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-16 18:33  
+> 📅 **更新时间**: 2026-01-17 01:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
+### 1. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
 
-**播客**: 忽左忽右
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9e1d38758/media.xyzcdn.net/Fp250fbHo9XEONeOYEzkFJ_AjAoI.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6969e300109824f9e1cca69e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrw1XikLbxDO2fvoyYiwYleZ0PAE.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 第2900期:A Day in the Life of a Room Attendant
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNONmRAA_yfARXSwI5.m4a?channel=rss&album_id=14812466&track_id=948149887&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2fd4-audiofreehighqps/9D/D3/GKwRIasNONmRAA_yfARXSwI5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
+### 3. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
 
 **播客**: 沈奕斐的播客
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
+### 4. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
 
 **播客**: 东亚观察局
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. AI Coding 言出法随，未来什么还会值钱？
+### 5. AI Coding 言出法随，未来什么还会值钱？
 
 **播客**: AI炼金术
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+### 6. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
 
 **播客**: 搞钱女孩
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
+### 7. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
+### 8. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lst201HsPr-Ze-b1jZGSttPP5X0_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. How much money President Trump and his family have made
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2345041824.mp3?t=podcast&e=nx-s1-5677024&p=510289&d=1851&size=29616675)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 东观西望丨7. 逛药妆店这件事，日本是日常，英国是“正事”
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69662a0cef1cf272a72e58d5/media.xyzcdn.net/5e285856418a84a04627b7be/ljgvHeMqCIsUKHGpTxC85jp-DF_P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
