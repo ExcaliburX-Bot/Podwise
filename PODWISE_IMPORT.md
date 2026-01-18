@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-18 06:31:56
+> 📅 生成时间: 2026-01-18 12:40:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 小步5曲 #1丨Chill 重返九十年代
+### 1. 有一种迷人叫 9m88，她总是“怪”得很自在
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3
+```
+
+</details>
+
+---
+
+### 2. 小步5曲 #1丨Chill 重返九十年代
 
 **播客名称**: 周末变奏 Key Change
 
@@ -46,7 +73,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvD
 
 ---
 
-### 2. 第2902期:Red Sky Restaurant
+### 3. 第2902期:Red Sky Restaurant
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,15 +100,15 @@ https://jt.ximalaya.com//GKwRIJENOObtABaJuARXUnnH.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Chevron, Venezuela and the Paradox of Plenty
+### 4. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
 
-**播客名称**: Planet Money
+**播客名称**: 出海去孵化器
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +120,14 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 音频链接（点击复制）:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
 ```
 
 </details>
 
 ---
 
-### 4. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
+### 5. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6969e300109824f9
 
 ---
 
-### 5. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
+### 6. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9
 
 ---
 
-### 6. 148: 访谈它石创始人陈亦伦：具身的三道曙光和第一道关卡
+### 7. 148: 访谈它石创始人陈亦伦：具身的三道曙光和第一道关卡
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/86b5
 
 ---
 
-### 7. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
+### 8. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
 
 **播客名称**: 沈奕斐的播客
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9e1aecc44/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lvfKY9fdJrIKrnyKV6VoQS_jg8nL.m4a
-```
-
-</details>
-
----
-
-### 8. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69690b77ef1cf272a798dd59/media.xyzcdn.net/njvapy5CyksvL_wFnH163UGhelYh.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69690b77ef1cf272a798dd59/media.xyzcdn.net/njvapy5CyksvL_wFnH163UGhelYh.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194
 
 ---
 
-### 10. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+### 10. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
+https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
+https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
 ```
 
 </details>
