@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-18 01:50:46
+> 📅 生成时间: 2026-01-18 06:31:56
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvD
 
 ---
 
-### 2. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
+### 2. 第2902期:Red Sky Restaurant
 
-**播客名称**: 出海去孵化器
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
+https://jt.ximalaya.com//GKwRIJENOObtABaJuARXUnnH.m4a?channel=rss&album_id=14812466&track_id=948164595&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5a29-audiofreehighqps/8B/CA/GKwRIJENOObtABaJuARXUnnH.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
+https://jt.ximalaya.com//GKwRIJENOObtABaJuARXUnnH.m4a?channel=rss&album_id=14812466&track_id=948164595&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5a29-audiofreehighqps/8B/CA/GKwRIJENOObtABaJuARXUnnH.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/86b5
 
 ---
 
-### 7. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
+### 7. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9e1aecc44/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lvfKY9fdJrIKrnyKV6VoQS_jg8nL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9e1aecc44/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lvfKY9fdJrIKrnyKV6VoQS_jg8nL.m4a
+```
+
+</details>
+
+---
+
+### 8. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
 
 **播客名称**: 东亚观察局
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69690b77ef1cf272
 
 ---
 
-### 8. AI Coding 言出法随，未来什么还会值钱？
+### 9. AI Coding 言出法随，未来什么还会值钱？
 
 **播客名称**: AI炼金术
 
@@ -229,33 +256,6 @@ https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a
-```
-
-</details>
-
----
-
-### 9. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3
 ```
 
 </details>
