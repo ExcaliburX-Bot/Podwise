@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-17 18:28  
+> 📅 **更新时间**: 2026-01-18 01:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
+### 1. 小步5曲 #1丨Chill 重返九十年代
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
 
 **播客**: 出海去孵化器
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
+### 3. Chevron, Venezuela and the Paradox of Plenty
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
 
 **播客**: 知行小酒馆
 
@@ -34,7 +60,33 @@
 
 ---
 
-### 3. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
+### 5. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9e1d38758/media.xyzcdn.net/Fp250fbHo9XEONeOYEzkFJ_AjAoI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 148: 访谈它石创始人陈亦伦：具身的三道曙光和第一道关卡
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/86b56730-d176-4fc4-8b5f-a5dbb8b5e404.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 268 李在明访华成果谈：面子拉满，里子嘛...emmm
 
 **播客**: 东亚观察局
 
@@ -47,7 +99,7 @@
 
 ---
 
-### 4. AI Coding 言出法随，未来什么还会值钱？
+### 8. AI Coding 言出法随，未来什么还会值钱？
 
 **播客**: AI炼金术
 
@@ -60,7 +112,20 @@
 
 ---
 
-### 5. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+### 9. vol.563 见天地｜欧洲滑雪竟然还有滑雪假？还偶遇婚礼？还能滑到意大利吃午饭？
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_HZStbCpeHHsJeBstYzeKXHayVzQcbXHHMrGFDfJHAqUzfYRzVnuHUHMNxH-7e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
 
 **播客**: 搞钱女孩
 
@@ -69,71 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhVvP6MPkpltpJVdrSqUk7h3KXzF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. No.185 🚘️ 从“皮卡之王”到“中国SUV教父”：“保定车神”魏建军和他的长城帝国
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69671ac347cd598dbfeae276/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmDwav61vqKYphnkT6uktt2OH3m-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.317 作家城堡：正义为什么注定不完美，谁又有资格审判历史？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NN_VhAxyh6QRW3vvU.m4a?channel=rss&album_id=29887212&track_id=947975269&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0822-audiofreehighqps/D0/4D/GKwRIW4NN_VhAxyh6QRW3vvU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Dry Cleaning：给自己一份许可，以脆弱面对世界
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTMyOCwidCI6MX0.AWeE-X9kF8ous6Mb14LPx5IetXo/keychangefm/8231763015_996588.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
