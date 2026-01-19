@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-19 01:49:23
+> 📅 生成时间: 2026-01-19 06:38:50
 > 📊 总计: 10 个播客
 
 ---
@@ -81,7 +81,7 @@ https://jt.ximalaya.com//GKwRIasNQMCdABYRTwRasgUp.m4a?channel=rss&album_id=14812
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ls_-m53a0A-YB3NRiUIdyw0-XFFC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ls_-m53a0A-YB3NRiUIdyw0-XFFC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
-```
-
-</details>
-
----
-
-### 7. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复从业者王一铭
+### 6. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复从业者王一铭
 
 **播客名称**: 脑放电波
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9
 
 ---
 
-### 8. 小步5曲 #1丨Chill 重返九十年代
+### 7. 小步5曲 #1丨Chill 重返九十年代
 
 **播客名称**: 周末变奏 Key Change
 
@@ -229,6 +202,33 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvD
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3
+```
+
+</details>
+
+---
+
+### 8. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
+
+**播客名称**: 出海去孵化器
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
 ```
 
 </details>

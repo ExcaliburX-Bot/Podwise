@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-19T01:49:23.912624",
+  "generated_at": "2026-01-19T06:38:50.221996",
   "total_count": 10,
   "episodes": [
     {
@@ -26,7 +26,7 @@
       "rank": 3,
       "title": "艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40",
       "podcast": "温柔人类 GentleHuman",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ls_-m53a0A-YB3NRiUIdyw0-XFFC.m4a",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -54,16 +54,6 @@
     },
     {
       "rank": 6,
-      "title": "偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复从业者王一铭",
       "podcast": "脑放电波",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a",
@@ -73,10 +63,20 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "小步5曲 #1丨Chill 重返九十年代",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "title": "EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证",
+      "podcast": "出海去孵化器",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
