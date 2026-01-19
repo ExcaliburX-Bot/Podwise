@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-19 06:38:50
+> 📅 生成时间: 2026-01-19 12:50:07
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIasNQMCdABYRTwRasgUp.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a
-```
-
-</details>
-
----
-
-### 4. 有一种迷人叫 9m88，她总是“怪”得很自在
+### 3. 9m88：“怪”得自在才迷人
 
 **播客名称**: Vibration 歪波音室
 
@@ -127,15 +100,15 @@ https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqj
 
 ---
 
-### 5. 879: A Christian and a Muslim Walk Into a Bar
+### 4. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
 
-**播客名称**: This American Life
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,95 +120,14 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复从业者王一铭
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a
-```
-
-</details>
-
----
-
-### 7. 小步5曲 #1丨Chill 重返九十年代
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3
-```
-
-</details>
-
----
-
-### 8. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a
-```
-
-</details>
-
----
-
-### 9. Chevron, Venezuela and the Paradox of Plenty
+### 5. Chevron, Venezuela and the Paradox of Plenty
 
 **播客名称**: Planet Money
 
@@ -262,7 +154,34 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 ---
 
-### 10. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
+### 6. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6969e300109824f9e1cca69e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrw1XikLbxDO2fvoyYiwYleZ0PAE.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6969e300109824f9e1cca69e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrw1XikLbxDO2fvoyYiwYleZ0PAE.m4a
+```
+
+</details>
+
+---
+
+### 7. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +202,87 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9e1d38758/media.xyzcdn.net/Fp250fbHo9XEONeOYEzkFJ_AjAoI.m4a
+```
+
+</details>
+
+---
+
+### 8. 241.对话歌手陈鸿宇夫妇：为自己写<理想三旬>到为孩子写歌，有什么转变？两个音乐人的家庭有什么烦恼？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9e1aecc44/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lvfKY9fdJrIKrnyKV6VoQS_jg8nL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6968fedb109824f9e1aecc44/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lvfKY9fdJrIKrnyKV6VoQS_jg8nL.m4a
+```
+
+</details>
+
+---
+
+### 9. AI Coding 言出法随，未来什么还会值钱？
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a
+```
+
+</details>
+
+---
+
+### 10. 王潇：用16天战胜拖延症？4个招式养成习得性自助 | 2026马上开挂VOL.2
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6967d951ef1cf272a76772be/media.xyzcdn.net/63d945ece725b5378a158d29/lrbizV6PccerSY8LVlSb9-rrDelQ.m4a
 ```
 
 </details>
