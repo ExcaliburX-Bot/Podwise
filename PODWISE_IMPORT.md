@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-20 12:50:31
+> 📅 生成时间: 2026-01-20 18:37:25
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
+### 1. 130. 成为迪士尼之前，泡泡玛特可能先超过乐高
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep130.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep130.mp3
+```
+
+</details>
+
+---
+
+### 2. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9e1919bc5/media.xyzcdn.net/6507bc165c88d2412626b401/lq7su_2nKZhiTvyT-0igaYRlvxjK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9e1919bc5/media.xyzcdn.net/6507bc165c88d2412626b401/lq7su_2nKZhiTvyT-0igaYRlvxjK.m4a
+```
+
+</details>
+
+---
+
+### 3. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272
 
 ---
 
-### 2. No.215 「雄鸡一唱天下白」之后，该如何重新理解品牌？
+### 4. No.215 「雄鸡一唱天下白」之后，该如何重新理解品牌？
 
 **播客名称**: 三五环
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272
 
 ---
 
-### 3. 第2904期:Deep sea mining could pose wildlife risk
+### 5. 第2904期:Deep sea mining could pose wildlife risk
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJINQMK3AAYghwRas0oa.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
+### 6. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
 
 **播客名称**: 文化有限
 
@@ -127,15 +181,15 @@ https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. vol.233 艺低人胆小，害怕咱就跑
+### 7. vol.564 喜夜群英会｜四士同堂：这四年能与列位共谋大事，人间这一遭没白来
 
-**播客名称**: 正经叭叭
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a
+https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a
+https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40
+### 8. 艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272
 
 ---
 
-### 7. 9m88：“怪”得自在才迷人
+### 9. 9m88：“怪”得自在才迷人
 
 **播客名称**: Vibration 歪波音室
 
@@ -208,7 +262,7 @@ https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqj
 
 ---
 
-### 8. 879: A Christian and a Muslim Walk Into a Bar
+### 10. 879: A Christian and a Muslim Walk Into a Bar
 
 **播客名称**: This American Life
 
@@ -229,60 +283,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3
-```
-
-</details>
-
----
-
-### 9. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
-```
-
-</details>
-
----
-
-### 10. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复硬件创业者王一铭
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a
 ```
 
 </details>
