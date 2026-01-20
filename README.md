@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-20 01:44  
+> 📅 **更新时间**: 2026-01-20 06:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.564 喜夜群英会｜四士同堂：这四年能与列位共谋大事，人间这一遭没白来
+### 1. 第2904期:Deep sea mining could pose wildlife risk
 
-**播客**: 无聊斋
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINQMK3AAYghwRas0oa.m4a?channel=rss&album_id=14812466&track_id=949791334&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/163f-audiofreehighqps/D5/BD/GKwRIJINQMK3AAYghwRas0oa.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 879: A Christian and a Muslim Walk Into a Bar
+### 3. 9m88：“怪”得自在才迷人
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 879: A Christian and a Muslim Walk Into a Bar
 
 **播客**: This American Life
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,15 +86,15 @@
 
 ---
 
-### 7. Chevron, Venezuela and the Paradox of Plenty
+### 7. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
 
-**播客**: Planet Money
+**播客**: 出海去孵化器
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR1340849806.mp3?t=podcast&e=nx-s1-5680400&p=510289&d=1982&size=31716502)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
