@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-19 18:32  
+> 📅 **更新时间**: 2026-01-20 01:44  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.233 艺低人胆小，害怕咱就跑
+### 1. vol.564 喜夜群英会｜四士同堂：这四年能与列位共谋大事，人间这一遭没白来
 
-**播客**: 正经叭叭
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh1_lmSgrd0q6yPKz3K0MjKK31uv.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 9m88：“怪”得自在才迷人
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 879: A Christian and a Muslim Walk Into a Bar
+### 3. 879: A Christian and a Muslim Walk Into a Bar
 
 **播客**: This American Life
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

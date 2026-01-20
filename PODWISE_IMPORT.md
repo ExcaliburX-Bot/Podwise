@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-19 18:32:24
+> 📅 生成时间: 2026-01-20 01:44:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.233 艺低人胆小，害怕咱就跑
+### 1. vol.564 喜夜群英会｜四士同堂：这四年能与列位共谋大事，人间这一遭没白来
 
-**播客名称**: 正经叭叭
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh1_lmSgrd0q6yPKz3K0MjKK31uv.m4a
+https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh1_lmSgrd0q6yPKz3K0MjKK31uv.m4a
+https://tk.wavpub.com/WPDL_pCRZkCymDrusfpSETpjGSVUzHXTqyVngwzjmvsXPnqckJhkYPyXBPcjatT-62.m4a
 ```
 
 </details>
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272
 
 ---
 
-### 3. 9m88：“怪”得自在才迷人
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3
-```
-
-</details>
-
----
-
-### 4. 879: A Christian and a Muslim Walk Into a Bar
+### 3. 879: A Christian and a Muslim Walk Into a Bar
 
 **播客名称**: This American Life
 
@@ -121,6 +94,33 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3212702912.mp3
+```
+
+</details>
+
+---
+
+### 4. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a
 ```
 
 </details>
