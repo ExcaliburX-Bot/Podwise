@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-20 06:36  
+> 📅 **更新时间**: 2026-01-20 12:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2904期:Deep sea mining could pose wildlife risk
+### 1. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgFGAJdgL0iug_AiBW3W0W9cSJgb.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. No.215 「雄鸡一唱天下白」之后，该如何重新理解品牌？
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272a75afaca/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvNOQ3cA9169EKg5XOUF3PXmm7Ql.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2904期:Deep sea mining could pose wildlife risk
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +47,33 @@
 
 ---
 
-### 2. 艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40
+### 4. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. vol.233 艺低人胆小，害怕咱就跑
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40
 
 **播客**: 温柔人类 GentleHuman
 
@@ -34,7 +86,7 @@
 
 ---
 
-### 3. 9m88：“怪”得自在才迷人
+### 7. 9m88：“怪”得自在才迷人
 
 **播客**: Vibration 歪波音室
 
@@ -47,7 +99,7 @@
 
 ---
 
-### 4. 879: A Christian and a Muslim Walk Into a Bar
+### 8. 879: A Christian and a Muslim Walk Into a Bar
 
 **播客**: This American Life
 
@@ -60,7 +112,20 @@
 
 ---
 
-### 5. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复硬件创业者王一铭
+### 9. 偏执、野心，与一副 AI 眼镜：顶级产品经理的底层燃料｜对谈理想 SVP 范皓宇
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/696b6b3a109824f9e1fe90e2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhpAQTsog-ENDUdUIHpdEFuj7fmK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 久坐危机：提前解锁50岁的腰，“坐直”反而是最大误区？对谈康复硬件创业者王一铭
 
 **播客**: 脑放电波
 
@@ -69,71 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/696c9a99109824f9e11db911/media.xyzcdn.net/636669d51064cb55f31505fc/llJOK9MNcQ6_DLst-gpjWRcdr63W.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 小步5曲 #1丨Chill 重返九十年代
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUwNSwidCI6MX0.cYnW-WSBrvitBRxx2tp4SvDE5fs/keychangefm/8231421526_043012.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. EP71 | 别再闭门造车了：月入万刀的独立开发路径已经被验证
-
-**播客**: 出海去孵化器
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/696b4359ef1cf272a7e098f1/media.xyzcdn.net/646a8c23023239d3851f5e70/lvfPdH8Kt0YI6BVRHc75koOFgdpb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. E220 对话聂辉华：都说宇宙的尽头是考公，但体制内到底是什么样？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6969e300109824f9e1cca69e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrw1XikLbxDO2fvoyYiwYleZ0PAE.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 中统局往事06｜乱世末路与特务群像：张冲、黄凯、季源溥及其他
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696a0287109824f9e1d38758/media.xyzcdn.net/Fp250fbHo9XEONeOYEzkFJ_AjAoI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 148: 访谈它石创始人陈亦伦：具身的三道曙光和第一道关卡
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/86b56730-d176-4fc4-8b5f-a5dbb8b5e404.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
