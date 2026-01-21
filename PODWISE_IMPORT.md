@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-21 12:51:01
+> 📅 生成时间: 2026-01-21 18:42:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
+### 1. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
+https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
+https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a
 ```
 
 </details>
