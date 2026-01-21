@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-21 01:47:25
+> 📅 生成时间: 2026-01-21 06:37:26
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://rio.xyzcdn.net/crazycapital/ep130.mp3
 
 ---
 
-### 3. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+### 3. 第2905期:UK charity put 10 endangered species on priority list to help in 2026
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINQMQxAASZ6wRatDd4.m4a?channel=rss&album_id=14812466&track_id=949793145&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2f0c-audiofreehighqps/B7/52/GKwRIJINQMQxAASZ6wRatDd4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINQMQxAASZ6wRatDd4.m4a?channel=rss&album_id=14812466&track_id=949793145&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2f0c-audiofreehighqps/B7/52/GKwRIJINQMQxAASZ6wRatDd4.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
 
 **播客名称**: 屠龙之术
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9
 
 ---
 
-### 4. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
+### 5. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
 
 **播客名称**: 放学以后After school
 
@@ -127,7 +154,7 @@ https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 5. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
+### 6. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
 
 **播客名称**: 忽左忽右
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgFGAJdgL0iug_AiBW3W0W9cSJgb.m4a
-```
-
-</details>
-
----
-
-### 6. No.215 「雄鸡一唱天下白」之后，该如何重新理解品牌？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272a75afaca/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvNOQ3cA9169EKg5XOUF3PXmm7Ql.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272a75afaca/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvNOQ3cA9169EKg5XOUF3PXmm7Ql.m4a
 ```
 
 </details>
