@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-22 06:35  
+> 📅 **更新时间**: 2026-01-22 12:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. BOARD GAMES 3: What’s in a name?
+### 1. 210. 当名人下场做播客：我们究竟在期待什么？-从「小天章」说起的一次冷静行业观察
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6971f20bef1cf272a7dabc02/media.xyzcdn.net/5e285856418a84a04627b7be/lgdPqu9hcX_jamoKDFSkHHjwf9VU.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. BOARD GAMES 3: What’s in a name?
 
 **播客**: Planet Money
 
@@ -21,20 +34,20 @@
 
 ---
 
-### 2. 第2906期:The healing power of soap-making
+### 3. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINQMlMABPHZwRat551.m4a?channel=rss&album_id=14812466&track_id=949797251&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/12b0-audiofreehighqps/64/2A/GKwRIaINQMlMABPHZwRat551.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
+### 4. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
+### 5. 第2906期:The healing power of soap-making
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINQMlMABPHZwRat551.m4a?channel=rss&album_id=14812466&track_id=949797251&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/12b0-audiofreehighqps/64/2A/GKwRIaINQMlMABPHZwRat551.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
 
 **播客**: 搞钱女孩
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 小步5曲 #2丨热情的吉他
+### 7. 小步5曲 #2丨热情的吉他
 
 **播客**: 周末变奏 Key Change
 
@@ -69,32 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 209. 英伦奇葩说丨为什么英国人开车宁愿绕圈，也不爱等红灯？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69701cf0ef1cf272a7892545/media.xyzcdn.net/5e285856418a84a04627b7be/lmIkpkZyexIHnJN3dl-138ZvUkLi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？
+### 10. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
 
-**播客**: 三五环
+**播客**: 放学以后After school
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272a75afaca/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvNOQ3cA9169EKg5XOUF3PXmm7Ql.m4a)
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-11%2Fd91741ea-7120-2c9a-80bd-fa0667ff9d22.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
