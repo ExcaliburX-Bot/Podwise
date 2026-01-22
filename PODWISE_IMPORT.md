@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-22 01:46:48
+> 📅 生成时间: 2026-01-22 06:35:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2906期:The healing power of soap-making
+### 1. BOARD GAMES 3: What’s in a name?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721
+```
+
+</details>
+
+---
+
+### 2. 第2906期:The healing power of soap-making
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIaINQMlMABPHZwRat551.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
+### 3. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9
 
 ---
 
-### 3. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
+### 4. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
 
 **播客名称**: 搞钱女孩
 
@@ -81,7 +108,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/lmKAU4DMiP257HzJ1OeCdAx3QUdg.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +120,41 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/lmKAU4DMiP257HzJ1OeCdAx3QUdg.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a
 ```
 
 </details>
 
 ---
 
-### 4. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
+### 5. 小步5曲 #2丨热情的吉他
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
+```
+
+</details>
+
+---
+
+### 6. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9
 
 ---
 
-### 5. 209. 英伦奇葩说丨为什么英国人开车宁愿绕圈，也不爱等红灯？
+### 7. 209. 英伦奇葩说丨为什么英国人开车宁愿绕圈，也不爱等红灯？
 
 **播客名称**: 贝望录
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69701cf0ef1cf272
 
 ---
 
-### 6. 130. 成为迪士尼之前，泡泡玛特可能先超过乐高
+### 8. 130. 成为迪士尼之前，泡泡玛特可能先超过乐高
 
 **播客名称**: 疯投圈
 
@@ -181,7 +235,7 @@ https://rio.xyzcdn.net/crazycapital/ep130.mp3
 
 ---
 
-### 7. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+### 9. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
 
 **播客名称**: 屠龙之术
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9
 
 ---
 
-### 8. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
-```
-
-</details>
-
----
-
-### 9. No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？
+### 10. No.215 红利退去、关注情绪价值的时代，该如何重新理解品牌？
 
 **播客名称**: 三五环
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/696ef1e1ef1cf272a75afaca/media.xyzcdn.net/5e280fab418a84a0461faa3c/lvNOQ3cA9169EKg5XOUF3PXmm7Ql.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a
 ```
 
 </details>
