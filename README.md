@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-22 12:49  
+> 📅 **更新时间**: 2026-01-22 18:33  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第2906期:The healing power of soap-making
+### 4. 第2906期:The healing power of soap-making
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -73,46 +60,20 @@
 
 ---
 
-### 6. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
+### 5. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
 
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 小步5曲 #2丨热情的吉他
-
-**播客**: 周末变奏 Key Change
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 130. 成为迪士尼之前，泡泡玛特可能先超过乐高
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep130.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+### 6. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
 
 **播客**: 屠龙之术
 
@@ -125,7 +86,7 @@
 
 ---
 
-### 10. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
+### 7. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
 
 **播客**: 放学以后After school
 
@@ -134,6 +95,45 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-11%2Fd91741ea-7120-2c9a-80bd-fa0667ff9d22.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.233 艺低人胆小，害怕咱就跑
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

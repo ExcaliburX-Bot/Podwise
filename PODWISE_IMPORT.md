@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-22 12:49:51
+> 📅 生成时间: 2026-01-22 18:33:21
 > 📊 总计: 10 个播客
 
 ---
@@ -100,34 +100,7 @@ https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvBy
 
 ---
 
-### 4. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a
-```
-
-</details>
-
----
-
-### 5. 第2906期:The healing power of soap-making
+### 4. 第2906期:The healing power of soap-making
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -154,15 +127,15 @@ https://jt.ximalaya.com//GKwRIaINQMlMABPHZwRat551.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
+### 5. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
 
-**播客名称**: 搞钱女孩
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,68 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
 ```
 
 </details>
 
 ---
 
-### 7. 小步5曲 #2丨热情的吉他
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
-```
-
-</details>
-
----
-
-### 8. 130. 成为迪士尼之前，泡泡玛特可能先超过乐高
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep130.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep130.mp3
-```
-
-</details>
-
----
-
-### 9. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+### 6. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
 
 **播客名称**: 屠龙之术
 
@@ -262,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9
 
 ---
 
-### 10. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
+### 7. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
 
 **播客名称**: 放学以后After school
 
@@ -283,6 +202,87 @@ https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl
 音频链接（点击复制）:
 ```
 https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-11%2Fd91741ea-7120-2c9a-80bd-fa0667ff9d22.mp3
+```
+
+</details>
+
+---
+
+### 8. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.318 呼啸山庄：为什么有些爱终将无法安放？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNQ2maAtFaLgRb2QCl.m4a?channel=rss&album_id=29887212&track_id=950317750&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/58b2-audiofreehighqps/2F/FC/GKwRIRwNQ2maAtFaLgRb2QCl.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.233 艺低人胆小，害怕咱就跑
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/696e3636ef1cf272a745f515/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lmlZhKD_jJm0ZArhRWK44J0z2Gjh.m4a
 ```
 
 </details>
