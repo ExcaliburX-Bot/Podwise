@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-23 01:43:54
+> 📅 生成时间: 2026-01-23 06:35:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2907期:Female Athletes' Rugby Dreams
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNQMxMAA1wxgRauRjX.m4a?channel=rss&album_id=14812466&track_id=949799784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f0fb-audiofreehighqps/FB/AE/GKwRIRwNQMxMAA1wxgRauRjX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNQMxMAA1wxgRauRjX.m4a?channel=rss&album_id=14812466&track_id=949799784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f0fb-audiofreehighqps/FB/AE/GKwRIRwNQMxMAA1wxgRauRjX.m4a
-```
-
-</details>
-
----
-
-### 2. 242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01
+### 1. 242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01
 
 **播客名称**: 沈奕斐的播客
 
@@ -67,6 +40,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9e1f1f155/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lv2KlbHXoYVdQA0oypW8FsRcUOH7.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2907期:Female Athletes' Rugby Dreams
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNQMxMAA1wxgRauRjX.m4a?channel=rss&album_id=14812466&track_id=949799784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f0fb-audiofreehighqps/FB/AE/GKwRIRwNQMxMAA1wxgRauRjX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNQMxMAA1wxgRauRjX.m4a?channel=rss&album_id=14812466&track_id=949799784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f0fb-audiofreehighqps/FB/AE/GKwRIRwNQMxMAA1wxgRauRjX.m4a
 ```
 
 </details>
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6971f20bef1cf272
 
 ---
 
-### 4. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
+### 4. BOARD GAMES 3: What’s in a name?
 
-**播客名称**: 无聊斋
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +120,7 @@ https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvBy
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2193959452.mp3?t=podcast&e=nx-s1-5683932&p=510289&d=2163&size=34616721
 ```
 
 </details>
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272
 
 ---
 
-### 7. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
+### 7. 小步5曲 #2丨热情的吉他
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3
 ```
 
 </details>
@@ -235,7 +235,34 @@ https://rio.xyzcdn.net/crazycapital/ep130.mp3
 
 ---
 
-### 9. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
+### 9. Vol.84 数据不再是“后台的沉默基石”：OceanBase 与 00 后开发者眼中的 AI 变局
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9e1919bc5/media.xyzcdn.net/6507bc165c88d2412626b401/lq7su_2nKZhiTvyT-0igaYRlvxjK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/696f7965109824f9e1919bc5/media.xyzcdn.net/6507bc165c88d2412626b401/lq7su_2nKZhiTvyT-0igaYRlvxjK.m4a
+```
+
+</details>
+
+---
+
+### 10. 60 打开你的箱子吧！看见生命的礼物，赞美它，感谢它
 
 **播客名称**: 放学以后After school
 
@@ -256,33 +283,6 @@ https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl
 音频链接（点击复制）:
 ```
 https://anchor.fm/s/81d05f80/podcast/play/113826938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-11%2Fd91741ea-7120-2c9a-80bd-fa0667ff9d22.mp3
-```
-
-</details>
-
----
-
-### 10. 454 对话赵鼎新：当你从干毛巾里挤出东海的水，学问才开始
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/696f556bef1cf272a7723adc/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj7jXDUdlliC_WiQ7z5Tu0QnyzIL.m4a
 ```
 
 </details>
