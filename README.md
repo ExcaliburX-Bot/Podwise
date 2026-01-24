@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-24 06:32  
+> 📅 **更新时间**: 2026-01-24 12:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. E221 对话张潇雨：生活太重要，以至于不能太认真
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6972e4f5ef1cf272a7fa507a/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lphqdk0DqxzS64DbuSfe9se8u-gp.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 继业者1918｜波兰国父毕苏斯基元帅：从「华沙之战」到「海间联邦」未竟之梦
+### 4. 继业者1918｜波兰国父毕苏斯基元帅：从「华沙之战」到「海间联邦」未竟之梦
 
 **播客**: 忽左忽右
 
@@ -73,20 +60,7 @@
 
 ---
 
-### 6. 242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9e1f1f155/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lv2KlbHXoYVdQA0oypW8FsRcUOH7.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 269 高市早苗搞突袭解散国会 “乱纪元”加剧两周后迎关键投票
+### 5. 269 高市早苗搞突袭解散国会 “乱纪元”加剧两周后迎关键投票
 
 **播客**: 东亚观察局
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. 210. 当名人下场做播客：我们究竟在期待什么？-从「小天章」说起的一次冷静行业观察
+### 6. 210. 当名人下场做播客：我们究竟在期待什么？-从「小天章」说起的一次冷静行业观察
 
 **播客**: 贝望录
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
+### 7. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
 
 **播客**: 无聊斋
 
@@ -125,15 +99,41 @@
 
 ---
 
-### 10. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
+### 8. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 小步5曲 #2丨热情的吉他
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.186 📰 张一鸣与今日头条：创造没有编辑的时代 | 中国互联网故事14
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69708349109824f9e1b7a2e4/media.xyzcdn.net/ngOFmwAGA3Qruvyn23vCmQkqlaTc.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

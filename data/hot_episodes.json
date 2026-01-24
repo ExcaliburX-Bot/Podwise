@@ -30,16 +30,6 @@
     "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
   },
   {
-    "eid": "Sfe9se8u-gp.m4a",
-    "title": "E221 对话张潇雨：生活太重要，以至于不能太认真",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6972e4f5ef1cf272a7fa507a/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lphqdk0DqxzS64DbuSfe9se8u-gp.m4a",
-    "pubDate": "2026-01-23T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
     "eid": "bbe6VqO1ec8.m4a",
     "title": "继业者1918｜波兰国父毕苏斯基元帅：从「华沙之战」到「海间联邦」未竟之梦",
     "podcast": {
@@ -48,16 +38,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/697349e9109824f9e127512d/media.xyzcdn.net/FlA4rdyCOabbE58QMbbe6VqO1ec8.m4a",
     "pubDate": "2026-01-23T11:02:37+00:00",
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "pW8FsRcUOH7.m4a",
-    "title": "242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9e1f1f155/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lv2KlbHXoYVdQA0oypW8FsRcUOH7.m4a",
-    "pubDate": "2026-01-23T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "dFybqAsnEW9.m4a",
@@ -90,16 +70,6 @@
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
-    "eid": "0P0iLTL9ueO.m4a",
-    "title": "130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a",
-    "pubDate": "2026-01-22T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
-  },
-  {
     "eid": "U_yZ_J47QJ6.m4a",
     "title": "文科女+AI=搞钱爽翻！给你打包了3个AI实战教练",
     "podcast": {
@@ -108,6 +78,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a",
     "pubDate": "2026-01-21T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "7802_528526.mp3",
+    "title": "小步5曲 #2丨热情的吉他",
+    "podcast": {
+      "title": "周末变奏 Key Change"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTU2NSwidCI6MX0.1-b_7MTUqZFKzGRP0bC3kJyTZHY/keychangefm/8230987802_528526.mp3",
+    "pubDate": "2026-01-21T23:21:27+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
     "eid": "3vCmQkqlaTc.mp3",
@@ -180,6 +160,26 @@
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
+    "eid": "YvNo-aVKKmA.m4a",
+    "title": "艺术壮游-捷克：离天堂太远，离铁拳太近 | 温柔人类 EP. 40",
+    "podcast": {
+      "title": "温柔人类 GentleHuman"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/696b0405ef1cf272a7d855e8/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljFCHyF-n9s1nD8NAYvNo-aVKKmA.m4a",
+    "pubDate": "2026-01-18T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
+  },
+  {
+    "eid": "aqjfhRjE-c9.mp3",
+    "title": "9m88：“怪”得自在才迷人",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_bXtKvEkJJqXDeByvfeZACbbbKGFUxZrALWbuQeCGtvPnHcpBhsaqjfhRjE-c9.mp3",
+    "pubDate": "2026-01-18T20:30:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+  },
+  {
     "eid": "R3212702912.mp3",
     "title": "879: A Christian and a Muslim Walk Into a Bar",
     "podcast": {
@@ -230,24 +230,24 @@
     "source_rss": "https://podcast.latepost.com/rss"
   },
   {
-    "eid": "F_cGazw_R2f.m4a",
-    "title": "Ep186 申加升 x Zoe：冠军越野跑者和顶级私补是如何炼成的",
+    "eid": "ewDOgRZpz9s.m4a",
+    "title": "AI Coding 言出法随，未来什么还会值钱？",
     "podcast": {
-      "title": "基本无害 Mostly Harmless"
+      "title": "AI炼金术"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6967cae5ef1cf272a766e411/media.xyzcdn.net/5eae66d1418a84a046472b4d/ln6iEsu5m5_uW44mqF_cGazw_R2f.m4a",
-    "pubDate": "2026-01-14T17:22:42+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoNPkfLAewDOgRZpz9s.m4a?channel=rss&album_id=74194808&track_id=949308247&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/04d4-audiofreehighqps/A6/EF/GKwRIDoNPkfLAewDOgRZpz9s.m4a",
+    "pubDate": "2026-01-15T12:39:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "1MNcjvCcr8k.mp3",
-    "title": "EP120 从 Prompt 到 Agent Skills，论 Anthropic 的野心与大模型应用的终极抽象",
+    "eid": "eKuZPXi8Hb2.m4a",
+    "title": "Claude Cowork、Antigravity、Manus｜为了买数字奴隶这件事，我们吵起来了!",
     "podcast": {
-      "title": "硬地骇客"
+      "title": "人民公园说AI"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6966778eef1cf272a73de3c8/media.xyzcdn.net/npVGFwL64kTCSQZvN1MNcjvCcr8k.mp3",
-    "pubDate": "2026-01-13T16:56:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69666a63ef1cf272a73c2d16/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqYwrBstxMU1xm-QNeKuZPXi8Hb2.m4a",
+    "pubDate": "2026-01-13T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
     "eid": "C8BM5wnqJoz.m4a",
@@ -280,23 +280,23 @@
     "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   },
   {
-    "eid": "wcWtcQqJysT.m4a",
-    "title": "新年广播电视报：一起活到人生电视剧重聚的那一年",
+    "eid": "UqIXaLJ7_0A.mp3",
+    "title": "120. 《怪奇物语》Finale：童话、异类、蜂巢、混乱善良、女性高光、在一起",
     "podcast": {
-      "title": "展开讲讲"
+      "title": "英美剧漫游指南KillingTV"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/695fd2408f388c61e1e62b9c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lskEGW8imLGqb2xZowcWtcQqJysT.m4a",
-    "pubDate": "2026-01-09T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/695fd020d4b8fa56f5f99e74/media.xyzcdn.net/nhogH8m1RlD8wzP_uUqIXaLJ7_0A.mp3",
+    "pubDate": "2026-01-08T16:00:46+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
-    "eid": "7yRO2w_RQNj.m4a",
-    "title": "#26 中科大00后辍学创业，贷款200万打造AI宠物版「拓麻歌子」？对话Sweekar话话糖创始人高鸿志",
+    "eid": "1812c3a92bc.mp3",
+    "title": "【随机波动167】大火、高层与老屋里的人",
     "podcast": {
-      "title": "出海相对论"
+      "title": "随机波动StochasticVolatility"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/695cc31a21cd486af7326a4c/media.xyzcdn.net/63b7dd49289d2739647d9587/lhNXQA2OV7JdFHDNC7yRO2w_RQNj.m4a",
-    "pubDate": "2026-01-06T08:35:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/408fb017-f02e-41f7-964e-01812c3a92bc.mp3",
+    "pubDate": "2025-12-31T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   }
 ]
