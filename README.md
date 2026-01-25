@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-25 06:32  
+> 📅 **更新时间**: 2026-01-25 12:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 121.《怪奇物语》剧终：谁喜欢、谁不满、“第9集”、粉丝理论、谁恨达菲兄弟……
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6974cb27ef1cf272a73a3753/media.xyzcdn.net/5e7c9577418a84a04606b797/lpDNQp5jQZV-GefAxGqhCZV3xBdB.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 098.为什么一直重复，反而会走到新的地方
+### 2. 098.为什么一直重复，反而会走到新的地方
 
 **播客**: 喷嚏
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. A trip to the magic mushroom megachurch
+### 3. A trip to the magic mushroom megachurch
 
 **播客**: Planet Money
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. No.70：还能怎么办，只能用真心
+### 4. No.70：还能怎么办，只能用真心
 
 **播客**: 得意忘形
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. E221 对话张潇雨：生活太重要，以至于不能太认真
+### 5. E221 对话张潇雨：生活太重要，以至于不能太认真
 
 **播客**: 知行小酒馆
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01
+### 6. 242.用3个月改变了家庭关系？比解决问题更重要的是什么？对谈学员01
 
 **播客**: 沈奕斐的播客
 
@@ -94,12 +81,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9e1f1f155/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lv2KlbHXoYVdQA0oypW8FsRcUOH7.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6971eed2109824f9e1f1f155/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lj3CYFlQQZlw6ClzFL-22iI74UH3.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 269 高市早苗搞突袭解散国会 “乱纪元”加剧两周后迎关键投票
+### 7. 269 高市早苗搞突袭解散国会 “乱纪元”加剧两周后迎关键投票
 
 **播客**: 东亚观察局
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 210. 当名人下场做播客：我们究竟在期待什么？-从「小天章」说起的一次冷静行业观察
+### 8. 210. 当名人下场做播客：我们究竟在期待什么？-从「小天章」说起的一次冷静行业观察
 
 **播客**: 贝望录
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. vol.565 喜夜群英会｜杨雨光：干拔是一种对戏的态度
+### 9. 130. 张月光创业两年首次访谈：妙鸭不是AI Native产品、流程到上下文设计、One Way Door和乙女游戏
 
-**播客**: 无聊斋
+**播客**: 张小珺Jùn｜商业访谈录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_VTqmSSLYzADGYFjZKkGWVcLGpbyexchXHYZGcFurJGBeHqTxCbvByYrbqW-1e.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6970c1e0109824f9e1c60e7a/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/loO-1ybVpymqgCDLe0P0iLTL9ueO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 文科女+AI=搞钱爽翻！给你打包了3个AI实战教练
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69712529ef1cf272a7bca846/media.xyzcdn.net/63d945ece725b5378a158d29/liPIxrpIYYCv1MKy2U_yZ_J47QJ6.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
