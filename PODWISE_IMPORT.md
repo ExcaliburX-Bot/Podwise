@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-26 12:48:41
+> 📅 生成时间: 2026-01-26 18:36:16
 > 📊 总计: 10 个播客
 
 ---
@@ -100,7 +100,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/0096
 
 ---
 
-### 4. vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！
+### 4. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6976bdf0ef1cf272a76fa9f3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lo-xQNj9qSh16zHeUQI6pQ3jOkjq.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6976bdf0ef1cf272a76fa9f3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lo-xQNj9qSh16zHeUQI6pQ3jOkjq.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！
 
 **播客名称**: 无聊斋
 
@@ -127,7 +154,7 @@ https://tk.wavpub.com/WPDL_amJKUPeaaeKBkNwMjpkwYVUqDkKsnKsBdTPpYMSFwLeZZUvsCXwNQ
 
 ---
 
-### 5. 第2910期:The cost of car dependency
+### 6. 第2910期:The cost of car dependency
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -148,33 +175,6 @@ https://jt.ximalaya.com//GKwRIMANRolQABNWVARdWzHI.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIMANRolQABNWVARdWzHI.m4a?channel=rss&album_id=14812466&track_id=951012839&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f001-audiofreehighqps/FC/43/GKwRIMANRolQABNWVARdWzHI.m4a
-```
-
-</details>
-
----
-
-### 6. 851: Try a Little Tenderness
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6973bbeb109824f9
 
 ---
 
-### 10. A trip to the magic mushroom megachurch
+### 10. No.70：还能怎么办，只能用真心
 
-**播客名称**: Planet Money
+**播客名称**: 得意忘形
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473
+https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69735c6fef1cf272a71281c9/media.xyzcdn.net/5e74543a418a84a046c4e50e/lliBPMwlo19-Soyz32mrT4mBlx_s.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NP
 
 音频链接（点击复制）:
 ```
-https://prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5797609758.mp3?t=podcast&e=nx-s1-5686773&p=510289&d=1902&size=30440473
+https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69735c6fef1cf272a71281c9/media.xyzcdn.net/5e74543a418a84a046c4e50e/lliBPMwlo19-Soyz32mrT4mBlx_s.m4a
 ```
 
 </details>
