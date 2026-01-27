@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-27 01:50:33
+> 📅 生成时间: 2026-01-27 06:35:49
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.234 一年一度破烂交换大会⁴
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
-```
-
-</details>
-
----
-
-### 4. 大模型下半场，有人先走物理AI这条路！｜揭秘阶跃星辰50亿融资背后在下一盘什么大棋？
+### 3. 大模型下半场，有人先走物理AI这条路！｜揭秘阶跃星辰50亿融资背后在下一盘什么大棋？
 
 **播客名称**: 人民公园说AI
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69772d39ef1cf272
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69772d39ef1cf272a7897f15/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgsIOS0c4gj4fdl45kUxmaDh5HrW.m4a
+```
+
+</details>
+
+---
+
+### 4. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/009661ed-11b1-41e4-92c2-ec289a94d122.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/009661ed-11b1-41e4-92c2-ec289a94d122.mp3
 ```
 
 </details>
