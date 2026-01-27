@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-27 12:50:35
+> 📅 生成时间: 2026-01-27 18:39:05
 > 📊 总计: 10 个播客
 
 ---
@@ -100,7 +100,61 @@ https://jt.ximalaya.com//GKwRIMANR9puABAusARd6e7n.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
+### 4. Vol.319 父亲的解放日志：人要不是迫不得已，至于这样吗？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.234 一年一度破烂交换大会⁴
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
+```
+
+</details>
+
+---
+
+### 6. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
 
 **播客名称**: 屠龙之术
 
@@ -127,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6977580d109824f9
 
 ---
 
-### 5. 大模型下半场，有人先走物理AI这条路！｜揭秘阶跃星辰50亿融资背后在下一盘什么大棋？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69772d39ef1cf272a7897f15/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgsIOS0c4gj4fdl45kUxmaDh5HrW.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69772d39ef1cf272a7897f15/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgsIOS0c4gj4fdl45kUxmaDh5HrW.m4a
-```
-
-</details>
-
----
-
-### 6. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
+### 7. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/0096
 
 ---
 
-### 7. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+### 8. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6976bdf0ef1cf272
 
 ---
 
-### 8. vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！
+### 9. vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！
 
 **播客名称**: 无聊斋
 
@@ -235,15 +262,15 @@ https://tk.wavpub.com/WPDL_amJKUPeaaeKBkNwMjpkwYVUqDkKsnKsBdTPpYMSFwLeZZUvsCXwNQ
 
 ---
 
-### 9. 视频剪辑的「Cursor 时刻」来了？｜对谈 ChatCut 创始人李凯文：从金马导演到 AI 创业
+### 10. 851: Try a Little Tenderness
 
-**播客名称**: 十字路口Crossing
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9e1df1e6d/media.xyzcdn.net/60502e253c92d4f62c2a9577/luhqJam_8w2wlYWKP2GtPmSRUQnn.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9e1df1e6d/media.xyzcdn.net/60502e253c92d4f62c2a9577/luhqJam_8w2wlYWKP2GtPmSRUQnn.m4a
-```
-
-</details>
-
----
-
-### 10. 121.《怪奇物语》剧终：谁喜欢、谁不满、“第9集”、粉丝理论、谁恨达菲兄弟……
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6974cb27ef1cf272a73a3753/media.xyzcdn.net/5e7c9577418a84a04606b797/lpDNQp5jQZV-GefAxGqhCZV3xBdB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6974cb27ef1cf272a73a3753/media.xyzcdn.net/5e7c9577418a84a04606b797/lpDNQp5jQZV-GefAxGqhCZV3xBdB.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3
 ```
 
 </details>
