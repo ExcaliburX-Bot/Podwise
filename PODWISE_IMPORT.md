@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-28 12:50:42
+> 📅 生成时间: 2026-01-28 18:37:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.187 🚘️ 比亚迪发家史：造车之前那些事
+### 1. 00后女生发起女性编程大赛，当她们用AI缝补世界
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf2073030367a3b59fc/media.xyzcdn.net/63d945ece725b5378a158d29/lmUcETxzPulRrF7Sil8E4lYULBn6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf2073030367a3b59fc/media.xyzcdn.net/63d945ece725b5378a158d29/lmUcETxzPulRrF7Sil8E4lYULBn6.m4a
+```
+
+</details>
+
+---
+
+### 2. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a
+```
+
+</details>
+
+---
+
+### 3. No.187 🚘️ 比亚迪发家史：造车之前那些事
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d207303036
 
 ---
 
-### 2. 259.从互联网医疗到AI健康：一场新供给革命
+### 4. 259.从互联网医疗到AI健康：一场新供给革命
 
 **播客名称**: 乱翻书
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6979b0c9fed1b9fd
 
 ---
 
-### 3. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
-```
-
-</details>
-
----
-
-### 4. 第2912期: Future City Competition
+### 5. 第2912期: Future City Competition
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +154,34 @@ https://jt.ximalaya.com//GKwRIJINR-FrAA8h-ARd7rPP.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 你还有 New Year New Me 的热情吗？
+### 6. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a
+```
+
+</details>
+
+---
+
+### 7. 你还有 New Year New Me 的热情吗？
 
 **播客名称**: 周末变奏 Key Change
 
@@ -154,7 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN
 
 ---
 
-### 6. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
+### 8. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94
 
 ---
 
-### 7. No.216 手机热点如果够用，我们为什么还需要随身WiFi？
+### 9. No.216 手机热点如果够用，我们为什么还需要随身WiFi？
 
 **播客名称**: 三五环
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69788224cbeabe94
 
 ---
 
-### 8. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
+### 10. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
 
 **播客名称**: 忽左忽右
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69787ef03cf2b0c0
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69787ef03cf2b0c01cdd0013/media.xyzcdn.net/5e4ee557418a84a0466737b7/lr87iJAWktFS2uCfadS-5wo-nKiU.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.319 父亲的解放日志：人要不是迫不得已，至于这样吗？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a
-```
-
-</details>
-
----
-
-### 10. vol.234 一年一度破烂交换大会⁴
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69777fd2109824f9e1b38334/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lg-PxtkrulhPODsiv20W_JSLVr7-.m4a
 ```
 
 </details>
