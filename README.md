@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-28 01:46  
+> 📅 **更新时间**: 2026-01-28 06:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+### 1. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
 
 **播客**: 贝望录
 
@@ -30,6 +17,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 你还有 New Year New Me 的热情吗？
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. vol.234 一年一度破烂交换大会⁴
+### 6. Vol.319 父亲的解放日志：人要不是迫不得已，至于这样吗？
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. vol.234 一年一度破烂交换大会⁴
 
 **播客**: 正经叭叭
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
+### 8. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
 
 **播客**: 屠龙之术
 
@@ -99,20 +112,20 @@
 
 ---
 
-### 8. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
+### 9. 大模型下半场，有人先走物理AI这条路！｜揭秘阶跃星辰50亿融资背后在下一盘什么大棋？
 
-**播客**: 晚点聊 LateTalk
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/009661ed-11b1-41e4-92c2-ec289a94d122.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69772d39ef1cf272a7897f15/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lgsIOS0c4gj4fdl45kUxmaDh5HrW.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+### 10. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6976bdf0ef1cf272a76fa9f3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lo-xQNj9qSh16zHeUQI6pQ3jOkjq.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 视频剪辑的「Cursor 时刻」来了？｜对谈 ChatCut 创始人李凯文：从金马导演到 AI 创业
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9e1df1e6d/media.xyzcdn.net/60502e253c92d4f62c2a9577/luhqJam_8w2wlYWKP2GtPmSRUQnn.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
