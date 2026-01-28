@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-27 18:39  
+> 📅 **更新时间**: 2026-01-28 01:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.216 手机热点如果够用，我们为什么还需要随身WiFi？
+### 1. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
+
+**播客**: 英美剧漫游指南KillingTV
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. No.216 手机热点如果够用，我们为什么还需要随身WiFi？
 
 **播客**: 三五环
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
+### 5. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
 
 **播客**: 忽左忽右
 
@@ -34,33 +73,7 @@
 
 ---
 
-### 3. 第2911期:Why is Clubhouse so popular?
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANR9puABAusARd6e7n.m4a?channel=rss&album_id=14812466&track_id=951280563&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d986-audiofreehighqps/D2/22/GKwRIMANR9puABAusARd6e7n.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Vol.319 父亲的解放日志：人要不是迫不得已，至于这样吗？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENSL95Anhc4AReOrV9.m4a?channel=rss&album_id=29887212&track_id=951447316&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cafe-audiofreehighqps/C1/E4/GKwRIJENSL95Anhc4AReOrV9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. vol.234 一年一度破烂交换大会⁴
+### 6. vol.234 一年一度破烂交换大会⁴
 
 **播客**: 正经叭叭
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
+### 7. Vol.85 写在DeepSeek发布一年之后，也写在元宝要发10亿红包之后---串台厚雪长坡
 
 **播客**: 屠龙之术
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
+### 8. 149: 具身模型哪家强？与范浩强、高阳聊具身模型的测评、RoboChallenge，26 年具身展望
 
 **播客**: 晚点聊 LateTalk
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
+### 9. 131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！
+### 10. 视频剪辑的「Cursor 时刻」来了？｜对谈 ChatCut 创始人李凯文：从金马导演到 AI 创业
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_amJKUPeaaeKBkNwMjpkwYVUqDkKsnKsBdTPpYMSFwLeZZUvsCXwNQupBry-bb.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 851: Try a Little Tenderness
-
-**播客**: This American Life
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8900595865.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697195ab109824f9e1df1e6d/media.xyzcdn.net/60502e253c92d4f62c2a9577/luhqJam_8w2wlYWKP2GtPmSRUQnn.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
