@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-29 06:46  
+> 📅 **更新时间**: 2026-01-29 12:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
+### 1. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
 
-**播客**: 随机波动StochasticVolatility
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
+### 3. Can transforming neighborhoods help kids escape poverty?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
 
 **播客**: 搞钱女孩
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
+### 5. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
 
 **播客**: AI炼金术
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. 259.从互联网医疗到AI健康：一场新供给革命
+### 6. No.187 🚘️ 比亚迪发家史：造车之前那些事
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 259.从互联网医疗到AI健康：一场新供给革命
 
 **播客**: 乱翻书
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
+### 8. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+### 9. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
 
 **播客**: 贝望录
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 你还有 New Year New Me 的热情吗？
+### 10. 你还有 New Year New Me 的热情吗？
 
 **播客**: 周末变奏 Key Change
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69787ef03cf2b0c01cdd0013/media.xyzcdn.net/5e4ee557418a84a0466737b7/lr87iJAWktFS2uCfadS-5wo-nKiU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

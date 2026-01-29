@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-29 06:46:30
+> 📅 生成时间: 2026-01-29 12:57:19
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
+### 1. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cd
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a
 ```
 
 </details>
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
+### 3. Can transforming neighborhoods help kids escape poverty?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165
+```
+
+</details>
+
+---
+
+### 4. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf207303036
 
 ---
 
-### 4. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
+### 5. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
 
 **播客名称**: AI炼金术
 
@@ -127,7 +154,34 @@ https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194
 
 ---
 
-### 5. 259.从互联网医疗到AI健康：一场新供给革命
+### 6. No.187 🚘️ 比亚迪发家史：造车之前那些事
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a
+```
+
+</details>
+
+---
+
+### 7. 259.从互联网医疗到AI健康：一场新供给革命
 
 **播客名称**: 乱翻书
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6979b0c9fed1b9fd
 
 ---
 
-### 6. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
+### 8. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,7 +235,7 @@ https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSs
 
 ---
 
-### 7. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+### 9. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
 
 **播客名称**: 贝望录
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94
 
 ---
 
-### 8. 你还有 New Year New Me 的热情吗？
+### 10. 你还有 New Year New Me 的热情吗？
 
 **播客名称**: 周末变奏 Key Change
 
@@ -229,60 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3
-```
-
-</details>
-
----
-
-### 9. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a
-```
-
-</details>
-
----
-
-### 10. 455 武官·使臣·僧人：悟空法师的大唐西域历险记
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69787ef03cf2b0c01cdd0013/media.xyzcdn.net/5e4ee557418a84a0466737b7/lr87iJAWktFS2uCfadS-5wo-nKiU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69787ef03cf2b0c01cdd0013/media.xyzcdn.net/5e4ee557418a84a0466737b7/lr87iJAWktFS2uCfadS-5wo-nKiU.m4a
 ```
 
 </details>
