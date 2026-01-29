@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-29 12:57:19
+> 📅 生成时间: 2026-01-29 18:44:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
+### 1. BYM 341 -- 答 bymmer 问题
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a
+```
+
+</details>
+
+---
+
+### 2. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3
+```
+
+</details>
+
+---
+
+### 3. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
 
 **播客名称**: 人民公园说AI
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c14
 
 ---
 
-### 2. 第2913期: A Bali Village Works Together to Compost Organic Waste
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812466&track_id=951298102&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fdcd-audiofreehighqps/2A/E6/GKwRIDoNR-ceABEuNQRd8zmN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812466&track_id=951298102&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fdcd-audiofreehighqps/2A/E6/GKwRIDoNR-ceABEuNQRd8zmN.m4a
-```
-
-</details>
-
----
-
-### 3. Can transforming neighborhoods help kids escape poverty?
+### 4. Can transforming neighborhoods help kids escape poverty?
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
+### 5. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
 
 **播客名称**: 搞钱女孩
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf207303036
 
 ---
 
-### 5. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
+### 6. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
 
 **播客名称**: AI炼金术
 
@@ -148,33 +175,6 @@ https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a
-```
-
-</details>
-
----
-
-### 6. No.187 🚘️ 比亚迪发家史：造车之前那些事
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6979b0c9fed1b9fd
 
 ---
 
-### 8. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
-```
-
-</details>
-
----
-
-### 9. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
+### 8. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
 
 **播客名称**: 贝望录
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94
 
 ---
 
-### 10. 你还有 New Year New Me 的热情吗？
+### 9. 你还有 New Year New Me 的热情吗？
 
 **播客名称**: 周末变奏 Key Change
 
@@ -283,6 +256,33 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3
+```
+
+</details>
+
+---
+
+### 10. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a
 ```
 
 </details>
