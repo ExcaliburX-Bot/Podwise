@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-28 18:37:44
+> 📅 生成时间: 2026-01-29 01:59:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 00后女生发起女性编程大赛，当她们用AI缝补世界
+### 1. 第2913期: A Bali Village Works Together to Compost Organic Waste
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812466&track_id=951298102&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fdcd-audiofreehighqps/2A/E6/GKwRIDoNR-ceABEuNQRd8zmN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812466&track_id=951298102&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fdcd-audiofreehighqps/2A/E6/GKwRIDoNR-ceABEuNQRd8zmN.m4a
+```
+
+</details>
+
+---
+
+### 2. Can transforming neighborhoods help kids escape poverty?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165
+```
+
+</details>
+
+---
+
+### 3. 00后女生发起女性编程大赛，当她们用AI缝补世界
 
 **播客名称**: 搞钱女孩
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf207303036
 
 ---
 
-### 2. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
+### 4. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
 
 **播客名称**: AI炼金术
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. No.187 🚘️ 比亚迪发家史：造车之前那些事
+### 5. No.187 🚘️ 比亚迪发家史：造车之前那些事
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d207303036
 
 ---
 
-### 4. 259.从互联网医疗到AI健康：一场新供给革命
+### 6. 259.从互联网医疗到AI健康：一场新供给革命
 
 **播客名称**: 乱翻书
 
@@ -127,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6979b0c9fed1b9fd
 
 ---
 
-### 5. 第2912期: Future City Competition
+### 7. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINR-FrAA8h-ARd7rPP.m4a?channel=rss&album_id=14812466&track_id=951290052&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4b75-audiofreehighqps/AD/42/GKwRIJINR-FrAA8h-ARd7rPP.m4a
+https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,61 +201,7 @@ https://jt.ximalaya.com//GKwRIJINR-FrAA8h-ARd7rPP.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINR-FrAA8h-ARd7rPP.m4a?channel=rss&album_id=14812466&track_id=951290052&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4b75-audiofreehighqps/AD/42/GKwRIJINR-FrAA8h-ARd7rPP.m4a
-```
-
-</details>
-
----
-
-### 6. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a
-```
-
-</details>
-
----
-
-### 7. 你还有 New Year New Me 的热情吗？
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3
+https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3
 ```
 
 </details>

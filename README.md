@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-28 18:37  
+> 📅 **更新时间**: 2026-01-29 01:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 00后女生发起女性编程大赛，当她们用AI缝补世界
+### 1. 第2913期: A Bali Village Works Together to Compost Organic Waste
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNR-ceABEuNQRd8zmN.m4a?channel=rss&album_id=14812466&track_id=951298102&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fdcd-audiofreehighqps/2A/E6/GKwRIDoNR-ceABEuNQRd8zmN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Can transforming neighborhoods help kids escape poverty?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5932547268.mp3?t=podcast&e=nx-s1-5691692&p=510289&d=1665&size=26649165)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 00后女生发起女性编程大赛，当她们用AI缝补世界
 
 **播客**: 搞钱女孩
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
+### 4. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下CEO朱鹤
 
 **播客**: AI炼金术
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. No.187 🚘️ 比亚迪发家史：造车之前那些事
+### 5. No.187 🚘️ 比亚迪发家史：造车之前那些事
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 259.从互联网医疗到AI健康：一场新供给革命
+### 6. 259.从互联网医疗到AI健康：一场新供给革命
 
 **播客**: 乱翻书
 
@@ -60,41 +86,15 @@
 
 ---
 
-### 5. 第2912期: Future City Competition
+### 7. 1月新歌推荐丨XG、坂本慎太郎、啤酒妹、Leo王…新年爆发🎉
 
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINR-FrAA8h-ARd7rPP.m4a?channel=rss&album_id=14812466&track_id=951290052&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4b75-audiofreehighqps/AD/42/GKwRIJINR-FrAA8h-ARd7rPP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
-
-**播客**: 贝望录
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 你还有 New Year New Me 的热情吗？
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_nvujvXTMtKAHdWspZkFSYXdKmyfAMVNXmqCczRWRYqTyYGzpsqUSsVcPxV-0c.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
