@@ -1,14 +1,79 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-01-29 18:44  
+> 📅 **更新时间**: 2026-01-30 01:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. BYM 341 -- 答 bymmer 问题
+### 1. 第2914期: A new sport debuts at the Winter Olympics
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENSfSAABJilAReyOku.m4a?channel=rss&album_id=14812466&track_id=951676121&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ad2a-audiofreehighqps/9D/DA/GKwRIUENSfSAABJilAReyOku.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 131. 对话野人先生：野蛮生长的中国冰淇淋
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep131.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 270 韩国政坛传统艺能“绝食”再现 这次又咋了各位大佬？
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/697b84d6073030367a61d77d/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lj7ZK9CMPUnOr-6w4svjk8EXSspK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 341 答 bymmer 问题
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -21,7 +86,7 @@
 
 ---
 
-### 2. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
+### 7. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
 
 **播客**: 随机波动StochasticVolatility
 
@@ -34,7 +99,7 @@
 
 ---
 
-### 3. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
+### 8. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
 
 **播客**: 人民公园说AI
 
@@ -47,7 +112,7 @@
 
 ---
 
-### 4. Can transforming neighborhoods help kids escape poverty?
+### 9. Can transforming neighborhoods help kids escape poverty?
 
 **播客**: Planet Money
 
@@ -60,7 +125,7 @@
 
 ---
 
-### 5. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
+### 10. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
 
 **播客**: 搞钱女孩
 
@@ -69,71 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf2073030367a3b59fc/media.xyzcdn.net/63d945ece725b5378a158d29/lmUcETxzPulRrF7Sil8E4lYULBn6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 259.从互联网医疗到AI健康：一场新供给革命
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6979b0c9fed1b9fd8d559165/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkaUPz2UonOlnsWIufuh4ffNS7xl.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 东观西望丨8. 从工业奇迹到准点神话，同样坐火车，为什么英日体验差这么多？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697876e5cbeabe94f3418e8a/media.xyzcdn.net/5e285856418a84a04627b7be/lj52V3GAaEz21r7TPM9re8N6Kpcr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 你还有 New Year New Me 的热情吗？
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTUyNiwidCI6MX0.jNQo2yEF43bt8KoXFNnNctN0XgA/keychangefm/8230495994_063646.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 122. 为什么说《怪奇物语》是这个时代的《哈利·波特》
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6978e3a8cbeabe94f3528d6d/media.xyzcdn.net/5e7c9577418a84a04606b797/lrG_QxbMPL2uUziFssShbBGIhPpN.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
