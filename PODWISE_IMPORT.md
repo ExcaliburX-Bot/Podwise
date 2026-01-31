@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-01-31 06:39:02
+> 📅 生成时间: 2026-01-31 12:46:46
 > 📊 总计: 10 个播客
 
 ---
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/697c80472fc7f49d
 
 ---
 
-### 5. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a
-```
-
-</details>
-
----
-
-### 6. 131. 对话野人先生：野蛮生长的中国冰淇淋
+### 5. 131. 对话野人先生：野蛮生长的中国冰淇淋
 
 **播客名称**: 疯投圈
 
@@ -181,7 +154,7 @@ https://rio.xyzcdn.net/crazycapital/ep131.mp3
 
 ---
 
-### 7. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
+### 6. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
 
 **播客名称**: 贝望录
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef07303036
 
 ---
 
-### 8. 270 韩国政坛传统艺能“绝食”再现 这次又咋了各位大佬？
+### 7. 270 韩国政坛传统艺能“绝食”再现 这次又咋了各位大佬？
 
 **播客名称**: 东亚观察局
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/697b84d607303036
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/697b84d6073030367a61d77d/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lj7ZK9CMPUnOr-6w4svjk8EXSspK.m4a
+```
+
+</details>
+
+---
+
+### 8. 341 答 bymmer 问题
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cd
 
 ---
 
-### 10. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
+### 10. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 VP 朱鹤
 
-**播客名称**: 人民公园说AI
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a
+https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c14
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a
+https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a
 ```
 
 </details>
