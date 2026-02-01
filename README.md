@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-01 06:49  
+> 📅 **更新时间**: 2026-02-01 12:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Can Trump make buying a home more affordable?
+### 1. 第2916期: Leatherback turtle populations have declined sharply
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINSf0VAA0hfARezrhB.m4a?channel=rss&album_id=14812466&track_id=951685221&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/03c9-audiofreehighqps/E1/7D/GKwRIJINSf0VAA0hfARezrhB.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Can Trump make buying a home more affordable?
 
 **播客**: Planet Money
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
+### 3. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
 
 **播客**: 屠龙之术
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/697c80472fc7f49d09088c7d/media.xyzcdn.net/FnJHA0c82v_jbVlvaMvjeP1QOO-U.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. 131. 对话野人先生：野蛮生长的中国冰淇淋
+### 5. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 131. 对话野人先生：野蛮生长的中国冰淇淋
 
 **播客**: 疯投圈
 
@@ -73,20 +86,33 @@
 
 ---
 
-### 6. 341 答 bymmer 问题
+### 7. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
 
-**播客**: Blow Your Mind (BYM S02)
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
+### 8. 270 韩国政坛传统艺能“绝食”再现 这次又咋了各位大佬？
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/697b84d6073030367a61d77d/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lj7ZK9CMPUnOr-6w4svjk8EXSspK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
 
 **播客**: 随机波动StochasticVolatility
 
@@ -99,41 +125,15 @@
 
 ---
 
-### 8. 离谱！40美金顶10万月薪？实测AI干掉开发团队，到底是不是爽文？
+### 10. No.187 🚘️ 比亚迪发家史：造车之前那些事
 
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/697b27f3b4be4c149b20751d/media.xyzcdn.net/FqPXb4L9YSkdYIOV6_apNLWvfvUW.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. AI编程+自媒体=普通人的钞能力！00后女生们的创造/创业实录
-
-**播客**: 搞钱女孩
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/697a3cf2073030367a3b59fc/media.xyzcdn.net/63d945ece725b5378a158d29/lmUcETxzPulRrF7Sil8E4lYULBn6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 AI 负责人朱鹤
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/697980d2073030367a14a2e9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpjZxkBcrRt1OfcurtOciIwR-lf3.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
