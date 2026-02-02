@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-02 07:02:33
+> 📅 生成时间: 2026-02-02 12:59:19
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2917期: United States Botanic Garden Bicentennial
+### 1. 爱是唯一的引力 Love is the only Gravity
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+```
+
+</details>
+
+---
+
+### 2. 第2917期: United States Botanic Garden Bicentennial
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -40,33 +67,6 @@ https://jt.ximalaya.com//GKwRIRwNS4MSAA334gRff0ir.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwNS4MSAA334gRff0ir.m4a?channel=rss&album_id=14812466&track_id=951977063&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4cc9-audiofreehighqps/5F/3E/GKwRIRwNS4MSAA334gRff0ir.m4a
-```
-
-</details>
-
----
-
-### 2. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
-
-**播客名称**: 硬地骇客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a
-```
-
-</details>
-
----
-
-### 8. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
+### 7. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
 
 **播客名称**: 忽左忽右
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/697c80472fc7f49d
 
 ---
 
-### 9. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
+### 8. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
 
 **播客名称**: 知行小酒馆
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/697c58562fc7f49d
 
 ---
 
-### 10. 131. 对话野人先生：野蛮生长的中国冰淇淋
+### 9. 131. 对话野人先生：野蛮生长的中国冰淇淋
 
 **播客名称**: 疯投圈
 
@@ -283,6 +256,33 @@ https://rio.xyzcdn.net/crazycapital/ep131.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep131.mp3
+```
+
+</details>
+
+---
+
+### 10. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a
 ```
 
 </details>

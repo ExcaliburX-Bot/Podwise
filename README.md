@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-02 07:02  
+> 📅 **更新时间**: 2026-02-02 12:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2917期: United States Botanic Garden Bicentennial
+### 1. 爱是唯一的引力 Love is the only Gravity
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2917期: United States Botanic Garden Bicentennial
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNS4MSAA334gRff0ir.m4a?channel=rss&album_id=14812466&track_id=951977063&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4cc9-audiofreehighqps/5F/3E/GKwRIRwNS4MSAA334gRff0ir.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
-
-**播客**: 硬地骇客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
+### 7. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
 
 **播客**: 忽左忽右
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
+### 8. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
 
 **播客**: 知行小酒馆
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 131. 对话野人先生：野蛮生长的中国冰淇淋
+### 9. 131. 对话野人先生：野蛮生长的中国冰淇淋
 
 **播客**: 疯投圈
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep131.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
