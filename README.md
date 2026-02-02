@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-02 02:07  
+> 📅 **更新时间**: 2026-02-02 07:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 无能狂怒，濒死体验，随机歌唱
+### 3. 880: What Is Your Emergency?
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 无能狂怒，濒死体验，随机歌唱
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
+### 5. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
 **播客**: 十字路口Crossing
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. Can Trump make buying a home more affordable?
+### 6. Can Trump make buying a home more affordable?
 
 **播客**: Planet Money
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
+### 7. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
 
 **播客**: 屠龙之术
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
+### 8. 继业者1918｜凯末尔与现代土耳其的诞生：从战争英雄到改革家
 
 **播客**: 忽左忽右
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
+### 9. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
 
 **播客**: 知行小酒馆
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
+### 10. 131. 对话野人先生：野蛮生长的中国冰淇淋
 
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 【随机波动 x her edition】对话高圆圆：牺牲或玩耍，生命的关系有很多种
-
-**播客**: 随机波动StochasticVolatility
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/77cde3e0-3c55-42ed-95a7-9a62e2de2cc8.mp3)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep131.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
