@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-03 02:05  
+> 📅 **更新时间**: 2026-02-03 06:52  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2918期: Create a natural world database through the use of apps
+### 1. 90. 撕掉糖衣炮弹：2023女性主义剧集观察
+
+**播客**: 英美剧漫游指南KillingTV
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/65898a31bf3589e8943cd5af/media.xyzcdn.net/lviGDW-d_OX_yQFw7lpANf5BQJua.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2918期: Create a natural world database through the use of apps
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+### 3. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
 
 **播客**: 出海去孵化器
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. Vol.320 飞越疯人院：偶尔发疯，保持大笑
+### 4. Vol.320 飞越疯人院：偶尔发疯，保持大笑
 
 **播客**: 文化有限
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 爱是唯一的引力 Love is the only Gravity
+### 5. 爱是唯一的引力 Love is the only Gravity
 
 **播客**: Vibration 歪波音室
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. vol.235 人生百味亲自尝，新路崎岖别喊娘
+### 6. vol.235 人生百味亲自尝，新路崎岖别喊娘
 
 **播客**: 正经叭叭
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 7. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客**: 硬地骇客
 
@@ -86,20 +99,20 @@
 
 ---
 
-### 7. 880: What Is Your Emergency?
+### 8. 无能狂怒，濒死体验，随机歌唱
 
-**播客**: This American Life
+**播客**: 基本无害 Mostly Harmless
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
+### 9. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
 **播客**: 十字路口Crossing
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. Can Trump make buying a home more affordable?
+### 10. Can Trump make buying a home more affordable?
 
 **播客**: Planet Money
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

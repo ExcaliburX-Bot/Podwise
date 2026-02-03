@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-03 02:05:59
+> 📅 生成时间: 2026-02-03 06:52:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2918期: Create a natural world database through the use of apps
+### 1. 90. 撕掉糖衣炮弹：2023女性主义剧集观察
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/65898a31bf3589e8943cd5af/media.xyzcdn.net/lviGDW-d_OX_yQFw7lpANf5BQJua.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/65898a31bf3589e8943cd5af/media.xyzcdn.net/lviGDW-d_OX_yQFw7lpANf5BQJua.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2918期: Create a natural world database through the use of apps
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIUENS44zAA4clgRfhLwD.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+### 3. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
 
 **播客名称**: 出海去孵化器
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c14
 
 ---
 
-### 3. Vol.320 飞越疯人院：偶尔发疯，保持大笑
+### 4. Vol.320 飞越疯人院：偶尔发疯，保持大笑
 
 **播客名称**: 文化有限
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887
 
 ---
 
-### 4. 爱是唯一的引力 Love is the only Gravity
+### 5. 爱是唯一的引力 Love is the only Gravity
 
 **播客名称**: Vibration 歪波音室
 
@@ -127,7 +154,7 @@ https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPY
 
 ---
 
-### 5. vol.235 人生百味亲自尝，新路崎岖别喊娘
+### 6. vol.235 人生百味亲自尝，新路崎岖别喊娘
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c14
 
 ---
 
-### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 7. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客名称**: 硬地骇客
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c14
 
 ---
 
-### 7. 880: What Is Your Emergency?
+### 8. 无能狂怒，濒死体验，随机歌唱
 
-**播客名称**: This American Life
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +228,14 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a
 ```
 
 </details>
 
 ---
 
-### 8. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
+### 9. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
 **播客名称**: 十字路口Crossing
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c399807303036
 
 ---
 
-### 9. Can Trump make buying a home more affordable?
+### 10. Can Trump make buying a home more affordable?
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455
-```
-
-</details>
-
----
-
-### 10. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a
 ```
 
 </details>
