@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-02 18:43  
+> 📅 **更新时间**: 2026-02-03 02:05  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 爱是唯一的引力 Love is the only Gravity
+### 1. 第2918期: Create a natural world database through the use of apps
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENS44zAA4clgRfhLwD.m4a?channel=rss&album_id=14812466&track_id=951984093&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5ed7-audiofreehighqps/5F/3F/GKwRIUENS44zAA4clgRfhLwD.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+
+**播客**: 出海去孵化器
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Vol.320 飞越疯人院：偶尔发疯，保持大笑
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887212&track_id=954163972&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/85bb-audiofreehighqps/42/2E/GKwRIJINVlCkAzDSzQRkay2F.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 爱是唯一的引力 Love is the only Gravity
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. vol.235 人生百味亲自尝，新路崎岖别喊娘
+### 5. vol.235 人生百味亲自尝，新路崎岖别喊娘
 
 **播客**: 正经叭叭
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客**: 硬地骇客
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 880: What Is Your Emergency?
+### 7. 880: What Is Your Emergency?
 
 **播客**: This American Life
 
@@ -60,20 +99,20 @@
 
 ---
 
-### 5. 无能狂怒，濒死体验，随机歌唱
+### 8. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
-**播客**: 基本无害 Mostly Harmless
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c3998073030367a6ee5ef/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrEmToUMzW9_0rch5FOd-U_AFpLS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. Can Trump make buying a home more affordable?
+### 9. Can Trump make buying a home more affordable?
 
 **播客**: Planet Money
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
+### 10. Vol.86 同一代技术，两个系统，181页PPT全记录AI行业的2025
 
 **播客**: 屠龙之术
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c149b4b6931/media.xyzcdn.net/6507bc165c88d2412626b401/lqc4OBp5bN-oWvoyvgkPi31WlU4E.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/697c58562fc7f49d0902395d/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ls8oKDXS0S6f3kYnwIM1kAl83pWR.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 243.要不要和同事做朋友？要和不喜欢的同事合作怎么办？职场系列06
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/697aff772fc7f49d09de28c5/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsUzySg8H4mcGtXcOPh2BSSXZRWy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
