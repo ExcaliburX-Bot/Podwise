@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-03 12:59:40
+> 📅 生成时间: 2026-02-03 18:56:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+### 1. 第2918期: Create a natural world database through the use of apps
 
-**播客名称**: 三五环
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
+https://jt.ximalaya.com//GKwRIUENS44zAA4clgRfhLwD.m4a?channel=rss&album_id=14812466&track_id=951984093&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5ed7-audiofreehighqps/5F/3F/GKwRIUENS44zAA4clgRfhLwD.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc07303036
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
+https://jt.ximalaya.com//GKwRIUENS44zAA4clgRfhLwD.m4a?channel=rss&album_id=14812466&track_id=951984093&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5ed7-audiofreehighqps/5F/3F/GKwRIUENS44zAA4clgRfhLwD.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
+### 2. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
 
-**播客名称**: 忽左忽右
+**播客名称**: 出海去孵化器
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +66,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
 ```
 
 </details>
 
 ---
 
-### 3. Vol.320 飞越疯人院：偶尔发疯，保持大笑
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887212&track_id=954163972&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/85bb-audiofreehighqps/42/2E/GKwRIJINVlCkAzDSzQRkay2F.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887212&track_id=954163972&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/85bb-audiofreehighqps/42/2E/GKwRIJINVlCkAzDSzQRkay2F.m4a
-```
-
-</details>
-
----
-
-### 4. 爱是唯一的引力 Love is the only Gravity
+### 3. 爱是唯一的引力 Love is the only Gravity
 
 **播客名称**: Vibration 歪波音室
 
@@ -121,6 +94,33 @@ https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPY
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+```
+
+</details>
+
+---
+
+### 4. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+
+**播客名称**: 硬地骇客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/697cbc24b4be4c14
 
 ---
 
-### 10. 131. 对话野人先生：野蛮生长的中国冰淇淋
+### 10. 22. 找出路丨从纸媒黄金时代到博物馆导览，媒体人如何把艺术变为一份长期工作
 
-**播客名称**: 疯投圈
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep131.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://rio.xyzcdn.net/crazycapital/ep131.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep131.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/697af9ef073030367a4e620b/media.xyzcdn.net/FobZSoRqr6LKsSe5Ndcfk-hNUFUI.m4a
 ```
 
 </details>
