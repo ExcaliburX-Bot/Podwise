@@ -1,40 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-04 06:52  
+> 📅 **更新时间**: 2026-02-04 12:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2919期: ECHO empowers individuals with disabilities to achieve employment
+### 1. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
-
-**播客**: 忽左忽右
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lt30JaN48OrRBl51fCcLEFsGrxlA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+### 2. Riding with the repo man (update)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
 
 **播客**: 出海去孵化器
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Vol.320 飞越疯人院：偶尔发疯，保持大笑
+### 5. Vol.320 飞越疯人院：偶尔发疯，保持大笑
 
 **播客**: 文化有限
 
@@ -60,33 +73,7 @@
 
 ---
 
-### 5. 爱是唯一的引力 Love is the only Gravity
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. vol.235 人生百味亲自尝，新路崎岖别喊娘
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客**: 硬地骇客
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 880: What Is Your Emergency?
+### 7. 880: What Is Your Emergency?
 
 **播客**: This American Life
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 无能狂怒，濒死体验，随机歌唱
+### 8. 无能狂怒，濒死体验，随机歌唱
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
+### 9. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
 **播客**: 十字路口Crossing
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c3998073030367a6ee5ef/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrEmToUMzW9_0rch5FOd-U_AFpLS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/697c58562fc7f49d0902395d/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ls8oKDXS0S6f3kYnwIM1kAl83pWR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
