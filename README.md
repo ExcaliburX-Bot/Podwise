@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-04 02:00  
+> 📅 **更新时间**: 2026-02-04 06:52  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
-
-**播客**: 三五环
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
+### 2. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
 
 **播客**: 忽左忽右
 
@@ -43,6 +30,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+
+**播客**: 出海去孵化器
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 6. vol.235 人生百味亲自尝，新路崎岖别喊娘
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客**: 硬地骇客
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 880: What Is Your Emergency?
+### 8. 880: What Is Your Emergency?
 
 **播客**: This American Life
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 无能狂怒，濒死体验，随机歌唱
+### 9. 无能狂怒，濒死体验，随机歌唱
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
+### 10. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
 
 **播客**: 十字路口Crossing
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c3998073030367a6ee5ef/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrEmToUMzW9_0rch5FOd-U_AFpLS.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Can Trump make buying a home more affordable?
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5489925572.mp3?t=podcast&e=nx-s1-5690291&p=510289&d=1652&size=26446455)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
