@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-04 12:59:13
+> 📅 生成时间: 2026-02-04 18:52:01
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 1. 123. 2025英美剧大赏｜Side A
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b823892afef06/media.xyzcdn.net/5e7c9577418a84a04606b797/lm66-rMSWy0p-5-Vbaj03Ir2cb3H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b823892afef06/media.xyzcdn.net/5e7c9577418a84a04606b797/lm66-rMSWy0p-5-Vbaj03Ir2cb3H.m4a
+```
+
+</details>
+
+---
+
+### 2. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
+```
+
+</details>
+
+---
+
+### 3. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce36
 
 ---
 
-### 2. Riding with the repo man (update)
+### 4. Riding with the repo man (update)
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+### 5. 第2919期: ECHO empowers individuals with disabilities to achieve employment
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a
+```
+
+</details>
+
+---
+
+### 6. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
 
 **播客名称**: 三五环
 
@@ -100,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc07303036
 
 ---
 
-### 4. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
-```
-
-</details>
-
----
-
-### 5. Vol.320 飞越疯人院：偶尔发疯，保持大笑
+### 7. Vol.320 飞越疯人院：偶尔发疯，保持大笑
 
 **播客名称**: 文化有限
 
@@ -154,7 +208,61 @@ https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887
 
 ---
 
-### 6. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
+### 8. 爱是唯一的引力 Love is the only Gravity
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+```
+
+</details>
+
+---
+
+### 9. vol.235 人生百味亲自尝，新路崎岖别喊娘
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
+```
+
+</details>
+
+---
+
+### 10. EP121 从 Agent Skills 到 Clawdbot（OpenClaw），论 AI 助理的执行权与失控边界
 
 **播客名称**: 硬地骇客
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c14
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/697f9a2ab4be4c149b85137c/media.xyzcdn.net/640ee2438be5d40013fe4a87/llvj1wP0cDLkbxUfaVDFP3Zc7h3e.m4a
-```
-
-</details>
-
----
-
-### 7. 880: What Is Your Emergency?
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR8865469473.mp3
-```
-
-</details>
-
----
-
-### 8. 无能狂怒，濒死体验，随机歌唱
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/697f78bd2fc7f49d0946fde5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lteebdRjomLB3AxbLC_py8V1zLWF.m4a
-```
-
-</details>
-
----
-
-### 9. 他看到的未来，和我们有什么不一样？| 对话18岁的涂津豪：DeepSeek 前实习生、阿里数竞 AI 组冠军
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c3998073030367a6ee5ef/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrEmToUMzW9_0rch5FOd-U_AFpLS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/697c3998073030367a6ee5ef/media.xyzcdn.net/60502e253c92d4f62c2a9577/lrEmToUMzW9_0rch5FOd-U_AFpLS.m4a
-```
-
-</details>
-
----
-
-### 10. E222 为什么我们总在「爱你老己」和玩命攒钱之间左右横跳？聊聊《金钱的艺术》
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/697c58562fc7f49d0902395d/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ls8oKDXS0S6f3kYnwIM1kAl83pWR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/697c58562fc7f49d0902395d/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ls8oKDXS0S6f3kYnwIM1kAl83pWR.m4a
 ```
 
 </details>
