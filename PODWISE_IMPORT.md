@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-05 13:01:54
+> 📅 生成时间: 2026-02-05 18:46:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 90.春节特辑：你当像鸟飞往高山，但味道记得你的来处
+### 1. 260.AI时代的珍珠港：元宝被封、千问请客、豆包上春晚
 
-**播客名称**: 展开讲讲
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6984b1f4a6d6e5f9a2cfef85/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhjQ3QhwNa2AncjE99oaBxpsF4o6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b8238
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6984b1f4a6d6e5f9a2cfef85/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhjQ3QhwNa2AncjE99oaBxpsF4o6.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
+### 2. 第2920期: The Stories Behind the Oscars
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNS89VABnkwgRfraa7.m4a?channel=rss&album_id=14812466&track_id=952040684&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2285-audiofreehighqps/40/4C/GKwRIRwNS89VABnkwgRfraa7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNS89VABnkwgRfraa7.m4a?channel=rss&album_id=14812466&track_id=952040684&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2285-audiofreehighqps/40/4C/GKwRIRwNS89VABnkwgRfraa7.m4a
+```
+
+</details>
+
+---
+
+### 3. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b8238
 
 ---
 
-### 3. 我最爱去的唱片店，昨天是她的最后一天
+### 4. 我最爱去的唱片店，昨天是她的最后一天
 
 **播客名称**: 周末变奏 Key Change
 
@@ -100,7 +127,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTcyOCwidCI6MX0.pVplq702YqubV1rbt1Ctiln
 
 ---
 
-### 4. 123. 2025英美剧大赏｜Side A
+### 5. 123. 2025英美剧大赏｜Side A
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b8238
 
 ---
 
-### 5. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
+### 6. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
 
 **播客名称**: 脑放电波
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b83888
 
 ---
 
-### 6. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 7. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce36
 
 ---
 
-### 7. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+### 8. Riding with the repo man (update)
 
-**播客名称**: 三五环
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,34 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc07303036
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
-```
-
-</details>
-
----
-
-### 8. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887
 
 ---
 
-### 10. 爱是唯一的引力 Love is the only Gravity
+### 10. vol.235 人生百味亲自尝，新路崎岖别喊娘
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPY
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
 ```
 
 </details>
