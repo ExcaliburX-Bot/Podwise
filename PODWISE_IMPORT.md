@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-05 06:59:25
+> 📅 生成时间: 2026-02-05 13:01:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2920期: The Stories Behind the Oscars
+### 1. 90.春节特辑：你当像鸟飞往高山，但味道记得你的来处
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwNS89VABnkwgRfraa7.m4a?channel=rss&album_id=14812466&track_id=952040684&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2285-audiofreehighqps/40/4C/GKwRIRwNS89VABnkwgRfraa7.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIRwNS89VABnkwgRfraa7.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwNS89VABnkwgRfraa7.m4a?channel=rss&album_id=14812466&track_id=952040684&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2285-audiofreehighqps/40/4C/GKwRIRwNS89VABnkwgRfraa7.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a
 ```
 
 </details>
@@ -100,7 +100,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTcyOCwidCI6MX0.pVplq702YqubV1rbt1Ctiln
 
 ---
 
-### 4. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
+### 4. 123. 2025英美剧大赏｜Side A
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b823892afef06/media.xyzcdn.net/5e7c9577418a84a04606b797/lm66-rMSWy0p-5-Vbaj03Ir2cb3H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b823892afef06/media.xyzcdn.net/5e7c9577418a84a04606b797/lm66-rMSWy0p-5-Vbaj03Ir2cb3H.m4a
+```
+
+</details>
+
+---
+
+### 5. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
 
 **播客名称**: 脑放电波
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b83888
 
 ---
 
-### 5. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 6. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -135,7 +162,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b83888
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lt30JaN48OrRBl51fCcLEFsGrxlA.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgzW6DRxkBxpHB6QXQt8_Cx3o61D.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,34 +174,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce36
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lt30JaN48OrRBl51fCcLEFsGrxlA.m4a
-```
-
-</details>
-
----
-
-### 6. Riding with the repo man (update)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgzW6DRxkBxpHB6QXQt8_Cx3o61D.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df
 
 ---
 
-### 9. EP72 | AI 没有取代设计师，它正在淘汰“不会思考的人”
+### 9. Vol.320 飞越疯人院：偶尔发疯，保持大笑
 
-**播客名称**: 出海去孵化器
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
+https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887212&track_id=954163972&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/85bb-audiofreehighqps/42/2E/GKwRIJINVlCkAzDSzQRkay2F.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c14
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/6980dcafb4be4c149ba97066/media.xyzcdn.net/646a8c23023239d3851f5e70/lrxzrTaaBAEVYzure2iikL5XQHLt.m4a
+https://jt.ximalaya.com//GKwRIJINVlCkAzDSzQRkay2F.m4a?channel=rss&album_id=29887212&track_id=954163972&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/85bb-audiofreehighqps/42/2E/GKwRIJINVlCkAzDSzQRkay2F.m4a
 ```
 
 </details>
 
 ---
 
-### 10. vol.235 人生百味亲自尝，新路崎岖别喊娘
+### 10. 爱是唯一的引力 Love is the only Gravity
 
-**播客名称**: 正经叭叭
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c14
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6980a0d1b4be4c149ba1fc3b/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loCB3BBOAEbpfouvduYXefx6zzfm.m4a
+https://tk.wavpub.com/WPDL_pswQgauUSnhFjxyDkEAjQmQjEgEfZgyKxpESbAMXUpppdSNRBZNPYRekAa-b2.mp3
 ```
 
 </details>
