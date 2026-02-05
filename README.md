@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-04 18:52  
+> 📅 **更新时间**: 2026-02-05 02:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 123. 2025英美剧大赏｜Side A
+### 1. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b823892b0bb97/media.xyzcdn.net/63d945ece725b5378a158d29/lhY1MJDxTPjYYbcXzPEiVNfNHYiD.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 123. 2025英美剧大赏｜Side A
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
+### 3. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
 
 **播客**: 脑放电波
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 4. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,33 +60,7 @@
 
 ---
 
-### 4. Riding with the repo man (update)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第2919期: ECHO empowers individuals with disabilities to achieve employment
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+### 5. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
 
 **播客**: 三五环
 
@@ -82,6 +69,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

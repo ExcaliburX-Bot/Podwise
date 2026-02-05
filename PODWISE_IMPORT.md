@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-04 18:52:01
+> 📅 生成时间: 2026-02-05 02:02:13
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 123. 2025英美剧大赏｜Side A
+### 1. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b823892b0bb97/media.xyzcdn.net/63d945ece725b5378a158d29/lhY1MJDxTPjYYbcXzPEiVNfNHYiD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b823892b0bb97/media.xyzcdn.net/63d945ece725b5378a158d29/lhY1MJDxTPjYYbcXzPEiVNfNHYiD.m4a
+```
+
+</details>
+
+---
+
+### 2. 123. 2025英美剧大赏｜Side A
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69836b14c78b8238
 
 ---
 
-### 2. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
+### 3. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
 
 **播客名称**: 脑放电波
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b83888
 
 ---
 
-### 3. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 4. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,61 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce36
 
 ---
 
-### 4. Riding with the repo man (update)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
-```
-
-</details>
-
----
-
-### 5. 第2919期: ECHO empowers individuals with disabilities to achieve employment
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINS8syABKHSARfqxtC.m4a?channel=rss&album_id=14812466&track_id=952035971&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d318-audiofreehighqps/82/6C/GKwRIaINS8syABKHSARfqxtC.m4a
-```
-
-</details>
-
----
-
-### 6. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+### 5. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
 
 **播客名称**: 三五环
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc07303036
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
+```
+
+</details>
+
+---
+
+### 6. 456 洪门会党、矿工械斗与拿律战争：白伟权谈19世纪马来半岛的华人移民社会
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6981bb5865d831df72382ec0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqL9CSbSx-KPI5h4oYh6PvfIJ9WT.m4a
 ```
 
 </details>
