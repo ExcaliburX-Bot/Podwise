@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-06 02:01:37
+> 📅 生成时间: 2026-02-06 06:55:15
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
+### 1. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b823892e62849/media.xyzcdn.net/6507bc165c88d2412626b401/lp4M9pH0IAUQGf5wYFAkngVa9m6d.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b823892e62849/media.xyzcdn.net/6507bc165c88d2412626b401/lp4M9pH0IAUQGf5wYFAkngVa9m6d.m4a
+```
+
+</details>
+
+---
+
+### 2. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
 
 **播客名称**: 贝望录
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a
-```
-
-</details>
-
----
-
-### 2. 第2921期:Traditional Cambodian crafts are on the brink of extinction
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4NU0FgAA70cwRjB5NR.m4a?channel=rss&album_id=14812466&track_id=953563154&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/54f1-audiofreehighqps/9A/F4/GKwRIW4NU0FgAA70cwRjB5NR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4NU0FgAA70cwRjB5NR.m4a?channel=rss&album_id=14812466&track_id=953563154&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/54f1-audiofreehighqps/9A/F4/GKwRIW4NU0FgAA70cwRjB5NR.m4a
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTcyOCwidCI6MX0.pVplq702YqubV1rbt1Ctiln
 
 ---
 
-### 8. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
-```
-
-</details>
-
----
-
-### 9. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
+### 8. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce36
 
 ---
 
-### 10. Riding with the repo man (update)
+### 9. Riding with the repo man (update)
 
 **播客名称**: Planet Money
 
@@ -283,6 +256,33 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6655918775.mp3?t=podcast&e=nx-s1-5698499&p=510289&d=1764&size=28225707
+```
+
+</details>
+
+---
+
+### 10. No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a
 ```
 
 </details>
