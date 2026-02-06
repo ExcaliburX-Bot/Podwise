@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-06 12:58:57
+> 📅 生成时间: 2026-02-06 18:51:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 微软的狗链：论OpenAI是否终将倒闭?
+### 1. vol.236 谁说过年俗了？你过年的方式肯定不俗
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a
+```
+
+</details>
+
+---
+
+### 2. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
+```
+
+</details>
+
+---
+
+### 3. 微软的狗链：论OpenAI是否终将倒闭?
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303
 
 ---
 
-### 2. 继业者1918｜曼纳海姆与芬兰的世纪突围：从考察中国西北情报到「冬季战争」
+### 4. 继业者1918｜曼纳海姆与芬兰的世纪突围：从考察中国西北情报到「冬季战争」
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6985a282c78b8238
 
 ---
 
-### 3. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
+### 5. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
 
 **播客名称**: 屠龙之术
 
@@ -100,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b8238
 
 ---
 
-### 4. 【solo】日本选情观察：被“饭圈化”的高市早苗已可宣布胜利？
+### 6. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a
+```
+
+</details>
+
+---
+
+### 7. 【solo】日本选情观察：被“饭圈化”的高市早苗已可宣布胜利？
 
 **播客名称**: 东亚观察局
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6984c88870aae7e9
 
 ---
 
-### 5. 260.AI时代的珍珠港：元宝被封、千问请客、豆包上春晚
+### 8. 260.AI时代的珍珠港：元宝被封、千问请客、豆包上春晚
 
 **播客名称**: 乱翻书
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6984b1f4a6d6e5f9
 
 ---
 
-### 6. 90.春节特辑：你当像鸟飞往高山，但味道记得你的来处
+### 9. 90.春节特辑：你当像鸟飞往高山，但味道记得你的来处
 
 **播客名称**: 展开讲讲
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b8238
 
 ---
 
-### 7. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
+### 10. 李静：你的焦虑就是最好的搞钱起点！如何找到生活的心气和志气
 
 **播客名称**: 搞钱女孩
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b8238
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69837216c78b823892b0bb97/media.xyzcdn.net/63d945ece725b5378a158d29/lhY1MJDxTPjYYbcXzPEiVNfNHYiD.m4a
-```
-
-</details>
-
----
-
-### 8. 我最爱去的唱片店，昨天是她的最后一天
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTcyOCwidCI6MX0.pVplq702YqubV1rbt1CtilnueAw/keychangefm/8229732384_841463.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTcyOCwidCI6MX0.pVplq702YqubV1rbt1CtilnueAw/keychangefm/8229732384_841463.mp3
-```
-
-</details>
-
----
-
-### 9. 328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a
-```
-
-</details>
-
----
-
-### 10. No.188 🎵 字节跳动与短视频大战：创造不看电视的时代 | 中国互联网故事15
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgzW6DRxkBxpHB6QXQt8_Cx3o61D.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6983114c824dce367c5d691d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgzW6DRxkBxpHB6QXQt8_Cx3o61D.m4a
 ```
 
 </details>
