@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-07 01:57  
+> 📅 **更新时间**: 2026-02-07 06:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2922期:Protecting your photos in a digital age
+### 1. 099.心和身体，总要有一个在远方
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Iran, protests, and sanctions
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2922期:Protecting your photos in a digital age
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. vol.236 谁说过年俗了？你过年的方式肯定不俗
+### 4. vol.236 谁说过年俗了？你过年的方式肯定不俗
 
 **播客**: 正经叭叭
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
+### 5. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
 
 **播客**: 知行小酒馆
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 微软的狗链：论OpenAI是否终将倒闭?
+### 6. 微软的狗链：论OpenAI是否终将倒闭?
 
 **播客**: 人民公园说AI
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 继业者1918｜曼纳海姆与芬兰的世纪突围：从考察中国西北情报到「冬季战争」
+### 7. 继业者1918｜曼纳海姆与芬兰的世纪突围：从考察中国西北情报到「冬季战争」
 
 **播客**: 忽左忽右
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
+### 8. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
 
 **播客**: 屠龙之术
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
+### 9. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
 
 **播客**: 贝望录
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 【solo】日本选情观察：被“饭圈化”的高市早苗已可宣布胜利？
+### 10. 【solo】日本选情观察：被“饭圈化”的高市早苗已可宣布胜利？
 
 **播客**: 东亚观察局
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6984c88870aae7e967ca2e41/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnYTVn4F7XfDRatZ2SfjALeRkJoY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 260.AI时代的珍珠港：元宝被封、千问请客、豆包上春晚
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6984b1f4a6d6e5f9a2cfef85/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhjQ3QhwNa2AncjE99oaBxpsF4o6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 90.春节特辑：你当像鸟飞往高山，但味道记得你的来处
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
