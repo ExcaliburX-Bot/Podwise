@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-08 12:50:00
+> 📅 生成时间: 2026-02-08 18:37:00
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2923期:The 'superhero' oyster species helping to clean water
+### 1. Ep187 约会手册：谈的时候也没觉得这么好笑啊
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
+```
+
+</details>
+
+---
+
+### 2. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
+```
+
+</details>
+
+---
+
+### 3. 第2923期:The 'superhero' oyster species helping to clean water
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJINU0VwAAUswwRjCWrC.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
+### 4. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
 
 **播客名称**: 42章经
 
@@ -73,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289
 
 ---
 
-### 3. Iran, protests, and sanctions
+### 5. 099.心和身体，总要有一个在远方
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a
+```
+
+</details>
+
+---
+
+### 6. Iran, protests, and sanctions
 
 **播客名称**: Planet Money
 
@@ -94,87 +175,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891
-```
-
-</details>
-
----
-
-### 4. vol.236 谁说过年俗了？你过年的方式肯定不俗
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a
-```
-
-</details>
-
----
-
-### 5. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
-```
-
-</details>
-
----
-
-### 6. 微软的狗链：论OpenAI是否终将倒闭?
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a
 ```
 
 </details>

@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-02-08T12:50:00.904678",
+  "generated_at": "2026-02-08T18:37:00.343994",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "Ep187 约会手册：谈的时候也没觉得这么好笑啊",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "第2923期:The 'superhero' oyster species helping to clean water",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIJINU0VwAAUswwRjCWrC.m4a?channel=rss&album_id=14812466&track_id=953566191&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e7da-audiofreehighqps/BE/72/GKwRIJINU0VwAAUswwRjCWrC.m4a",
@@ -13,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭",
       "podcast": "42章经",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a",
@@ -23,30 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "Iran, protests, and sanctions",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
-      "title": "vol.236 谁说过年俗了？你过年的方式肯定不俗",
-      "podcast": "正经叭叭",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 5,
-      "title": "E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a",
+      "title": "099.心和身体，总要有一个在远方",
+      "podcast": "喷嚏",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -54,9 +54,9 @@
     },
     {
       "rank": 6,
-      "title": "微软的狗链：论OpenAI是否终将倒闭?",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a",
+      "title": "Iran, protests, and sanctions",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
