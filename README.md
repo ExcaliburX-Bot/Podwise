@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-08 02:31  
+> 📅 **更新时间**: 2026-02-08 06:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
+### 1. 第2923期:The 'superhero' oyster species helping to clean water
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINU0VwAAUswwRjCWrC.m4a?channel=rss&album_id=14812466&track_id=953566191&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e7da-audiofreehighqps/BE/72/GKwRIJINU0VwAAUswwRjCWrC.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
 
 **播客**: 42章经
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 099.心和身体，总要有一个在远方
+### 3. 099.心和身体，总要有一个在远方
 
 **播客**: 喷嚏
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. Iran, protests, and sanctions
+### 4. Iran, protests, and sanctions
 
 **播客**: Planet Money
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. vol.236 谁说过年俗了？你过年的方式肯定不俗
+### 5. vol.236 谁说过年俗了？你过年的方式肯定不俗
 
 **播客**: 正经叭叭
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
+### 6. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
 
 **播客**: 知行小酒馆
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
+### 7. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
 
 **播客**: 屠龙之术
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b823892e62849/media.xyzcdn.net/6507bc165c88d2412626b401/lp4M9pH0IAUQGf5wYFAkngVa9m6d.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

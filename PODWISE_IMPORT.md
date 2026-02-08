@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-08 02:31:05
+> 📅 生成时间: 2026-02-08 06:49:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
+### 1. 第2923期:The 'superhero' oyster species helping to clean water
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINU0VwAAUswwRjCWrC.m4a?channel=rss&album_id=14812466&track_id=953566191&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e7da-audiofreehighqps/BE/72/GKwRIJINU0VwAAUswwRjCWrC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINU0VwAAUswwRjCWrC.m4a?channel=rss&album_id=14812466&track_id=953566191&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e7da-audiofreehighqps/BE/72/GKwRIJINU0VwAAUswwRjCWrC.m4a
+```
+
+</details>
+
+---
+
+### 2. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
 
 **播客名称**: 42章经
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289
 
 ---
 
-### 2. 099.心和身体，总要有一个在远方
+### 3. 099.心和身体，总要有一个在远方
 
 **播客名称**: 喷嚏
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e2
 
 ---
 
-### 3. Iran, protests, and sanctions
+### 4. Iran, protests, and sanctions
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. vol.236 谁说过年俗了？你过年的方式肯定不俗
+### 5. vol.236 谁说过年俗了？你过年的方式肯定不俗
 
 **播客名称**: 正经叭叭
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859
 
 ---
 
-### 5. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
+### 6. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b8238
 
 ---
 
-### 6. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
+### 7. Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\阑夕\明浩）+一泽
 
 **播客名称**: 屠龙之术
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b8238
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855b8fc78b823892e62849/media.xyzcdn.net/6507bc165c88d2412626b401/lp4M9pH0IAUQGf5wYFAkngVa9m6d.m4a
-```
-
-</details>
-
----
-
-### 7. 211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6984488d70aae7e967b750e2/media.xyzcdn.net/5e285856418a84a04627b7be/lh1t296-Mjn01jul12muTm5bNHaD.m4a
 ```
 
 </details>
