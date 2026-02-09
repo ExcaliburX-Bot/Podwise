@@ -1,14 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-09 02:09  
+> 📅 **更新时间**: 2026-02-09 07:04  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神专系列：从Y2K到AI，30年后Radiohead的噩梦成真了吗？
+### 1. 神专系列丨OK Computer, 科技让我们冰冷而疏离
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 第2924期:AI monitoring of firefighter health
+### 2. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
+
+**播客**: 出海去孵化器
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303778a0700/media.xyzcdn.net/646a8c23023239d3851f5e70/ljwR5-tTiXP0pFitapPgw3utMh-j.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2924期:AI monitoring of firefighter health
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 75: Kindness of Strangers
+### 4. 75: Kindness of Strangers
 
 **播客**: This American Life
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Ep187 谈的时候也没觉得这么好笑啊
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,15 +73,15 @@
 
 ---
 
-### 6. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
+### 6. Ep187 谈的时候也没觉得这么好笑啊
 
-**播客**: 42章经
+**播客**: 基本无害 Mostly Harmless
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,20 +112,7 @@
 
 ---
 
-### 9. vol.236 谁说过年俗了？你过年的方式肯定不俗
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6985d3de3917a859c444dbf3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvHG6xXOY3TzNNnYzo1RAVpnwBrP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
+### 9. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
 
 **播客**: 知行小酒馆
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 微软的狗链：论OpenAI是否终将倒闭?
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
