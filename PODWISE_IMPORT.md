@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-09 07:04:55
+> 📅 生成时间: 2026-02-09 13:08:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神专系列丨OK Computer, 科技让我们冰冷而疏离
+### 1. Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e967d34b63/media.xyzcdn.net/6507bc165c88d2412626b401/lm0paUntpRxcktGJxwTVnxduaf3I.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e967d34b63/media.xyzcdn.net/6507bc165c88d2412626b401/lm0paUntpRxcktGJxwTVnxduaf3I.m4a
+```
+
+</details>
+
+---
+
+### 2. 神专系列丨OK Computer, 科技让我们冰冷而疏离
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMs
 
 ---
 
-### 2. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
+### 3. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
 
 **播客名称**: 出海去孵化器
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303
 
 ---
 
-### 3. 第2924期:AI monitoring of firefighter health
+### 4. 第2924期:AI monitoring of firefighter health
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIMANU0ggAA2fxwRjCq7g.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 75: Kindness of Strangers
+### 5. 75: Kindness of Strangers
 
 **播客名称**: This American Life
 
@@ -121,33 +148,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3
-```
-
-</details>
-
----
-
-### 5. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
 ```
 
 </details>
@@ -181,7 +181,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303
 
 ---
 
-### 7. 099.心和身体，总要有一个在远方
+### 7. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
+```
+
+</details>
+
+---
+
+### 8. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a
+```
+
+</details>
+
+---
+
+### 9. 099.心和身体，总要有一个在远方
 
 **播客名称**: 喷嚏
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e2
 
 ---
 
-### 8. Iran, protests, and sanctions
+### 10. Iran, protests, and sanctions
 
 **播客名称**: Planet Money
 
@@ -229,60 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891
-```
-
-</details>
-
----
-
-### 9. E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a
-```
-
-</details>
-
----
-
-### 10. 微软的狗链：论OpenAI是否终将倒闭?
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6985b3fa66e2c303771e9fad/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpq8w4dCpPCxC2Pdp2xXICFNKkYJ.m4a
 ```
 
 </details>
