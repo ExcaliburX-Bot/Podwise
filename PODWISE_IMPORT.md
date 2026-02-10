@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-09 13:08:39
+> 📅 生成时间: 2026-02-10 02:25:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,142 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅
+### 1. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
+```
+
+</details>
+
+---
+
+### 2. 132. 🍦雪糕江湖
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
+```
+
+</details>
+
+---
+
+### 3. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a
+```
+
+</details>
+
+---
+
+### 4. 第2925期:Major art exhibition explores achievements of Indigenous women artists
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a
+```
+
+</details>
+
+---
+
+### 5. Vol.321 灿烂千阳：世界要我们忍耐，我们偏要为彼此战斗
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
+```
+
+</details>
+
+---
+
+### 6. Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅
 
 **播客名称**: 屠龙之术
 
@@ -46,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e9
 
 ---
 
-### 2. 神专系列丨OK Computer, 科技让我们冰冷而疏离
+### 7. 神专系列丨OK Computer, 科技让我们冰冷而疏离
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,7 +208,7 @@ https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMs
 
 ---
 
-### 3. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
+### 8. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
 
 **播客名称**: 出海去孵化器
 
@@ -100,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303
 
 ---
 
-### 4. 第2924期:AI monitoring of firefighter health
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMANU0ggAA2fxwRjCq7g.m4a?channel=rss&album_id=14812466&track_id=953568897&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f725-audiofreehighqps/4B/AF/GKwRIMANU0ggAA2fxwRjCq7g.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMANU0ggAA2fxwRjCq7g.m4a?channel=rss&album_id=14812466&track_id=953568897&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f725-audiofreehighqps/4B/AF/GKwRIMANU0ggAA2fxwRjCq7g.m4a
-```
-
-</details>
-
----
-
-### 5. 75: Kindness of Strangers
+### 9. 75: Kindness of Strangers
 
 **播客名称**: This American Life
 
@@ -154,7 +262,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. Ep187 谈的时候也没觉得这么好笑啊
+### 10. Ep187 谈的时候也没觉得这么好笑啊
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
-```
-
-</details>
-
----
-
-### 7. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
-```
-
-</details>
-
----
-
-### 8. 从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/698563a188663289fe80769a/media.xyzcdn.net/648b0b641c48983391a63f98/lrW05Gh-VfH-ovLmLZzQXejMrbOX.m4a
-```
-
-</details>
-
----
-
-### 9. 099.心和身体，总要有一个在远方
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69863a3ae55399e220256478/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lrCKJvKDIelIXCoB5By-Y2L_Z9EK.m4a
-```
-
-</details>
-
----
-
-### 10. Iran, protests, and sanctions
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR5808823709.mp3?t=podcast&e=nx-s1-5704815&p=510289&d=1998&size=31976891
 ```
 
 </details>
