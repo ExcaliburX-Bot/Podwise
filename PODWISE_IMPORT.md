@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-10 02:25:49
+> 📅 生成时间: 2026-02-10 07:03:52
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa
 
 ---
 
-### 2. 132. 🍦雪糕江湖
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep132.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep132.mp3
-```
-
-</details>
-
----
-
-### 3. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
+### 2. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
 
 **播客名称**: 沈奕斐的播客
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480ad
 
 ---
 
-### 4. 第2925期:Major art exhibition explores achievements of Indigenous women artists
+### 3. 第2925期:Major art exhibition explores achievements of Indigenous women artists
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -121,6 +94,33 @@ https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a
+```
+
+</details>
+
+---
+
+### 4. 132. 🍦雪糕江湖
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e9
 
 ---
 
-### 7. 神专系列丨OK Computer, 科技让我们冰冷而疏离
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3
-```
-
-</details>
-
----
-
-### 8. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
+### 7. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
 
 **播客名称**: 出海去孵化器
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303
 
 ---
 
-### 9. 75: Kindness of Strangers
+### 8. 75: Kindness of Strangers
 
 **播客名称**: This American Life
 
@@ -262,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 10. Ep187 谈的时候也没觉得这么好笑啊
+### 9. Ep187 谈的时候也没觉得这么好笑啊
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
+```
+
+</details>
+
+---
+
+### 10. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a
 ```
 
 </details>

@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-10 02:25  
+> 📅 **更新时间**: 2026-02-10 07:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 132. 🍦雪糕江湖
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep132.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
+### 2. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
 
 **播客**: 沈奕斐的播客
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 第2925期:Major art exhibition explores achievements of Indigenous women artists
+### 3. 第2925期:Major art exhibition explores achievements of Indigenous women artists
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 132. 🍦雪糕江湖
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep132.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 神专系列丨OK Computer, 科技让我们冰冷而疏离
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
+### 7. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
 
 **播客**: 出海去孵化器
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 75: Kindness of Strangers
+### 8. 75: Kindness of Strangers
 
 **播客**: This American Life
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. Ep187 谈的时候也没觉得这么好笑啊
+### 9. Ep187 谈的时候也没觉得这么好笑啊
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6985820dc78b823892eb4642/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltiv0K_CJUSU9Kz-GSI_UNssIYyj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
