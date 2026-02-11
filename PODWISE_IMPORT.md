@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-11 07:01:14
+> 📅 生成时间: 2026-02-11 13:09:46
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299
 
 ---
 
-### 3. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
+### 3. 第2926期:The bird sanctuary rehabilitates injured birds.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
+```
+
+</details>
+
+---
+
+### 4. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
 
 **播客名称**: 贝望录
 
@@ -100,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c303
 
 ---
 
-### 4. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
+### 5. 小步5曲 #3丨走在路上哼起来
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+```
+
+</details>
+
+---
+
+### 6. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
 
 **播客名称**: 人民公园说AI
 
@@ -127,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/698b652b66e2c303
 
 ---
 
-### 5. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
+### 7. EP122 拥有一辆房车是种什么样的体验？🤔
+
+**播客名称**: 硬地骇客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c30377dad329/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpOSkCF-oTqHpPGHn1YJVPJGsrD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c30377dad329/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpOSkCF-oTqHpPGHn1YJVPJGsrD.m4a
+```
+
+</details>
+
+---
+
+### 8. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698aef71a22480ad
 
 ---
 
-### 6. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
+### 9. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa
 
 ---
 
-### 7. 132. 🍦雪糕江湖
+### 10. 132. 🍦雪糕江湖
 
 **播客名称**: 疯投圈
 
@@ -202,87 +283,6 @@ https://rio.xyzcdn.net/crazycapital/ep132.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep132.mp3
-```
-
-</details>
-
----
-
-### 8. Vol.321 灿烂千阳：世界要我们忍耐，我们偏要为彼此战斗
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
-```
-
-</details>
-
----
-
-### 9. vol.237 来到世界茶港，总归会聊到查岗
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c30377a4e76c/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqXTBWaexfrSWwJSoROpl5sbZhl9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c30377a4e76c/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqXTBWaexfrSWwJSoROpl5sbZhl9.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e967d34b63/media.xyzcdn.net/6507bc165c88d2412626b401/lm0paUntpRxcktGJxwTVnxduaf3I.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e967d34b63/media.xyzcdn.net/6507bc165c88d2412626b401/lm0paUntpRxcktGJxwTVnxduaf3I.m4a
 ```
 
 </details>

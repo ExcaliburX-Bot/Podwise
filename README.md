@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-11 07:01  
+> 📅 **更新时间**: 2026-02-11 13:09  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
+### 3. 第2926期:The bird sanctuary rehabilitates injured birds.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
 
 **播客**: 贝望录
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
+### 5. 小步5曲 #3丨走在路上哼起来
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
 
 **播客**: 人民公园说AI
 
@@ -60,7 +86,20 @@
 
 ---
 
-### 5. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
+### 7. EP122 拥有一辆房车是种什么样的体验？🤔
+
+**播客**: 硬地骇客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c30377dad329/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpOSkCF-oTqHpPGHn1YJVPJGsrD.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
 
 **播客**: 忽左忽右
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
+### 9. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 132. 🍦雪糕江湖
+### 10. 132. 🍦雪糕江湖
 
 **播客**: 疯投圈
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep132.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.321 灿烂千阳：世界要我们忍耐，我们偏要为彼此战斗
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.237 来到世界茶港，总归会聊到查岗
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c30377a4e76c/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqXTBWaexfrSWwJSoROpl5sbZhl9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69855de670aae7e967d34b63/media.xyzcdn.net/6507bc165c88d2412626b401/lm0paUntpRxcktGJxwTVnxduaf3I.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
