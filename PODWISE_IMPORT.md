@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-10 19:04:44
+> 📅 生成时间: 2026-02-11 02:14:59
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. EP122 拥有一辆房车是种什么样的体验？🤔
+### 1. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c30377d44d64/media.xyzcdn.net/5e285856418a84a04627b7be/lsfYlz5-pE9Lvs1R9DtAxZPbKa9_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c30377d44d64/media.xyzcdn.net/5e285856418a84a04627b7be/lsfYlz5-pE9Lvs1R9DtAxZPbKa9_.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2926期:The bird sanctuary rehabilitates injured birds.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
+```
+
+</details>
+
+---
+
+### 3. 小步5曲 #3丨走在路上哼起来
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+```
+
+</details>
+
+---
+
+### 4. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/698b652b66e2c30377e32aa3/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljXGGmkQlPDxD0R7eJ4VS4PL4xiT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/698b652b66e2c30377e32aa3/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljXGGmkQlPDxD0R7eJ4VS4PL4xiT.m4a
+```
+
+</details>
+
+---
+
+### 5. EP122 拥有一辆房车是种什么样的体验？🤔
 
 **播客名称**: 硬地骇客
 
@@ -46,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c303
 
 ---
 
-### 2. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
+### 6. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
 
 **播客名称**: 忽左忽右
 
@@ -73,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698aef71a22480ad
 
 ---
 
-### 3. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
-```
-
-</details>
-
----
-
-### 4. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
+### 7. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
 
 **播客名称**: 沈奕斐的播客
 
@@ -127,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480ad
 
 ---
 
-### 5. 第2925期:Major art exhibition explores achievements of Indigenous women artists
+### 8. 132. 🍦雪糕江湖
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +228,41 @@ https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANU0tyABUtsgRjDJjG.m4a?channel=rss&album_id=14812466&track_id=953572744&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0914-audiofreehighqps/6F/8A/GKwRIMANU0tyABUtsgRjDJjG.m4a
+https://rio.xyzcdn.net/crazycapital/ep132.mp3
 ```
 
 </details>
 
 ---
 
-### 6. vol.237 来到世界茶港，总归会聊到查岗
+### 9. Vol.321 灿烂千阳：世界要我们忍耐，我们偏要为彼此战斗
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.237 来到世界茶港，总归会聊到查岗
 
 **播客名称**: 正经叭叭
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c30377a4e76c/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqXTBWaexfrSWwJSoROpl5sbZhl9.m4a
-```
-
-</details>
-
----
-
-### 7. 神专系列丨OK Computer, 科技让我们冰冷而疏离
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3
-```
-
-</details>
-
----
-
-### 8. EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303778a0700/media.xyzcdn.net/646a8c23023239d3851f5e70/ljwR5-tTiXP0pFitapPgw3utMh-j.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303778a0700/media.xyzcdn.net/646a8c23023239d3851f5e70/ljwR5-tTiXP0pFitapPgw3utMh-j.m4a
-```
-
-</details>
-
----
-
-### 9. 75: Kindness of Strangers
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR6510887866.mp3
-```
-
-</details>
-
----
-
-### 10. Ep187 谈的时候也没觉得这么好笑啊
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a
 ```
 
 </details>
