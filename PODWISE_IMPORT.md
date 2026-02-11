@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-11 13:09:46
+> 📅 生成时间: 2026-02-11 19:03:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
+### 1. 124. 2025英美剧大赏｜Side B
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lto_qI25-wrye5XGaaxW28MKbQsi.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lto_qI25-wrye5XGaaxW28MKbQsi.m4a
+```
+
+</details>
+
+---
+
+### 2. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -46,15 +73,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69
 
 ---
 
-### 2. 一位自由译者转型之路和她经历的AI未来
+### 3. The Invention Invention
 
-**播客名称**: 二维吾码
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,34 +93,7 @@ https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a
-```
-
-</details>
-
----
-
-### 3. 第2926期:The bird sanctuary rehabilitates injured birds.
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c303
 
 ---
 
-### 5. 小步5曲 #3丨走在路上哼起来
+### 5. 第2926期:The bird sanctuary rehabilitates injured birds.
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_1
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3
+https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698aef71a22480ad
 
 ---
 
-### 9. 150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线
+### 9. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/21aa54c5-41ec-44e2-bb1d-995535c255d5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a
 ```
 
 </details>
