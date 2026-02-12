@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T13:07:26.936999",
+  "generated_at": "2026-02-12T19:03:21.316642",
   "total_count": 10,
   "episodes": [
     {
@@ -14,16 +14,6 @@
     },
     {
       "rank": 2,
-      "title": "第2927期:Do you want a shatterproof phone?",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
       "title": "彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a",
@@ -33,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "124. 2025英美剧大赏｜Side B",
       "podcast": "英美剧漫游指南KillingTV",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lt9jDevMO1sUBf3y6BRu3NQypdzu.m4a",
@@ -43,27 +33,17 @@
       "notes": ""
     },
     {
+      "rank": 4,
+      "title": "【随机波动】在春天，保持希望和乐观主义是残酷的吗？",
+      "podcast": "随机波动StochasticVolatility",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 5,
-      "title": "那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些\"无用之事\"",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "No.189 🧨 春节放假简史：过年的权力游戏",
-      "podcast": "半拿铁 | 商业沉浮录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "The Invention Invention",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362",
@@ -73,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c30377d44d64/media.xyzcdn.net/5e285856418a84a04627b7be/lsfYlz5-pE9Lvs1R9DtAxZPbKa9_.m4a",
@@ -83,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "小步5曲 #3丨走在路上哼起来",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3",
@@ -93,10 +73,30 @@
       "notes": ""
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/698b652b66e2c30377e32aa3/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljXGGmkQlPDxD0R7eJ4VS4PL4xiT.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》",
+      "podcast": "沈奕斐的播客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "132. 🍦雪糕江湖",
+      "podcast": "疯投圈",
+      "audio_url": "https://rio.xyzcdn.net/crazycapital/ep132.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
