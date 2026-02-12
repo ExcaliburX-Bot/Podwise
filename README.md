@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-11 19:03  
+> 📅 **更新时间**: 2026-02-12 02:09  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 124. 2025英美剧大赏｜Side B
+### 1. 第2927期:Do you want a shatterproof phone?
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 124. 2025英美剧大赏｜Side B
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -16,25 +42,25 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lto_qI25-wrye5XGaaxW28MKbQsi.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lhIjJ8pUNUaRPXlcx8Hb0V37hJbe.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
+### 4. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
 
-**播客**: 随机波动StochasticVolatility
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. The Invention Invention
+### 5. The Invention Invention
 
 **播客**: Planet Money
 
@@ -47,7 +73,20 @@
 
 ---
 
-### 4. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
+### 6. 一位自由译者转型之路和她经历的AI未来
+
+**播客**: 二维吾码
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
 
 **播客**: 贝望录
 
@@ -60,20 +99,20 @@
 
 ---
 
-### 5. 第2926期:The bird sanctuary rehabilitates injured birds.
+### 8. 小步5曲 #3丨走在路上哼起来
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENU20HABKC4QRjH7wJ.m4a?channel=rss&album_id=14812466&track_id=953602510&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7fee-audiofreehighqps/4D/5F/GKwRIUENU20HABKC4QRjH7wJ.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
+### 9. OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？
 
 **播客**: 人民公园说AI
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. EP122 拥有一辆房车是种什么样的体验？🤔
+### 10. EP122 拥有一辆房车是种什么样的体验？🤔
 
 **播客**: 硬地骇客
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c30377dad329/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpOSkCF-oTqHpPGHn1YJVPJGsrD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698aef71a22480add67d9f30/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmIrKfZc2YCuo3xhnZfk3aBEmgIG.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 132. 🍦雪糕江湖
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep132.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
