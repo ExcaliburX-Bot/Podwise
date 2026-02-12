@@ -1,302 +1,378 @@
 [
   {
-    "eid": "d5fe2537df3.mp3",
     "title": "151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的",
     "podcast": {
       "title": "晚点聊 LateTalk"
     },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9c1990e8-c131-4e2d-8418-bd5fe2537df3.mp3",
-    "pubDate": "2026-02-12T12:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
+    "link": "https://podcast.latepost.com/151",
+    "pubDate": "2026-02-12 04:00:00"
   },
   {
-    "eid": "AyV_gRjINkY.m4a",
     "title": "第2927期:Do you want a shatterproof phone?",
     "podcast": {
       "title": "英语每日一听 | 每天少于5分钟"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a",
-    "pubDate": "2026-02-12T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
+    "link": "https://www.ximalaya.com/sound/953604143",
+    "pubDate": "2026-02-12 00:00:00"
   },
   {
-    "eid": "iql9UYW5Y5o.m4a",
     "title": "彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到",
     "podcast": {
       "title": "搞钱女孩"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a",
-    "pubDate": "2026-02-11T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698ca3f466e2c3037711b9ee?utm_source=rss",
+    "pubDate": "2026-02-11 23:30:00"
   },
   {
-    "eid": "BRu3NQypdzu.m4a",
     "title": "124. 2025英美剧大赏｜Side B",
     "podcast": {
       "title": "英美剧漫游指南KillingTV"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lt9jDevMO1sUBf3y6BRu3NQypdzu.m4a",
-    "pubDate": "2026-02-11T16:00:17+00:00",
-    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698ca2b3a22480add6c16bf3?utm_source=rss",
+    "pubDate": "2026-02-11 16:00:17"
   },
   {
-    "eid": "kMH_d3NP3bK.m4a",
     "title": "那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些\"无用之事\"",
     "podcast": {
       "title": "十字路口Crossing"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a",
-    "pubDate": "2026-02-11T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698bfa3ca22480add6a15da9?utm_source=rss",
+    "pubDate": "2026-02-11 16:00:00"
   },
   {
-    "eid": "9JzEei8BAPA.m4a",
     "title": "No.189 🧨 春节放假简史：过年的权力游戏",
     "podcast": {
       "title": "半拿铁 | 商业沉浮录"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a",
-    "pubDate": "2026-02-11T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698b5ca4a22480add692228a?utm_source=rss",
+    "pubDate": "2026-02-11 12:00:00"
   },
   {
-    "eid": "2&size=29488362",
     "title": "The Invention Invention",
     "podcast": {
       "title": "Planet Money"
     },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362",
-    "pubDate": "2026-02-11T08:00:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+    "link": "https://www.npr.org/2026/02/11/nx-s1-5707856/singer-sewing-machine-patent-pool-antitrust-mpeg",
+    "pubDate": "2026-02-11 08:00:00"
   },
   {
-    "eid": "DtAxZPbKa9_.m4a",
+    "title": "一位自由译者转型之路和她经历的AI未来",
+    "podcast": {
+      "title": "二维吾码"
+    },
+    "link": "https://www.ximalaya.com/sound/956278605",
+    "pubDate": "2026-02-11 06:00:00"
+  },
+  {
+    "title": "【随机波动】在春天，保持希望和乐观主义是残酷的吗？",
+    "podcast": {
+      "title": "随机波动StochasticVolatility"
+    },
+    "link": "https://www.stovol.club/cpb",
+    "pubDate": "2026-02-11 04:00:00"
+  },
+  {
     "title": "东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国",
     "podcast": {
       "title": "贝望录"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c30377d44d64/media.xyzcdn.net/5e285856418a84a04627b7be/lsfYlz5-pE9Lvs1R9DtAxZPbKa9_.m4a",
-    "pubDate": "2026-02-11T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698b0e9666e2c30377d44d64?utm_source=rss",
+    "pubDate": "2026-02-11 00:00:00"
   },
   {
-    "eid": "2207_441704.mp3",
+    "title": "第2926期:The bird sanctuary rehabilitates injured birds.",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953602510",
+    "pubDate": "2026-02-11 00:00:00"
+  },
+  {
     "title": "小步5曲 #3丨走在路上哼起来",
     "podcast": {
       "title": "周末变奏 Key Change"
     },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3",
-    "pubDate": "2026-02-10T23:43:18+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
+    "link": "http://keychange.xyz/episodes/5songs-003",
+    "pubDate": "2026-02-10 23:43:18"
   },
   {
-    "eid": "J4VS4PL4xiT.m4a",
+    "title": "句子反复磨耳朵（高级）146-150",
+    "podcast": {
+      "title": "高效磨耳朵 | 最好的英语听力资源"
+    },
+    "link": "https://www.ximalaya.com/sound/951004179",
+    "pubDate": "2026-02-10 23:00:00"
+  },
+  {
     "title": "OpenClaw 深度启示录：80%的应用消失，当软件变成一次性耗材，SaaS和程序员谁先死？",
     "podcast": {
       "title": "人民公园说AI"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/698b652b66e2c30377e32aa3/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljXGGmkQlPDxD0R7eJ4VS4PL4xiT.m4a",
-    "pubDate": "2026-02-10T23:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698b652b66e2c30377e32aa3?utm_source=rss",
+    "pubDate": "2026-02-10 23:00:00"
   },
   {
-    "eid": "n1YJVPJGsrD.m4a",
     "title": "EP122 拥有一辆房车是种什么样的体验？🤔",
     "podcast": {
       "title": "硬地骇客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/698b340d66e2c30377dad329/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpOSkCF-oTqHpPGHn1YJVPJGsrD.m4a",
-    "pubDate": "2026-02-10T13:39:48+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698b340d66e2c30377dad329?utm_source=rss",
+    "pubDate": "2026-02-10 13:39:48"
   },
   {
-    "eid": "Zfk3aBEmgIG.m4a",
     "title": "457 古物与政坛：从庞莱臣、张静江聊民国「湖州帮」往事",
     "podcast": {
       "title": "忽左忽右"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698aef71a22480add67d9f30/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmIrKfZc2YCuo3xhnZfk3aBEmgIG.m4a",
-    "pubDate": "2026-02-10T09:02:01+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698aef71a22480add67d9f30?utm_source=rss",
+    "pubDate": "2026-02-10 09:02:01"
   },
   {
-    "eid": "12AvP5B3Hkf.m4a",
     "title": "244.如何调节负面情绪？违背父母意愿做主持人是什么体验？对谈齐思钧聊《喂，你好吗？》",
     "podcast": {
       "title": "沈奕斐的播客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6989a149a22480add64cbf34/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lu5r7WlxPiN9GrmXg12AvP5B3Hkf.m4a",
-    "pubDate": "2026-02-10T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
+    "link": "https://www.xiaoyuzhoufm.com/episode/6989a149a22480add64cbf34?utm_source=rss",
+    "pubDate": "2026-02-10 00:00:00"
   },
   {
-    "eid": "pital/ep132.mp3",
     "title": "132. 🍦雪糕江湖",
     "podcast": {
       "title": "疯投圈"
     },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep132.mp3",
-    "pubDate": "2026-02-10T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
+    "link": "https://crazy.capital/132",
+    "pubDate": "2026-02-10 00:00:00"
   },
   {
-    "eid": "thN6wRoQ4q-.m4a",
+    "title": "第2925期:Major art exhibition explores achievements of Indigenous women artists",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953572744",
+    "pubDate": "2026-02-10 00:00:00"
+  },
+  {
+    "title": "150: 年末AI回顾：从模型到应用、从技术到商战，拽住洪流中的意义之线",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "link": "https://podcast.latepost.com/150",
+    "pubDate": "2026-02-09 23:15:00"
+  },
+  {
     "title": "Vol.321 灿烂千阳：世界要我们忍耐，我们偏要为彼此战斗",
     "podcast": {
       "title": "文化有限"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaINXxCpAthN6wRoQ4q-.m4a?channel=rss&album_id=29887212&track_id=955811279&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/aaea-audiofreehighqps/1B/5C/GKwRIaINXxCpAthN6wRoQ4q-.m4a",
-    "pubDate": "2026-02-09T23:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+    "link": "https://www.ximalaya.com/sound/955811279",
+    "pubDate": "2026-02-09 23:00:00"
   },
   {
-    "eid": "ROpl5sbZhl9.m4a",
     "title": "vol.237 来到世界茶港，总归会聊到查岗",
     "podcast": {
       "title": "正经叭叭"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6989c79166e2c30377a4e76c/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqXTBWaexfrSWwJSoROpl5sbZhl9.m4a",
-    "pubDate": "2026-02-09T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
+    "link": "https://www.xiaoyuzhoufm.com/episode/6989c79166e2c30377a4e76c?utm_source=rss",
+    "pubDate": "2026-02-09 16:00:00"
   },
   {
-    "eid": "hMsxjVjL-ff.mp3",
-    "title": "神专系列丨OK Computer, 科技让我们冰冷而疏离",
+    "title": "Vol.88 AI如何解锁2026内容消费的深水区---再次对谈快手磁力引擎郑迅",
     "podcast": {
-      "title": "Vibration 歪波音室"
+      "title": "屠龙之术"
     },
-    "enclosureUrl": "https://tk.wavpub.com/WPDL_XqyAwaMhpmJLRtvVvsrYAXjFMXAycbYSkJHNKptsvLRFZLqpNZhMsxjVjL-ff.mp3",
-    "pubDate": "2026-02-09T06:00:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+    "link": "https://www.xiaoyuzhoufm.com/episode/69855de670aae7e967d34b63?utm_source=rss",
+    "pubDate": "2026-02-09 09:00:04"
   },
   {
-    "eid": "pPgw3utMh-j.m4a",
     "title": "EP73 | 来自硅谷的一线视角：AI 产品如何走出早期增长困境",
     "podcast": {
       "title": "出海去孵化器"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69894af066e2c303778a0700/media.xyzcdn.net/646a8c23023239d3851f5e70/ljwR5-tTiXP0pFitapPgw3utMh-j.m4a",
-    "pubDate": "2026-02-09T02:54:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
+    "link": "https://www.xiaoyuzhoufm.com/episode/69894af066e2c303778a0700?utm_source=rss",
+    "pubDate": "2026-02-09 02:54:49"
   },
   {
-    "eid": "fM_hw5oRPn_.m4a",
+    "title": "第2924期:AI monitoring of firefighter health",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953568897",
+    "pubDate": "2026-02-09 00:00:00"
+  },
+  {
+    "title": "单词造句磨耳朵 首字母M day140（1391-1400)",
+    "podcast": {
+      "title": "高效磨耳朵 | 最好的英语听力资源"
+    },
+    "link": "https://www.ximalaya.com/sound/952531881",
+    "pubDate": "2026-02-08 23:00:00"
+  },
+  {
+    "title": "75: Kindness of Strangers",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "link": "https://www.thisamericanlife.org/kindness-of-strangers",
+    "pubDate": "2026-02-08 23:00:00"
+  },
+  {
+    "title": "神专系列丨OK Computer, 科技让我们冰冷而疏离",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "link": "https://hosting.wavpub.cn/vibration/2026/02/09/%e7%a5%9e%e4%b8%93%e7%b3%bb%e5%88%97%ef%bc%9a%e4%bb%8ey2k%e5%88%b0ai%ef%bc%8c30%e5%b9%b4%e5%90%8eradiohead%e7%9a%84%e5%99%a9%e6%a2%a6%e6%88%90%e7%9c%9f%e4%ba%86%e5%90%97%ef%bc%9f/",
+    "pubDate": "2026-02-08 22:00:00"
+  },
+  {
     "title": "Ep187 谈的时候也没觉得这么好笑啊",
     "podcast": {
       "title": "基本无害 Mostly Harmless"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/698851df66e2c303776c2338/media.xyzcdn.net/5eae66d1418a84a046472b4d/luPJx45ecEs1ky06wfM_hw5oRPn_.m4a",
-    "pubDate": "2026-02-08T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+    "link": "https://www.xiaoyuzhoufm.com/episode/698851df66e2c303776c2338?utm_source=rss",
+    "pubDate": "2026-02-08 16:00:00"
   },
   {
-    "eid": "F7KMORLE0P6.m4a",
+    "title": "Vibe Coding 下半场：四大天王，和想赢的人｜对话朱广翔：百度秒哒产品总经理",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/6985820dc78b823892eb4642?utm_source=rss",
+    "pubDate": "2026-02-08 16:00:00"
+  },
+  {
+    "title": "第2923期:The 'superhero' oyster species helping to clean water",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953566191",
+    "pubDate": "2026-02-08 00:00:00"
+  },
+  {
+    "title": "考试英语听力材料（高考）29 独白",
+    "podcast": {
+      "title": "高效磨耳朵 | 最好的英语听力资源"
+    },
+    "link": "https://www.ximalaya.com/sound/951532916",
+    "pubDate": "2026-02-07 23:00:00"
+  },
+  {
+    "title": "从 Clawdbot 到 26 年 AI Coding 主题大爆发｜对谈 PingCAP CTO 东旭",
+    "podcast": {
+      "title": "42章经"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/698563a188663289fe80769a?utm_source=rss",
+    "pubDate": "2026-02-07 14:00:00"
+  },
+  {
+    "title": "099.心和身体，总要有一个在远方",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/69863a3ae55399e220256478?utm_source=rss",
+    "pubDate": "2026-02-07 06:00:00"
+  },
+  {
+    "title": "Iran, protests, and sanctions",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "link": "https://www.npr.org/2026/02/06/nx-s1-5704815/iran-protests-us-sanctions",
+    "pubDate": "2026-02-07 03:16:10"
+  },
+  {
+    "title": "第2922期:Protecting your photos in a digital age",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953564775",
+    "pubDate": "2026-02-07 00:00:00"
+  },
+  {
+    "title": "vol.236 谁说过年俗了？你过年的方式肯定不俗",
+    "podcast": {
+      "title": "正经叭叭"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/6985d3de3917a859c444dbf3?utm_source=rss",
+    "pubDate": "2026-02-06 16:00:00"
+  },
+  {
     "title": "E223 在恐慌与兴奋之间，我们回顾了 2025 年的市场",
     "podcast": {
       "title": "知行小酒馆"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69859bc6c78b823892ef081c/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ln5U8BdkMhvkJFoI2F7KMORLE0P6.m4a",
-    "pubDate": "2026-02-06T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
+    "link": "https://www.xiaoyuzhoufm.com/episode/69859bc6c78b823892ef081c?utm_source=rss",
+    "pubDate": "2026-02-06 12:00:00"
   },
   {
-    "eid": "SfjALeRkJoY.m4a",
+    "title": "微软的狗链：论OpenAI是否终将倒闭?",
+    "podcast": {
+      "title": "人民公园说AI"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/6985b3fa66e2c303771e9fad?utm_source=rss",
+    "pubDate": "2026-02-06 09:37:30"
+  },
+  {
+    "title": "继业者1918｜曼纳海姆与芬兰的世纪突围：从考察中国西北情报到「冬季战争」",
+    "podcast": {
+      "title": "忽左忽右"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/6985a282c78b823892f0011b?utm_source=rss",
+    "pubDate": "2026-02-06 09:09:27"
+  },
+  {
+    "title": "当 AI 不再等你指挥：OpenClaw 与「行动型 Agent」的真正拐点 | S9E45",
+    "podcast": {
+      "title": "What's Next｜科技早知道"
+    },
+    "link": "https://guiguzaozhidao.fireside.fm/20240411",
+    "pubDate": "2026-02-06 05:15:00"
+  },
+  {
+    "title": "Vol.87 闲侃春节AI红包大战-从元宝红包被微信屏蔽聊起-百岁山组合（潘乱\\阑夕\\明浩）+一泽",
+    "podcast": {
+      "title": "屠龙之术"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/69855b8fc78b823892e62849?utm_source=rss",
+    "pubDate": "2026-02-06 03:19:03"
+  },
+  {
+    "title": "211. 英伦奇葩说丨在英国，教会不只做礼拜，也是小镇里的隐形大地主",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "link": "https://www.xiaoyuzhoufm.com/episode/6984488d70aae7e967b750e2?utm_source=rss",
+    "pubDate": "2026-02-06 00:00:00"
+  },
+  {
+    "title": "第2921期:Traditional Cambodian crafts are on the brink of extinction",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "link": "https://www.ximalaya.com/sound/953563154",
+    "pubDate": "2026-02-06 00:00:00"
+  },
+  {
+    "title": "英文名著分集阅读 弗兰克·鲍姆 《绿野仙踪》 part1",
+    "podcast": {
+      "title": "高效磨耳朵 | 最好的英语听力资源"
+    },
+    "link": "https://www.ximalaya.com/sound/953378280",
+    "pubDate": "2026-02-05 23:00:00"
+  },
+  {
     "title": "【solo】日本选情观察：被“饭圈化”的高市早苗已可宣布胜利？",
     "podcast": {
       "title": "东亚观察局"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6984c88870aae7e967ca2e41/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnYTVn4F7XfDRatZ2SfjALeRkJoY.m4a",
-    "pubDate": "2026-02-05T22:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+    "link": "https://www.xiaoyuzhoufm.com/episode/6984c88870aae7e967ca2e41?utm_source=rss",
+    "pubDate": "2026-02-05 22:00:00"
   },
   {
-    "eid": "9oaBxpsF4o6.m4a",
     "title": "260.AI时代的珍珠港：元宝被封、千问请客、豆包上春晚",
     "podcast": {
       "title": "乱翻书"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6984b1f4a6d6e5f9a2cfef85/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhjQ3QhwNa2AncjE99oaBxpsF4o6.m4a",
-    "pubDate": "2026-02-05T15:18:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
-    "eid": "EZ1m3k3wtdB.m4a",
-    "title": "90.春节特辑：你当像鸟飞往高山，但味道记得你的来处",
-    "podcast": {
-      "title": "展开讲讲"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69843045c78b823892c5364c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lqaznl2GLzN0W-5zlEZ1m3k3wtdB.m4a",
-    "pubDate": "2026-02-05T10:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
-  },
-  {
-    "eid": "wLvLKymxX3e.m4a",
-    "title": "328次融资近400亿，复盘具身智能爆发年与落地现状-对谈酷哇科技李柯宏-Vol90",
-    "podcast": {
-      "title": "脑放电波"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/698228b573b838887f991614/media.xyzcdn.net/636669d51064cb55f31505fc/li4arQDy2ZAH1euBdwLvLKymxX3e.m4a",
-    "pubDate": "2026-02-04T14:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
-  },
-  {
-    "eid": "M1pW_hHcXoc.m4a",
-    "title": "No.217 请回答 2025：在世界的褶皱里，寻找内心的安宁",
-    "podcast": {
-      "title": "三五环"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/697c4bcc073030367a718bd0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lj4McsC8zwOC-63OOM1pW_hHcXoc.m4a",
-    "pubDate": "2026-02-03T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
-  },
-  {
-    "eid": "bJkywRiRin6.m4a",
-    "title": "341 答 bymmer 问题",
-    "podcast": {
-      "title": "Blow Your Mind (BYM S02)"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaINUUoWAbJkywRiRin6.m4a?channel=rss&album_id=6990384&track_id=953210735&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/f9ee-audiofreehighqps/0F/59/GKwRIaINUUoWAbJkywRiRin6.m4a",
-    "pubDate": "2026-01-29T16:11:04+00:00",
-    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
-  },
-  {
-    "eid": "uXnkwRhi5sp.m4a",
-    "title": "AI 创业下半场，新的营销三板斧是什么？| 对话易点天下 AI 负责人朱鹤",
-    "podcast": {
-      "title": "AI炼金术"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUENT8iZAuXnkwRhi5sp.m4a?channel=rss&album_id=74194808&track_id=952873749&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d90a-audiofreehighqps/6B/0E/GKwRIUENT8iZAuXnkwRhi5sp.m4a",
-    "pubDate": "2026-01-28T12:44:39+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
-    "eid": "QI6pQ3jOkjq.m4a",
-    "title": "131. 印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6976bdf0ef1cf272a76fa9f3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lo-xQNj9qSh16zHeUQI6pQ3jOkjq.m4a",
-    "pubDate": "2026-01-26T01:30:13+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
-  },
-  {
-    "eid": "wNQupBry-bb.mp3",
-    "title": "vol.566 见面聊聊｜迪拜卖还珠格格、智斗抢劫犯、奥特曼转特战队、80年代做无料，这期可真是虎子无犬父啊！",
-    "podcast": {
-      "title": "无聊斋"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPDL_amJKUPeaaeKBkNwMjpkwYVUqDkKsnKsBdTPpYMSFwLeZZUvsCXwNQupBry-bb.mp3",
-    "pubDate": "2026-01-26T00:05:00+08:00",
-    "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
-  },
-  {
-    "eid": "2mrT4mBlx_s.m4a",
-    "title": "No.70：还能怎么办，只能用真心",
-    "podcast": {
-      "title": "得意忘形"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69735c6fef1cf272a71281c9/media.xyzcdn.net/5e74543a418a84a046c4e50e/lliBPMwlo19-Soyz32mrT4mBlx_s.m4a",
-    "pubDate": "2026-01-23T13:01:16+00:00",
-    "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
+    "link": "https://www.xiaoyuzhoufm.com/episode/6984b1f4a6d6e5f9a2cfef85?utm_source=rss",
+    "pubDate": "2026-02-05 15:18:49"
   }
 ]
