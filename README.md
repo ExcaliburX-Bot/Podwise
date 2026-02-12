@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-12 07:01  
+> 📅 **更新时间**: 2026-02-12 13:07  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,33 @@
 
 ---
 
-### 2. 124. 2025英美剧大赏｜Side B
+### 2. 第2927期:Do you want a shatterproof phone?
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 124. 2025英美剧大赏｜Side B
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
+### 5. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
 
 **播客**: 十字路口Crossing
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. No.189 🧨 春节放假简史：过年的权力游戏
+### 6. No.189 🧨 春节放假简史：过年的权力游戏
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. The Invention Invention
+### 7. The Invention Invention
 
 **播客**: Planet Money
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 一位自由译者转型之路和她经历的AI未来
-
-**播客**: 二维吾码
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

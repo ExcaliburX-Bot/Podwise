@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-12 07:01:34
+> 📅 生成时间: 2026-02-12 13:07:26
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,61 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9c19
 
 ---
 
-### 2. 124. 2025英美剧大赏｜Side B
+### 2. 第2927期:Do you want a shatterproof phone?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIasNU29wAAyV_gRjINkY.m4a?channel=rss&album_id=14812466&track_id=953604143&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ce57-audiofreehighqps/B9/44/GKwRIasNU29wAAyV_gRjINkY.m4a
+```
+
+</details>
+
+---
+
+### 3. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a
+```
+
+</details>
+
+---
+
+### 4. 124. 2025英美剧大赏｜Side B
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480ad
 
 ---
 
-### 3. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
+### 5. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
 
 **播客名称**: 十字路口Crossing
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480ad
 
 ---
 
-### 4. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3
-```
-
-</details>
-
----
-
-### 5. No.189 🧨 春节放假简史：过年的权力游戏
+### 6. No.189 🧨 春节放假简史：过年的权力游戏
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480ad
 
 ---
 
-### 6. The Invention Invention
+### 7. The Invention Invention
 
 **播客名称**: Planet Money
 
@@ -175,33 +202,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3513877944.mp3?t=podcast&e=nx-s1-5707856&p=510289&d=1842&size=29488362
-```
-
-</details>
-
----
-
-### 7. 一位自由译者转型之路和她经历的AI未来
-
-**播客名称**: 二维吾码
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a
 ```
 
 </details>
