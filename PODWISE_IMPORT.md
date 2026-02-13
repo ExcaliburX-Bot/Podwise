@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-13 12:58:13
+> 📅 生成时间: 2026-02-13 18:49:16
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+### 1. 被遗忘的全球化：头条模式在印度美国日本 | 字节跳动 第4集
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/698f0fda66e2c303775a7903/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lizhSqWI3qIV_ZkOgu2MdtI9uDjy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/698f0fda66e2c303775a7903/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lizhSqWI3qIV_ZkOgu2MdtI9uDjy.m4a
+```
+
+</details>
+
+---
+
+### 2. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
-```
-
-</details>
-
----
-
-### 2. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
 ```
 
 </details>
@@ -127,7 +127,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698ee2d366e2c303
 
 ---
 
-### 5. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
+### 5. 第2928期:Is waste recycling profitable?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENU3JEABJ8_wRjIhlX.m4a?channel=rss&album_id=14812466&track_id=953605972&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d8f8-audiofreehighqps/2A/A6/GKwRIUENU3JEABJ8_wRjIhlX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENU3JEABJ8_wRjIhlX.m4a?channel=rss&album_id=14812466&track_id=953605972&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d8f8-audiofreehighqps/2A/A6/GKwRIUENU3JEABJ8_wRjIhlX.m4a
+```
+
+</details>
+
+---
+
+### 6. 高市早苗“赢麻了”：被肯定的民粹化与新型中日关系的构建
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
+```
+
+</details>
+
+---
+
+### 7. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -154,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9c19
 
 ---
 
-### 6. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+### 8. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
 
 **播客名称**: 搞钱女孩
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c303
 
 ---
 
-### 7. 124. 2025英美剧大赏｜Side B
+### 9. 124. 2025英美剧大赏｜Side B
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480ad
 
 ---
 
-### 8. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a
-```
-
-</details>
-
----
-
-### 9. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
+### 10. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3
-```
-
-</details>
-
----
-
-### 10. No.189 🧨 春节放假简史：过年的权力游戏
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a
 ```
 
 </details>
