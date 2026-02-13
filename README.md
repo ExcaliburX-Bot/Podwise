@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-13 02:11  
+> 📅 **更新时间**: 2026-02-13 06:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 124. 2025英美剧大赏｜Side B
+### 4. 124. 2025英美剧大赏｜Side B
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
+### 5. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
 
 **播客**: 十字路口Crossing
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. No.189 🧨 春节放假简史：过年的权力游戏
+### 6. No.189 🧨 春节放假简史：过年的权力游戏
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. The Invention Invention
+### 7. The Invention Invention
 
 **播客**: Planet Money
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 一位自由译者转型之路和她经历的AI未来
+### 8. 一位自由译者转型之路和她经历的AI未来
 
 **播客**: 二维吾码
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 东观西望丨9. 从一年50亿个饭团，到600万起偷窃案，聊聊便利店里的日本与英国
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698b0e9666e2c30377d44d64/media.xyzcdn.net/5e285856418a84a04627b7be/lsfYlz5-pE9Lvs1R9DtAxZPbKa9_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 小步5曲 #3丨走在路上哼起来
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTc0MCwidCI6MX0.JKRxqIQZBLDOfN49iFfQX_16Vis/keychangefm/8229732207_441704.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
