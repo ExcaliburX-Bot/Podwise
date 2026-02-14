@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-14 06:43  
+> 📅 **更新时间**: 2026-02-14 12:47  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
+### 3. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 东观西望丨我们更新了一个关于「英日品牌环保袋」的视频，欢迎大家收看！
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698ef51f66e2c3037757e979/media.xyzcdn.net/5e285856418a84a04627b7be/Fvte8j-O61u91sqcbisHTeuZ5M6P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
+### 6. 高市早苗“赢麻了”：被肯定的民粹化与新型中日关系的构建
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +99,20 @@
 
 ---
 
-### 7. 124. 2025英美剧大赏｜Side B
+### 8. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 124. 2025英美剧大赏｜Side B
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
+### 10. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
 
 **播客**: 十字路口Crossing
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.189 🧨 春节放假简史：过年的权力游戏
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
