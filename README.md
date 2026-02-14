@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-14 01:58  
+> 📅 **更新时间**: 2026-02-14 06:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2929期:The world's largest digital camera
+### 1. 第2929期:The world's largest digital camera
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,20 +21,7 @@
 
 ---
 
-### 3. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 被遗忘的全球化：头条模式在印度美国日本 | 字节跳动 第4集
+### 2. 被遗忘的全球化：头条模式在印度美国日本 | 字节跳动 第4集
 
 **播客**: 乱翻书
 
@@ -60,7 +34,7 @@
 
 ---
 
-### 5. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+### 3. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -73,7 +47,7 @@
 
 ---
 
-### 6. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
+### 4. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -86,20 +60,7 @@
 
 ---
 
-### 7. 东观西望丨我们更新了一个关于「英日品牌环保袋」的视频，欢迎大家收看！
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698ef51f66e2c3037757e979/media.xyzcdn.net/5e285856418a84a04627b7be/Fvte8j-O61u91sqcbisHTeuZ5M6P.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 继业者1918｜俄国内战中的南线白卫军：邓尼金、顿河哥萨克与「黑男爵」弗兰格尔
+### 5. 继业者1918｜俄国内战中的南线白卫军：邓尼金、顿河哥萨克与「黑男爵」弗兰格尔
 
 **播客**: 忽左忽右
 
@@ -112,7 +73,7 @@
 
 ---
 
-### 9. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
+### 6. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
 
 **播客**: 晚点聊 LateTalk
 
@@ -125,15 +86,54 @@
 
 ---
 
-### 10. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
+### 7. 124. 2025英美剧大赏｜Side B
 
-**播客**: 搞钱女孩
+**播客**: 英美剧漫游指南KillingTV
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/698ca2b3a22480add6c16bf3/media.xyzcdn.net/5e7c9577418a84a04606b797/lt9jDevMO1sUBf3y6BRu3NQypdzu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 那个40亿美金卖掉公司的男人，重回十字路口 | 对谈Justin袁菁：创业、生活与那些"无用之事"
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/698bfa3ca22480add6a15da9/media.xyzcdn.net/60502e253c92d4f62c2a9577/liluLxf2oQ1nOqf2PkMH_d3NP3bK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 【随机波动】在春天，保持希望和乐观主义是残酷的吗？
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/eb69cc06-60c5-4aad-98e8-05928176bffd.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.189 🧨 春节放假简史：过年的权力游戏
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/698b5ca4a22480add692228a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqy9bS1H3UggkpIsT9JzEei8BAPA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
