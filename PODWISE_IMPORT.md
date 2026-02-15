@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-15 06:52:13
+> 📅 生成时间: 2026-02-15 12:50:20
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2930期:New York art galleries selling affordable art
+### 1. AGI 已经诞生，这次我们有点害怕……
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINZ0StAp9yzARrk6ap.m4a?channel=rss&album_id=74194808&track_id=957183651&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/65e4-audiofreehighqps/7C/CF/GKwRIJINZ0StAp9yzARrk6ap.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINZ0StAp9yzARrk6ap.m4a?channel=rss&album_id=74194808&track_id=957183651&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/65e4-audiofreehighqps/7C/CF/GKwRIJINZ0StAp9yzARrk6ap.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2930期:New York art galleries selling affordable art
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJINVI_DABHosARjkwiw.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 3. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
 
 **播客名称**: 沈奕斐的播客
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303
 
 ---
 
-### 3. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+### 4. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
 **播客名称**: Planet Money
 
@@ -94,33 +121,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488
-```
-
-</details>
-
----
-
-### 4. 被遗忘的全球化：头条模式在印度美国日本 | 字节跳动 第4集
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/698f0fda66e2c303775a7903/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lizhSqWI3qIV_ZkOgu2MdtI9uDjy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/698f0fda66e2c303775a7903/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lizhSqWI3qIV_ZkOgu2MdtI9uDjy.m4a
 ```
 
 </details>
@@ -235,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698ee2d366e2c303
 
 ---
 
-### 9. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
+### 9. 高市早苗“赢麻了”：被肯定的民粹化与新型中日关系的构建
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
+```
+
+</details>
+
+---
+
+### 10. 151: 访谈 MuleRun 陈宇森：Claude Code 带来 Agent 创作新范式、未来的软件是日抛式的
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9c19
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9c1990e8-c131-4e2d-8418-bd5fe2537df3.mp3
-```
-
-</details>
-
----
-
-### 10. 彭美丽：22岁赚到百万，27岁亏掉百万，人生要么得到，要么学到
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/698ca3f466e2c3037711b9ee/media.xyzcdn.net/63d945ece725b5378a158d29/lgoDZnN_sJi4-9pCViql9UYW5Y5o.m4a
 ```
 
 </details>
