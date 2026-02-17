@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-17 02:03:25
+> 📅 生成时间: 2026-02-17 06:58:39
 > 📊 总计: 10 个播客
 
 ---
@@ -181,7 +181,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 7. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 7. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
+```
+
+</details>
+
+---
+
+### 8. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
 
 **播客名称**: 沈奕斐的播客
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303
 
 ---
 
-### 8. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+### 9. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
 **播客名称**: Planet Money
 
@@ -235,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
-```
-
-</details>
-
----
-
-### 10. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
 ```
 
 </details>

@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-17 02:03  
+> 📅 **更新时间**: 2026-02-17 06:58  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,7 +86,20 @@
 
 ---
 
-### 7. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 7. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
 
 **播客**: 沈奕斐的播客
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
+### 9. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
 **播客**: Planet Money
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
