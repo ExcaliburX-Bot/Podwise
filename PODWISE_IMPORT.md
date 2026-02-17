@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-17 13:02:18
+> 📅 生成时间: 2026-02-17 18:57:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep188 跟心动对象有了极大的退展
+### 1. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 放学以后After school
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a
+https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a
+https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第2932期:Icebergs may destroy wildlife habitats
+### 2. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+```
+
+</details>
+
+---
+
+### 3. 第2932期:Icebergs may destroy wildlife habitats
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIW4NVJVvAA2VfgRjlhGS.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
+### 4. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
 
 **播客名称**: 文化有限
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887
 
 ---
 
-### 4. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 5. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客名称**: 正经叭叭
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6991a49bde29766d
 
 ---
 
-### 5. 91.「展开讲奖」2025年度内容大赏
+### 6. 91.「展开讲奖」2025年度内容大赏
 
 **播客名称**: 展开讲讲
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303
 
 ---
 
-### 6. 261.AI时代的社交，越得过微信吗？
+### 7. 261.AI时代的社交，越得过微信吗？
 
 **播客名称**: 乱翻书
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766d
 
 ---
 
-### 7. 🧨春節 Mixtape：赤 驥 燃 鬃
+### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
 
 **播客名称**: Vibration 歪波音室
 
@@ -202,33 +229,6 @@ https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDd
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
-```
-
-</details>
-
----
-
-### 8. 605: Kid Logic
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3
 ```
 
 </details>
