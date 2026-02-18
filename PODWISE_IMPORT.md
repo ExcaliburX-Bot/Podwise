@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-18 07:00:41
+> 📅 生成时间: 2026-02-18 13:03:33
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://jt.ximalaya.com//GKwRIMANVJehAA3QOwRjlzng.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 2. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
-**播客名称**: 人民公园说AI
+**播客名称**: 放学以后After school
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480ad
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
 ```
 
 </details>
@@ -154,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6991a49bde29766d
 
 ---
 
-### 6. 261.AI时代的社交，越得过微信吗？
+### 6. 91.「展开讲奖」2025年度内容大赏
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303779af940/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmmzWiJZh1VnKt_98d4Ov4eBYQyh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303779af940/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmmzWiJZh1VnKt_98d4Ov4eBYQyh.m4a
+```
+
+</details>
+
+---
+
+### 7. 261.AI时代的社交，越得过微信吗？
 
 **播客名称**: 乱翻书
 
@@ -181,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766d
 
 ---
 
-### 7. 605: Kid Logic
+### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
+```
+
+</details>
+
+---
+
+### 9. 605: Kid Logic
 
 **播客名称**: This American Life
 
@@ -208,7 +262,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
+### 10. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
 
 **播客名称**: AI炼金术
 
@@ -229,60 +283,6 @@ https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
-```
-
-</details>
-
----
-
-### 9. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488
-```
-
-</details>
-
----
-
-### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
 ```
 
 </details>
