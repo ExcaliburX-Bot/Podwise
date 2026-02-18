@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-17 18:57:36
+> 📅 生成时间: 2026-02-18 02:09:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
-
-**播客名称**: 放学以后After school
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
-```
-
-</details>
-
----
-
-### 2. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 1. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客名称**: 人民公园说AI
 
@@ -73,61 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480ad
 
 ---
 
-### 3. 第2932期:Icebergs may destroy wildlife habitats
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4NVJVvAA2VfgRjlhGS.m4a?channel=rss&album_id=14812466&track_id=953801179&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d35-audiofreehighqps/83/42/GKwRIW4NVJVvAA2VfgRjlhGS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4NVJVvAA2VfgRjlhGS.m4a?channel=rss&album_id=14812466&track_id=953801179&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d35-audiofreehighqps/83/42/GKwRIW4NVJVvAA2VfgRjlhGS.m4a
-```
-
-</details>
-
----
-
-### 4. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
-```
-
-</details>
-
----
-
-### 5. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 2. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6991a49bde29766d
 
 ---
 
-### 6. 91.「展开讲奖」2025年度内容大赏
+### 3. 91.「展开讲奖」2025年度内容大赏
 
 **播客名称**: 展开讲讲
 
@@ -181,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303
 
 ---
 
-### 7. 261.AI时代的社交，越得过微信吗？
+### 4. 261.AI时代的社交，越得过微信吗？
 
 **播客名称**: 乱翻书
 
@@ -208,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766d
 
 ---
 
-### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
+### 5. Betty Boop, Excel Olympics, Penny-isms: Our 2026 Valentines
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +147,22 @@ https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDd
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6576443975.mp3?t=podcast&e=nx-s1-5713954&p=510289&d=1902&size=30445488
 ```
 
 </details>
 
 ---
 
-### 9. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
+### 6. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
-**播客名称**: AI炼金术
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +174,22 @@ https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 7. 132. 对星海图创始人高继扬的3小时访谈：鲶鱼、曾国藩、Waymo与Momenta的两面、一只狼与许华哲的离开
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +201,88 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/698ebb0b66e2c30377510cf6/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lplNqS9I0z2b64zp9zF2h6EkhXjr.m4a
+```
+
+</details>
+
+---
+
+### 8. 东观西望丨我们更新了一个关于「英日品牌环保袋」的视频，欢迎大家收看！
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698ef51f66e2c3037757e979/media.xyzcdn.net/5e285856418a84a04627b7be/Fvte8j-O61u91sqcbisHTeuZ5M6P.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698ef51f66e2c3037757e979/media.xyzcdn.net/5e285856418a84a04627b7be/Fvte8j-O61u91sqcbisHTeuZ5M6P.m4a
+```
+
+</details>
+
+---
+
+### 9. 继业者1918｜俄国内战中的南线白卫军：邓尼金、顿河哥萨克与「黑男爵」弗兰格尔
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698ee2d366e2c3037755b523/media.xyzcdn.net/FmKUDL7qDCGGa-guEqe0ytSEJee_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/698ee2d366e2c3037755b523/media.xyzcdn.net/FmKUDL7qDCGGa-guEqe0ytSEJee_.m4a
+```
+
+</details>
+
+---
+
+### 10. 高市早苗“赢麻了”：被肯定的民粹化与新型中日关系的构建
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/698e20cba22480add6f4d59b/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luv9Ftg72Q_hrLm-Wa33rwELzOni.m4a
 ```
 
 </details>
