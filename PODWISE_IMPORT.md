@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-18 13:03:33
+> 📅 生成时间: 2026-02-18 18:54:24
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 3. Ep188 跟心动对象有了极大的退展
+### 3. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+```
+
+</details>
+
+---
+
+### 4. Ep188 跟心动对象有了极大的退展
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -94,33 +121,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a
-```
-
-</details>
-
----
-
-### 4. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303
 
 ---
 
-### 7. 261.AI时代的社交，越得过微信吗？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a
-```
-
-</details>
-
----
-
-### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
+### 7. 🧨春節 Mixtape：赤 驥 燃 鬃
 
 **播客名称**: Vibration 歪波音室
 
@@ -235,7 +208,7 @@ https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDd
 
 ---
 
-### 9. 605: Kid Logic
+### 8. 605: Kid Logic
 
 **播客名称**: This American Life
 
@@ -262,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 10. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
+### 9. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
 
 **播客名称**: AI炼金术
 
@@ -283,6 +256,33 @@ https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a
+```
+
+</details>
+
+---
+
+### 10. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
 ```
 
 </details>
