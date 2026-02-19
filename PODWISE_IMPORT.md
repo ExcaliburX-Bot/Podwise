@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-18 18:54:24
+> 📅 生成时间: 2026-02-19 02:05:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2933:Yondr pouches for student cell phone management
+### 1. How to get what Greenland has, with permission
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANVJehAA3QOwRjlzng.m4a?channel=rss&album_id=14812466&track_id=953803517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6d08-audiofreehighqps/6B/F7/GKwRIMANVJehAA3QOwRjlzng.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIMANVJehAA3QOwRjlzng.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANVJehAA3QOwRjlzng.m4a?channel=rss&album_id=14812466&track_id=953803517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6d08-audiofreehighqps/6B/F7/GKwRIMANVJehAA3QOwRjlzng.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481
 ```
 
 </details>
@@ -73,34 +73,7 @@ https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 3. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
-```
-
-</details>
-
----
-
-### 4. Ep188 跟心动对象有了极大的退展
+### 3. Ep188 跟心动对象有了极大的退展
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
 ```
 
 </details>
