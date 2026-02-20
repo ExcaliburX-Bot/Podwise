@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-20 06:56  
+> 📅 **更新时间**: 2026-02-20 12:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2935期:Global temperatures down in 2025
+### 1. Mixtape丨游向不眠深海
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwNSwidCI6MX0.HBqZW5uF23SPvwU5YUv6OQND_yo/keychangefm/8228435083_662401.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2935期:Global temperatures down in 2025
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. How to get what Greenland has, with permission
+### 3. How to get what Greenland has, with permission
 
 **播客**: Planet Money
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 4. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客**: 人民公园说AI
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. Ep188 跟心动对象有了极大的退展
+### 6. Ep188 跟心动对象有了极大的退展
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -60,20 +86,7 @@
 
 ---
 
-### 5. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 7. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客**: 正经叭叭
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 91.「展开讲奖」2025年度内容大赏
+### 8. 91.「展开讲奖」2025年度内容大赏
 
 **播客**: 展开讲讲
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 261.AI时代的社交，越得过微信吗？
+### 9. 261.AI时代的社交，越得过微信吗？
 
 **播客**: 乱翻书
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 🧨春節 Mixtape：赤 驥 燃 鬃
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
