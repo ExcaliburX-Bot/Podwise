@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-21 01:56:14
+> 📅 生成时间: 2026-02-21 06:40:46
 > 📊 总计: 10 个播客
 
 ---
@@ -46,61 +46,7 @@ https://jt.ximalaya.com//GKwRIaINXGE5ABKkpgRnHjWL.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. How to get what Greenland has, with permission
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6039033971.mp3?t=podcast&e=nx-s1-5711616&p=510289&d=1634&size=26158481
-```
-
-</details>
-
----
-
-### 3. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
-
-**播客名称**: 放学以后After school
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F3b7fa615-0f9f-4350-67c5-07fd4640ecaa.m4a
-```
-
-</details>
-
----
-
-### 4. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 2. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客名称**: 人民公园说AI
 
@@ -127,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480ad
 
 ---
 
-### 5. Ep188 跟心动对象有了极大的退展
+### 3. Ep188 跟心动对象有了极大的退展
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -154,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766d
 
 ---
 
-### 6. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 4. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客名称**: 正经叭叭
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6991a49bde29766d
 
 ---
 
-### 7. 91.「展开讲奖」2025年度内容大赏
+### 6. 91.「展开讲奖」2025年度内容大赏
 
 **播客名称**: 展开讲讲
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303
 
 ---
 
-### 8. 261.AI时代的社交，越得过微信吗？
+### 7. 261.AI时代的社交，越得过微信吗？
 
 **播客名称**: 乱翻书
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766d
 
 ---
 
-### 9. 🧨春節 Mixtape：赤 驥 燃 鬃
+### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
 
 **播客名称**: Vibration 歪波音室
 
@@ -256,6 +229,33 @@ https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDd
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
+```
+
+</details>
+
+---
+
+### 9. Mixtape丨游向不眠深海
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwNSwidCI6MX0.HBqZW5uF23SPvwU5YUv6OQND_yo/keychangefm/8228435083_662401.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwNSwidCI6MX0.HBqZW5uF23SPvwU5YUv6OQND_yo/keychangefm/8228435083_662401.mp3
 ```
 
 </details>
