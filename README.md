@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-22 06:47  
+> 📅 **更新时间**: 2026-02-22 12:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2937期:Traditional Agriculture in Arkansas
+### 1. 冷空气，热咖啡
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENXGRuAA_7TQRnH70B.m4a?channel=rss&album_id=14812466&track_id=955327874&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7b2e-audiofreehighqps/C9/A7/GKwRIJENXGRuAA_7TQRnH70B.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1gbEk/keychangefm/8228417397_839753.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,46 @@
 
 ---
 
-### 3. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
+### 3. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
-**播客**: 文化有限
+**播客**: 放学以后After school
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNaDkJAqpS8QRr44bl.m4a?channel=rss&album_id=29887212&track_id=957301797&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7853-audiofreehighqps/E8/89/GKwRIRwNaDkJAqpS8QRr44bl.m4a)
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-21%2F93a8289c-722b-f5f6-4d4c-8555bef86037.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 4. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. Ep188 跟心动对象有了极大的退展
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客**: 正经叭叭
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 91.「展开讲奖」2025年度内容大赏
+### 7. 91.「展开讲奖」2025年度内容大赏
 
 **播客**: 展开讲讲
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 261.AI时代的社交，越得过微信吗？
+### 8. 261.AI时代的社交，越得过微信吗？
 
 **播客**: 乱翻书
 
@@ -86,46 +112,7 @@
 
 ---
 
-### 7. 🧨春節 Mixtape：赤 驥 燃 鬃
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 605: Kid Logic
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR5017278333.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 别给人类写软件了！2026 Token 要涨价！ | 对话硅基流动杨攀
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENZ0ZvAs6MHQRrlEhR.m4a?channel=rss&album_id=74194808&track_id=957184455&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5721-audiofreehighqps/70/43/GKwRIJENZ0ZvAs6MHQRrlEhR.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 9. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
 
 **播客**: 沈奕斐的播客
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
