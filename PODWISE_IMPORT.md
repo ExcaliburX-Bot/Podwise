@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-23 07:04:14
+> 📅 生成时间: 2026-02-23 13:03:15
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://jt.ximalaya.com//GKwRIRwNXHMJABB1LQRnKNri.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 881: I Want What I Want
+### 2. AI 转型四步法：个人、组织、产品和商业（上）
 
-**播客名称**: This American Life
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3
+https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,41 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3
+https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
 ```
 
 </details>
 
 ---
 
-### 3. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+### 3. 冷空气，热咖啡
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1gbEk/keychangefm/8228417397_839753.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1gbEk/keychangefm/8228417397_839753.mp3
+```
+
+</details>
+
+---
+
+### 4. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+### 5. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
 **播客名称**: 放学以后After school
 
@@ -127,7 +154,7 @@ https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 5. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 6. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客名称**: 人民公园说AI
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480ad
 
 ---
 
-### 6. Ep188 跟心动对象有了极大的退展
+### 7. Ep188 跟心动对象有了极大的退展
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766d
 
 ---
 
-### 7. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 8. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6991a49bde29766d
 
 ---
 
-### 8. 91.「展开讲奖」2025年度内容大赏
+### 9. 91.「展开讲奖」2025年度内容大赏
 
 **播客名称**: 展开讲讲
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303
 
 ---
 
-### 9. 261.AI时代的社交，越得过微信吗？
+### 10. 261.AI时代的社交，越得过微信吗？
 
 **播客名称**: 乱翻书
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a
-```
-
-</details>
-
----
-
-### 10. 🧨春節 Mixtape：赤 驥 燃 鬃
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3
 ```
 
 </details>

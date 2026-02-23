@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-23 07:04  
+> 📅 **更新时间**: 2026-02-23 13:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,33 @@
 
 ---
 
-### 2. 881: I Want What I Want
+### 2. AI 转型四步法：个人、组织、产品和商业（上）
 
-**播客**: This American Life
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+### 3. 冷空气，热咖啡
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1gbEk/keychangefm/8228417397_839753.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
 **播客**: Planet Money
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+### 5. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
 **播客**: 放学以后After school
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 6. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客**: 人民公园说AI
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Ep188 跟心动对象有了极大的退展
+### 7. Ep188 跟心动对象有了极大的退展
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 8. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客**: 正经叭叭
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 91.「展开讲奖」2025年度内容大赏
+### 9. 91.「展开讲奖」2025年度内容大赏
 
 **播客**: 展开讲讲
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 261.AI时代的社交，越得过微信吗？
+### 10. 261.AI时代的社交，越得过微信吗？
 
 **播客**: 乱翻书
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 🧨春節 Mixtape：赤 驥 燃 鬃
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
