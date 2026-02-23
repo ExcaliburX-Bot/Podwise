@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-22 18:35  
+> 📅 **更新时间**: 2026-02-23 02:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI 转型四步法：个人、组织、产品和商业（上）
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2937期:Traditional Agriculture in Arkansas
+### 1. 第2938期:Helen Dan Doris Looking Back on Her Life
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -29,7 +16,20 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENXGRuAA_7TQRnH70B.m4a?channel=rss&album_id=14812466&track_id=955327874&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7b2e-audiofreehighqps/C9/A7/GKwRIJENXGRuAA_7TQRnH70B.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHMJABB1LQRnKNri.m4a?channel=rss&album_id=14812466&track_id=955341564&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ef41-audiofreehighqps/50/B3/GKwRIRwNXHMJABB1LQRnKNri.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 881: I Want What I Want
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+### 4. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
 **播客**: 放学以后After school
 
@@ -73,33 +60,7 @@
 
 ---
 
-### 6. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Ep188 跟心动对象有了极大的退展
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
+### 5. Vol.322 温克海姆男爵返乡：如何在全员他者的世界安放自我？｜2025诺奖得主
 
 **播客**: 文化有限
 
@@ -112,7 +73,7 @@
 
 ---
 
-### 9. vol.238 佳节欢腾不畏寒，假期眨眼就过完
+### 6. vol.238 佳节欢腾不畏寒，假期眨眼就过完
 
 **播客**: 正经叭叭
 
@@ -125,15 +86,54 @@
 
 ---
 
-### 10. 91.「展开讲奖」2025年度内容大赏
+### 7. 261.AI时代的社交，越得过微信吗？
 
-**播客**: 展开讲讲
+**播客**: 乱翻书
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6992e49966e2c303779af940/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhcajITJ4EJ_Mt0zzPqe9xnWVbQT.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 🧨春節 Mixtape：赤 驥 燃 鬃
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 东观西望丨我们更新了一个关于「英日品牌环保袋」的视频，欢迎大家收看！
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/698ef51f66e2c3037757e979/media.xyzcdn.net/5e285856418a84a04627b7be/Fvte8j-O61u91sqcbisHTeuZ5M6P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
