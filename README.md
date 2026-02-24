@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-24 06:59  
+> 📅 **更新时间**: 2026-02-24 13:04  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
+### 1. 458 秃黄油·花胶·佛跳墙：与王恺漫谈年货与美味
 
-**播客**: 文化有限
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENcYreAmvOfARuvAxZ.m4a?channel=rss&album_id=29887212&track_id=958434250&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/32/A9/GKwRIJENcYreAmvOfARuvAxZ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303773757a6/media.xyzcdn.net/5e4ee557418a84a0466737b7/llx6M0ccndCn61n_ImKCRIIl13IV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. vol.239 偷偷摸摸搞钱，光明正大失败
+### 2. 第2939期:Carrier rocket launches small satellite
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHWyAA3XkARnKnI8.m4a?channel=rss&album_id=14812466&track_id=955344517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9c5e-audiofreehighqps/BF/A7/GKwRIRwNXHWyAA3XkARnKnI8.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.239 偷偷摸摸搞钱，光明正大失败
 
 **播客**: 正经叭叭
 
@@ -34,20 +47,20 @@
 
 ---
 
-### 3. 881: I Want What I Want
+### 4. AI 转型四步法：个人、组织、产品和商业（上）
 
-**播客**: This American Life
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 冷空气，热咖啡
+### 5. 冷空气，热咖啡
 
 **播客**: 周末变奏 Key Change
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+### 6. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
 **播客**: Planet Money
 
@@ -73,7 +86,20 @@
 
 ---
 
-### 6. Ep188 跟心动对象有了极大的退展
+### 7. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Ep188 跟心动对象有了极大的退展
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 91.「展开讲奖」2025年度内容大赏
+### 9. 91.「展开讲奖」2025年度内容大赏
 
 **播客**: 展开讲讲
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 261.AI时代的社交，越得过微信吗？
+### 10. 261.AI时代的社交，越得过微信吗？
 
 **播客**: 乱翻书
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6992beebde29766da9ba802a/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsdLa1Yf6LHqounNAYz64G1pQ9x6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 🧨春節 Mixtape：赤 驥 燃 鬃
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDdcERTA-79.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
