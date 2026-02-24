@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-24 02:03:10
+> 📅 生成时间: 2026-02-24 06:59:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2939期:Carrier rocket launches small satellite
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNXHWyAA3XkARnKnI8.m4a?channel=rss&album_id=14812466&track_id=955344517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9c5e-audiofreehighqps/BF/A7/GKwRIRwNXHWyAA3XkARnKnI8.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNXHWyAA3XkARnKnI8.m4a?channel=rss&album_id=14812466&track_id=955344517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9c5e-audiofreehighqps/BF/A7/GKwRIRwNXHWyAA3XkARnKnI8.m4a
-```
-
-</details>
-
----
-
-### 2. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
+### 1. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
 
 **播客名称**: 文化有限
 
@@ -73,7 +46,7 @@ https://jt.ximalaya.com//GKwRIJENcYreAmvOfARuvAxZ.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.239 偷偷摸摸搞钱，光明正大失败
+### 2. vol.239 偷偷摸摸搞钱，光明正大失败
 
 **播客名称**: 正经叭叭
 
@@ -94,6 +67,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a
+```
+
+</details>
+
+---
+
+### 3. 881: I Want What I Want
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1
 
 ---
 
-### 5. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 5. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
-**播客名称**: 人民公园说AI
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480ad
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR6255143492.mp3?t=podcast&e=nx-s1-5721118&p=510289&d=1536&size=24577341
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://tk.wavpub.com/WPDL_MDLFzFzsawgxVEJTcapLYWJrWFNfKHPvBEaRPLDFvExHMwcFeEYDd
 
 ---
 
-### 10. 245.离婚边缘通过什么拯救了婚姻？如何从指责到理解？｜对谈学员02
+### 10. E224 年终金钱树洞：比数字更复杂的，是爱与期待｜小酒馆故事会🍻
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/698f422f66e2c303776020a7/media.xyzcdn.net/5f4e170c9504bbdb77566a19/luQeVxe4vY38Wn6yoG8gO79JZ-SE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/698ed48766e2c303775413aa/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqY9wNt07qzjFy0tLKr9VlbQ6dJ7.m4a
 ```
 
 </details>
