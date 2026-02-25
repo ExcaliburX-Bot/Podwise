@@ -1,40 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-24 19:01  
+> 📅 **更新时间**: 2026-02-25 02:05  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 宇树春晚强在哪？具身创业者的逐帧拆解与踩坑实录 | 对谈Rex-vol91
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/699dda0c66e2c30377456ed7/media.xyzcdn.net/636669d51064cb55f31505fc/lo87pFq_gpNndpmOyHcAMvqG0OJs.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 458 秃黄油·花胶·佛跳墙：与王恺漫谈年货与美味
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303773757a6/media.xyzcdn.net/5e4ee557418a84a0466737b7/llx6M0ccndCn61n_ImKCRIIl13IV.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第2939期:Carrier rocket launches small satellite
+### 1. 第2940期:Your thoughts can control devices.
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -42,12 +16,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHWyAA3XkARnKnI8.m4a?channel=rss&album_id=14812466&track_id=955344517&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9c5e-audiofreehighqps/BF/A7/GKwRIRwNXHWyAA3XkARnKnI8.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHiVAA1q6ARnLEPF.m4a?channel=rss&album_id=14812466&track_id=955346731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e755-audiofreehighqps/FC/4C/GKwRIRwNXHiVAA1q6ARnLEPF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
+### 2. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
 
 **播客**: 文化有限
 
@@ -60,7 +34,20 @@
 
 ---
 
-### 5. 881: I Want What I Want
+### 3. vol.239 偷偷摸摸搞钱，光明正大失败
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 881: I Want What I Want
 
 **播客**: This American Life
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. AI 转型四步法：个人、组织、产品和商业（上）
+### 5. AI 转型四步法：个人、组织、产品和商业（上）
 
 **播客**: AI炼金术
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 冷空气，热咖啡
+### 6. 冷空气，热咖啡
 
 **播客**: 周末变奏 Key Change
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
+### 7. The Supreme Court struck down a bunch of Trump's tariffs. Now what?
 
 **播客**: Planet Money
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+### 8. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
 **播客**: 放学以后After school
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
+### 9. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
 
 **播客**: 人民公园说AI
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Ep188 跟心动对象有了极大的退展
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69943a7fde29766da9cba8f5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lkV_W7mPXTEwvRbAbxWy6VHie6X0.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
