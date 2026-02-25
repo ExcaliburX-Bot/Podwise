@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-25 13:03:38
+> 📅 生成时间: 2026-02-25 19:05:46
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://jt.ximalaya.com//GKwRIRwNXHiVAA1q6ARnLEPF.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 458 秃黄油·花胶·佛跳墙：与王恺漫谈年货与美味
+### 5. 宇树春晚强在哪？具身创业者的逐帧拆解与踩坑实录 | 对谈Rex-vol91
 
-**播客名称**: 忽左忽右
+**播客名称**: 脑放电波
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303773757a6/media.xyzcdn.net/5e4ee557418a84a0466737b7/llx6M0ccndCn61n_ImKCRIIl13IV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/699dda0c66e2c30377456ed7/media.xyzcdn.net/636669d51064cb55f31505fc/lvSxBGL8UTVXU55xZ--hWawzupSI.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,22 +147,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303773757a6/media.xyzcdn.net/5e4ee557418a84a0466737b7/llx6M0ccndCn61n_ImKCRIIl13IV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/699dda0c66e2c30377456ed7/media.xyzcdn.net/636669d51064cb55f31505fc/lvSxBGL8UTVXU55xZ--hWawzupSI.m4a
 ```
 
 </details>
 
 ---
 
-### 6. vol.239 偷偷摸摸搞钱，光明正大失败
+### 6. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
 
-**播客名称**: 正经叭叭
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a
+https://jt.ximalaya.com//GKwRIJENcYreAmvOfARuvAxZ.m4a?channel=rss&album_id=29887212&track_id=958434250&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/32/A9/GKwRIJENcYreAmvOfARuvAxZ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +174,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a
+https://jt.ximalaya.com//GKwRIJENcYreAmvOfARuvAxZ.m4a?channel=rss&album_id=29887212&track_id=958434250&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/32/A9/GKwRIJENcYreAmvOfARuvAxZ.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. 冷空气，热咖啡
+### 8. AI 转型四步法：个人、组织、产品和商业（上）
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
+```
+
+</details>
+
+---
+
+### 9. 冷空气，热咖啡
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +262,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjAwOSwidCI6MX0.pyJEAWiWXtmpbe0xrrENAN1
 
 ---
 
-### 9. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
+### 10. 61 让我们庸俗地聊聊八卦，让我们肤浅地快乐一下
 
 **播客名称**: 放学以后After school
 
@@ -256,33 +283,6 @@ https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl
 音频链接（点击复制）:
 ```
 https://anchor.fm/s/81d05f80/podcast/play/115547552/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-21%2F93a8289c-722b-f5f6-4d4c-8555bef86037.m4a
-```
-
-</details>
-
----
-
-### 10. 新春特辑｜Seedance2.0！春节档大杀器！根本就是 10 亿抖音用户“调教”出来的！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/699440eda22480add659b258/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lm0tmV3IRFP4oT88hb-qrEcBeRtA.m4a
 ```
 
 </details>
