@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-26 13:04:50
+> 📅 生成时间: 2026-02-26 18:52:50
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
+### 1. 衣裙与战场之间：读《肉不如竹》
+
+**播客名称**: 艺术有读
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3
+```
+
+</details>
+
+---
+
+### 2. 好莱坞要完？一个中国电影人押注 AI 视频的 200 天
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194808&track_id=959150023&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0571-audiofreehighqps/AB/17/GKwRIW4Nde2hAgqsAQRwgSWp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194808&track_id=959150023&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0571-audiofreehighqps/AB/17/GKwRIW4Nde2hAgqsAQRwgSWp.m4a
+```
+
+</details>
+
+---
+
+### 3. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -46,7 +100,34 @@ https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=69903
 
 ---
 
-### 2. 对话古典：害怕被AI取代？教你做穿越周期的职业规划！
+### 4. 第2941期:The gig economy of Didi drivers
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNXHzeABc0EARnLspo.m4a?channel=rss&album_id=14812466&track_id=955350500&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf93-audiofreehighqps/77/FC/GKwRIRwNXHzeABc0EARnLspo.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNXHzeABc0EARnLspo.m4a?channel=rss&album_id=14812466&track_id=955350500&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf93-audiofreehighqps/77/FC/GKwRIRwNXHzeABc0EARnLspo.m4a
+```
+
+</details>
+
+---
+
+### 5. 对话古典：害怕被AI取代？教你做穿越周期的职业规划！
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/699f2c0c66e2c303
 
 ---
 
-### 3. No.190 🚕 滴滴：一战再战，改变出行 | 中国互联网故事16
+### 6. No.190 🚕 滴滴：一战再战，改变出行 | 中国互联网故事16
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/699acfb5de29766d
 
 ---
 
-### 4. The ICE hiring boom
+### 7. The ICE hiring boom
 
 **播客名称**: Planet Money
 
@@ -127,34 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 小宇宙订阅突破40万纪念Q&A！
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
-```
-
-</details>
-
----
-
-### 6. 458 秃黄油·花胶·佛跳墙：与王恺漫谈年货与美味
+### 8. 458 秃黄油·花胶·佛跳墙：与王恺漫谈年货与美味
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/699d628466e2c303
 
 ---
 
-### 7. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
+### 9. Vol.323 我是寨子里长大的女孩：难过就亲吻小猫，然后吃点好的
 
 **播客名称**: 文化有限
 
@@ -208,34 +262,7 @@ https://jt.ximalaya.com//GKwRIJENcYreAmvOfARuvAxZ.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.239 偷偷摸摸搞钱，光明正大失败
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a
-```
-
-</details>
-
----
-
-### 9. 881: I Want What I Want
+### 10. 881: I Want What I Want
 
 **播客名称**: This American Life
 
@@ -256,33 +283,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3
-```
-
-</details>
-
----
-
-### 10. AI 转型四步法：个人、组织、产品和商业（上）
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4NcK-6A2dlfwRufLPc.m4a?channel=rss&album_id=74194808&track_id=958322328&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1fdc-audiofreehighqps/69/55/GKwRIW4NcK-6A2dlfwRufLPc.m4a
 ```
 
 </details>
