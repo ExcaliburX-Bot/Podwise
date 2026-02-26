@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-25 19:05  
+> 📅 **更新时间**: 2026-02-26 02:00  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.190 🚕 滴滴：一战再战，改变出行 | 中国互联网故事16
+### 1. 第2941期:The gig economy of Didi drivers
 
-**播客**: 半拿铁 | 商业沉浮录
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/699acfb5de29766da924dee1/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmZ5xnNoVfilHwEc5EmzWGgua0BF.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHzeABc0EARnLspo.m4a?channel=rss&album_id=14812466&track_id=955350500&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf93-audiofreehighqps/77/FC/GKwRIRwNXHzeABc0EARnLspo.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. The ICE hiring boom
+### 2. 对话古典：害怕被AI取代？教你做穿越周期的职业规划！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/699f2c0c66e2c3037768e239/media.xyzcdn.net/63d945ece725b5378a158d29/lhAmR-e9GGlnrJROjUHw_GoNEmPi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. The ICE hiring boom
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 小宇宙订阅突破40万纪念Q&A！
+### 4. 小宇宙订阅突破40万纪念Q&A！
 
 **播客**: 东亚观察局
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第2940期:Your thoughts can control devices.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNXHiVAA1q6ARnLEPF.m4a?channel=rss&album_id=14812466&track_id=955346731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e755-audiofreehighqps/FC/4C/GKwRIRwNXHiVAA1q6ARnLEPF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,15 +86,15 @@
 
 ---
 
-### 7. 881: I Want What I Want
+### 7. vol.239 偷偷摸摸搞钱，光明正大失败
 
-**播客**: This American Life
+**播客**: 正经叭叭
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR3504187408.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/699bc900de29766da9346326/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvRn5SO0UMKQy467YbO-W4SsTfnI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
