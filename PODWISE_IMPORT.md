@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-27 02:00:10
+> 📅 生成时间: 2026-02-27 06:54:03
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/bd94
 
 ---
 
-### 2. 第2942期:Robot dogs are working at car factories
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a
-```
-
-</details>
-
----
-
-### 3. 246.被称作“互联网父母”是什么感受？为什么这么喜欢做播客？2025播客复盘
+### 2. 246.被称作“互联网父母”是什么感受？为什么这么喜欢做播客？2025播客复盘
 
 **播客名称**: 沈奕斐的播客
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a0321ba22480ad
 
 ---
 
-### 4. 衣裙与战场之间：读《肉不如竹》
+### 3. 衣裙与战场之间：读《肉不如竹》
 
 **播客名称**: 艺术有读
 
@@ -127,7 +100,7 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec59152
 
 ---
 
-### 5. 好莱坞要完？一个中国电影人押注 AI 视频的 200 天
+### 4. 好莱坞要完？一个中国电影人押注 AI 视频的 200 天 | 对谈梁巍
 
 **播客名称**: AI炼金术
 
@@ -148,6 +121,33 @@ https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194808&track_id=959150023&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0571-audiofreehighqps/AB/17/GKwRIW4Nde2hAgqsAQRwgSWp.m4a
+```
+
+</details>
+
+---
+
+### 5. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/699acfb5de29766d
 
 ---
 
-### 8. 小宇宙订阅突破40万纪念Q&A！
+### 8. The ICE hiring boom
 
-**播客名称**: 东亚观察局
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336
 ```
 
 </details>

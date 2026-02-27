@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-27 02:00  
+> 📅 **更新时间**: 2026-02-27 06:54  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 第2942期:Robot dogs are working at car factories
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 246.被称作“互联网父母”是什么感受？为什么这么喜欢做播客？2025播客复盘
+### 2. 246.被称作“互联网父母”是什么感受？为什么这么喜欢做播客？2025播客复盘
 
 **播客**: 沈奕斐的播客
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 衣裙与战场之间：读《肉不如竹》
+### 3. 衣裙与战场之间：读《肉不如竹》
 
 **播客**: 艺术有读
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 好莱坞要完？一个中国电影人押注 AI 视频的 200 天
+### 4. 好莱坞要完？一个中国电影人押注 AI 视频的 200 天 | 对谈梁巍
 
 **播客**: AI炼金术
 
@@ -69,6 +56,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194808&track_id=959150023&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0571-audiofreehighqps/AB/17/GKwRIW4Nde2hAgqsAQRwgSWp.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,15 +99,15 @@
 
 ---
 
-### 8. 小宇宙订阅突破40万纪念Q&A！
+### 8. The ICE hiring boom
 
-**播客**: 东亚观察局
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
