@@ -1,48 +1,48 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-02-27 18:42  
+> 📅 **更新时间**: 2026-02-28 01:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. E225 和丰泽聊聊：在俄罗斯种地这一年，以及我们这代人的「农村」
+### 1. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
 
-**播客**: 知行小酒馆
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69a14e48de29766da9be9728/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lsXptJ_oOO7hx_MxPJxD6Kn5lxlP.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 152: 访谈千寻创始人韩峰涛：20 亿新融资、具身模型淘汰赛、落地非共识
+### 2. Don't hate the replicator, hate the game
 
-**播客**: 晚点聊 LateTalk
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/bd94ec34-d3c1-4f02-85dc-0b04854ac24a.mp3)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 第2942期:Robot dogs are working at car factories
+### 3. 继业者1918｜高尔察克、捷克军团与俄国内战中的东方白卫军
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a1517cde29766da9bf2156/media.xyzcdn.net/FpZbgClfyI8W-rUhBgTPLYlukKqv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,15 +86,15 @@
 
 ---
 
-### 7. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
+### 7. 对话古典：害怕被AI取代？教你做穿越周期的职业规划！
 
-**播客**: Blow Your Mind (BYM S02)
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/699f2c0c66e2c3037768e239/media.xyzcdn.net/63d945ece725b5378a158d29/lhAmR-e9GGlnrJROjUHw_GoNEmPi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,15 +112,15 @@
 
 ---
 
-### 9. The ICE hiring boom
+### 9. 小宇宙订阅突破40万纪念Q&A！
 
-**播客**: Planet Money
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-02-27 18:42:21
+> 📅 生成时间: 2026-02-28 01:50:28
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E225 和丰泽聊聊：在俄罗斯种地这一年，以及我们这代人的「农村」
+### 1. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
 
-**播客名称**: 知行小酒馆
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69a14e48de29766da9be9728/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lsXptJ_oOO7hx_MxPJxD6Kn5lxlP.m4a
+https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69a14e48de29766d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69a14e48de29766da9be9728/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lsXptJ_oOO7hx_MxPJxD6Kn5lxlP.m4a
+https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 152: 访谈千寻创始人韩峰涛：20 亿新融资、具身模型淘汰赛、落地非共识
+### 2. Don't hate the replicator, hate the game
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/bd94ec34-d3c1-4f02-85dc-0b04854ac24a.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,22 +66,22 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/bd94
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/bd94ec34-d3c1-4f02-85dc-0b04854ac24a.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
 ```
 
 </details>
 
 ---
 
-### 3. 第2942期:Robot dogs are working at car factories
+### 3. 继业者1918｜高尔察克、捷克军团与俄国内战中的东方白卫军
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a1517cde29766da9bf2156/media.xyzcdn.net/FpZbgClfyI8W-rUhBgTPLYlukKqv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENXKGyAA3ahARnSNvk.m4a?channel=rss&album_id=14812466&track_id=955383156&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31a3-audiofreehighqps/98/AD/GKwRIJENXKGyAA3ahARnSNvk.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a1517cde29766da9bf2156/media.xyzcdn.net/FpZbgClfyI8W-rUhBgTPLYlukKqv.m4a
 ```
 
 </details>
@@ -181,15 +181,15 @@ https://jt.ximalaya.com//GKwRIW4Nde2hAgqsAQRwgSWp.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 342 简里里X张沛超｜亲密、冲突与权力：我们如何在家庭中彼此塑造
+### 7. 对话古典：害怕被AI取代？教你做穿越周期的职业规划！
 
-**播客名称**: Blow Your Mind (BYM S02)
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/699f2c0c66e2c3037768e239/media.xyzcdn.net/63d945ece725b5378a158d29/lhAmR-e9GGlnrJROjUHw_GoNEmPi.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=69903
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANdd6pAzXRzgRwe3VV.m4a?channel=rss&album_id=6990384&track_id=959140996&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/05c5-audiofreehighqps/B1/69/GKwRIMANdd6pAzXRzgRwe3VV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/699f2c0c66e2c3037768e239/media.xyzcdn.net/63d945ece725b5378a158d29/lhAmR-e9GGlnrJROjUHw_GoNEmPi.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/699acfb5de29766d
 
 ---
 
-### 9. The ICE hiring boom
+### 9. 小宇宙订阅突破40万纪念Q&A！
 
-**播客名称**: Planet Money
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2190842798.mp3?t=podcast&e=nx-s1-5725491&p=510289&d=1092&size=17488336
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/699dc2e9de29766da96633ae/media.xyzcdn.net/5e9a4e25418a84a046bc6156/Fl6de16Cm9hkVkpjqn7wnlxUJLci.m4a
 ```
 
 </details>
