@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-01 12:47:19
+> 📅 生成时间: 2026-03-01 18:33:13
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 漫长的告别与回响
+### 1. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480add66cf5aa/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhrvNwmy2grSCUAxjt8SXxaXjlR_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480add66cf5aa/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhrvNwmy2grSCUAxjt8SXxaXjlR_.m4a
+```
+
+</details>
+
+---
+
+### 2. 漫长的告别与回响
 
 **播客名称**: 周末变奏 Key Change
 
@@ -46,7 +73,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjM2OSwidCI6MX0.3v1wHjEA1soYytFGzdUbAkA
 
 ---
 
-### 2. 第2944期:An application addresses the illiteracy problem in Mali
+### 3. 第2944期:An application addresses the illiteracy problem in Mali
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJENXcpbABHIYgRnwbsj.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 273 “东观”第六年&订阅破40万纪念Q&A
+### 4. 273 “东观”第六年&订阅破40万纪念Q&A
 
 **播客名称**: 东亚观察局
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a3122ea22480ad
 
 ---
 
-### 4. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
+### 5. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
 
 **播客名称**: 42章经
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69a0b34b66e2c303
 
 ---
 
-### 5. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
+### 6. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
 
 **播客名称**: Vibration 歪波音室
 
@@ -148,33 +175,6 @@ https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgx
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3
-```
-
-</details>
-
----
-
-### 6. 100.搬家记，我们离想要的生活，好像都近了一点
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69a1b21fa22480add6591f45/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lg5ZVoxradoc3eME90L8qLr1sFjn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69a1b21fa22480add6591f45/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lg5ZVoxradoc3eME90L8qLr1sFjn.m4a
 ```
 
 </details>
