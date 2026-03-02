@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-02 06:57:38
+> 📅 生成时间: 2026-03-02 12:57:46
 > 📊 总计: 10 个播客
 
 ---
@@ -127,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480ad
 
 ---
 
-### 5. 漫长的告别与回响
+### 5. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69a3f44dde29766da9fad0f8/media.xyzcdn.net/636669d51064cb55f31505fc/luOpCvElE3yp3pmycni6RQiR2irt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69a3f44dde29766da9fad0f8/media.xyzcdn.net/636669d51064cb55f31505fc/luOpCvElE3yp3pmycni6RQiR2irt.m4a
+```
+
+</details>
+
+---
+
+### 6. 漫长的告别与回响
 
 **播客名称**: 周末变奏 Key Change
 
@@ -154,7 +181,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjM2OSwidCI6MX0.3v1wHjEA1soYytFGzdUbAkA
 
 ---
 
-### 6. 273 “东观”第六年&订阅破40万纪念Q&A
+### 7. 273 “东观”第六年&订阅破40万纪念Q&A
 
 **播客名称**: 东亚观察局
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a3122ea22480ad
 
 ---
 
-### 7. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
+### 8. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
 
 **播客名称**: 42章经
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69a0b34b66e2c303
 
 ---
 
-### 8. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
+### 9. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
 
 **播客名称**: Vibration 歪波音室
 
@@ -235,7 +262,7 @@ https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgx
 
 ---
 
-### 9. 衣裙与战场之间：读《肉不如竹》
+### 10. 衣裙与战场之间：读《肉不如竹》
 
 **播客名称**: 艺术有读
 
@@ -256,33 +283,6 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec59152
 音频链接（点击复制）:
 ```
 https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3
-```
-
-</details>
-
----
-
-### 10. Don't hate the replicator, hate the game
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
 ```
 
 </details>
