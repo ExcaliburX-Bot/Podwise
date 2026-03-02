@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-02 02:03:25
+> 📅 生成时间: 2026-03-02 06:57:38
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/69a4d388de29766d
 
 ---
 
-### 2. 208: Office Politics
+### 2. 第2945期:Ugandan town hit by floods.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINXc2vABE3AgRnw2gb.m4a?channel=rss&album_id=14812466&track_id=955590576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4530-audiofreehighqps/5A/1A/GKwRIJINXc2vABE3AgRnw2gb.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINXc2vABE3AgRnw2gb.m4a?channel=rss&album_id=14812466&track_id=955590576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4530-audiofreehighqps/5A/1A/GKwRIJINXc2vABE3AgRnw2gb.m4a
+```
+
+</details>
+
+---
+
+### 3. 208: Office Politics
 
 **播客名称**: This American Life
 
@@ -73,7 +100,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 3. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
+### 4. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -94,33 +121,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480ad
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480add66cf5aa/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhrvNwmy2grSCUAxjt8SXxaXjlR_.m4a
-```
-
-</details>
-
----
-
-### 4. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69a3f44dde29766da9fad0f8/media.xyzcdn.net/636669d51064cb55f31505fc/luOpCvElE3yp3pmycni6RQiR2irt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69a3f44dde29766da9fad0f8/media.xyzcdn.net/636669d51064cb55f31505fc/luOpCvElE3yp3pmycni6RQiR2irt.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgx
 
 ---
 
-### 9. 100.搬家记，我们离想要的生活，好像都近了一点
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69a1b21fa22480add6591f45/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lg5ZVoxradoc3eME90L8qLr1sFjn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69a1b21fa22480add6591f45/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lg5ZVoxradoc3eME90L8qLr1sFjn.m4a
-```
-
-</details>
-
----
-
-### 10. 衣裙与战场之间：读《肉不如竹》
+### 9. 衣裙与战场之间：读《肉不如竹》
 
 **播客名称**: 艺术有读
 
@@ -283,6 +256,33 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec59152
 音频链接（点击复制）:
 ```
 https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3
+```
+
+</details>
+
+---
+
+### 10. Don't hate the replicator, hate the game
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3715588590.mp3?t=podcast&e=nx-s1-5720653&p=510289&d=2164&size=34627170
 ```
 
 </details>
