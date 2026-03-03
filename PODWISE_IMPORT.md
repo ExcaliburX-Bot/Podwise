@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-02 18:46:51
+> 📅 生成时间: 2026-03-03 02:05:05
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI 转型四步法：个人、组织、产品和商业（下）
+### 1. 第2946期:Green logs provide green energy
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENXdFpABSoEQRnxVFt.m4a?channel=rss&album_id=14812466&track_id=955594263&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/04b3-audiofreehighqps/70/C7/GKwRIUENXdFpABSoEQRnxVFt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENXdFpABSoEQRnxVFt.m4a?channel=rss&album_id=14812466&track_id=955594263&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/04b3-audiofreehighqps/70/C7/GKwRIUENXdFpABSoEQRnxVFt.m4a
+```
+
+</details>
+
+---
+
+### 2. 92.立体的她：混乱女人，难缠女人，反叛女人
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69a544bba22480add6a8e0d8/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls5I-adbgZ232XM_SD1e4AjWrWKt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69a544bba22480add6a8e0d8/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls5I-adbgZ232XM_SD1e4AjWrWKt.m4a
+```
+
+</details>
+
+---
+
+### 3. Vol.324 鹅之书：在认识到我是谁以前，我就爱她
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINeusvAuWijgRyx_pJ.m4a?channel=rss&album_id=29887212&track_id=960000829&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5068-audiofreehighqps/5D/11/GKwRIaINeusvAuWijgRyx_pJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINeusvAuWijgRyx_pJ.m4a?channel=rss&album_id=29887212&track_id=960000829&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5068-audiofreehighqps/5D/11/GKwRIaINeusvAuWijgRyx_pJ.m4a
+```
+
+</details>
+
+---
+
+### 4. vol.240 辛苦揾来自在食
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69a595e466e2c3037704ebdb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgpCdH-xdFGmRupKUrJW3JKFf_O_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69a595e466e2c3037704ebdb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgpCdH-xdFGmRupKUrJW3JKFf_O_.m4a
+```
+
+</details>
+
+---
+
+### 5. AI 转型四步法：个人、组织、产品和商业（下）
 
 **播客名称**: AI炼金术
 
@@ -46,7 +154,7 @@ https://jt.ximalaya.com//GKwRIaINezQYAnG7YARy9sh4.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. 哥大休学创业，打造首个通用学习智能体
+### 6. 哥大休学创业，打造首个通用学习智能体
 
 **播客名称**: 此话当真
 
@@ -73,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/69a4d388de29766d
 
 ---
 
-### 3. 第2945期:Ugandan town hit by floods.
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINXc2vABE3AgRnw2gb.m4a?channel=rss&album_id=14812466&track_id=955590576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4530-audiofreehighqps/5A/1A/GKwRIJINXc2vABE3AgRnw2gb.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINXc2vABE3AgRnw2gb.m4a?channel=rss&album_id=14812466&track_id=955590576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4530-audiofreehighqps/5A/1A/GKwRIJINXc2vABE3AgRnw2gb.m4a
-```
-
-</details>
-
----
-
-### 4. 208: Office Politics
+### 7. 208: Office Politics
 
 **播客名称**: This American Life
 
@@ -127,7 +208,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
+### 8. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69a2a906a22480ad
 
 ---
 
-### 6. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
+### 9. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
 
 **播客名称**: 脑放电波
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69a3f44dde29766d
 
 ---
 
-### 7. 漫长的告别与回响
+### 10. 漫长的告别与回响
 
 **播客名称**: 周末变奏 Key Change
 
@@ -202,87 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjM2OSwidCI6MX0.3v1wHjEA1soYytFGzdUbAkA
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjM2OSwidCI6MX0.3v1wHjEA1soYytFGzdUbAkA3iY8/keychangefm/8227657661_911118.mp3
-```
-
-</details>
-
----
-
-### 8. 273 “东观”第六年&订阅破40万纪念Q&A
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a3122ea22480add67948cb/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsS7HLNRw9MORO5Ddpl_yPUIxNlj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a3122ea22480add67948cb/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsS7HLNRw9MORO5Ddpl_yPUIxNlj.m4a
-```
-
-</details>
-
----
-
-### 9. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69a0b34b66e2c303778cd3ce/media.xyzcdn.net/648b0b641c48983391a63f98/lvpBxKvVz9yclRYSNWjJ-_XG1Qkp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69a0b34b66e2c303778cd3ce/media.xyzcdn.net/648b0b641c48983391a63f98/lvpBxKvVz9yclRYSNWjJ-_XG1Qkp.m4a
-```
-
-</details>
-
----
-
-### 10. 2月新歌推荐丨袁娅维、蔡徐坤、joji、藤原樱…不可错过！✨
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_hvQTvrTZyNKXFFRqKwjVWTHKZURDNqHNSMWRSbskYrYYuXJyRYtgxzDGRU-5a.mp3
 ```
 
 </details>
