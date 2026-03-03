@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-03 02:05  
+> 📅 **更新时间**: 2026-03-03 06:51  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2946期:Green logs provide green energy
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENXdFpABSoEQRnxVFt.m4a?channel=rss&album_id=14812466&track_id=955594263&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/04b3-audiofreehighqps/70/C7/GKwRIUENXdFpABSoEQRnxVFt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 92.立体的她：混乱女人，难缠女人，反叛女人
+### 1. 92.立体的她：混乱女人，难缠女人，反叛女人
 
 **播客**: 展开讲讲
 
@@ -30,6 +17,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69a544bba22480add6a8e0d8/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls5I-adbgZ232XM_SD1e4AjWrWKt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2946期:Green logs provide green energy
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENXdFpABSoEQRnxVFt.m4a?channel=rss&album_id=14812466&track_id=955594263&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/04b3-audiofreehighqps/70/C7/GKwRIUENXdFpABSoEQRnxVFt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. vol.240 辛苦揾来自在食
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69a595e466e2c3037704ebdb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgpCdH-xdFGmRupKUrJW3JKFf_O_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. AI 转型四步法：个人、组织、产品和商业（下）
+### 4. AI 转型四步法：个人、组织、产品和商业（下）
 
 **播客**: AI炼金术
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 哥大休学创业，打造首个通用学习智能体
+### 5. 哥大休学创业，打造首个通用学习智能体
 
 **播客**: 此话当真
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 208: Office Politics
+### 6. 208: Office Politics
 
 **播客**: This American Life
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
+### 7. 剑桥博士去挖矿：当 AI 遇上「一钻下去千万美金」的行业｜对话相子恒：DeepOptica 创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
+### 8. 睡8小时、褪黑素、手环评分：这些常识都“错了”？对谈麻醉睡眠罗博士-Vol92
 
 **播客**: 脑放电波
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 漫长的告别与回响
+### 9. 漫长的告别与回响
 
 **播客**: 周末变奏 Key Change
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjM2OSwidCI6MX0.3v1wHjEA1soYytFGzdUbAkA3iY8/keychangefm/8227657661_911118.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. AI + 游戏 + 社交的新演绎 | 对谈 Wanaka 创始人张阳
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69a0b34b66e2c303778cd3ce/media.xyzcdn.net/648b0b641c48983391a63f98/lvpBxKvVz9yclRYSNWjJ-_XG1Qkp.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
