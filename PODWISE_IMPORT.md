@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-05 06:51:41
+> 📅 生成时间: 2026-03-05 12:59:10
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
+### 1. 125. 世界破破烂烂，女性缝缝补补：反觉醒文化下的女性叙事｜妇女节特辑
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
+```
+
+</details>
+
+---
+
+### 2. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,7 +73,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c100
 
 ---
 
-### 2. 133. 圈层化与试图破圈的lululemon
+### 3. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+```
+
+</details>
+
+---
+
+### 4. 133. 圈层化与试图破圈的lululemon
 
 **播客名称**: 疯投圈
 
@@ -73,7 +127,7 @@ https://rio.xyzcdn.net/crazycapital/ep133.mp3
 
 ---
 
-### 3. 213. 从标王到AI：三次马年里的春节营销进化 （Notebook LM生成对话）
+### 5. 213. 从标王到AI：三次马年里的春节营销进化 （Notebook LM生成对话）
 
 **播客名称**: 贝望录
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a65a3066e2c303
 
 ---
 
-### 4. 第2948期:Asian comedians showcasing their comedic flair
+### 6. 第2948期:Asian comedians showcasing their comedic flair
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -121,60 +175,6 @@ https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812466&track_id=955951082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b6fa-audiofreehighqps/C8/20/GKwRIUENX6S9ABgzkARom5R3.m4a
-```
-
-</details>
-
----
-
-### 5. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a1604101543f83/media.xyzcdn.net/63d945ece725b5378a158d29/lu-DcDkWu3SpDSCydUfdJnU-hVso.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a1604101543f83/media.xyzcdn.net/63d945ece725b5378a158d29/lu-DcDkWu3SpDSCydUfdJnU-hVso.m4a
-```
-
-</details>
-
----
-
-### 6. The Business of Heated Rivalry
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317
 ```
 
 </details>
