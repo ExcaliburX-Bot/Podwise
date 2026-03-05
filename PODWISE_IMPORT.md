@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-05 12:59:10
+> 📅 生成时间: 2026-03-05 19:15:53
 > 📊 总计: 10 个播客
 
 ---
@@ -100,34 +100,7 @@ https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQ
 
 ---
 
-### 4. 133. 圈层化与试图破圈的lululemon
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep133.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep133.mp3
-```
-
-</details>
-
----
-
-### 5. 213. 从标王到AI：三次马年里的春节营销进化 （Notebook LM生成对话）
+### 4. 213. 从标王到AI：三次马年里的春节营销进化 （Notebook LM生成对话）
 
 **播客名称**: 贝望录
 
@@ -154,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a65a3066e2c303
 
 ---
 
-### 6. 第2948期:Asian comedians showcasing their comedic flair
+### 5. 133. 圈层化与试图破圈的lululemon
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812466&track_id=955951082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b6fa-audiofreehighqps/C8/20/GKwRIUENX6S9ABgzkARom5R3.m4a
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +147,14 @@ https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812466&track_id=955951082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b6fa-audiofreehighqps/C8/20/GKwRIUENX6S9ABgzkARom5R3.m4a
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
 ```
 
 </details>
 
 ---
 
-### 7. No.191 🚘️ 比亚迪进化史：造车风云路
+### 6. No.191 🚘️ 比亚迪进化史：造车风云路
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a
 
 ---
 
-### 8. 62 从红楼到还珠再到你我，奔涌向前的女性
+### 7. 62 从红楼到还珠再到你我，奔涌向前的女性
 
 **播客名称**: 放学以后After school
 
@@ -235,7 +208,7 @@ https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 9. 别干活了！给 AI 布置办公室去吧！
+### 8. 别干活了！给 AI 布置办公室去吧！
 
 **播客名称**: AI炼金术
 
@@ -262,7 +235,7 @@ https://jt.ximalaya.com//GKwRIJENfAcYAh_mrgRzTY92.m4a?channel=rss&album_id=74194
 
 ---
 
-### 10. No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机
+### 9. No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机
 
 **播客名称**: 三五环
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69a3059566e2c303
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69a3059566e2c30377c88bb2/media.xyzcdn.net/5e280fab418a84a0461faa3c/llAhGzI3mkzZ_ZRb7rDOwa_Rd6tY.m4a
+```
+
+</details>
+
+---
+
+### 10. 元宵特辑｜修庙、入梦与童年异闻录
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a69fca66e2c303771db73a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lowwKz-M16aLhohMmT-z6Xb5fs6-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a69fca66e2c303771db73a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lowwKz-M16aLhohMmT-z6Xb5fs6-.m4a
 ```
 
 </details>
