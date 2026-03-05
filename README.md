@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-04 18:50  
+> 📅 **更新时间**: 2026-03-05 02:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 133. 圈层化与试图破圈的lululemon
+### 1. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c1005296-917e-4e61-805c-ebf5b18cfca4.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 213. 从标王到AI：三次马年里的春节营销进化 （Notebook LM生成对话）
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a65a3066e2c3037713a512/media.xyzcdn.net/5e285856418a84a04627b7be/ls6kY905L2vwS2L8ZFq02fpNoYen.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第2948期:Asian comedians showcasing their comedic flair
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812466&track_id=955951082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b6fa-audiofreehighqps/C8/20/GKwRIUENX6S9ABgzkARom5R3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 133. 圈层化与试图破圈的lululemon
 
 **播客**: 疯投圈
 
@@ -21,7 +73,33 @@
 
 ---
 
-### 2. No.191 🚘️ 比亚迪进化史：造车风云路
+### 6. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a1604101543f83/media.xyzcdn.net/63d945ece725b5378a158d29/lu-DcDkWu3SpDSCydUfdJnU-hVso.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. The Business of Heated Rivalry
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. No.191 🚘️ 比亚迪进化史：造车风云路
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,46 +112,7 @@
 
 ---
 
-### 3. 212. 她们的底线 倩与倩丨从标王到AI：三次马年里的春节营销进化
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a57400de29766da9232de8/media.xyzcdn.net/5e285856418a84a04627b7be/lm9rj3vrtn5-FT8XDGfdECq9zDXG.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第2947期:Teach kids game programming
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINX6BwABLDfARomNus.m4a?channel=rss&album_id=14812466&track_id=955946006&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3d9b-audiofreehighqps/44/A3/GKwRIJINX6BwABLDfARomNus.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 62 从红楼到还珠再到你我，奔涌向前的女性
-
-**播客**: 放学以后After school
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 别干活了！给 AI 布置办公室去吧！
+### 9. 别干活了！给 AI 布置办公室去吧！
 
 **播客**: AI炼金术
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机
+### 10. No.218 孟阳：大厂训练你先算收益，而自由职业教你拥抱随机
 
 **播客**: 三五环
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69a3059566e2c30377c88bb2/media.xyzcdn.net/5e280fab418a84a0461faa3c/llAhGzI3mkzZ_ZRb7rDOwa_Rd6tY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 元宵特辑｜修庙、入梦与童年异闻录
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69a69fca66e2c303771db73a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lowwKz-M16aLhohMmT-z6Xb5fs6-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 92.立体的她：混乱女人，难缠女人，反叛女人
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69a544bba22480add6a8e0d8/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls5I-adbgZ232XM_SD1e4AjWrWKt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.324 鹅之书：在认识到我是谁以前，我就爱她
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINeusvAuWijgRyx_pJ.m4a?channel=rss&album_id=29887212&track_id=960000829&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5068-audiofreehighqps/5D/11/GKwRIaINeusvAuWijgRyx_pJ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
