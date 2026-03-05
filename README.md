@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-05 02:02  
+> 📅 **更新时间**: 2026-03-05 06:51  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,15 +21,15 @@
 
 ---
 
-### 2. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+### 2. 133. 圈层化与试图破圈的lululemon
 
-**播客**: Vibration 歪波音室
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep133.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 133. 圈层化与试图破圈的lululemon
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep133.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
+### 5. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
 
 **播客**: 搞钱女孩
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. The Business of Heated Rivalry
+### 6. The Business of Heated Rivalry
 
 **播客**: Planet Money
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. No.191 🚘️ 比亚迪进化史：造车风云路
+### 7. No.191 🚘️ 比亚迪进化史：造车风云路
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a07149ab5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhBagVgTTfUhlF_0rhicOXgy0_eu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 62 从红楼到还珠再到你我，奔涌向前的女性
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

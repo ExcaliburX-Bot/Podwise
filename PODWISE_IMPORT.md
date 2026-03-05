@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-05 02:02:05
+> 📅 生成时间: 2026-03-05 06:51:41
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c100
 
 ---
 
-### 2. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+### 2. 133. 圈层化与试图破圈的lululemon
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQ
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://jt.ximalaya.com//GKwRIUENX6S9ABgzkARom5R3.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 133. 圈层化与试图破圈的lululemon
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep133.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep133.mp3
-```
-
-</details>
-
----
-
-### 6. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
+### 5. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
 
 **播客名称**: 搞钱女孩
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a16041
 
 ---
 
-### 7. The Business of Heated Rivalry
+### 6. The Business of Heated Rivalry
 
 **播客名称**: Planet Money
 
@@ -208,7 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. No.191 🚘️ 比亚迪进化史：造车风云路
+### 7. No.191 🚘️ 比亚迪进化史：造车风云路
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a07149ab5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhBagVgTTfUhlF_0rhicOXgy0_eu.m4a
+```
+
+</details>
+
+---
+
+### 8. 62 从红楼到还珠再到你我，奔涌向前的女性
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3
 ```
 
 </details>
