@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-03-06T02:02:19.636124",
+  "generated_at": "2026-03-06T06:48:01.191157",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "214. 当智力不再稀缺，人类经济会先崩溃吗？人机合作一起解读让华尔街不安的《2028全球智能危机》报告",
-      "podcast": "贝望录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a",
+      "title": "343 简里里x李莹x李淼：家庭中的爱和暴力",
+      "podcast": "Blow Your Mind (BYM S02)",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -14,6 +14,16 @@
     },
     {
       "rank": 2,
+      "title": "247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07",
+      "podcast": "沈奕斐的播客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "第2949期:What are the evolutionary origins of kissing?",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4NYjzdAAYQYARpwqeB.m4a?channel=rss&album_id=14812466&track_id=956415796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf83-audiofreehighqps/B0/D5/GKwRIW4NYjzdAAYQYARpwqeB.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0697c91f7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lp24LMFS4-Zs1srAQXQpNyUF-iay.m4a",
@@ -33,20 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "153: 阿里Qwen人事变动：误读、近况、伏笔和未来",
-      "podcast": "晚点聊 LateTalk",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c1005296-917e-4e61-805c-ebf5b18cfca4.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 5,
-      "title": "🌇台灣感性 Mixtape：柔和光影，隨性混亂",
-      "podcast": "Vibration 歪波音室",
-      "audio_url": "https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3",
+      "title": "125. 世界破破烂烂，女性缝缝补补：反觉醒文化下的女性叙事｜妇女节特辑",
+      "podcast": "英美剧漫游指南KillingTV",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -54,9 +54,9 @@
     },
     {
       "rank": 6,
-      "title": "133. 圈层化与试图破圈的lululemon",
-      "podcast": "疯投圈",
-      "audio_url": "https://rio.xyzcdn.net/crazycapital/ep133.mp3",
+      "title": "🌇台灣感性 Mixtape：柔和光影，隨性混亂",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
