@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-06 12:54:51
+> 📅 生成时间: 2026-03-06 18:43:50
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0
 
 ---
 
-### 2. 全球首份大模型财报！中国硬生生把AI干成了制造业！TOKEN贸易顺差时代来了？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
-```
-
-</details>
-
----
-
-### 3. 继业者1918｜「疯男爵」温甘伦的奇幻漂流与谢苗诺夫匪帮的末日
+### 2. 继业者1918｜「疯男爵」温甘伦的奇幻漂流与谢苗诺夫匪帮的末日
 
 **播客名称**: 忽左忽右
 
@@ -100,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38
 
 ---
 
-### 4. 343 简里里x李莹x李淼：家庭中的爱和暴力
+### 3. 247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07
 
-**播客名称**: Blow Your Mind (BYM S02)
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +93,34 @@ https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=69903
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
+```
+
+</details>
+
+---
+
+### 4. 第2949期:What are the evolutionary origins of kissing?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4NYjzdAAYQYARpwqeB.m4a?channel=rss&album_id=14812466&track_id=956415796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf83-audiofreehighqps/B0/D5/GKwRIW4NYjzdAAYQYARpwqeB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4NYjzdAAYQYARpwqeB.m4a?channel=rss&album_id=14812466&track_id=956415796&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bf83-audiofreehighqps/B0/D5/GKwRIW4NYjzdAAYQYARpwqeB.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38
 
 ---
 
-### 6. 247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-</details>
-
----
-
-### 7. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
+### 6. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
 
 **播客名称**: 东亚观察局
 
@@ -208,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0
 
 ---
 
-### 8. 125. 世界破破烂烂，女性缝缝补补：反觉醒文化下的女性叙事｜妇女节特辑
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
-```
-
-</details>
-
----
-
-### 9. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
+### 7. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -262,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c100
 
 ---
 
-### 10. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+### 8. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +229,60 @@ https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQ
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+```
+
+</details>
+
+---
+
+### 9. 133. 圈层化与试图破圈的lululemon
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep133.mp3
+```
+
+</details>
+
+---
+
+### 10. The Business of Heated Rivalry
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3080022984.mp3?t=podcast&e=nx-s1-5736077&p=510289&d=1666&size=26671317
 ```
 
 </details>
