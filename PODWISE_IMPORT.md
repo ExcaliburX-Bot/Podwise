@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-07 01:54:29
+> 📅 生成时间: 2026-03-07 06:39:56
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. E226 全世界都在聊 AI 和机器人，可我们家最值钱的还是房子｜房产万事屋
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGkbjeScQBmPBSW9wWQixttgqZu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGkbjeScQBmPBSW9wWQixttgqZu.m4a
-```
-
-</details>
-
----
-
-### 4. 全球首份大模型财报！中国硬生生把AI干成了制造业！TOKEN贸易顺差时代来了？
+### 3. 全球首份大模型财报！中国硬生生把AI干成了制造业！TOKEN贸易顺差时代来了？
 
 **播客名称**: 人民公园说AI
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
+```
+
+</details>
+
+---
+
+### 4. 继业者1918｜「疯男爵」温甘伦的奇幻漂流与谢苗诺夫匪帮的末日
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38
 
 ---
 
-### 7. 247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-</details>
-
----
-
-### 8. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
+### 7. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
 
 **播客名称**: 东亚观察局
 
@@ -235,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0
 
 ---
 
-### 9. 125. 世界破破烂烂，女性缝缝补补：反觉醒文化下的女性叙事｜妇女节特辑
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
-```
-
-</details>
-
----
-
-### 10. 133. 圈层化与试图破圈的lululemon
+### 8. 133. 圈层化与试图破圈的lululemon
 
 **播客名称**: 疯投圈
 
@@ -283,6 +229,60 @@ https://rio.xyzcdn.net/crazycapital/ep133.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep133.mp3
+```
+
+</details>
+
+---
+
+### 9. 李雪涵：北大00后做女性情趣用品热卖千万，你的“不爽”就是财富密码！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a1604101543f83/media.xyzcdn.net/63d945ece725b5378a158d29/lu-DcDkWu3SpDSCydUfdJnU-hVso.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69a88532b4a1604101543f83/media.xyzcdn.net/63d945ece725b5378a158d29/lu-DcDkWu3SpDSCydUfdJnU-hVso.m4a
+```
+
+</details>
+
+---
+
+### 10. No.191 🚘️ 比亚迪进化史：造车风云路
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a07149ab5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhBagVgTTfUhlF_0rhicOXgy0_eu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69a7db162e0bcd8a07149ab5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhBagVgTTfUhlF_0rhicOXgy0_eu.m4a
 ```
 
 </details>
