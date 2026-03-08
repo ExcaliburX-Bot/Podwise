@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-08 12:47:56
+> 📅 生成时间: 2026-03-08 18:33:51
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://jt.ximalaya.com//GKwRIJENY4WXABLmvARqTWxC.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
+### 2. 脑海中最嘈杂的宁静
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
+```
+
+</details>
+
+---
+
+### 3. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
 
 **播客名称**: 42章经
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
-```
-
-</details>
-
----
-
-### 3. Planet Money vs. the NBA’s tanking problem
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0
 
 ---
 
-### 6. 继业者1918｜「疯男爵」温甘伦的奇幻漂流与谢苗诺夫匪帮的末日
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
-```
-
-</details>
-
----
-
-### 7. 343 简里里x李莹x李淼：家庭中的爱和暴力
+### 6. 343 简里里x李莹x李淼：家庭中的爱和暴力
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,61 +181,7 @@ https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. 214. 当智力不再稀缺，人类经济会先崩溃吗？人机合作一起解读让华尔街不安的《2028全球智能危机》报告
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
-```
-
-</details>
-
----
-
-### 9. 247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-</details>
-
----
-
-### 10. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
+### 7. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
 
 **播客名称**: 东亚观察局
 
@@ -283,6 +202,87 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0697c91f7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lp24LMFS4-Zs1srAQXQpNyUF-iay.m4a
+```
+
+</details>
+
+---
+
+### 8. 125. 世界破破烂烂，女性缝缝补补：反觉醒文化下的女性叙事｜妇女节特辑
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a
+```
+
+</details>
+
+---
+
+### 9. 153: 阿里Qwen人事变动：误读、近况、伏笔和未来
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c1005296-917e-4e61-805c-ebf5b18cfca4.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c1005296-917e-4e61-805c-ebf5b18cfca4.mp3
+```
+
+</details>
+
+---
+
+### 10. 🌇台灣感性 Mixtape：柔和光影，隨性混亂
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_wVzrDdwMkJSXfVstRyRNgCrMnWNDFrvZmVwHXBZAgwgFNrMtYTWEQFHLaY-36.mp3
 ```
 
 </details>
