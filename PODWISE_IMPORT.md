@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-09 07:01:19
+> 📅 生成时间: 2026-03-09 13:01:57
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38
 
 ---
 
-### 2. 882: Give a Little Whistle
+### 2. 第2952期:Why can we see faces everywhere?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812466&track_id=959281985&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/30dd-audiofreehighqps/A5/88/GKwRIUENds5LABOhNwRwyThY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812466&track_id=959281985&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/30dd-audiofreehighqps/A5/88/GKwRIUENds5LABOhNwRwyThY.m4a
+```
+
+</details>
+
+---
+
+### 3. 882: Give a Little Whistle
 
 **播客名称**: This American Life
 
@@ -67,33 +94,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3
-```
-
-</details>
-
----
-
-### 3. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9Szw
 
 ---
 
-### 5. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
+### 5. EP74 | 「一个诚实的人」—— YouMind 创始人玉伯
 
-**播客名称**: 42章经
+**播客名称**: 出海去孵化器
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38c24659fa/media.xyzcdn.net/646a8c23023239d3851f5e70/lqOpSJFZoqK3WfMnTTrbxZObheZz.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,22 +147,22 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38c24659fa/media.xyzcdn.net/646a8c23023239d3851f5e70/lqOpSJFZoqK3WfMnTTrbxZObheZz.m4a
 ```
 
 </details>
 
 ---
 
-### 6. Planet Money vs. the NBA’s tanking problem
+### 6. 全球首份大模型财报！中国硬生生把AI干成了制造业！TOKEN贸易顺差时代来了？
 
-**播客名称**: Planet Money
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,41 +174,14 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
 ```
 
 </details>
 
 ---
 
-### 7. 继业者1918｜「疯男爵」温甘伦的奇幻漂流与谢苗诺夫匪帮的末日
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69aa8ceec8cdeb38c21ce8db/media.xyzcdn.net/FrLRz69mX_Xtll-Vb5utXkxecQLj.m4a
-```
-
-</details>
-
----
-
-### 8. 343 简里里x李莹x李淼：家庭中的爱和暴力
+### 7. 343 简里里x李莹x李淼：家庭中的爱和暴力
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -229,6 +202,33 @@ https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a
+```
+
+</details>
+
+---
+
+### 8. 214. 当智力不再稀缺，人类经济会先崩溃吗？人机合作一起解读让华尔街不安的《2028全球智能危机》报告
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
 ```
 
 </details>
