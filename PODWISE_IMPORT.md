@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-09 13:01:57
+> 📅 生成时间: 2026-03-09 18:52:48
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
+### 1. vol.241 小镇故事有够多，今天咱来说一说
 
-**播客名称**: 屠龙之术
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第2952期:Why can we see faces everywhere?
+### 2. Ep189 最佳播客推荐，极简识人术，Human3.0
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
+```
+
+</details>
+
+---
+
+### 3. 第2952期:Why can we see faces everywhere?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,34 @@ https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 882: Give a Little Whistle
+### 4. 215. 从小宇宙大赏聊起，当下播客商业化与社区生态的转向
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
+```
+
+</details>
+
+---
+
+### 5. 882: Give a Little Whistle
 
 **播客名称**: This American Life
 
@@ -100,7 +154,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 4. 脑海中最嘈杂的宁静
+### 6. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
+```
+
+</details>
+
+---
+
+### 7. 脑海中最嘈杂的宁静
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +208,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9Szw
 
 ---
 
-### 5. EP74 | 「一个诚实的人」—— YouMind 创始人玉伯
+### 8. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
+```
+
+</details>
+
+---
+
+### 9. EP74 | 「一个诚实的人」—— YouMind 创始人玉伯
 
 **播客名称**: 出海去孵化器
 
@@ -154,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38
 
 ---
 
-### 6. 全球首份大模型财报！中国硬生生把AI干成了制造业！TOKEN贸易顺差时代来了？
+### 10. E226 全世界都在聊 AI 和机器人，可我们家最值钱的还是房子｜房产万事屋
 
-**播客名称**: 人民公园说AI
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,115 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69aa94445b2d0ed0699ab26a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljaTWvC0Qkdm494zG7d140Z7A9X_.m4a
-```
-
-</details>
-
----
-
-### 7. 343 简里里x李莹x李淼：家庭中的爱和暴力
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a
-```
-
-</details>
-
----
-
-### 8. 214. 当智力不再稀缺，人类经济会先崩溃吗？人机合作一起解读让华尔街不安的《2028全球智能危机》报告
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69a95a0dc8cdeb38c2f4f6ec/media.xyzcdn.net/5e285856418a84a04627b7be/luGbogKvv_x7ra2JC9puPSYH8JBZ.m4a
-```
-
-</details>
-
----
-
-### 9. 247.在职场中努力就可以晋升吗？如何争取晋升机会？｜职场系列07
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69a95d4dc8cdeb38c2f56783/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ls-fCw4BV0hk0oX1fj__VzM97dMh.m4a
-```
-
-</details>
-
----
-
-### 10. 274 无敌李在明面临“明清大战”隐患 顶流播客欲做King Maker被罚
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0697c91f7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lp24LMFS4-Zs1srAQXQpNyUF-iay.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69a9b45c5b2d0ed0697c91f7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lp24LMFS4-Zs1srAQXQpNyUF-iay.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
 ```
 
 </details>
