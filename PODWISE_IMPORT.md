@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-09 18:52:48
+> 📅 生成时间: 2026-03-10 01:57:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.241 小镇故事有够多，今天咱来说一说
+### 1. 第2953期:Could humans have 33 senses?
 
-**播客名称**: 正经叭叭
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+https://jt.ximalaya.com//GKwRIJENdtF6ABOqCQRwy4z7.m4a?channel=rss&album_id=14812466&track_id=959286054&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/987d-audiofreehighqps/E5/7A/GKwRIJENdtF6ABOqCQRwy4z7.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+https://jt.ximalaya.com//GKwRIJENdtF6ABOqCQRwy4z7.m4a?channel=rss&album_id=14812466&track_id=959286054&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/987d-audiofreehighqps/E5/7A/GKwRIJENdtF6ABOqCQRwy4z7.m4a
 ```
 
 </details>
 
 ---
 
-### 2. Ep189 最佳播客推荐，极简识人术，Human3.0
+### 2. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
+```
+
+</details>
+
+---
+
+### 3. Ep189 最佳播客推荐，极简识人术，Human3.0
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -73,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1
 
 ---
 
-### 3. 第2952期:Why can we see faces everywhere?
+### 4. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812466&track_id=959281985&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/30dd-audiofreehighqps/A5/88/GKwRIUENds5LABOhNwRwyThY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,34 +120,7 @@ https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUENds5LABOhNwRwyThY.m4a?channel=rss&album_id=14812466&track_id=959281985&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/30dd-audiofreehighqps/A5/88/GKwRIUENds5LABOhNwRwyThY.m4a
-```
-
-</details>
-
----
-
-### 4. 215. 从小宇宙大赏聊起，当下播客商业化与社区生态的转向
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38
 
 ---
 
-### 10. E226 全世界都在聊 AI 和机器人，可我们家最值钱的还是房子｜房产万事屋
+### 10. Planet Money vs. the NBA’s tanking problem
 
-**播客名称**: 知行小酒馆
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
 ```
 
 </details>
