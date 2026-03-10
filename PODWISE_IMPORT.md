@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-10 06:49:57
+> 📅 生成时间: 2026-03-10 12:59:16
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2953期:Could humans have 33 senses?
+### 1. 459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2953期:Could humans have 33 senses?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJENdtF6ABOqCQRwy4z7.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
+### 3. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
 
 **播客名称**: 文化有限
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.241 小镇故事有够多，今天咱来说一说
+### 4. vol.241 小镇故事有够多，今天咱来说一说
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c
 
 ---
 
-### 4. Ep189 最佳播客推荐，极简识人术，Human3.0
+### 5. Ep189 最佳播客推荐，极简识人术，Human3.0
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1
 
 ---
 
-### 5. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
+### 6. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
 
 **播客名称**: 屠龙之术
 
@@ -154,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38
 
 ---
 
-### 6. 882: Give a Little Whistle
+### 7. 215. 从小宇宙大赏聊起，当下播客商业化与社区生态的转向
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ad7e2f5b2d0ed069fc675d/media.xyzcdn.net/5e285856418a84a04627b7be/lozbteVAC2ZWid-o3TkZlvOfZZUr.m4a
+```
+
+</details>
+
+---
+
+### 8. 882: Give a Little Whistle
 
 **播客名称**: This American Life
 
@@ -181,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 7. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
+### 9. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
 
 **播客名称**: 十字路口Crossing
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed0
 
 ---
 
-### 8. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
-```
-
-</details>
-
----
-
-### 9. EP74 | 「一个诚实的人」—— YouMind 创始人玉伯
+### 10. EP74 | 「一个诚实的人」—— YouMind 创始人玉伯
 
 **播客名称**: 出海去孵化器
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38c24659fa/media.xyzcdn.net/646a8c23023239d3851f5e70/lqOpSJFZoqK3WfMnTTrbxZObheZz.m4a
-```
-
-</details>
-
----
-
-### 10. Planet Money vs. the NBA’s tanking problem
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
 ```
 
 </details>
