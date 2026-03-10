@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-10 01:57:07
+> 📅 生成时间: 2026-03-10 06:49:57
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. Ep189 最佳播客推荐，极简识人术，Human3.0
+### 3. vol.241 小镇故事有够多，今天咱来说一说
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+```
+
+</details>
+
+---
+
+### 4. Ep189 最佳播客推荐，极简识人术，Human3.0
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1
 
 ---
 
-### 4. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
+### 5. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38
 
 ---
 
-### 5. 882: Give a Little Whistle
+### 6. 882: Give a Little Whistle
 
 **播客名称**: This American Life
 
@@ -154,7 +181,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
+### 7. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
 
 **播客名称**: 十字路口Crossing
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed0
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
-```
-
-</details>
-
----
-
-### 7. 脑海中最嘈杂的宁静
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
 ```
 
 </details>

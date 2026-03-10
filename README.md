@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-10 01:57  
+> 📅 **更新时间**: 2026-03-10 06:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. Ep189 最佳播客推荐，极简识人术，Human3.0
+### 3. vol.241 小镇故事有够多，今天咱来说一说
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Ep189 最佳播客推荐，极简识人术，Human3.0
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
+### 5. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
 
 **播客**: 屠龙之术
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 882: Give a Little Whistle
+### 6. 882: Give a Little Whistle
 
 **播客**: This American Life
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
+### 7. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
 
 **播客**: 十字路口Crossing
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 脑海中最嘈杂的宁静
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
