@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-03-11T12:58:47.030603",
+  "generated_at": "2026-03-11T18:53:26.597500",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "橘子：互联网已死，Agent 永生",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69b1512984bce022f9ea354c/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhD6ha-8unzU-RHBTuPunO0WJ-BZ.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "262.AI的进度条停不下来，你的焦虑也停不下来",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69c72bffcb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsQnCtk9h3czJCWAaqSpHNRn60kh.m4a",
@@ -23,27 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "The laws of the office revisited",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 4,
-      "title": "第2954期:Landscape beneath Antarctica's icy surface revealed",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJENdtL0AAXLWwRwzQ6y.m4a?channel=rss&album_id=14812466&track_id=959287432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47a6-audiofreehighqps/BC/A7/GKwRIJENdtL0AAXLWwRwzQ6y.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
       "title": "216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a",
@@ -53,10 +43,20 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞",
       "podcast": "硬地骇客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
+      "title": "459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "882: Give a Little Whistle",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3",
+      "title": "Ep189 最佳播客推荐，极简识人术，Human3.0",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a",
+      "title": "Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

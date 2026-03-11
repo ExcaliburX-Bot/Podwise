@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-11 12:58:47
+> 📅 生成时间: 2026-03-11 18:53:26
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
+### 1. 橘子：互联网已死，Agent 永生
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+</details>
+
+---
+
+### 2. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69b1512984bce022
 
 ---
 
-### 2. 262.AI的进度条停不下来，你的焦虑也停不下来
+### 3. 262.AI的进度条停不下来，你的焦虑也停不下来
 
 **播客名称**: 乱翻书
 
@@ -73,61 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69
 
 ---
 
-### 3. The laws of the office revisited
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207
-```
-
-</details>
-
----
-
-### 4. 第2954期:Landscape beneath Antarctica's icy surface revealed
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENdtL0AAXLWwRwzQ6y.m4a?channel=rss&album_id=14812466&track_id=959287432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47a6-audiofreehighqps/BC/A7/GKwRIJENdtL0AAXLWwRwzQ6y.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENdtL0AAXLWwRwzQ6y.m4a?channel=rss&album_id=14812466&track_id=959287432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47a6-audiofreehighqps/BC/A7/GKwRIJENdtL0AAXLWwRwzQ6y.m4a
-```
-
-</details>
-
----
-
-### 5. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
+### 4. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
 
 **播客名称**: 贝望录
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a96904
 
 ---
 
-### 6. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
+### 5. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
 
 **播客名称**: 硬地骇客
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aa
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a
+```
+
+</details>
+
+---
+
+### 6. 459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c
 
 ---
 
-### 9. 882: Give a Little Whistle
+### 9. Ep189 最佳播客推荐，极简识人术，Human3.0
 
-**播客名称**: This American Life
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/traffic.megaphone.fm/NPR9262480878.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 20 个问题，搞懂 OpenClaw：爆红机制、本质变化、创业机会
+### 10. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed0
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed069b9d271/media.xyzcdn.net/60502e253c92d4f62c2a9577/lk6BZKdxTI47vEHjVS9sGxOtRvTo.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
 ```
 
 </details>
