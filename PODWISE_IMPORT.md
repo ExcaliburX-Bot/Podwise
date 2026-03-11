@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-11 01:56:56
+> 📅 生成时间: 2026-03-11 06:53:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,61 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a
-```
-
-</details>
-
----
-
-### 2. 第2954期:Landscape beneath Antarctica's icy surface revealed
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENdtL0AAXLWwRwzQ6y.m4a?channel=rss&album_id=14812466&track_id=959287432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47a6-audiofreehighqps/BC/A7/GKwRIJENdtL0AAXLWwRwzQ6y.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENdtL0AAXLWwRwzQ6y.m4a?channel=rss&album_id=14812466&track_id=959287432&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47a6-audiofreehighqps/BC/A7/GKwRIJENdtL0AAXLWwRwzQ6y.m4a
-```
-
-</details>
-
----
-
-### 3. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
+### 1. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
 
 **播客名称**: 硬地骇客
 
@@ -100,7 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aa
 
 ---
 
-### 4. 459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸
+### 2. 459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸
 
 **播客名称**: 忽左忽右
 
@@ -127,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aa
 
 ---
 
-### 5. vol.241 小镇故事有够多，今天咱来说一说
+### 3. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
 
-**播客名称**: 正经叭叭
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +93,61 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
+```
+
+</details>
+
+---
+
+### 4. Ep189 最佳播客推荐，极简识人术，Human3.0
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69aed8d80323eed1f41741d1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lr2xWNzhkuFZZ9p6YgOWYl2BQIGs.m4a
+```
+
+</details>
+
+---
+
+### 5. Vol.89 AI行业2025年度总结补充篇（V4不等了版）---70页PPT solo
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69adf2bdc8cdeb38c28a1a81/media.xyzcdn.net/6507bc165c88d2412626b401/lhFOB8WKZ_bXcBe2bjIfcoxyfz6N.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ab99c15b2d0ed0
 
 ---
 
-### 8. 脑海中最嘈杂的宁静
+### 8. 优化胜率而非赔率，把一件事做到理论上该有的样子｜对谈连续创业者 Albert
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9Szw
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NTgzOSwidCI6MX0.8eYe0yjQAx_VE16btAd9SzwEoow/keychangefm/8227103917_984891.mp3
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69abf2cec8cdeb38c24b2038/media.xyzcdn.net/648b0b641c48983391a63f98/lu0VAMAaWCTwVa3qbLNsf99esAR2.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69abcea6c8cdeb38
 
 ---
 
-### 10. Planet Money vs. the NBA’s tanking problem
+### 10. E226 全世界都在聊 AI 和机器人，可我们家最值钱的还是房子｜房产万事屋
 
-**播客名称**: Planet Money
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR3439275766.mp3?t=podcast&e=nx-s1-5739178&p=510289&d=1820&size=29128499
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69aa50a75b2d0ed0698c7538/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llF4UQ6qdqfVVwP0jTlyVoeQzDFf.m4a
 ```
 
 </details>
