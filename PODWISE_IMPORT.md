@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-12 02:03:32
+> 📅 生成时间: 2026-03-12 06:55:03
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,61 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69b1bc2d84bce022
 
 ---
 
-### 3. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
+### 3. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119986&track_id=962223611&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9438-audiofreehighqps/E6/84/GKwRIRwNhzOuAWLVmwR4NOhY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119986&track_id=962223611&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9438-audiofreehighqps/E6/84/GKwRIRwNhzOuAWLVmwR4NOhY.m4a
+```
+
+</details>
+
+---
+
+### 4. 橘子：互联网已死，Agent 永生
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+</details>
+
+---
+
+### 5. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69b1512984bce022
 
 ---
 
-### 4. 262.AI的进度条停不下来，你的焦虑也停不下来
+### 6. 262.AI的进度条停不下来，你的焦虑也停不下来
 
 **播客名称**: 乱翻书
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69
 
 ---
 
-### 5. The laws of the office revisited
+### 7. The laws of the office revisited
 
 **播客名称**: Planet Money
 
@@ -154,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
+### 8. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
 
 **播客名称**: 贝望录
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a96904
 
 ---
 
-### 7. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
+### 9. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
 
 **播客名称**: 硬地骇客
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aa
 
 ---
 
-### 8. 459 军统档案解密：孙潇潇谈真实的戴笠与对日抗战锄奸
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69afcdc12a2882aae748b0d0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg8OGHm0EM9LoMpHLM4Ko41Pdv9h.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
+### 10. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
 
 **播客名称**: 文化有限
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
-```
-
-</details>
-
----
-
-### 10. vol.241 小镇故事有够多，今天咱来说一说
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
 ```
 
 </details>
