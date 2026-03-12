@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-12 06:55  
+> 📅 **更新时间**: 2026-03-12 12:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
+### 1. 当赛博皇帝，享AI人生！我用OpenClaw养出了三省六部、后宫三千！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
+### 3. 第2955期:Oldest cave art painting
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENdtRoAAR1NwRwzhP3.m4a?channel=rss&album_id=14812466&track_id=959288650&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1b97-audiofreehighqps/1F/09/GKwRIJENdtRoAAR1NwRwzhP3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
 
 **播客**: 搞钱女孩
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
+### 5. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
 
 **播客**: 创业内幕 Startup Insider
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 橘子：互联网已死，Agent 永生
+### 6. 橘子：互联网已死，Agent 永生
 
 **播客**: AI炼金术
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
+### 7. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 262.AI的进度条停不下来，你的焦虑也停不下来
+### 8. 262.AI的进度条停不下来，你的焦虑也停不下来
 
 **播客**: 乱翻书
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. The laws of the office revisited
+### 9. The laws of the office revisited
 
 **播客**: Planet Money
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
+### 10. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
 
 **播客**: 贝望录
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
-
-**播客**: 硬地骇客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
