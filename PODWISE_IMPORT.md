@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-12 18:53:37
+> 📅 生成时间: 2026-03-13 02:01:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？
+### 1. 大人也需要童话！《玛蒂尔达》：用音乐对世界说「不」￼
 
-**播客名称**: 三五环
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022f921cd3e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lrJYtt3LunEziDH8AOQ3NXRxeD4z.m4a
+https://tk.wavpub.com/WPDL_cDAdHgkvRHtdWySGTLkDghvjnJdBLFvrzssDucHMVXZBwZSctSdyDSmKLu-66.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022f921cd3e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lrJYtt3LunEziDH8AOQ3NXRxeD4z.m4a
+https://tk.wavpub.com/WPDL_cDAdHgkvRHtdWySGTLkDghvjnJdBLFvrzssDucHMVXZBwZSctSdyDSmKLu-66.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 第2955期:Oldest cave art painting
+### 2. 第2956期:Shapes and colours of the Moon
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -54,7 +54,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENdtRoAAR1NwRwzhP3.m4a?channel=rss&album_id=14812466&track_id=959288650&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1b97-audiofreehighqps/1F/09/GKwRIJENdtRoAAR1NwRwzhP3.m4a
+https://jt.ximalaya.com//GKwRIaINgUvwABY49gR1oHEh.m4a?channel=rss&album_id=14812466&track_id=961138225&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/FE/2E/GKwRIaINgUvwABY49gR1oHEh.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,95 @@ https://jt.ximalaya.com//GKwRIJENdtRoAAR1NwRwzhP3.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENdtRoAAR1NwRwzhP3.m4a?channel=rss&album_id=14812466&track_id=959288650&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1b97-audiofreehighqps/1F/09/GKwRIJENdtRoAAR1NwRwzhP3.m4a
+https://jt.ximalaya.com//GKwRIaINgUvwABY49gR1oHEh.m4a?channel=rss&album_id=14812466&track_id=961138225&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/FE/2E/GKwRIaINgUvwABY49gR1oHEh.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
+### 3. 248.为什么家庭和工作平衡总是女性的困境？职业上升期该侧重哪个？｜职场系列08
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69b2cd6f52cc900b9df7aeb1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lk9pY5Ag_Dc0x8BF-9yELX9yMYCC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69b2cd6f52cc900b9df7aeb1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lk9pY5Ag_Dc0x8BF-9yELX9yMYCC.m4a
+```
+
+</details>
+
+---
+
+### 4. 275 就在东京，开家书店or做档播客
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69b2ea8e84bce022f92d4ac5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnuzpqdiP0uE9ndsSESbnJg9Anoz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69b2ea8e84bce022f92d4ac5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnuzpqdiP0uE9ndsSESbnJg9Anoz.m4a
+```
+
+</details>
+
+---
+
+### 5. 当赛博皇帝，享AI人生！我用OpenClaw养出了三省六部、后宫三千！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a
+```
+
+</details>
+
+---
+
+### 6. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69b1bc2d84bce022
 
 ---
 
-### 4. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
+### 7. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -127,7 +208,34 @@ https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119
 
 ---
 
-### 5. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
+### 8. 橘子：互联网已死，Agent 永生
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNhyXtAnhUEwR4KfqB.m4a?channel=rss&album_id=74194808&track_id=962204801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/88b2-audiofreehighqps/B3/8A/GKwRIDoNhyXtAnhUEwR4KfqB.m4a
+```
+
+</details>
+
+---
+
+### 9. No.192 🇮🇷 伊朗往事：苹果树下的表演性承诺，与石油帝国的通胀迷航
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69b1512984bce022
 
 ---
 
-### 6. The laws of the office revisited
+### 10. 262.AI的进度条停不下来，你的焦虑也停不下来
 
-**播客名称**: Planet Money
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69c72bffcb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsQnCtk9h3czJCWAaqSpHNRn60kh.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,115 +282,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR2488007355.mp3?t=podcast&e=nx-s1-5726849&p=510289&d=1775&size=28414207
-```
-
-</details>
-
----
-
-### 7. 216. 英伦奇葩说丨在苏格兰小镇，健身房为何成了女性的领地，男性的“禁区”？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69afe1aef3a969043870b58d/media.xyzcdn.net/5e285856418a84a04627b7be/lun15F2bX-3eL3URqxQXVqAeccxo.m4a
-```
-
-</details>
-
----
-
-### 8. EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞
-
-**播客名称**: 硬地骇客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.325 白鹿原：老狗、断腰与田小娥被嫌弃的一生
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoNhBdeAt9RzwR21ESx.m4a?channel=rss&album_id=29887212&track_id=961622979&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/17d7-audiofreehighqps/1F/71/GKwRIDoNhBdeAt9RzwR21ESx.m4a
-```
-
-</details>
-
----
-
-### 10. vol.241 小镇故事有够多，今天咱来说一说
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69aeb9165a52b14c29af1960/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsc-aZkn22DgNY8AUGkxgwoCAGK1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69c72bffcb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsQnCtk9h3czJCWAaqSpHNRn60kh.m4a
 ```
 
 </details>
