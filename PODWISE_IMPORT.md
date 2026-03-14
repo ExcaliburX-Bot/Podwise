@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-14 01:58:45
+> 📅 生成时间: 2026-03-14 06:44:38
 > 📊 总计: 10 个播客
 
 ---
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022
 
 ---
 
-### 8. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
+### 8. 当赛博皇帝，享AI人生！我用OpenClaw养出了三省六部、后宫三千！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a
+```
+
+</details>
+
+---
+
+### 9. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -235,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9fa9
 
 ---
 
-### 9. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
+### 10. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
 
 **播客名称**: 搞钱女孩
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69b1bc2d84bce022
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69b1bc2d84bce022f9fa9b35/media.xyzcdn.net/63d945ece725b5378a158d29/liLaGf6r80npGTi_Jp8DtHNEfG5V.m4a
-```
-
-</details>
-
----
-
-### 10. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119986&track_id=962223611&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9438-audiofreehighqps/E6/84/GKwRIRwNhzOuAWLVmwR4NOhY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119986&track_id=962223611&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9438-audiofreehighqps/E6/84/GKwRIRwNhzOuAWLVmwR4NOhY.m4a
 ```
 
 </details>

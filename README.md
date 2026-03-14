@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-14 01:58  
+> 📅 **更新时间**: 2026-03-14 06:44  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
+### 8. 当赛博皇帝，享AI人生！我用OpenClaw养出了三省六部、后宫三千！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b288f884bce022f919628f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsAcHz1RZ1P9oH6uGoNo8QGDyt7N.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
+### 10. 创业必备心眼子：注册/合伙/拆伙等法律避坑锦囊
 
 **播客**: 搞钱女孩
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69b1bc2d84bce022f9fa9b35/media.xyzcdn.net/63d945ece725b5378a158d29/liLaGf6r80npGTi_Jp8DtHNEfG5V.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 彩蛋加更｜OpenClaw与AI Agent：「养虾」热潮下的冷思考
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNhzOuAWLVmwR4NOhY.m4a?channel=rss&album_id=20119986&track_id=962223611&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9438-audiofreehighqps/E6/84/GKwRIRwNhzOuAWLVmwR4NOhY.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
