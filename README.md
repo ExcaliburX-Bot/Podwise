@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-16 02:24  
+> 📅 **更新时间**: 2026-03-16 07:16  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2959期:Programmes for those not watching
+### 1. 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 张小珺Jùn｜商业访谈录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANgqNXABEfhQR2LclN.m4a?channel=rss&album_id=14812466&track_id=961357636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a9bb-audiofreehighqps/5C/82/GKwRIMANgqNXABEfhQR2LclN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69b77577f8b8079bfa8eb837/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lqXBPXddXfukbdlAP-NDrFNp-2wn.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 101.雄竞？竞去吧！我不管了！
+### 6. OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69b4d2f9f8b8079bfa3ae7f2/media.xyzcdn.net/648b0b641c48983391a63f98/lu_D4y7QIfAG6-rc79TP-rOxJp4Z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 101.雄竞？竞去吧！我不管了！
 
 **播客**: 喷嚏
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Chef vs. Robot
+### 8. Chef vs. Robot
 
 **播客**: Planet Money
 
@@ -99,7 +112,20 @@
 
 ---
 
-### 8. 余一：如何高效 PUA 100 个 Agents 为你卖命
+### 9. E227 疲惫经济学：为什么技术进步了，我们却更累了？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69b3b675772ac2295bfc01d0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqcOtDXInHtccMDE92XhL7wnJb_o.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 余一：如何高效 PUA 100 个 Agents 为你卖命
 
 **播客**: AI炼金术
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENiaJrAoZ6tQR5GEAJ.m4a?channel=rss&album_id=74194808&track_id=962637379&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/20a6-audiofreehighqps/E2/37/GKwRIJENiaJrAoZ6tQR5GEAJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 继业者1918｜匈牙利摄政王霍尔蒂的两战沉浮：从奥匈帝国解体到踏上希特勒的战车
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b3ca2db715a238c072c8cf/media.xyzcdn.net/Fry4BM3uDocbIeC0P137ILA2tL7_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 大人也需要童话！《玛蒂尔达》：用音乐对世界说「不」
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_cDAdHgkvRHtdWySGTLkDghvjnJdBLFvrzssDucHMVXZBwZSctSdyDSmKLu-66.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
