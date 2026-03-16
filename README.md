@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-16 07:16  
+> 📅 **更新时间**: 2026-03-16 13:10  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. Olivia Dean 与英伦灵魂女声的轮回
+### 2. 第2959期:Programmes for those not watching
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANgqNXABEfhQR2LclN.m4a?channel=rss&album_id=14812466&track_id=961357636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a9bb-audiofreehighqps/5C/82/GKwRIMANgqNXABEfhQR2LclN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Olivia Dean 与英伦灵魂女声的轮回
 
 **播客**: 周末变奏 Key Change
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 628: In the Shadow of the City
+### 4. 628: In the Shadow of the City
 
 **播客**: This American Life
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93
+### 5. 理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93
 
 **播客**: 脑放电波
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
+### 6. CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
 
 **播客**: 人民公园说AI
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
+### 7. OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
 
 **播客**: 42章经
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 101.雄竞？竞去吧！我不管了！
+### 8. 101.雄竞？竞去吧！我不管了！
 
 **播客**: 喷嚏
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. Chef vs. Robot
+### 9. Chef vs. Robot
 
 **播客**: Planet Money
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/traffic.megaphone.fm/NPR4487739507.mp3?t=podcast&e=nx-s1-5733110&p=510289&d=1540&size=24656754)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. E227 疲惫经济学：为什么技术进步了，我们却更累了？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69b3b675772ac2295bfc01d0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqcOtDXInHtccMDE92XhL7wnJb_o.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
