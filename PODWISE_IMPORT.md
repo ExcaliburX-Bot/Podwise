@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-15 18:37:55
+> 📅 生成时间: 2026-03-16 02:24:37
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
+### 1. 第2959期:Programmes for those not watching
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANgqNXABEfhQR2LclN.m4a?channel=rss&album_id=14812466&track_id=961357636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a9bb-audiofreehighqps/5C/82/GKwRIMANgqNXABEfhQR2LclN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANgqNXABEfhQR2LclN.m4a?channel=rss&album_id=14812466&track_id=961357636&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a9bb-audiofreehighqps/5C/82/GKwRIMANgqNXABEfhQR2LclN.m4a
+```
+
+</details>
+
+---
+
+### 2. Olivia Dean 与英伦灵魂女声的轮回
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjQzMCwidCI6MX0.ngsh3CMJrK-aBo3Uq6vApUopamI/keychangefm/8226415392_433512.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjQzMCwidCI6MX0.ngsh3CMJrK-aBo3Uq6vApUopamI/keychangefm/8226415392_433512.mp3
+```
+
+</details>
+
+---
+
+### 3. 628: In the Shadow of the City
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache
+```
+
+</details>
+
+---
+
+### 4. 理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69b62d24caaea1fb3b4ed5ff/media.xyzcdn.net/636669d51064cb55f31505fc/lhxOZESQbsTZQG5Ub8WCOYT2wrCr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69b62d24caaea1fb3b4ed5ff/media.xyzcdn.net/636669d51064cb55f31505fc/lhxOZESQbsTZQG5Ub8WCOYT2wrCr.m4a
+```
+
+</details>
+
+---
+
+### 5. CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
 
 **播客名称**: 人民公园说AI
 
@@ -46,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b5818af8b8079b
 
 ---
 
-### 2. 第2958期:Kenya solves cactus problem with microbes
+### 6. 101.雄竞？竞去吧！我不管了！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 喷嚏
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINgVJBAAvy-wR1o6aP.m4a?channel=rss&album_id=14812466&track_id=961144017&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7310-audiofreehighqps/B2/19/GKwRIJINgVJBAAvy-wR1o6aP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69b3f264b810e066f9c310fa/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lgmBMm-O3-AW60cjgch0zhxqYkqb.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +174,14 @@ https://jt.ximalaya.com//GKwRIJINgVJBAAvy-wR1o6aP.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINgVJBAAvy-wR1o6aP.m4a?channel=rss&album_id=14812466&track_id=961144017&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7310-audiofreehighqps/B2/19/GKwRIJINgVJBAAvy-wR1o6aP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69b3f264b810e066f9c310fa/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lgmBMm-O3-AW60cjgch0zhxqYkqb.m4a
 ```
 
 </details>
 
 ---
 
-### 3. OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69b4d2f9f8b8079bfa3ae7f2/media.xyzcdn.net/648b0b641c48983391a63f98/lu_D4y7QIfAG6-rc79TP-rOxJp4Z.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69b4d2f9f8b8079bfa3ae7f2/media.xyzcdn.net/648b0b641c48983391a63f98/lu_D4y7QIfAG6-rc79TP-rOxJp4Z.m4a
-```
-
-</details>
-
----
-
-### 4. Chef vs. Robot
+### 7. Chef vs. Robot
 
 **播客名称**: Planet Money
 
@@ -127,34 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. E227 疲惫经济学：为什么技术进步了，我们却更累了？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69b3b675772ac2295bfc01d0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqcOtDXInHtccMDE92XhL7wnJb_o.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69b3b675772ac2295bfc01d0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqcOtDXInHtccMDE92XhL7wnJb_o.m4a
-```
-
-</details>
-
----
-
-### 6. 余一：如何高效 PUA 100 个 Agents 为你卖命
+### 8. 余一：如何高效 PUA 100 个 Agents 为你卖命
 
 **播客名称**: AI炼金术
 
@@ -181,7 +235,34 @@ https://jt.ximalaya.com//GKwRIJENiaJrAoZ6tQR5GEAJ.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 大人也需要童话！《玛蒂尔达》：用音乐对世界说「不」
+### 9. 继业者1918｜匈牙利摄政王霍尔蒂的两战沉浮：从奥匈帝国解体到踏上希特勒的战车
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b3ca2db715a238c072c8cf/media.xyzcdn.net/Fry4BM3uDocbIeC0P137ILA2tL7_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b3ca2db715a238c072c8cf/media.xyzcdn.net/Fry4BM3uDocbIeC0P137ILA2tL7_.m4a
+```
+
+</details>
+
+---
+
+### 10. 大人也需要童话！《玛蒂尔达》：用音乐对世界说「不」
 
 **播客名称**: Vibration 歪波音室
 
@@ -202,87 +283,6 @@ https://tk.wavpub.com/WPDL_cDAdHgkvRHtdWySGTLkDghvjnJdBLFvrzssDucHMVXZBwZSctSdyD
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_cDAdHgkvRHtdWySGTLkDghvjnJdBLFvrzssDucHMVXZBwZSctSdyDSmKLu-66.mp3
-```
-
-</details>
-
----
-
-### 8. 275 就在东京，开家书店or做档播客
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69b2ea8e84bce022f92d4ac5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnuzpqdiP0uE9ndsSESbnJg9Anoz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69b2ea8e84bce022f92d4ac5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnuzpqdiP0uE9ndsSESbnJg9Anoz.m4a
-```
-
-</details>
-
----
-
-### 9. No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022f921cd3e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lrJYtt3LunEziDH8AOQ3NXRxeD4z.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022f921cd3e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lrJYtt3LunEziDH8AOQ3NXRxeD4z.m4a
-```
-
-</details>
-
----
-
-### 10. 154: 从千问变动到「AI 英雄传」，与 DINQ 高岱恒聊传奇 AI 研究员们
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9fa9d36f-2fb3-4a03-b24c-d241b87d06e1.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9fa9d36f-2fb3-4a03-b24c-d241b87d06e1.mp3
 ```
 
 </details>
