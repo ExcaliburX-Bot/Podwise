@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-19 06:57  
+> 📅 **更新时间**: 2026-03-19 13:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第2962期:Thoughts can control devices
+### 1. 第2962期:Thoughts can control devices
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
+### 2. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
 
 **播客**: 搞钱女孩
 
@@ -47,33 +34,20 @@
 
 ---
 
-### 4. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
+### 3. Ep190 当向付召决定不当体育老师
 
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liquehldkYJ3fOdvjT93Fn1Dgc5o.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. The little pet fish that saved a town in the Amazon
-
-**播客**: Planet Money
+**播客**: 基本无害 Mostly Harmless
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 460 与李菁漫谈海外「中国学」大家访谈录
+### 4. 460 与李菁漫谈海外「中国学」大家访谈录
 
 **播客**: 忽左忽右
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及
+### 5. Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及
 
 **播客**: 文化有限
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生
+### 6. her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生
 
 **播客**: 随机波动StochasticVolatility
 
@@ -112,28 +86,54 @@
 
 ---
 
-### 9. vol.242 一年好几度破烂交换大会⁵
+### 7. 628: In the Shadow of the City
 
-**播客**: 正经叭叭
+**播客**: This American Life
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69b7f045f8b8079bfaa785fe/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvUj2s3unfAdoxwzO9XjnXiaxDFG.m4a)
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42
+### 8. 理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 脑放电波
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69b77577f8b8079bfa8eb837/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lqXBPXddXfukbdlAP-NDrFNp-2wn.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69b62d24caaea1fb3b4ed5ff/media.xyzcdn.net/636669d51064cb55f31505fc/lhxOZESQbsTZQG5Ub8WCOYT2wrCr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 水！CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b5818af8b8079bfa553d19/media.xyzcdn.net/Ft-8hM1ralB-weDKuH1bAbCcC5UT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69b4d2f9f8b8079bfa3ae7f2/media.xyzcdn.net/648b0b641c48983391a63f98/lu_D4y7QIfAG6-rc79TP-rOxJp4Z.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
