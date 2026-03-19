@@ -1,9 +1,39 @@
 {
-  "generated_at": "2026-03-19T13:03:42.490993",
+  "generated_at": "2026-03-19T18:57:49.434450",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "134. G2格局下的全球投资",
+      "podcast": "疯投圈",
+      "audio_url": "https://rio.xyzcdn.net/crazycapital/ep134.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
       "title": "第2962期:Thoughts can control devices",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwNiqG0AA1mgQR5eJSm.m4a?channel=rss&album_id=14812466&track_id=962799921&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b2c9-audiofreehighqps/3F/4B/GKwRIRwNiqG0AA1mgQR5eJSm.m4a",
@@ -13,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 5,
       "title": "OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69baccdf690ca3160f3c3c11/media.xyzcdn.net/63d945ece725b5378a158d29/ljK_xyboC28Ng8aeYEBA-iIKqru3.m4a",
@@ -23,7 +53,17 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "title": "The little pet fish that saved a town in the Amazon",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 7,
       "title": "Ep190 当向付召决定不当体育老师",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a",
@@ -33,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 8,
       "title": "460 与李菁漫谈海外「中国学」大家访谈录",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b91dd2f8b8079bface7421/media.xyzcdn.net/5e4ee557418a84a0466737b7/li-e08Xo-cRvPU618BQgKAN3fJXB.m4a",
@@ -43,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIJENjdHLA1Fu3AR62osk.m4a?channel=rss&album_id=29887212&track_id=963395882&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a763-audiofreehighqps/C9/FA/GKwRIJENjdHLA1Fu3AR62osk.m4a",
@@ -53,50 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
-      "title": "her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生",
-      "podcast": "随机波动StochasticVolatility",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a45a561e-128d-48ee-9075-f965078598a4.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "628: In the Shadow of the City",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93",
-      "podcast": "脑放电波",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69b62d24caaea1fb3b4ed5ff/media.xyzcdn.net/636669d51064cb55f31505fc/lhxOZESQbsTZQG5Ub8WCOYT2wrCr.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "水！CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b5818af8b8079bfa553d19/media.xyzcdn.net/Ft-8hM1ralB-weDKuH1bAbCcC5UT.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 10,
-      "title": "OpenClaw 之后，我只想未来 3-6 个月的事情｜对谈 Sheet0 创始人王文锋",
-      "podcast": "42章经",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69b4d2f9f8b8079bfa3ae7f2/media.xyzcdn.net/648b0b641c48983391a63f98/lu_D4y7QIfAG6-rc79TP-rOxJp4Z.m4a",
+      "title": "vol.242 一年好几度破烂交换大会⁵",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69b7f045f8b8079bfaa785fe/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvUj2s3unfAdoxwzO9XjnXiaxDFG.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
