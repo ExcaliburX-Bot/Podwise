@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-19 02:08:37
+> 📅 生成时间: 2026-03-19 06:57:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
+### 1. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2962期:Thoughts can control devices
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNiqG0AA1mgQR5eJSm.m4a?channel=rss&album_id=14812466&track_id=962799921&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b2c9-audiofreehighqps/3F/4B/GKwRIRwNiqG0AA1mgQR5eJSm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNiqG0AA1mgQR5eJSm.m4a?channel=rss&album_id=14812466&track_id=962799921&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b2c9-audiofreehighqps/3F/4B/GKwRIRwNiqG0AA1mgQR5eJSm.m4a
+```
+
+</details>
+
+---
+
+### 3. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
 
 **播客名称**: 搞钱女孩
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69baccdf690ca316
 
 ---
 
-### 2. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
+### 4. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079b
 
 ---
 
-### 3. The little pet fish that saved a town in the Amazon
+### 5. The little pet fish that saved a town in the Amazon
 
 **播客名称**: Planet Money
 
@@ -100,34 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. Ep190 当向付召决定不当体育老师
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a
-```
-
-</details>
-
----
-
-### 5. 460 与李菁漫谈海外「中国学」大家访谈录
+### 6. 460 与李菁漫谈海外「中国学」大家访谈录
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b91dd2f8b8079b
 
 ---
 
-### 6. Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及
+### 7. Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及
 
 **播客名称**: 文化有限
 
@@ -181,7 +208,7 @@ https://jt.ximalaya.com//GKwRIJENjdHLA1Fu3AR62osk.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生
+### 8. her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -208,15 +235,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a45a
 
 ---
 
-### 8. Olivia Dean 与英伦灵魂女声的轮回
+### 9. vol.242 一年好几度破烂交换大会⁵
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjQzMCwidCI6MX0.ngsh3CMJrK-aBo3Uq6vApUopamI/keychangefm/8226415392_433512.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69b7f045f8b8079bfaa785fe/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvUj2s3unfAdoxwzO9XjnXiaxDFG.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +255,22 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjQzMCwidCI6MX0.ngsh3CMJrK-aBo3Uq6vApUo
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjQzMCwidCI6MX0.ngsh3CMJrK-aBo3Uq6vApUopamI/keychangefm/8226415392_433512.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69b7f045f8b8079bfaa785fe/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvUj2s3unfAdoxwzO9XjnXiaxDFG.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 628: In the Shadow of the City
+### 10. 133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42
 
-**播客名称**: This American Life
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69b77577f8b8079bfa8eb837/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lqXBPXddXfukbdlAP-NDrFNp-2wn.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/48a9b350-faa4-4e06-8676-39388e5915f9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=48a9b350-faa4-4e06-8676-39388e5915f9&nocache
-```
-
-</details>
-
----
-
-### 10. 水！CodeX-奥特曼的小龙虾｜OpenClaw一定会死，但硅谷早已经押注...
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b5818af8b8079bfa553d19/media.xyzcdn.net/Ft-8hM1ralB-weDKuH1bAbCcC5UT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69b5818af8b8079bfa553d19/media.xyzcdn.net/Ft-8hM1ralB-weDKuH1bAbCcC5UT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69b77577f8b8079bfa8eb837/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lqXBPXddXfukbdlAP-NDrFNp-2wn.m4a
 ```
 
 </details>
