@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-20 02:02:40
+> 📅 生成时间: 2026-03-20 06:55:00
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2963期:5 Tips from a Professional Dog Walker
+### 1. 134. G2格局下的全球投资
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
 ```
 
 </details>
@@ -73,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777
 
 ---
 
-### 3. 276 趋势与事实：浅析全球半导体产业的日本“生态位”
+### 3. 第2963期:5 Tips from a Professional Dog Walker
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+```
+
+</details>
+
+---
+
+### 4. 276 趋势与事实：浅析全球半导体产业的日本“生态位”
 
 **播客名称**: 东亚观察局
 
@@ -100,7 +127,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69bc2cd02d318777
 
 ---
 
-### 4. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
+### 5. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
+```
+
+</details>
+
+---
+
+### 6. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
+```
+
+</details>
+
+---
+
+### 7. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
 
 **播客名称**: 贝望录
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777
 
 ---
 
-### 5. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
+### 8. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
 
 **播客名称**: 搞钱女孩
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69baccdf690ca316
 
 ---
 
-### 6. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
+### 9. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -162,7 +243,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69baccdf690ca316
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liquehldkYJ3fOdvjT93Fn1Dgc5o.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lk86gwVtVySHlMZZU68x1UlX6o55.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liquehldkYJ3fOdvjT93Fn1Dgc5o.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lk86gwVtVySHlMZZU68x1UlX6o55.m4a
 ```
 
 </details>
 
 ---
 
-### 7. The little pet fish that saved a town in the Amazon
+### 10. The little pet fish that saved a town in the Amazon
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408
-```
-
-</details>
-
----
-
-### 8. Ep190 当向付召决定不当体育老师
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69b97a90caaea1fb3bcc5dbd/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhk9A2ARC0rhR6GlnsEcqXmsGYsg.m4a
-```
-
-</details>
-
----
-
-### 9. 460 与李菁漫谈海外「中国学」大家访谈录
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b91dd2f8b8079bface7421/media.xyzcdn.net/5e4ee557418a84a0466737b7/li-e08Xo-cRvPU618BQgKAN3fJXB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69b91dd2f8b8079bface7421/media.xyzcdn.net/5e4ee557418a84a0466737b7/li-e08Xo-cRvPU618BQgKAN3fJXB.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.326 春日特辑：所有的愿望都在发芽，连遥远的星辰都触手可及
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENjdHLA1Fu3AR62osk.m4a?channel=rss&album_id=29887212&track_id=963395882&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a763-audiofreehighqps/C9/FA/GKwRIJENjdHLA1Fu3AR62osk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENjdHLA1Fu3AR62osk.m4a?channel=rss&album_id=29887212&track_id=963395882&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a763-audiofreehighqps/C9/FA/GKwRIJENjdHLA1Fu3AR62osk.m4a
 ```
 
 </details>
