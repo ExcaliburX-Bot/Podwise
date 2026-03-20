@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-20 06:55  
+> 📅 **更新时间**: 2026-03-20 12:58  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 134. G2格局下的全球投资
+### 1. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
 
-**播客**: 疯投圈
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep134.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69bcf10c2d318777c9dbf039/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lnI_CddlJjfe-XM1jJfDidFl_ODM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 93.春日特辑：不知道，我的心态很曼妙
+### 2. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5ae1bf037/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ltSgr0OMnrJ84fAfA0xqRKdgOxVc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 93.春日特辑：不知道，我的心态很曼妙
 
 **播客**: 展开讲讲
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 第2963期:5 Tips from a Professional Dog Walker
+### 4. 第2963期:5 Tips from a Professional Dog Walker
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,20 +60,20 @@
 
 ---
 
-### 4. 276 趋势与事实：浅析全球半导体产业的日本“生态位”
+### 5. 134. G2格局下的全球投资
 
-**播客**: 东亚观察局
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69bc2cd02d318777c9c77947/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmpetxDw3xbrKcLZacGDtaaUvZy2.m4a)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep134.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
+### 6. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
 
 **播客**: 42章经
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
+### 7. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
 
 **播客**: AI炼金术
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
+### 8. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
 
 **播客**: 贝望录
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
+### 9. OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜
 
 **播客**: 搞钱女孩
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
+### 10. No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lk86gwVtVySHlMZZU68x1UlX6o55.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. The little pet fish that saved a town in the Amazon
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f154f718-8639-418f-b486-9f1bf903766f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f154f718-8639-418f-b486-9f1bf903766f&feed=hvWWWzRv&t=podcast&e=nx-s1-5751251&p=510289&d=1995&size=31928408)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
