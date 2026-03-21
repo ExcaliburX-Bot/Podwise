@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-21 06:41  
+> 📅 **更新时间**: 2026-03-21 12:47  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 93.春日特辑：不知道，我的心态很曼妙
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 134. G2格局下的全球投资
+### 7. 134. G2格局下的全球投资
 
 **播客**: 疯投圈
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep134.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-21 06:41:51
+> 📅 生成时间: 2026-03-21 12:47:45
 > 📊 总计: 10 个播客
 
 ---
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777
 
 ---
 
-### 7. 93.春日特辑：不知道，我的心态很曼妙
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
-```
-
-</details>
-
----
-
-### 8. 134. G2格局下的全球投资
+### 7. 134. G2格局下的全球投资
 
 **播客名称**: 疯投圈
 
@@ -229,6 +202,33 @@ https://rio.xyzcdn.net/crazycapital/ep134.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep134.mp3
+```
+
+</details>
+
+---
+
+### 8. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
 ```
 
 </details>
