@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-20 18:50  
+> 📅 **更新时间**: 2026-03-21 01:56  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 侧写歌单丨费亦宁：流隙
+### 1. 第2964期:How to achieve zero waste
 
-**播客**: 周末变奏 Key Change
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINiqcJABKb2QR5ez52.m4a?channel=rss&album_id=14812466&track_id=962803528&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7866-audiofreehighqps/CF/B3/GKwRIJINiqcJABKb2QR5ez52.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 134. G2格局下的全球投资
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep134.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
+### 5. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
 
 **播客**: 沈奕斐的播客
 
@@ -86,15 +73,28 @@
 
 ---
 
-### 7. 第2963期:5 Tips from a Professional Dog Walker
+### 6. 93.春日特辑：不知道，我的心态很曼妙
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 134. G2格局下的全球投资
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep134.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
+### 10. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
 
-**播客**: AI炼金术
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

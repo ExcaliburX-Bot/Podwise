@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-20 18:50:13
+> 📅 生成时间: 2026-03-21 01:56:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 侧写歌单丨费亦宁：流隙
+### 1. 第2964期:How to achieve zero waste
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
+https://jt.ximalaya.com//GKwRIJINiqcJABKb2QR5ez52.m4a?channel=rss&album_id=14812466&track_id=962803528&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7866-audiofreehighqps/CF/B3/GKwRIJINiqcJABKb2QR5ez52.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmx
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
+https://jt.ximalaya.com//GKwRIJINiqcJABKb2QR5ez52.m4a?channel=rss&album_id=14812466&track_id=962803528&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7866-audiofreehighqps/CF/B3/GKwRIJINiqcJABKb2QR5ez52.m4a
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777
 
 ---
 
-### 5. 134. G2格局下的全球投资
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep134.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep134.mp3
-```
-
-</details>
-
----
-
-### 6. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
+### 5. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5
 
 ---
 
-### 7. 第2963期:5 Tips from a Professional Dog Walker
+### 6. 93.春日特辑：不知道，我的心态很曼妙
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +174,34 @@ https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENiqRPAA8QWgR5edYC.m4a?channel=rss&album_id=14812466&track_id=962801752&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4155-audiofreehighqps/04/A3/GKwRIJENiqRPAA8QWgR5edYC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
+```
+
+</details>
+
+---
+
+### 7. 134. G2格局下的全球投资
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5
 
 ---
 
-### 10. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
+### 10. 218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？
 
-**播客名称**: AI炼金术
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a
 ```
 
 </details>
