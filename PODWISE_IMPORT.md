@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-23 13:06:20
+> 📅 生成时间: 2026-03-23 18:54:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2966期:The Singing Golden Gate Bridge
+### 1. vol.243 不是终点是远行，不负相逢不负情
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812466&track_id=962829932&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dffa-audiofreehighqps/5D/AE/GKwRIJINisyXAA-x4QR5jtZM.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a80a6fb76/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSE3bzpKXGSxEgSGgR7ylmUO-mk.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812466&track_id=962829932&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dffa-audiofreehighqps/5D/AE/GKwRIJINisyXAA-x4QR5jtZM.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a80a6fb76/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSE3bzpKXGSxEgSGgR7ylmUO-mk.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 883: Call Your Parents
+### 2. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
 
-**播客名称**: This American Life
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777
 
 ---
 
-### 5. Inside a BOOK auction
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310
-```
-
-</details>
-
----
-
-### 6. 侧写歌单丨费亦宁：流隙
+### 5. 侧写歌单丨费亦宁：流隙
 
 **播客名称**: 周末变奏 Key Change
 
@@ -181,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmx
 
 ---
 
-### 7. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
+### 6. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
 
 **播客名称**: 人民公园说AI
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69bd50522d318777
 
 ---
 
-### 8. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
+### 7. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -235,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69bcf10c2d318777
 
 ---
 
-### 9. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
+### 8. 134. G2格局下的全球投资
 
-**播客名称**: 忽左忽右
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777c9e2125c/media.xyzcdn.net/FgVnMmMsUTP5RFz1UwNgVUKDNVnm.m4a
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +228,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777c9e2125c/media.xyzcdn.net/FgVnMmMsUTP5RFz1UwNgVUKDNVnm.m4a
+https://rio.xyzcdn.net/crazycapital/ep134.mp3
+```
+
+</details>
+
+---
+
+### 9. 249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5ae1bf037/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ltSgr0OMnrJ84fAfA0xqRKdgOxVc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5ae1bf037/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ltSgr0OMnrJ84fAfA0xqRKdgOxVc.m4a
 ```
 
 </details>
