@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-23 02:09:58
+> 📅 生成时间: 2026-03-23 07:09:20
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af
 
 ---
 
-### 2. 我们在城市的缝隙里独处
+### 2. 陪你在城市的缝隙里独处
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +100,34 @@ https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. EP75 | OpenClaw 中推养虾第一人 - 宇成
+### 4. 883: Call Your Parents
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache
+```
+
+</details>
+
+---
+
+### 5. EP75 | OpenClaw 中推养虾第一人 - 宇成
 
 **播客名称**: 出海去孵化器
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5
 
 ---
 
-### 5. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
+### 6. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777
 
 ---
 
-### 6. Inside a BOOK auction
+### 7. Inside a BOOK auction
 
 **播客名称**: Planet Money
 
@@ -181,15 +208,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 侧写歌单丨费亦宁：流隙
+### 8. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69bd50522d318777c9ebfbba/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkkVyX1uXE1xcn-oiJo04MvE4Nrt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +228,14 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmx
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69bd50522d318777c9ebfbba/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkkVyX1uXE1xcn-oiJo04MvE4Nrt.m4a
 ```
 
 </details>
 
 ---
 
-### 8. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
+### 9. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69bcf10c2d318777
 
 ---
 
-### 9. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
+### 10. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777c9e2125c/media.xyzcdn.net/FgVnMmMsUTP5RFz1UwNgVUKDNVnm.m4a
-```
-
-</details>
-
----
-
-### 10. 93.春日特辑：不知道，我的心态很曼妙
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
 ```
 
 </details>
