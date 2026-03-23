@@ -1,40 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-23 07:09  
+> 📅 **更新时间**: 2026-03-23 13:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 陪你在城市的缝隙里独处
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第2966期:The Singing Golden Gate Bridge
+### 1. 第2966期:The Singing Golden Gate Bridge
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,7 +21,7 @@
 
 ---
 
-### 4. 883: Call Your Parents
+### 2. 883: Call Your Parents
 
 **播客**: This American Life
 
@@ -60,7 +34,7 @@
 
 ---
 
-### 5. EP75 | OpenClaw 中推养虾第一人 - 宇成
+### 3. EP75 | OpenClaw 中推养虾第一人 - 宇成
 
 **播客**: 出海去孵化器
 
@@ -73,7 +47,7 @@
 
 ---
 
-### 6. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
+### 4. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. Inside a BOOK auction
+### 5. Inside a BOOK auction
 
 **播客**: Planet Money
 
@@ -99,7 +73,20 @@
 
 ---
 
-### 8. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
+### 6. 侧写歌单丨费亦宁：流隙
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
 
 **播客**: 人民公园说AI
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
+### 8. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
+### 9. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
 
 **播客**: 忽左忽右
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777c9e2125c/media.xyzcdn.net/FgVnMmMsUTP5RFz1UwNgVUKDNVnm.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 93.春日特辑：不知道，我的心态很曼妙
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
