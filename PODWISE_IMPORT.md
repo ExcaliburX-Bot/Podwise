@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-22 18:37:02
+> 📅 生成时间: 2026-03-23 02:09:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2965期:New technologies help diagnose pancreatic cancer
+### 1. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANisosABHhWgR5jUye.m4a?channel=rss&album_id=14812466&track_id=962827925&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/82bb-audiofreehighqps/56/13/GKwRIMANisosABHhWgR5jUye.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,149 @@ https://jt.ximalaya.com//GKwRIMANisosABHhWgR5jUye.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANisosABHhWgR5jUye.m4a?channel=rss&album_id=14812466&track_id=962827925&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/82bb-audiofreehighqps/56/13/GKwRIMANisosABHhWgR5jUye.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 侧写歌单丨费亦宁：流隙
+### 2. 我们在城市的缝隙里独处
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3
+```
+
+</details>
+
+---
+
+### 3. 第2966期:The Singing Golden Gate Bridge
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812466&track_id=962829932&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dffa-audiofreehighqps/5D/AE/GKwRIJINisyXAA-x4QR5jtZM.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINisyXAA-x4QR5jtZM.m4a?channel=rss&album_id=14812466&track_id=962829932&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dffa-audiofreehighqps/5D/AE/GKwRIJINisyXAA-x4QR5jtZM.m4a
+```
+
+</details>
+
+---
+
+### 4. EP75 | OpenClaw 中推养虾第一人 - 宇成
+
+**播客名称**: 出海去孵化器
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a
+```
+
+</details>
+
+---
+
+### 5. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777c9eb08b5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv39v7GAm7qaqiE7-11UU-GD8aBu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777c9eb08b5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv39v7GAm7qaqiE7-11UU-GD8aBu.m4a
+```
+
+</details>
+
+---
+
+### 6. Inside a BOOK auction
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310
+```
+
+</details>
+
+---
+
+### 7. 侧写歌单丨费亦宁：流隙
 
 **播客名称**: 周末变奏 Key Change
 
@@ -73,34 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmx
 
 ---
 
-### 3. 把Token搞成顺差？中国 AI 的“拼多多”时代，我只愿中东无战事！｜串台进击的沈帅波
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69bd50522d318777c9ebfbba/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkkVyX1uXE1xcn-oiJo04MvE4Nrt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69bd50522d318777c9ebfbba/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkkVyX1uXE1xcn-oiJo04MvE4Nrt.m4a
-```
-
-</details>
-
----
-
-### 4. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
+### 8. E228 对话葱花：别让命运替你写下答案｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69bcf10c2d318777
 
 ---
 
-### 5. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
+### 9. 继业者1918｜伊本·沙特的崛起之路：从沙漠争霸到现代石油王国
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69bd0f8a2d318777
 
 ---
 
-### 6. 93.春日特辑：不知道，我的心态很曼妙
+### 10. 93.春日特辑：不知道，我的心态很曼妙
 
 **播客名称**: 展开讲讲
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69bbfef12d318777c9bffbad/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lsijX2Kx9lOYKGUzRbxKRRoOwK-9.m4a
-```
-
-</details>
-
----
-
-### 7. 134. G2格局下的全球投资
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep134.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep134.mp3
-```
-
-</details>
-
----
-
-### 8. 276 趋势与事实：浅析全球半导体产业的日本“生态位”
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69bc2cd02d318777c9c77947/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmpetxDw3xbrKcLZacGDtaaUvZy2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69bc2cd02d318777c9c77947/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmpetxDw3xbrKcLZacGDtaaUvZy2.m4a
-```
-
-</details>
-
----
-
-### 9. 我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a
-```
-
-</details>
-
----
-
-### 10. Cherry Studio 王新铭：2 个人，Github 42k 星，代码贡献第一名是 Claude
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENkbc2ArunGAR8UxZv.m4a?channel=rss&album_id=74194808&track_id=964119949&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec77-audiofreehighqps/1B/9A/GKwRIJENkbc2ArunGAR8UxZv.m4a
 ```
 
 </details>
