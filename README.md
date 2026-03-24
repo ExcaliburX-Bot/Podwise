@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-24 02:02  
+> 📅 **更新时间**: 2026-03-24 07:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. vol.243 不是终点是远行，不负相逢不负情
+### 3. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. vol.243 不是终点是远行，不负相逢不负情
 
 **播客**: 正经叭叭
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
+### 5. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 陪你在城市的缝隙里独处
+### 6. 陪你在城市的缝隙里独处
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 883: Call Your Parents
+### 7. 883: Call Your Parents
 
 **播客**: This American Life
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. EP75 | OpenClaw 中推养虾第一人 - 宇成
+### 8. EP75 | OpenClaw 中推养虾第一人 - 宇成
 
 **播客**: 出海去孵化器
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
+### 9. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. Inside a BOOK auction
+### 10. Inside a BOOK auction
 
 **播客**: Planet Money
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 侧写歌单丨费亦宁：流隙
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

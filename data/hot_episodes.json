@@ -20,6 +20,16 @@
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
+    "eid": "aoX9qSRL-b-.m4a",
+    "title": "当AI开始替你办事：硅谷没看懂，中国先做出来了！",
+    "podcast": {
+      "title": "人民公园说AI"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a",
+    "pubDate": "2026-03-23T23:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
     "eid": "gR7ylmUO-mk.m4a",
     "title": "vol.243 不是终点是远行，不负相逢不负情",
     "podcast": {
@@ -130,16 +140,6 @@
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
-    "eid": "0xqRKdgOxVc.m4a",
-    "title": "249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5ae1bf037/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ltSgr0OMnrJ84fAfA0xqRKdgOxVc.m4a",
-    "pubDate": "2026-03-20T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
-  },
-  {
     "eid": "pital/ep134.mp3",
     "title": "134. G2格局下的全球投资",
     "podcast": {
@@ -150,14 +150,24 @@
     "source_rss": "https://crazy.capital/feed"
   },
   {
-    "eid": "cGDtaaUvZy2.m4a",
-    "title": "276 趋势与事实：浅析全球半导体产业的日本“生态位”",
+    "eid": "0xqRKdgOxVc.m4a",
+    "title": "249.爱上徒步了！为什么我们需要顺流而上？心流真实存在还是伪命题？",
     "podcast": {
-      "title": "东亚观察局"
+      "title": "沈奕斐的播客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69bc2cd02d318777c9c77947/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmpetxDw3xbrKcLZacGDtaaUvZy2.m4a",
-    "pubDate": "2026-03-19T22:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69bbacbe3c625cc5ae1bf037/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ltSgr0OMnrJ84fAfA0xqRKdgOxVc.m4a",
+    "pubDate": "2026-03-20T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
+  },
+  {
+    "eid": "o3zhRaP3eBv.m4a",
+    "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
+    "podcast": {
+      "title": "42章经"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a",
+    "pubDate": "2026-03-19T14:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
     "eid": "runGAR8UxZv.m4a",
@@ -170,26 +180,6 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "nrimYwWHDq2.m4a",
-    "title": "218. 从SEO到GEO，一场被315点名的流量争夺战，AI正在重写营销规则？",
-    "podcast": {
-      "title": "贝望录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69bb72e42d318777c9a58c7d/media.xyzcdn.net/5e285856418a84a04627b7be/lrIaW-mEnkRYTkIjBnrimYwWHDq2.m4a",
-    "pubDate": "2026-03-19T04:21:02+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
-  },
-  {
-    "eid": "EBA-iIKqru3.m4a",
-    "title": "OpenClaw能搞钱还能救命！上门部署10天变现2W，穿越战火抢票逃离迪拜",
-    "podcast": {
-      "title": "搞钱女孩"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69baccdf690ca3160f3c3c11/media.xyzcdn.net/63d945ece725b5378a158d29/ljK_xyboC28Ng8aeYEBA-iIKqru3.m4a",
-    "pubDate": "2026-03-18T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
-  },
-  {
     "eid": "68x1UlX6o55.m4a",
     "title": "No.193 🚘️ 造车未竟：倒在中国自主汽车黎明前的先行者",
     "podcast": {
@@ -198,6 +188,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ba4ad9f8b8079bfaf47c56/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lk86gwVtVySHlMZZU68x1UlX6o55.m4a",
     "pubDate": "2026-03-18T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+  },
+  {
+    "eid": "965078598a4.mp3",
+    "title": "her edition预告 | 对话郭柯宇：更年期是新的一章要开启，新的事情要发生",
+    "podcast": {
+      "title": "随机波动StochasticVolatility"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a45a561e-128d-48ee-9075-f965078598a4.mp3",
+    "pubDate": "2026-03-16T19:45:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
     "eid": "-NDrFNp-2wn.m4a",
@@ -220,6 +220,26 @@
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
+    "eid": "ch0zhxqYkqb.m4a",
+    "title": "101.雄竞？竞去吧！我不管了！",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69b3f264b810e066f9c310fa/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lgmBMm-O3-AW60cjgch0zhxqYkqb.m4a",
+    "pubDate": "2026-03-14T06:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+  },
+  {
+    "eid": "oj-lk89gGjA.m4a",
+    "title": "No.219 关于 OpenClaw，到底是谁养了虾，虾又会养谁？",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69b2b60384bce022f921cd3e/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg7HSUXMYWuUQKm3eoj-lk89gGjA.m4a",
+    "pubDate": "2026-03-12T13:10:23+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
     "eid": "qSpHNRn60kh.m4a",
     "title": "262.AI的进度条停不下来，你的焦虑也停不下来",
     "podcast": {
@@ -228,6 +248,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69b121eb9b893f69c72bffcb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lsQnCtk9h3czJCWAaqSpHNRn60kh.m4a",
     "pubDate": "2026-03-11T08:34:03+00:00",
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "261GjEbOUoj.m4a",
+    "title": "EP123 当我们被 “小龙虾” （OpenClaw）接管日常 🦞",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69b04f0c2a2882aae761ee45/media.xyzcdn.net/640ee2438be5d40013fe4a87/lsXo-bIQU--SJ13VA261GjEbOUoj.m4a",
+    "pubDate": "2026-03-10T17:09:10+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "jIfcoxyfz6N.m4a",
@@ -268,35 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a",
     "pubDate": "2026-03-05T10:53:24+00:00",
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
-  },
-  {
-    "eid": "XbVLjmWyuHy.m4a",
-    "title": "哥大休学创业，打造首个通用学习智能体",
-    "podcast": {
-      "title": "此话当真"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/69a4d388de29766da90b7c45/media.xyzcdn.net/646f194853a5e5ea1408d97c/lpYVrvSxv7P3C_1RLXbVLjmWyuHy.m4a",
-    "pubDate": "2026-03-02T00:07:50+00:00",
-    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
-    "eid": "i15AARpYX8B.m4a",
-    "title": "一位自由译者转型之路和她经历的AI未来",
-    "podcast": {
-      "title": "二维吾码"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a",
-    "pubDate": "2026-02-11T06:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
-  },
-  {
-    "eid": "2mrT4mBlx_s.m4a",
-    "title": "No.70：还能怎么办，只能用真心",
-    "podcast": {
-      "title": "得意忘形"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69735c6fef1cf272a71281c9/media.xyzcdn.net/5e74543a418a84a046c4e50e/lliBPMwlo19-Soyz32mrT4mBlx_s.m4a",
-    "pubDate": "2026-01-23T13:01:16+00:00",
-    "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
   }
 ]

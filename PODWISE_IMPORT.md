@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-24 02:02:11
+> 📅 生成时间: 2026-03-24 07:03:30
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.243 不是终点是远行，不负相逢不负情
+### 3. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a
+```
+
+</details>
+
+---
+
+### 4. vol.243 不是终点是远行，不负相逢不负情
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a
 
 ---
 
-### 4. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
+### 5. 155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -127,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af
 
 ---
 
-### 5. 陪你在城市的缝隙里独处
+### 6. 陪你在城市的缝隙里独处
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +181,7 @@ https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqD
 
 ---
 
-### 6. 883: Call Your Parents
+### 7. 883: Call Your Parents
 
 **播客名称**: This American Life
 
@@ -181,7 +208,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 7. EP75 | OpenClaw 中推养虾第一人 - 宇成
+### 8. EP75 | OpenClaw 中推养虾第一人 - 宇成
 
 **播客名称**: 出海去孵化器
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5
 
 ---
 
-### 8. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
+### 9. Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777
 
 ---
 
-### 9. Inside a BOOK auction
+### 10. Inside a BOOK auction
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3b221654-17c6-422f-aee1-2a6d8c472182/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3b221654-17c6-422f-aee1-2a6d8c472182&feed=hvWWWzRv&t=podcast&e=nx-s1-5751177&p=510289&d=2591&size=41463310
-```
-
-</details>
-
----
-
-### 10. 侧写歌单丨费亦宁：流隙
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NjYzMCwidCI6MX0.uHH9Y_xIIbLk6WMO8CvADmxJOnk/keychangefm/8225991066_523356.mp3
 ```
 
 </details>
