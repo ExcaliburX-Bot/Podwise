@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-25 13:09:25
+> 📅 生成时间: 2026-03-25 18:55:13
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
+### 1. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvCMijCw3NpMHyoWqgvZwP_0WeZU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvCMijCw3NpMHyoWqgvZwP_0WeZU.m4a
+```
+
+</details>
+
+---
+
+### 2. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
-```
-
-</details>
-
----
-
-### 2. 创业内幕第八年：无限可能的创业故事，无限延展的技术边界
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNmTuyAAd1NAR_UoTE.m4a?channel=rss&album_id=20119986&track_id=965448475&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/dfa5-audiofreehighqps/D8/70/GKwRIRwNmTuyAAd1NAR_UoTE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNmTuyAAd1NAR_UoTE.m4a?channel=rss&album_id=20119986&track_id=965448475&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/dfa5-audiofreehighqps/D8/70/GKwRIRwNmTuyAAd1NAR_UoTE.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c13f03521e5c0a
 
 ---
 
-### 4. Vol.90 AI加速爆发的2026，我们该如何自处？---对谈潘乱+Koji
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
-```
-
-</details>
-
----
-
-### 5. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
+### 4. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
 
 **播客名称**: 艺术叨叨
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e91a4e4418a84a046206337/69c2909d14d40a13
 
 ---
 
-### 6. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
+### 5. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
 
 **播客名称**: 忽左忽右
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c25065fdc405fb
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c25065fdc405fbf609287d/media.xyzcdn.net/5e4ee557418a84a0466737b7/llrgrBhh8UvR7_z4Z4SKUr2Qwqsh.m4a
+```
+
+</details>
+
+---
+
+### 6. Vol.327 贪婪的多巴胺：怎么分辨“我喜欢”和“我想要”？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777
 
 ---
 
-### 8. Vol.327 贪婪的多巴胺：怎么分辨“我喜欢”和“我想要”？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
-```
-
-</details>
-
----
-
-### 9. vol.243 不是终点是远行，不负相逢不负情
+### 8. vol.243 不是终点是远行，不负相逢不负情
 
 **播客名称**: 正经叭叭
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a
 
 ---
 
-### 10. 陪你在城市的缝隙里独处
+### 9. 陪你在城市的缝隙里独处
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +256,33 @@ https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqD
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3
+```
+
+</details>
+
+---
+
+### 10. EP75 | OpenClaw 中推养虾第一人 - 宇成
+
+**播客名称**: 出海去孵化器
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a
 ```
 
 </details>
