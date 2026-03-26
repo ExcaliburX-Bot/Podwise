@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-26 13:14:42
+> 📅 生成时间: 2026-03-26 19:05:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Our BOOK vs. the global supply chain
+### 1. Bisheng 覃睿：企业版 OpenClaw 就该我们做
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194808&track_id=965740240&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6553-audiofreehighqps/82/6D/GKwRIMANms_qAn7lbAR__pS4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194808&track_id=965740240&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6553-audiofreehighqps/82/6D/GKwRIMANms_qAn7lbAR__pS4.m4a
+```
+
+</details>
+
+---
+
+### 2. Our BOOK vs. the global supply chain
 
 **播客名称**: Planet Money
 
@@ -40,33 +67,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905
-```
-
-</details>
-
----
-
-### 2. 第2969期:Is there life on Venus?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMANk9I3ABJ_8gR9EYxv.m4a?channel=rss&album_id=14812466&track_id=964474338&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b0c6-audiofreehighqps/27/6D/GKwRIMANk9I3ABJ_8gR9EYxv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMANk9I3ABJ_8gR9EYxv.m4a?channel=rss&album_id=14812466&track_id=964474338&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b0c6-audiofreehighqps/27/6D/GKwRIMANk9I3ABJ_8gR9EYxv.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c13f03521e5c0a
 
 ---
 
-### 8. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
+### 8. Vol.90 AI加速爆发的2026，我们该如何自处？---对谈潘乱+Koji
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
+```
+
+</details>
+
+---
+
+### 9. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
 
 **播客名称**: 艺术叨叨
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e91a4e4418a84a046206337/69c2909d14d40a13
 
 ---
 
-### 9. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
+### 10. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c25065fdc405fb
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c25065fdc405fbf609287d/media.xyzcdn.net/5e4ee557418a84a0466737b7/llrgrBhh8UvR7_z4Z4SKUr2Qwqsh.m4a
-```
-
-</details>
-
----
-
-### 10. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a
 ```
 
 </details>
