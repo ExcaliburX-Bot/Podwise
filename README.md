@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-25 18:55  
+> 📅 **更新时间**: 2026-03-26 02:13  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+### 1. Our BOOK vs. the global supply chain
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0821dfe8-101d-480b-ae08-02ac91e097b9/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0821dfe8-101d-480b-ae08-02ac91e097b9&feed=hvWWWzRv&t=podcast&e=nx-s1-5751213&p=510289&d=2790&size=44646905)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2969期:Is there life on Venus?
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANk9I3ABJ_8gR9EYxv.m4a?channel=rss&album_id=14812466&track_id=964474338&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b0c6-audiofreehighqps/27/6D/GKwRIMANk9I3ABJ_8gR9EYxv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
 
 **播客**: 十字路口Crossing
 
@@ -21,20 +60,20 @@
 
 ---
 
-### 2. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
+### 5. 创业内幕第八年：无限可能的创业故事，无限延展的技术边界
 
-**播客**: 半拿铁 | 商业沉浮录
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNmTuyAAd1NAR_UoTE.m4a?channel=rss&album_id=20119986&track_id=965448475&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/dfa5-audiofreehighqps/D8/70/GKwRIRwNmTuyAAd1NAR_UoTE.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 东观西望丨10. 从圣詹姆斯到日本桥, 英日百年品牌的两种生长方式
+### 6. 东观西望丨10. 从圣詹姆斯到日本桥, 英日百年品牌的两种生长方式
 
 **播客**: 贝望录
 
@@ -47,7 +86,20 @@
 
 ---
 
-### 4. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
+### 7. Vol.90 AI加速爆发的2026，我们该如何自处？---对谈潘乱+Koji
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
 
 **播客**: 艺术叨叨
 
@@ -60,7 +112,7 @@
 
 ---
 
-### 5. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
+### 9. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
 
 **播客**: 忽左忽右
 
@@ -73,20 +125,7 @@
 
 ---
 
-### 6. Vol.327 贪婪的多巴胺：怎么分辨“我喜欢”和“我想要”？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
+### 10. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
 
 **播客**: 人民公园说AI
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.243 不是终点是远行，不负相逢不负情
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a80a6fb76/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSE3bzpKXGSxEgSGgR7ylmUO-mk.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 陪你在城市的缝隙里独处
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. EP75 | OpenClaw 中推养虾第一人 - 宇成
-
-**播客**: 出海去孵化器
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
