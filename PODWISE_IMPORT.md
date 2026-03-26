@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-26 02:13:39
+> 📅 生成时间: 2026-03-26 07:07:09
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIMANk9I3ABJ_8gR9EYxv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a
-```
-
-</details>
-
----
-
-### 4. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+### 3. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
 
 **播客名称**: 十字路口Crossing
 
@@ -108,7 +81,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a9912
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvCMijCw3NpMHyoWqgvZwP_0WeZU.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpLswO8r829aKxwgyUrFkOjElKU6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +93,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fb
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvCMijCw3NpMHyoWqgvZwP_0WeZU.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpLswO8r829aKxwgyUrFkOjElKU6.m4a
+```
+
+</details>
+
+---
+
+### 4. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c13f03521e5c0a
 
 ---
 
-### 7. Vol.90 AI加速爆发的2026，我们该如何自处？---对谈潘乱+Koji
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c138b25058f5000cdcf5af/media.xyzcdn.net/6507bc165c88d2412626b401/ltuAwbGbA7jwc-GKs4Fhuxu2ED4O.m4a
-```
-
-</details>
-
----
-
-### 8. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
+### 7. 别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系
 
 **播客名称**: 艺术叨叨
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e91a4e4418a84a046206337/69c2909d14d40a13
 
 ---
 
-### 9. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
+### 8. 461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c25065fdc405fb
 
 ---
 
-### 10. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
+### 9. 当AI开始替你办事：硅谷没看懂，中国先做出来了！
 
 **播客名称**: 人民公园说AI
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c103a42d318777c94d1fc6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrWnPhlpbLRrrJfhXaoX9qSRL-b-.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.327 贪婪的多巴胺：怎么分辨“我喜欢”和“我想要”？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINlS3oAreF0wR9pwmJ.m4a?channel=rss&album_id=29887212&track_id=964690780&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5128-audiofreehighqps/BF/E9/GKwRIaINlS3oAreF0wR9pwmJ.m4a
 ```
 
 </details>
