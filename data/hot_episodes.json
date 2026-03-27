@@ -10,16 +10,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "pital/ep135.mp3",
-    "title": "135. 🥤奶茶争霸2026",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep135.mp3",
-    "pubDate": "2026-03-27T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
-  },
-  {
     "eid": "u48H9dPfDxy.m4a",
     "title": "23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验",
     "podcast": {
@@ -40,6 +30,16 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
+    "eid": "pital/ep135.mp3",
+    "title": "135. 🥤奶茶争霸2026",
+    "podcast": {
+      "title": "疯投圈"
+    },
+    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep135.mp3",
+    "pubDate": "2026-03-27T00:00:00+00:00",
+    "source_rss": "https://crazy.capital/feed"
+  },
+  {
     "eid": "Om_fe6aqniN.m4a",
     "title": "277 惊！日本自卫官持凶闯我使馆 “防卫族”极右化未来暴走难免？",
     "podcast": {
@@ -48,16 +48,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69c55bb6b945e412aa35a55a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg5xcSF5yYdHWxXsqOm_fe6aqniN.m4a",
     "pubDate": "2026-03-26T22:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
-    "eid": "NTvdwR__qAf.m4a",
-    "title": "S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119986&track_id=965740630&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d82-audiofreehighqps/FE/E2/GKwRIDoNmtAFANTvdwR__qAf.m4a",
-    "pubDate": "2026-03-26T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
     "eid": "n7lbAR__pS4.m4a",
@@ -120,6 +110,16 @@
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
+    "eid": "2ThkpQbdeNe.m4a",
+    "title": "别人退休她出道：92岁的Rose Wylie，活出了人与时间的另一种关系",
+    "podcast": {
+      "title": "艺术叨叨"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e91a4e4418a84a046206337/69c2909d14d40a135824018b/media.xyzcdn.net/5e91a4e4418a84a046206337/loTa742Hk4QtpXnpr2ThkpQbdeNe.m4a",
+    "pubDate": "2026-03-24T13:41:25+00:00",
+    "source_rss": "https://feed.xyzfm.space/uh4c8lad9j3l"
+  },
+  {
     "eid": "4SKUr2Qwqsh.m4a",
     "title": "461 「货币非国家化」的中国注脚：刘愿谈民国法币改革与陕甘宁边币往事",
     "podcast": {
@@ -140,14 +140,24 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "zqDaVuDP-71.mp3",
-    "title": "陪你在城市的缝隙里独处",
+    "eid": "gR7ylmUO-mk.m4a",
+    "title": "vol.243 不是终点是远行，不负相逢不负情",
     "podcast": {
-      "title": "Vibration 歪波音室"
+      "title": "正经叭叭"
     },
-    "enclosureUrl": "https://tk.wavpub.com/WPDL_eFdUZZfphjngtnaJcHEJvzAdPfFJnaMTZQRKEHZgVWCsJLumaszqDaVuDP-71.mp3",
-    "pubDate": "2026-03-23T06:00:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69c14f4d521e5c0a80a6fb76/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSE3bzpKXGSxEgSGgR7ylmUO-mk.m4a",
+    "pubDate": "2026-03-23T16:00:37+00:00",
+    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
+  },
+  {
+    "eid": "d258781b087.mp3",
+    "title": "155: 贾鹏创立至简后的首次访谈：从英伟达到理想，具身智能的六边形战士",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/98af1760-a80b-409a-bc8f-0d258781b087.mp3",
+    "pubDate": "2026-03-23T07:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "464710f&nocache",
@@ -158,6 +168,26 @@
     "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/19f3609b-60d2-4997-a0ae-66254464710f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=19f3609b-60d2-4997-a0ae-66254464710f&nocache",
     "pubDate": "2026-03-22T18:00:00-04:00",
     "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
+    "eid": "qb-j7gWfSCP.m4a",
+    "title": "EP75 | OpenClaw 中推养虾第一人 - 宇成",
+    "podcast": {
+      "title": "出海去孵化器"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a",
+    "pubDate": "2026-03-22T08:54:29+00:00",
+    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
+  },
+  {
+    "eid": "11UU-GD8aBu.m4a",
+    "title": "Ep191 沾上攀岩，我把健身房戒了 ft.七堇年/Yoyo/心洛",
+    "podcast": {
+      "title": "基本无害 Mostly Harmless"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69bd49482d318777c9eb08b5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv39v7GAm7qaqiE7-11UU-GD8aBu.m4a",
+    "pubDate": "2026-03-21T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
     "eid": "JfDidFl_ODM.m4a",
@@ -198,6 +228,26 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a45a561e-128d-48ee-9075-f965078598a4.mp3",
     "pubDate": "2026-03-16T19:45:00+08:00",
     "source_rss": "https://feeds.fireside.fm/stovol/rss"
+  },
+  {
+    "eid": "-NDrFNp-2wn.m4a",
+    "title": "133. 对谢赛宁的7小时马拉松访谈：世界模型、逃出硅谷、AMI Labs、两次拒绝Ilya、杨立昆、李飞飞和42",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69b77577f8b8079bfa8eb837/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lqXBPXddXfukbdlAP-NDrFNp-2wn.m4a",
+    "pubDate": "2026-03-16T04:01:08+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
+    "eid": "8WCOYT2wrCr.m4a",
+    "title": "理想“肉埋饭里”vs蔚来“前备箱”：车主对谈，没吵起来？-Vol93",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69b62d24caaea1fb3b4ed5ff/media.xyzcdn.net/636669d51064cb55f31505fc/lhxOZESQbsTZQG5Ub8WCOYT2wrCr.m4a",
+    "pubDate": "2026-03-15T14:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
     "eid": "ch0zhxqYkqb.m4a",
@@ -248,55 +298,5 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIRwNgBgIAwF70AR1I9ES.m4a?channel=rss&album_id=6990384&track_id=960942654&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0272-audiofreehighqps/FA/FC/GKwRIRwNgBgIAwF70AR1I9ES.m4a",
     "pubDate": "2026-03-06T04:13:27+00:00",
     "source_rss": "https://www.ximalaya.com/album/6990384.xml"
-  },
-  {
-    "eid": "lxewcgiB3uD.m4a",
-    "title": "125. 反觉醒文化下的女性剧单：世界破破烂烂，女性缝缝补补｜妇女节",
-    "podcast": {
-      "title": "英美剧漫游指南KillingTV"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a",
-    "pubDate": "2026-03-05T10:53:24+00:00",
-    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
-  },
-  {
-    "eid": "d2af9a745a1.mp3",
-    "title": "62 从红楼到还珠再到你我，奔涌向前的女性",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3",
-    "pubDate": "2026-03-03T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
-  },
-  {
-    "eid": "XbVLjmWyuHy.m4a",
-    "title": "哥大休学创业，打造首个通用学习智能体",
-    "podcast": {
-      "title": "此话当真"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/69a4d388de29766da90b7c45/media.xyzcdn.net/646f194853a5e5ea1408d97c/lpYVrvSxv7P3C_1RLXbVLjmWyuHy.m4a",
-    "pubDate": "2026-03-02T00:07:50+00:00",
-    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
-    "eid": "50947/media.mp3",
-    "title": "衣裙与战场之间：读《肉不如竹》",
-    "podcast": {
-      "title": "艺术有读"
-    },
-    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3",
-    "pubDate": "2026-02-28T03:51:24+00:00",
-    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
-  },
-  {
-    "eid": "i15AARpYX8B.m4a",
-    "title": "一位自由译者转型之路和她经历的AI未来",
-    "podcast": {
-      "title": "二维吾码"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a",
-    "pubDate": "2026-02-11T06:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
   }
 ]

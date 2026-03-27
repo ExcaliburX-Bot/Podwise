@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-27 02:22  
+> 📅 **更新时间**: 2026-03-27 07:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 135. 🥤奶茶争霸2026
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep135.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
+### 2. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
 
 **播客**: 贝望录
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 第2970期:Polar bears getting "fatter and healthier" amid ice loss
+### 3. 第2970期:Polar bears getting "fatter and healthier" amid ice loss
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Nk9PRAARLAAR9Ejas.m4a?channel=rss&album_id=14812466&track_id=964475549&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/df27-audiofreehighqps/2E/B7/GKwRIW4Nk9PRAARLAAR9Ejas.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 135. 🥤奶茶争霸2026
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep135.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119986&track_id=965740630&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d82-audiofreehighqps/FE/E2/GKwRIDoNmtAFANTvdwR__qAf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Bisheng 覃睿：企业版 OpenClaw 就该我们做
+### 6. Bisheng 覃睿：企业版 OpenClaw 就该我们做
 
 **播客**: AI炼金术
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. Our BOOK vs. the global supply chain
+### 7. Our BOOK vs. the global supply chain
 
 **播客**: Planet Money
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
+### 8. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
 
 **播客**: 搞钱女孩
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+### 9. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
 
 **播客**: 十字路口Crossing
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpLswO8r829aKxwgyUrFkOjElKU6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
