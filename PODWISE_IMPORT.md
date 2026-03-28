@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-28 06:58:40
+> 📅 生成时间: 2026-03-28 12:54:14
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be31
 
 ---
 
-### 3. E229 盖伊·斯皮尔：一位价值投资者的谢幕
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
-```
-
-</details>
-
----
-
-### 4. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
+### 3. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
 
 **播客名称**: 忽左忽右
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c
 
 ---
 
-### 5. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
+### 4. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
 
 **播客名称**: 沈奕斐的播客
 
@@ -154,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd
 
 ---
 
-### 6. 135. 🥤奶茶争霸2026
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep135.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep135.mp3
-```
-
-</details>
-
----
-
-### 7. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
+### 5. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
 
 **播客名称**: 贝望录
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8
 
 ---
 
-### 8. S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？
+### 6. S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +181,7 @@ https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. Bisheng 覃睿：企业版 OpenClaw 就该我们做
+### 7. Bisheng 覃睿：企业版 OpenClaw 就该我们做
 
 **播客名称**: AI炼金术
 
@@ -262,7 +208,7 @@ https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194
 
 ---
 
-### 10. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
+### 8. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
 
 **播客名称**: 搞钱女孩
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a9912
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a
+```
+
+</details>
+
+---
+
+### 9. OpenClaw 之后，谁将定义主动式 AI 的新战场？｜对谈 AirJelly 黄柏特
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpLswO8r829aKxwgyUrFkOjElKU6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c1ed91fdc405fbf6f58092/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpLswO8r829aKxwgyUrFkOjElKU6.m4a
+```
+
+</details>
+
+---
+
+### 10. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
 ```
 
 </details>
