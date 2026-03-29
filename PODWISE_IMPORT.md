@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-29 12:55:02
+> 📅 生成时间: 2026-03-29 18:41:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2972期:Prevent phones from distracting students.
+### 1. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c24455521e5c0a80c3ff92/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltn5K9jd9E04I5MFDkDo_yCoslSm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c24455521e5c0a80c3ff92/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltn5K9jd9E04I5MFDkDo_yCoslSm.m4a
+```
+
+</details>
+
+---
+
+### 2. 第2972期:Prevent phones from distracting students.
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJINk9kjAA3OwwR9FNUH.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. The skyscrapers that NIMBYs and zoning couldn't stop
+### 3. The skyscrapers that NIMBYs and zoning couldn't stop
 
 **播客名称**: Planet Money
 
@@ -73,15 +100,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
+### 4. E229 盖伊·斯皮尔：一位价值投资者的谢幕
 
-**播客名称**: 屠龙之术
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be3155a8420a/media.xyzcdn.net/6507bc165c88d2412626b401/lgIgMZdXdDo2aYuQ23woBbDNAoJZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,22 +120,22 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be3155a8420a/media.xyzcdn.net/6507bc165c88d2412626b401/lgIgMZdXdDo2aYuQ23woBbDNAoJZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
 ```
 
 </details>
 
 ---
 
-### 4. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
+### 5. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd334865a4/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmMrSSI12UMrWkGELhuaz24dDJCF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd334865a4/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmMrSSI12UMrWkGELhuaz24dDJCF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
+### 6. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
 
 **播客名称**: 贝望录
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
-```
-
-</details>
-
----
-
-### 6. 135. 🥤奶茶争霸2026
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep135.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep135.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194
 
 ---
 
-### 10. 璐璐：小红书+AI=15分钟一篇爆款，98年女生如何玩赚时代红利
+### 10. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
 
-**播客名称**: 搞钱女孩
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a9912
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c41aa6565a991256dfc3df/media.xyzcdn.net/63d945ece725b5378a158d29/lg0Q1ZP4WUcUKOOPmsCDdqwpvt58.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a
 ```
 
 </details>
