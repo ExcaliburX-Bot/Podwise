@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-28 18:40:18
+> 📅 生成时间: 2026-03-29 02:25:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. The skyscrapers that NIMBYs and zoning couldn't stop
+### 1. 第2972期:Prevent phones from distracting students.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINk9kjAA3OwwR9FNUH.m4a?channel=rss&album_id=14812466&track_id=964479332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4be2-audiofreehighqps/9E/7F/GKwRIJINk9kjAA3OwwR9FNUH.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINk9kjAA3OwwR9FNUH.m4a?channel=rss&album_id=14812466&track_id=964479332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4be2-audiofreehighqps/9E/7F/GKwRIJINk9kjAA3OwwR9FNUH.m4a
+```
+
+</details>
+
+---
+
+### 2. The skyscrapers that NIMBYs and zoning couldn't stop
 
 **播客名称**: Planet Money
 
@@ -40,33 +67,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffb341c1-3391-4f74-b156-7e7aadf728f8/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffb341c1-3391-4f74-b156-7e7aadf728f8&feed=hvWWWzRv&t=podcast&e=nx-s1-5764334&p=510289&d=1344&size=21505341
-```
-
-</details>
-
----
-
-### 2. 第2971期:Budapesters are swimming in the Danube
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINk9Y8AAsFGQR9E2ku.m4a?channel=rss&album_id=14812466&track_id=964477299&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/9A/66/GKwRIaINk9Y8AAsFGQR9E2ku.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINk9Y8AAsFGQR9E2ku.m4a?channel=rss&album_id=14812466&track_id=964477299&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/9A/66/GKwRIaINk9Y8AAsFGQR9E2ku.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd
 
 ---
 
-### 7. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
-```
-
-</details>
-
----
-
-### 8. 135. 🥤奶茶争霸2026
+### 7. 135. 🥤奶茶争霸2026
 
 **播客名称**: 疯投圈
 
@@ -229,6 +202,33 @@ https://rio.xyzcdn.net/crazycapital/ep135.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep135.mp3
+```
+
+</details>
+
+---
+
+### 8. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69c55bb6b945e412
 
 ---
 
-### 10. S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？
+### 10. Bisheng 覃睿：企业版 OpenClaw 就该我们做
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119986&track_id=965740630&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d82-audiofreehighqps/FE/E2/GKwRIDoNmtAFANTvdwR__qAf.m4a
+https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194808&track_id=965740240&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6553-audiofreehighqps/82/6D/GKwRIMANms_qAn7lbAR__pS4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119986&track_id=965740630&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d82-audiofreehighqps/FE/E2/GKwRIDoNmtAFANTvdwR__qAf.m4a
+https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194808&track_id=965740240&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6553-audiofreehighqps/82/6D/GKwRIMANms_qAn7lbAR__pS4.m4a
 ```
 
 </details>
