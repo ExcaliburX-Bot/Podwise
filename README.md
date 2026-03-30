@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-30 02:27  
+> 📅 **更新时间**: 2026-03-30 07:26  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2973期:Phones specifically designed for children
+### 1. 344 我就是很想打 Gemini（the AI) 一顿！
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: Blow Your Mind (BYM S02)
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Nk9uPAA2UBwR9FhWi.m4a?channel=rss&album_id=14812466&track_id=964481661&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84b1-audiofreehighqps/01/46/GKwRIW4Nk9uPAA2UBwR9FhWi.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=6990384&track_id=966553456&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0286-audiofreehighqps/89/02/GKwRIaINn9b0Aed4NwSB9BhS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 134. 和谢晨聊“数据的综述”：AI和机器人数据的历史、版图、金字塔与Recipe
+### 2. 102.女人为什么会变刚，也许不是天生的
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 134. 和谢晨聊“数据的综述”：新时代石油、历史、版图、金字塔、定价与Recipe
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
+### 4. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
 
 **播客**: 搞钱女孩
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 884: The Idiot
+### 5. 884: The Idiot
 
 **播客**: This American Life
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
+### 6. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. The skyscrapers that NIMBYs and zoning couldn't stop
+### 7. The skyscrapers that NIMBYs and zoning couldn't stop
 
 **播客**: Planet Money
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
+### 8. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
 
 **播客**: 屠龙之术
 
@@ -99,20 +112,20 @@
 
 ---
 
-### 8. E229 盖伊·斯皮尔：一位价值投资者的谢幕
+### 9. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
 
-**播客**: 知行小酒馆
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
+### 10. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
 
 **播客**: 沈奕斐的播客
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd334865a4/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmMrSSI12UMrWkGELhuaz24dDJCF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

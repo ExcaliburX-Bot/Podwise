@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-30 02:27:54
+> 📅 生成时间: 2026-03-30 07:26:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2973期:Phones specifically designed for children
+### 1. 344 我就是很想打 Gemini（the AI) 一顿！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Blow Your Mind (BYM S02)
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4Nk9uPAA2UBwR9FhWi.m4a?channel=rss&album_id=14812466&track_id=964481661&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84b1-audiofreehighqps/01/46/GKwRIW4Nk9uPAA2UBwR9FhWi.m4a
+https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=6990384&track_id=966553456&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0286-audiofreehighqps/89/02/GKwRIaINn9b0Aed4NwSB9BhS.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIW4Nk9uPAA2UBwR9FhWi.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4Nk9uPAA2UBwR9FhWi.m4a?channel=rss&album_id=14812466&track_id=964481661&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84b1-audiofreehighqps/01/46/GKwRIW4Nk9uPAA2UBwR9FhWi.m4a
+https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=6990384&track_id=966553456&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0286-audiofreehighqps/89/02/GKwRIaINn9b0Aed4NwSB9BhS.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 134. 和谢晨聊“数据的综述”：AI和机器人数据的历史、版图、金字塔与Recipe
+### 2. 102.女人为什么会变刚，也许不是天生的
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a
+```
+
+</details>
+
+---
+
+### 3. 134. 和谢晨聊“数据的综述”：新时代石油、历史、版图、金字塔、定价与Recipe
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69c953b4b977fb2c
 
 ---
 
-### 3. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
+### 4. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c95828b977fb2c
 
 ---
 
-### 4. 884: The Idiot
+### 5. 884: The Idiot
 
 **播客名称**: This American Life
 
@@ -127,7 +154,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
+### 6. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69c24455521e5c0a
 
 ---
 
-### 6. The skyscrapers that NIMBYs and zoning couldn't stop
+### 7. The skyscrapers that NIMBYs and zoning couldn't stop
 
 **播客名称**: Planet Money
 
@@ -181,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
+### 8. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
 
 **播客名称**: 屠龙之术
 
@@ -208,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be31
 
 ---
 
-### 8. E229 盖伊·斯皮尔：一位价值投资者的谢幕
+### 9. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
 
-**播客名称**: 知行小酒馆
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69c632b0536b2bb3da99f82e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lrQRakfWOriGctPxgLhSCdmj8827.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
+### 10. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
 
 **播客名称**: 沈奕斐的播客
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd334865a4/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmMrSSI12UMrWkGELhuaz24dDJCF.m4a
-```
-
-</details>
-
----
-
-### 10. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a
 ```
 
 </details>
