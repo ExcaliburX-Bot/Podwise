@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-29 18:41  
+> 📅 **更新时间**: 2026-03-30 02:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
+### 1. 第2973期:Phones specifically designed for children
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Nk9uPAA2UBwR9FhWi.m4a?channel=rss&album_id=14812466&track_id=964481661&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84b1-audiofreehighqps/01/46/GKwRIW4Nk9uPAA2UBwR9FhWi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 134. 和谢晨聊“数据的综述”：AI和机器人数据的历史、版图、金字塔与Recipe
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69c953b4b977fb2c478df5c3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lkInPy65_ZR4cQmK23rmHJ_hhLVQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c95828b977fb2c478e32d9/media.xyzcdn.net/63d945ece725b5378a158d29/lk_ggVDPiVTPtDZ1ijkaSq6nIG8r.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 884: The Idiot
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4f1f01be-2003-42f0-8acd-02e96154a24c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4f1f01be-2003-42f0-8acd-02e96154a24c&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 「1 亿 TOKEN 俱乐部」挤爆了，AI 的燃料不够了｜对谈于文渊：阿里云百炼技术负责人
 
 **播客**: 十字路口Crossing
 
@@ -21,20 +73,7 @@
 
 ---
 
-### 2. 第2972期:Prevent phones from distracting students.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINk9kjAA3OwwR9FNUH.m4a?channel=rss&album_id=14812466&track_id=964479332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4be2-audiofreehighqps/9E/7F/GKwRIJINk9kjAA3OwwR9FNUH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. The skyscrapers that NIMBYs and zoning couldn't stop
+### 6. The skyscrapers that NIMBYs and zoning couldn't stop
 
 **播客**: Planet Money
 
@@ -47,7 +86,20 @@
 
 ---
 
-### 4. E229 盖伊·斯皮尔：一位价值投资者的谢幕
+### 7. Vol.91 数据角度看OpenClaw的企业落地---对谈Oceanbase
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69c67ffde2c8be3155a8420a/media.xyzcdn.net/6507bc165c88d2412626b401/lgIgMZdXdDo2aYuQ23woBbDNAoJZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. E229 盖伊·斯皮尔：一位价值投资者的谢幕
 
 **播客**: 知行小酒馆
 
@@ -60,20 +112,20 @@
 
 ---
 
-### 5. 462 漫谈《猎魔人》世界观：从《巫师3》十周年音乐会聊中欧奇幻史诗的诞生
+### 9. 250.职场有什么权益一定要维护？入职签offer需要注意什么？｜职场系列09
 
-**播客**: 忽左忽右
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69c63d96b977fb2c475bcf55/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltBBZ0gh4915sybD0Q3YU1pfFtxs.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69c5e41b7b0a0bfd334865a4/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmMrSSI12UMrWkGELhuaz24dDJCF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
+### 10. 23. 找出路丨从广告与音乐，到“音香”：一个内容创作者的延伸实验
 
 **播客**: 贝望录
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69c4cf8f852cf1b8bbf512c9/media.xyzcdn.net/Fu4eGJVZUukEdLvVIu48H9dPfDxy.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. S8 Vol.1 银河通用王鹤：「秀肌肉」元年后，具身智能如何走向真实生产力？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNmtAFANTvdwR__qAf.m4a?channel=rss&album_id=20119986&track_id=965740630&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d82-audiofreehighqps/FE/E2/GKwRIDoNmtAFANTvdwR__qAf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 277 惊！日本自卫官持凶闯我使馆 “防卫族”极右化未来暴走难免？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69c55bb6b945e412aa35a55a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg5xcSF5yYdHWxXsqOm_fe6aqniN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Bisheng 覃睿：企业版 OpenClaw 就该我们做
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANms_qAn7lbAR__pS4.m4a?channel=rss&album_id=74194808&track_id=965740240&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6553-audiofreehighqps/82/6D/GKwRIMANms_qAn7lbAR__pS4.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.194 🌍 浏览器简史：打造人类使用互联网的窗户
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c395024a34541b1bfce230/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsUmFgVumlOPcXQSMrsgR1jfunHO.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
