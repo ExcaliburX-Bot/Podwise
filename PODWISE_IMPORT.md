@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-03-31 13:17:31
+> 📅 生成时间: 2026-03-31 19:01:39
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be31
 
 ---
 
-### 3. 第2974期:Teaching tolerance at the school level in the U.S
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENk95uABWV8wR9F5Yh.m4a?channel=rss&album_id=14812466&track_id=964483556&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e1db-audiofreehighqps/0A/2E/GKwRIJENk95uABWV8wR9F5Yh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENk95uABWV8wR9F5Yh.m4a?channel=rss&album_id=14812466&track_id=964483556&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e1db-audiofreehighqps/0A/2E/GKwRIJENk95uABWV8wR9F5Yh.m4a
-```
-
-</details>
-
----
-
-### 4. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
+### 3. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
 
 **播客名称**: 文化有限
 
@@ -127,34 +100,7 @@ https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
-```
-
-</details>
-
----
-
-### 6. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
+### 4. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
 
 **播客名称**: 硬地骇客
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be31
 
 ---
 
-### 7. vol.244丙午年正月总结
+### 5. vol.244丙午年正月总结
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c
 
 ---
 
-### 8. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
+### 6. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
 
 **播客名称**: 人民公园说AI
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c7d350b977fb2c
 
 ---
 
-### 9. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
+### 7. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -262,7 +208,7 @@ https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=69903
 
 ---
 
-### 10. 102.女人为什么会变刚，也许不是天生的
+### 8. 102.女人为什么会变刚，也许不是天生的
 
 **播客名称**: 喷嚏
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be31
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a
+```
+
+</details>
+
+---
+
+### 9. 134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69c953b4b977fb2c478df5c3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lkInPy65_ZR4cQmK23rmHJ_hhLVQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69c953b4b977fb2c478df5c3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lkInPy65_ZR4cQmK23rmHJ_hhLVQ.m4a
+```
+
+</details>
+
+---
+
+### 10. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c95828b977fb2c478e32d9/media.xyzcdn.net/63d945ece725b5378a158d29/lk_ggVDPiVTPtDZ1ijkaSq6nIG8r.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c95828b977fb2c478e32d9/media.xyzcdn.net/63d945ece725b5378a158d29/lk_ggVDPiVTPtDZ1ijkaSq6nIG8r.m4a
 ```
 
 </details>
