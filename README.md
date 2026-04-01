@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-03-31 19:01  
+> 📅 **更新时间**: 2026-04-01 02:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 156: OpenClaw、OpenAI vs Anthropic的三重对阵、自进化丨AI季报26Q1
+### 1. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2975期:Brown spots reveal Antarctic penguin problem
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINnRIfAAW4RQSA4EGo.m4a?channel=rss&album_id=14812466&track_id=966107662&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/840b-audiofreehighqps/18/C3/GKwRIJINnRIfAAW4RQSA4EGo.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Vol.92 回头听3月初的播客，感觉有点恍如隔世---串台藏金阁
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 156: OpenClaw、OpenAI vs Anthropic的三重对阵、自进化丨AI季报26Q1
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
+### 5. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
 
 **播客**: 忽左忽右
 
@@ -34,20 +73,20 @@
 
 ---
 
-### 3. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
+### 6. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
 
-**播客**: 文化有限
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887212&track_id=966558795&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7691-audiofreehighqps/C8/BD/GKwRIRwNn9-FAmZ0bQSB-GtF.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
+### 7. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
 
 **播客**: 硬地骇客
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. vol.244丙午年正月总结
+### 8. vol.244丙午年正月总结
 
 **播客**: 正经叭叭
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
+### 9. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
 
 **播客**: 人民公园说AI
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
+### 10. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=6990384&track_id=966553456&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0286-audiofreehighqps/89/02/GKwRIaINn9b0Aed4NwSB9BhS.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 102.女人为什么会变刚，也许不是天生的
-
-**播客**: 喷嚏
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 134. 【数据的综述】和谢晨聊，新时代的石油、历史、版图、数据金字塔、定价与Recipe
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69c953b4b977fb2c478df5c3/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lkInPy65_ZR4cQmK23rmHJ_hhLVQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 金价狂跌快顶不住？一次搞懂黄金底层逻辑，不惧波动！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69c95828b977fb2c478e32d9/media.xyzcdn.net/63d945ece725b5378a158d29/lk_ggVDPiVTPtDZ1ijkaSq6nIG8r.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
