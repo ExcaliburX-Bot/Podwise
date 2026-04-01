@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-01 07:19:55
+> 📅 生成时间: 2026-04-01 13:20:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
-```
-
-</details>
-
----
-
-### 2. 第2975期:Brown spots reveal Antarctic penguin problem
+### 1. 第2975期:Brown spots reveal Antarctic penguin problem
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -67,6 +40,33 @@ https://jt.ximalaya.com//GKwRIJINnRIfAAW4RQSA4EGo.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJINnRIfAAW4RQSA4EGo.m4a?channel=rss&album_id=14812466&track_id=966107662&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/840b-audiofreehighqps/18/C3/GKwRIJINnRIfAAW4RQSA4EGo.m4a
+```
+
+</details>
+
+---
+
+### 2. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be31
 
 ---
 
-### 4. 156: OpenClaw、OpenAI vs Anthropic的三重对阵、自进化丨AI季报26Q1
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b19722c7-4ebd-4873-a055-332b774f15d5.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b19722c7-4ebd-4873-a055-332b774f15d5.mp3
-```
-
-</details>
-
----
-
-### 5. 263.Sora死了，Adobe跌了，美图何去何从？
+### 4. 263.Sora死了，Adobe跌了，美图何去何从？
 
 **播客名称**: 乱翻书
 
@@ -154,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be31
 
 ---
 
-### 6. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
+### 5. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
 
-**播客名称**: 文化有限
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887212&track_id=966558795&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7691-audiofreehighqps/C8/BD/GKwRIRwNn9-FAmZ0bQSB-GtF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be3155f669ba/media.xyzcdn.net/5e4ee557418a84a0466737b7/ll8lY8rLWSgLLUh-VLc4qFmq-huz.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +147,34 @@ https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887212&track_id=966558795&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7691-audiofreehighqps/C8/BD/GKwRIRwNn9-FAmZ0bQSB-GtF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be3155f669ba/media.xyzcdn.net/5e4ee557418a84a0466737b7/ll8lY8rLWSgLLUh-VLc4qFmq-huz.m4a
+```
+
+</details>
+
+---
+
+### 6. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be31
 
 ---
 
-### 8. vol.244丙午年正月总结
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c47a3b9df/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsyXDjyuYRywCFtSWwJw6X6jrjub.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c47a3b9df/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsyXDjyuYRywCFtSWwJw6X6jrjub.m4a
-```
-
-</details>
-
----
-
-### 9. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
+### 8. 腾讯“血脉觉醒”：马化腾朋友圈背后，小龙虾和大模型我都要！｜欢迎课代表立正来做客啦！
 
 **播客名称**: 人民公园说AI
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69c7d350b977fb2c
 
 ---
 
-### 10. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
+### 9. 344 当孩子说“我没有梦想，我只想做我自己”—AI 教我育儿
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -283,6 +256,33 @@ https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIaINn9b0Aed4NwSB9BhS.m4a?channel=rss&album_id=6990384&track_id=966553456&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0286-audiofreehighqps/89/02/GKwRIaINn9b0Aed4NwSB9BhS.m4a
+```
+
+</details>
+
+---
+
+### 10. 102.女人为什么会变刚，也许不是天生的
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69ca0dd8e2c8be3155e06b27/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhp1Uu9N2vFhNHXC3zxILo-RSQaK.m4a
 ```
 
 </details>
