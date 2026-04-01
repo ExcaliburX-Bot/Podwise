@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-01 02:32:59
+> 📅 生成时间: 2026-04-01 07:19:55
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b197
 
 ---
 
-### 5. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
+### 5. 263.Sora死了，Adobe跌了，美图何去何从？
 
-**播客名称**: 忽左忽右
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be3155f669ba/media.xyzcdn.net/5e4ee557418a84a0466737b7/ll8lY8rLWSgLLUh-VLc4qFmq-huz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be3155ffc21f/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgjMYveOoC8WPzR0YvigGVZvdYfS.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,22 +147,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be3155f669ba/media.xyzcdn.net/5e4ee557418a84a0466737b7/ll8lY8rLWSgLLUh-VLc4qFmq-huz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be3155ffc21f/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgjMYveOoC8WPzR0YvigGVZvdYfS.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
+### 6. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
+https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887212&track_id=966558795&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7691-audiofreehighqps/C8/BD/GKwRIRwNn9-FAmZ0bQSB-GtF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +174,7 @@ https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGe
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
+https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887212&track_id=966558795&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7691-audiofreehighqps/C8/BD/GKwRIRwNn9-FAmZ0bQSB-GtF.m4a
 ```
 
 </details>
