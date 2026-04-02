@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-02 13:12:51
+> 📅 生成时间: 2026-04-02 18:56:12
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c
 
 ---
 
-### 2. 小步5曲 #3丨人在候机厅
+### 2. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a
+```
+
+</details>
+
+---
+
+### 3. 小步5曲 #3丨人在候机厅
 
 **播客名称**: 周末变奏 Key Change
 
@@ -73,7 +100,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975
 
 ---
 
-### 3. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
+### 4. Dark times for Cuba’s economic experiment
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620
+```
+
+</details>
+
+---
+
+### 5. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
 
 **播客名称**: AI炼金术
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 第2976期:Is fibre the new fad?
+### 6. 第2976期:Is fibre the new fad?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJINnRT9ABQK9QSA4bCR.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 小金&小扣：小白也能低成本做文创搞钱？苹果 + 狗，两个 99 年女生一年干出百万爆款！
+### 7. 小金&小扣：小白也能低成本做文创搞钱？苹果 + 狗，两个 99 年女生一年干出百万爆款！
 
 **播客名称**: 搞钱女孩
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69cd5e39b977fb2c
 
 ---
 
-### 6. 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
+### 8. 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066
 
 ---
 
-### 7. No.195 🚘️ 从牛鬼蛇神到摩托大王：重庆首富的造车之殇
+### 9. No.195 🚘️ 从牛鬼蛇神到摩托大王：重庆首富的造车之殇
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c
 
 ---
 
-### 8. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
+### 10. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
 
 **播客名称**: 贝望录
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.92 回头听3月初的播客，感觉有点恍如隔世---串台藏金阁
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a
-```
-
-</details>
-
----
-
-### 10. 263.Sora死了，Adobe跌了，美图何去何从？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be3155ffc21f/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgjMYveOoC8WPzR0YvigGVZvdYfS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be3155ffc21f/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgjMYveOoC8WPzR0YvigGVZvdYfS.m4a
 ```
 
 </details>
