@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-02 02:11:19
+> 📅 生成时间: 2026-04-02 07:12:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
+### 1. 小步5曲 #3丨人在候机厅
 
-**播客名称**: AI炼金术
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224901487_00481.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224901487_00481.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
+### 2. Dark times for Cuba’s economic experiment
 
-**播客名称**: 十字路口Crossing
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066f9c6e6f2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltfH_oN-4QQZ-ArdqURY4G0JejEC.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066f9c6e6f2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltfH_oN-4QQZ-ArdqURY4G0JejEC.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620
 ```
 
 </details>
@@ -81,7 +81,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/li0u_h278l03biU3lzra6LMjI_Ki.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljgD4wxAAoPxiwN0tSAnNHngcvq2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/li0u_h278l03biU3lzra6LMjI_Ki.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljgD4wxAAoPxiwN0tSAnNHngcvq2.m4a
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c
 
 ---
 
-### 5. Vol.92 回头听3月初的播客，感觉有点恍如隔世---串台藏金阁
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a
-```
-
-</details>
-
----
-
-### 6. 156: OpenClaw、OpenAI vs Anthropic的三重对阵、自进化丨AI季报26Q1
+### 5. 156: AI季报26Q1：OpenClaw、OpenAI vs Anthropic的三重对阵、自进化
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b197
 
 ---
 
-### 7. 263.Sora死了，Adobe跌了，美图何去何从？
+### 6. 263.Sora死了，Adobe跌了，美图何去何从？
 
 **播客名称**: 乱翻书
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be31
 
 ---
 
-### 8. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
+### 7. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
 
 **播客名称**: 忽左忽右
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cb3770e2c8be31
 
 ---
 
-### 9. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
+### 8. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
 
 **播客名称**: 文化有限
 
@@ -262,15 +235,15 @@ https://jt.ximalaya.com//GKwRIRwNn9-FAmZ0bQSB-GtF.m4a?channel=rss&album_id=29887
 
 ---
 
-### 10. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
+### 9. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 硬地骇客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be3155f03013/media.xyzcdn.net/640ee2438be5d40013fe4a87/luFh0-OXXXQTHJ_GUC7o_1MexUax.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGe
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be3155f03013/media.xyzcdn.net/640ee2438be5d40013fe4a87/luFh0-OXXXQTHJ_GUC7o_1MexUax.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.244丙午年正月总结
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c47a3b9df/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsyXDjyuYRywCFtSWwJw6X6jrjub.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c47a3b9df/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsyXDjyuYRywCFtSWwJw6X6jrjub.m4a
 ```
 
 </details>

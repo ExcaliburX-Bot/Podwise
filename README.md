@@ -1,35 +1,35 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-02 02:11  
+> 📅 **更新时间**: 2026-04-02 07:12  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
+### 1. 小步5曲 #3丨人在候机厅
 
-**播客**: AI炼金术
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224901487_00481.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
+### 2. Dark times for Cuba’s economic experiment
 
-**播客**: 十字路口Crossing
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066f9c6e6f2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltfH_oN-4QQZ-ArdqURY4G0JejEC.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/447eecc7-f5e5-4435-a42c-a1b631346d59/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=447eecc7-f5e5-4435-a42c-a1b631346d59&feed=hvWWWzRv&t=podcast&e=nx-s1-5770721&p=510289&d=1661&size=26580620)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -42,7 +42,7 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/li0u_h278l03biU3lzra6LMjI_Ki.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69c7419bb977fb2c476aaf81/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljgD4wxAAoPxiwN0tSAnNHngcvq2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. Vol.92 回头听3月初的播客，感觉有点恍如隔世---串台藏金阁
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb42fee2c8be3155f7d2b8/media.xyzcdn.net/6507bc165c88d2412626b401/luiHCdycyxzuXMWsXIZAAa5X4d1m.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 156: OpenClaw、OpenAI vs Anthropic的三重对阵、自进化丨AI季报26Q1
+### 5. 156: AI季报26Q1：OpenClaw、OpenAI vs Anthropic的三重对阵、自进化
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 263.Sora死了，Adobe跌了，美图何去何从？
+### 6. 263.Sora死了，Adobe跌了，美图何去何从？
 
 **播客**: 乱翻书
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
+### 7. 463 寻声入海：与李星宇漫谈追鲸、航海与环球奇遇
 
 **播客**: 忽左忽右
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
+### 8. Vol.328 鱼不存在：每个人内心都有一个不可摧毁之物
 
 **播客**: 文化有限
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 3月新歌推荐丨侃爷、RAYE、椎名林檎、deca joins…💥
+### 9. EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡
 
-**播客**: Vibration 歪波音室
+**播客**: 硬地骇客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_BagjZZNGkRSmKshPaFqfqJnGjbexvFkyMEzPJGsARCUWkcwjyQDGeVDgkM-78.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be3155f03013/media.xyzcdn.net/640ee2438be5d40013fe4a87/luFh0-OXXXQTHJ_GUC7o_1MexUax.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.244丙午年正月总结
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ca646ab977fb2c47a3b9df/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsyXDjyuYRywCFtSWwJw6X6jrjub.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
