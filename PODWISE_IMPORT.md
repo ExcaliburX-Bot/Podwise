@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-03 13:02:50
+> 📅 生成时间: 2026-04-03 18:46:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 94.对话文淇：年轻人不能不表达
+### 1. E230 一个畅想：如果有一天，人类不再需要工作😴
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
+```
+
+</details>
+
+---
+
+### 2. 94.对话文淇：年轻人不能不表达
 
 **播客名称**: 展开讲讲
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be31
 
 ---
 
-### 2. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
+### 3. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cf8b7db977fb2c
 
 ---
 
-### 3. 第2977期:Tens of millions of African children driven into child labor
+### 4. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69cf776fb977fb2c470486b6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/llnJeQbRtLtFBszddpt1XBE2ZJgE.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69cf776fb977fb2c470486b6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/llnJeQbRtLtFBszddpt1XBE2ZJgE.m4a
+```
+
+</details>
+
+---
+
+### 5. 第2977期:Tens of millions of African children driven into child labor
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJENnYwwABPtlgSBHpK_.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
+### 6. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119
 
 ---
 
-### 5. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
+### 7. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -154,34 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c
 
 ---
 
-### 6. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a
-```
-
-</details>
-
----
-
-### 7. Dark times for Cuba’s economic experiment
+### 8. Dark times for Cuba’s economic experiment
 
 **播客名称**: Planet Money
 
@@ -208,7 +235,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
+### 9. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
 
 **播客名称**: AI炼金术
 
@@ -235,15 +262,15 @@ https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194
 
 ---
 
-### 9. 她想造一个 AI 时代的“超级游乐场”｜对谈 Roi：幕间创始人 / CEO
+### 10. 小金&小扣：小白也能低成本做文创搞钱？苹果 + 狗，两个 99 年女生一年干出百万爆款！
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066f9c6e6f2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltfH_oN-4QQZ-ArdqURY4G0JejEC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69cd5e39b977fb2c47dfd48f/media.xyzcdn.net/63d945ece725b5378a158d29/lgH2bjBD11-aQg7Fd2fNFkx6UUG5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69b40879b810e066f9c6e6f2/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltfH_oN-4QQZ-ArdqURY4G0JejEC.m4a
-```
-
-</details>
-
----
-
-### 10. 东观西望丨11. 再见东西，葬礼的文化密码：从紫衫到樱花，英日的生死哲学对话
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69ca9a15b977fb2c47a95cf4/media.xyzcdn.net/5e285856418a84a04627b7be/ltYSCVZhQcfBVNLw6RxFEXzvVlyA.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69cd5e39b977fb2c47dfd48f/media.xyzcdn.net/63d945ece725b5378a158d29/lgH2bjBD11-aQg7Fd2fNFkx6UUG5.m4a
 ```
 
 </details>
