@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-05 07:05:47
+> 📅 生成时间: 2026-04-05 12:56:29
 > 📊 总计: 10 个播客
 
 ---
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69cf776fb977fb2c
 
 ---
 
-### 7. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a
-```
-
-</details>
-
----
-
-### 8. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
+### 7. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
 
 **播客名称**: 东亚观察局
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a
+```
+
+</details>
+
+---
+
+### 8. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c307e-da5c-4981-9ff1-e4e474308354.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c307e-da5c-4981-9ff1-e4e474308354.mp3
 ```
 
 </details>
