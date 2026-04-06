@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-05 18:42:58
+> 📅 生成时间: 2026-04-06 02:28:28
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2979期:Malaysia launches a weight loss campaign
+### 1. 第2980期:Locusts are devouring crops in East Africa
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -27,7 +27,7 @@
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENnZGsABPBiQSBIcKX.m4a?channel=rss&album_id=14812466&track_id=966207071&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b184-audiofreehighqps/71/D2/GKwRIJENnZGsABPBiQSBIcKX.m4a
+https://jt.ximalaya.com//GKwRIaINnlCoAAmx5ASBY0Ta.m4a?channel=rss&album_id=14812466&track_id=966303919&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fb10-audiofreehighqps/05/C3/GKwRIaINnlCoAAmx5ASBY0Ta.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIJENnZGsABPBiQSBIcKX.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENnZGsABPBiQSBIcKX.m4a?channel=rss&album_id=14812466&track_id=966207071&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b184-audiofreehighqps/71/D2/GKwRIJENnZGsABPBiQSBIcKX.m4a
+https://jt.ximalaya.com//GKwRIaINnlCoAAmx5ASBY0Ta.m4a?channel=rss&album_id=14812466&track_id=966303919&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fb10-audiofreehighqps/05/C3/GKwRIaINnlCoAAmx5ASBY0Ta.m4a
 ```
 
 </details>
 
 ---
 
-### 2. Reese’s heir vs. chocolate skimpflation
+### 2. 212: The Other Man
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
+```
+
+</details>
+
+---
+
+### 3. Reese’s heir vs. chocolate skimpflation
 
 **播客名称**: Planet Money
 
@@ -73,15 +100,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 94.对话文淇：年轻人不能不表达
+### 4. E230 一个畅想：如果有一天，人类不再需要工作😴
 
-**播客名称**: 展开讲讲
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +120,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
 ```
 
 </details>
 
 ---
 
-### 4. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
+### 5. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
 
 **播客名称**: 忽左忽右
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cf8b7db977fb2c
 
 ---
 
-### 5. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
+### 6. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
 
 **播客名称**: 沈奕斐的播客
 
@@ -154,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69cf776fb977fb2c
 
 ---
 
-### 6. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
+### 7. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a
+```
+
+</details>
+
+---
+
+### 8. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -181,7 +235,7 @@ https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
+### 9. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -208,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c
 
 ---
 
-### 8. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
+### 10. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
 
 **播客名称**: 屠龙之术
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be31
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a
-```
-
-</details>
-
----
-
-### 9. 小步5曲 #4丨人在候机厅
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224882939_158541.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224882939_158541.mp3
-```
-
-</details>
-
----
-
-### 10. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a
 ```
 
 </details>
