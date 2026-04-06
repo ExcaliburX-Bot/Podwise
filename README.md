@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-06 07:42  
+> 📅 **更新时间**: 2026-04-06 13:10  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
+### 6. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cf8b7db977fb2c4706915f/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrr9fkBUyTdww7Bvk9HhOtLekW8z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
 
 **播客**: 沈奕斐的播客
 
@@ -86,33 +99,7 @@
 
 ---
 
-### 7. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/995c307e-da5c-4981-9ff1-e4e474308354.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
+### 8. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
 
 **播客**: 屠龙之术
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 小步5曲 #4丨人在候机厅
+### 9. 小步5曲 #4丨人在候机厅
 
 **播客**: 周末变奏 Key Change
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224882939_158541.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. ColaOS 橘子：投资人面前，AI 意识到了自己正在被展示
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANoqMeAhJdLASDFdvf.m4a?channel=rss&album_id=74194808&track_id=967048874&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a3d6-audiofreehighqps/E6/86/GKwRIMANoqMeAhJdLASDFdvf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
