@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-06 02:28  
+> 📅 **更新时间**: 2026-04-06 07:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,15 +60,15 @@
 
 ---
 
-### 5. 464 明清如何治理苗疆：对峙、隔阂与修筑湘黔边墙
+### 5. 94.对话文淇：年轻人不能不表达
 
-**播客**: 忽左忽右
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69cf8b7db977fb2c4706915f/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrr9fkBUyTdww7Bvk9HhOtLekW8z.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
+### 7. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
 
 **播客**: 创业内幕 Startup Insider
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
+### 8. 157: 具身季报26Q1：宇树招股书、人形再思考、英伟达世界模型、高自由度灵巧手
 
 **播客**: 晚点聊 LateTalk
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
+### 9. Vol.93 AI面前，互联网其实也是传统行业---串台难得正经
 
 **播客**: 屠龙之术
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 小步5曲 #4丨人在候机厅
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njc3NSwidCI6MX0.W-2QeQfu2rbpXr8t3rN7975RTH8/keychangefm/8224882939_158541.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
