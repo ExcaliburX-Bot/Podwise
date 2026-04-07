@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-07 02:23:39
+> 📅 生成时间: 2026-04-07 07:15:57
 > 📊 总计: 10 个播客
 
 ---
@@ -262,15 +262,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 10. 94.对话文淇：年轻人不能不表达
+### 10. E230 一个畅想：如果有一天，人类不再需要工作😴
 
-**播客名称**: 展开讲讲
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a
 ```
 
 </details>

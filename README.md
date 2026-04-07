@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-07 02:23  
+> 📅 **更新时间**: 2026-04-07 07:15  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 94.对话文淇：年轻人不能不表达
+### 10. E230 一个畅想：如果有一天，人类不再需要工作😴
 
-**播客**: 展开讲讲
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
