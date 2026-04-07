@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-06 18:58  
+> 📅 **更新时间**: 2026-04-07 02:23  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 158: V4发布前的DeepSeek：人才竞争、组织特点和独特的AGI目标
+### 1. 再听孙燕姿：把青春唱成日常
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsALRcttZ-c7.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第2981期:Exoskeleton devices are widely used
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINnlMLAA3zOASBZFzu.m4a?channel=rss&album_id=14812466&track_id=966305478&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0683-audiofreehighqps/48/10/GKwRIJINnlMLAA3zOASBZFzu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 158: V4发布前的DeepSeek：人才竞争、组织特点和独特的AGI目标
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +47,20 @@
 
 ---
 
-### 2. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+### 4. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887212&track_id=967982158&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/773b-audiofreehighqps/67/2D/GKwRIJINp62lAmDW0wSFLs_b.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
 
 **播客**: 十字路口Crossing
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. vol.245叭叭KTV说唱季
+### 6. vol.245叭叭KTV说唱季
 
 **播客**: 正经叭叭
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 派出所半日游，Louis Ck专场观后，专场调研
+### 7. 派出所半日游，Louis Ck专场观后，专场调研
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 212: The Other Man
+### 8. 212: The Other Man
 
 **播客**: This American Life
 
@@ -73,7 +112,20 @@
 
 ---
 
-### 6. 94.对话文淇：年轻人不能不表达
+### 9. Reese’s heir vs. chocolate skimpflation
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 94.对话文淇：年轻人不能不表达
 
 **播客**: 展开讲讲
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69cf6f63e2c8be315549810a/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhR6PKh5wBzzE6_2m61Id73mJ9si.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. E230 一个畅想：如果有一天，人类不再需要工作😴
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69cf177ee2c8be3155407aad/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lj-cXmx3IYOhyls2I6M_ZyWZSRm5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 251.为什么总觉得自己委屈？正面标签如何改变一家人的关系？｜对谈学员03
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69cf776fb977fb2c470486b6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/llnJeQbRtLtFBszddpt1XBE2ZJgE.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
