@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-07 13:18:10
+> 📅 生成时间: 2026-04-07 19:03:01
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsAL
 
 ---
 
-### 5. 158: V4发布前的DeepSeek：人才竞争、组织特点和独特的AGI目标
+### 5. 第2981期:Exoskeleton devices are widely used
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/4b736bf1-c0ad-43c7-9b76-a83e80bdefb7.mp3
+https://jt.ximalaya.com//GKwRIJINnlMLAA3zOASBZFzu.m4a?channel=rss&album_id=14812466&track_id=966305478&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0683-audiofreehighqps/48/10/GKwRIJINnlMLAA3zOASBZFzu.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/4b73
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/4b736bf1-c0ad-43c7-9b76-a83e80bdefb7.mp3
+https://jt.ximalaya.com//GKwRIJINnlMLAA3zOASBZFzu.m4a?channel=rss&album_id=14812466&track_id=966305478&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0683-audiofreehighqps/48/10/GKwRIJINnlMLAA3zOASBZFzu.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69d37a0ab977fb2c
 
 ---
 
-### 9. 278 听韩国妈妈崔女士讲“经济上行年代”勇敢追爱的故事
+### 9. 212: The Other Man
 
-**播客名称**: 东亚观察局
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69cea424b977fb2c47f787cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnHOsUVB9dy0R869aBJr__qvLkCD.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
 ```
 
 </details>
 
 ---
 
-### 10. S8 Vol.2 申基生物童坤：成为核酸药物的「芯片」制造者
+### 10. Reese’s heir vs. chocolate skimpflation
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwNpD4WASLn6ASD0XiJ.m4a?channel=rss&album_id=20119986&track_id=967371795&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/80d8-audiofreehighqps/EF/91/GKwRIRwNpD4WASLn6ASD0XiJ.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d107eed8-7d19-42a9-aaec-7636d86cc3bd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d107eed8-7d19-42a9-aaec-7636d86cc3bd&feed=hvWWWzRv&t=podcast&e=nx-s1-5773425&p=510289&d=2022&size=32358905
 ```
 
 </details>
