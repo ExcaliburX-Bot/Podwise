@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-08 07:18  
+> 📅 **更新时间**: 2026-04-08 13:19  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 159: 马斯克Terafab太空算力、英伟达重拾CPU，与Fusion Fund张璐聊AI算力新趋势
+### 1. A pro-worker experiment in private equity
 
-**播客**: 晚点聊 LateTalk
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd718b-1219-4c04-bad3-94d22b65ff7f.mp3)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be315592a389/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljAclS4hks58sXLWYp5RU8ttD8tl.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 再听孙燕姿：把青春唱成日常
+### 6. 再听孙燕姿：把青春唱成日常
 
 **播客**: Vibration 歪波音室
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
+### 7. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
 
 **播客**: 文化有限
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+### 8. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
 
 **播客**: 十字路口Crossing
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. vol.245叭叭KTV说唱季
+### 9. Ep192 派出所半日游，Louis Ck专场观后，专场调研
 
-**播客**: 正经叭叭
+**播客**: 基本无害 Mostly Harmless
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69d37a0ab977fb2c47351246/media.xyzcdn.net/5eae66d1418a84a046472b4d/lvlkE5UNbtbXgsHSGas4zL2y6IK3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 212: The Other Man
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

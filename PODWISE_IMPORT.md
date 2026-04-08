@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-08 07:18:48
+> 📅 生成时间: 2026-04-08 13:19:10
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 159: 马斯克Terafab太空算力、英伟达重拾CPU，与Fusion Fund张璐聊AI算力新趋势
+### 1. A pro-worker experiment in private equity
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd718b-1219-4c04-bad3-94d22b65ff7f.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd718b-1219-4c04-bad3-94d22b65ff7f.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/aac153b4-4751-4930-ab7c-a13f0b3400f6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=aac153b4-4751-4930-ab7c-a13f0b3400f6&feed=hvWWWzRv&t=podcast&e=nx-s1-5776833&p=510289&d=1541&size=24663859
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69d4d5f4b977fb2c
 
 ---
 
-### 6. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be315592a389/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljAclS4hks58sXLWYp5RU8ttD8tl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be315592a389/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljAclS4hks58sXLWYp5RU8ttD8tl.m4a
-```
-
-</details>
-
----
-
-### 7. 再听孙燕姿：把青春唱成日常
+### 6. 再听孙燕姿：把青春唱成日常
 
 **播客名称**: Vibration 歪波音室
 
@@ -208,7 +181,7 @@ https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsAL
 
 ---
 
-### 8. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
+### 7. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
 
 **播客名称**: 文化有限
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+### 8. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
 
 **播客名称**: 十字路口Crossing
 
@@ -262,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c
 
 ---
 
-### 10. vol.245叭叭KTV说唱季
+### 9. Ep192 派出所半日游，Louis Ck专场观后，专场调研
 
-**播客名称**: 正经叭叭
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69d37a0ab977fb2c47351246/media.xyzcdn.net/5eae66d1418a84a046472b4d/lvlkE5UNbtbXgsHSGas4zL2y6IK3.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69d37a0ab977fb2c47351246/media.xyzcdn.net/5eae66d1418a84a046472b4d/lvlkE5UNbtbXgsHSGas4zL2y6IK3.m4a
+```
+
+</details>
+
+---
+
+### 10. 212: The Other Man
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/73616441-f54b-4b3b-86f4-52cd97e58f7a/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=73616441-f54b-4b3b-86f4-52cd97e58f7a&nocache
 ```
 
 </details>
