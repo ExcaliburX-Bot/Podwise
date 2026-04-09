@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-08T19:14:51.386782",
+  "generated_at": "2026-04-09T02:10:54.201553",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "【随机波动168】有一天我们衰老、脆弱或失能，人生就不值得过了吗？",
-      "podcast": "随机波动StochasticVolatility",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b9ec5-f0fb-4a3a-8f06-97b695c029eb.mp3",
+      "title": "第2983期:Friction-maxxing: Is convenience weakening our brains?",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIMANpOrHABH0cASEDMad.m4a?channel=rss&album_id=14812466&track_id=967485066&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cb8e-audiofreehighqps/F4/8B/GKwRIMANpOrHABH0cASEDMad.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -44,26 +44,6 @@
     },
     {
       "rank": 5,
-      "title": "第2982期:The Development Path of Micro-enterprises",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJENnlXQABDnuASBZZj1.m4a?channel=rss&album_id=14812466&track_id=966307332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7db-audiofreehighqps/8A/9D/GKwRIJENnlXQABDnuASBZZj1.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "219. 她们的底线 倩与倩丨当商业“看见女性”，从标签到真实需求的距离有多远？",
-      "podcast": "贝望录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69d48effb977fb2c474707ec/media.xyzcdn.net/5e285856418a84a04627b7be/lipfE8JskR5ctIAdfIyJK5dn1Sqc.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "Botlearn.ai 李可佳：别自学了，送你的 Agent 去读书吧",
       "podcast": "AI炼金术",
       "audio_url": "https://jt.ximalaya.com//GKwRIaINqpHhAgMeEgSGch19.m4a?channel=rss&album_id=74194808&track_id=968494082&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/edc8-audiofreehighqps/21/9A/GKwRIaINqpHhAgMeEgSGch19.m4a",
@@ -73,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "三月广播电视报：地球太烦了，我想去波江座👎",
       "podcast": "展开讲讲",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69d4d5f4b977fb2c474f8c87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ljNffSfd_TZfXpLTq5v8fnwy1HNB.m4a",
@@ -83,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be315592a389/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljAclS4hks58sXLWYp5RU8ttD8tl.m4a",
@@ -93,10 +73,30 @@
       "notes": ""
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "再听孙燕姿：把青春唱成日常",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsALRcttZ-c7.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要",
+      "podcast": "文化有限",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887212&track_id=967982158&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/773b-audiofreehighqps/67/2D/GKwRIJINp62lAmDW0wSFLs_b.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "“AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c479fe088/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkIYSdDDEzLyzH8Rt2GrBBM4r_gq.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

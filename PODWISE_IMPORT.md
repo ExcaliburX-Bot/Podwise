@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-08 19:14:51
+> 📅 生成时间: 2026-04-09 02:10:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动168】有一天我们衰老、脆弱或失能，人生就不值得过了吗？
+### 1. 第2983期:Friction-maxxing: Is convenience weakening our brains?
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b9ec5-f0fb-4a3a-8f06-97b695c029eb.mp3
+https://jt.ximalaya.com//GKwRIMANpOrHABH0cASEDMad.m4a?channel=rss&album_id=14812466&track_id=967485066&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cb8e-audiofreehighqps/F4/8B/GKwRIMANpOrHABH0cASEDMad.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b9ec5-f0fb-4a3a-8f06-97b695c029eb.mp3
+https://jt.ximalaya.com//GKwRIMANpOrHABH0cASEDMad.m4a?channel=rss&album_id=14812466&track_id=967485066&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cb8e-audiofreehighqps/F4/8B/GKwRIMANpOrHABH0cASEDMad.m4a
 ```
 
 </details>
@@ -127,61 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd
 
 ---
 
-### 5. 第2982期:The Development Path of Micro-enterprises
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENnlXQABDnuASBZZj1.m4a?channel=rss&album_id=14812466&track_id=966307332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7db-audiofreehighqps/8A/9D/GKwRIJENnlXQABDnuASBZZj1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENnlXQABDnuASBZZj1.m4a?channel=rss&album_id=14812466&track_id=966307332&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7db-audiofreehighqps/8A/9D/GKwRIJENnlXQABDnuASBZZj1.m4a
-```
-
-</details>
-
----
-
-### 6. 219. 她们的底线 倩与倩丨当商业“看见女性”，从标签到真实需求的距离有多远？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69d48effb977fb2c474707ec/media.xyzcdn.net/5e285856418a84a04627b7be/lipfE8JskR5ctIAdfIyJK5dn1Sqc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69d48effb977fb2c474707ec/media.xyzcdn.net/5e285856418a84a04627b7be/lipfE8JskR5ctIAdfIyJK5dn1Sqc.m4a
-```
-
-</details>
-
----
-
-### 7. Botlearn.ai 李可佳：别自学了，送你的 Agent 去读书吧
+### 5. Botlearn.ai 李可佳：别自学了，送你的 Agent 去读书吧
 
 **播客名称**: AI炼金术
 
@@ -208,7 +154,7 @@ https://jt.ximalaya.com//GKwRIaINqpHhAgMeEgSGch19.m4a?channel=rss&album_id=74194
 
 ---
 
-### 8. 三月广播电视报：地球太烦了，我想去波江座👎
+### 6. 三月广播电视报：地球太烦了，我想去波江座👎
 
 **播客名称**: 展开讲讲
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69d4d5f4b977fb2c
 
 ---
 
-### 9. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
+### 7. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be31
 
 ---
 
-### 10. 再听孙燕姿：把青春唱成日常
+### 8. 再听孙燕姿：把青春唱成日常
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +229,60 @@ https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsAL
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsALRcttZ-c7.mp3
+```
+
+</details>
+
+---
+
+### 9. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887212&track_id=967982158&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/773b-audiofreehighqps/67/2D/GKwRIJINp62lAmDW0wSFLs_b.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887212&track_id=967982158&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/773b-audiofreehighqps/67/2D/GKwRIJINp62lAmDW0wSFLs_b.m4a
+```
+
+</details>
+
+---
+
+### 10. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c479fe088/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkIYSdDDEzLyzH8Rt2GrBBM4r_gq.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c479fe088/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkIYSdDDEzLyzH8Rt2GrBBM4r_gq.m4a
 ```
 
 </details>
