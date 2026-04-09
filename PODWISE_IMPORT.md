@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-09 02:10:54
+> 📅 生成时间: 2026-04-09 07:21:37
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://jt.ximalaya.com//GKwRIMANpOrHABH0cASEDMad.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. No.196 🚚 电商三国之京东篇：从中关村柜台到万亿巨兽 | 中国互联网故事17
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69d61216b977fb2c4766c5e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhwp6fXbk2R-JhTy9hn8aHIjWKWA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69d61216b977fb2c4766c5e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhwp6fXbk2R-JhTy9hn8aHIjWKWA.m4a
-```
-
-</details>
-
----
-
-### 3. A pro-worker experiment in private equity
+### 2. A pro-worker experiment in private equity
 
 **播客名称**: Planet Money
 
@@ -100,15 +73,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 159: 马斯克Terafab太空算力、英伟达重拾CPU，与Fusion Fund张璐聊AI算力新趋势
+### 3. 219. 她们的底线 倩与倩丨当商业“看见女性”，从标签到真实需求的距离有多远？
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd718b-1219-4c04-bad3-94d22b65ff7f.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69d48effb977fb2c474707ec/media.xyzcdn.net/5e285856418a84a04627b7be/lipfE8JskR5ctIAdfIyJK5dn1Sqc.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +93,14 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/f0fd718b-1219-4c04-bad3-94d22b65ff7f.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69d48effb977fb2c474707ec/media.xyzcdn.net/5e285856418a84a04627b7be/lipfE8JskR5ctIAdfIyJK5dn1Sqc.m4a
 ```
 
 </details>
 
 ---
 
-### 5. Botlearn.ai 李可佳：别自学了，送你的 Agent 去读书吧
+### 4. Botlearn.ai 李可佳：别自学了，送你的 Agent 去读书吧
 
 **播客名称**: AI炼金术
 
@@ -154,7 +127,7 @@ https://jt.ximalaya.com//GKwRIaINqpHhAgMeEgSGch19.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. 三月广播电视报：地球太烦了，我想去波江座👎
+### 5. 三月广播电视报：地球太烦了，我想去波江座👎
 
 **播客名称**: 展开讲讲
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69d4d5f4b977fb2c
 
 ---
 
-### 7. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
+### 6. 午后偏见044｜书之爱：王强谈西文书籍的阅读、收藏与翻译
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d4bc00e2c8be31
 
 ---
 
-### 8. 再听孙燕姿：把青春唱成日常
+### 7. 再听孙燕姿：把青春唱成日常
 
 **播客名称**: Vibration 歪波音室
 
@@ -235,7 +208,7 @@ https://tk.wavpub.com/WPDL_sTnUTnZARwBfBhUPGRWTrvAPmZxRZaKvghBrZGvGtFFSPTnjFzsAL
 
 ---
 
-### 9. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
+### 8. Vol.329 绿灯：朝气蓬勃的生活，比蒸蒸日上的事业更重要
 
 **播客名称**: 文化有限
 
@@ -262,7 +235,7 @@ https://jt.ximalaya.com//GKwRIJINp62lAmDW0wSFLs_b.m4a?channel=rss&album_id=29887
 
 ---
 
-### 10. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
+### 9. “AGI 来了？我用了一周，头皮发麻“｜对谈张昊然：Moxt 联合创始人
 
 **播客名称**: 十字路口Crossing
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69ca3aa4b977fb2c479fe088/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkIYSdDDEzLyzH8Rt2GrBBM4r_gq.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.245叭叭KTV说唱季
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a
 ```
 
 </details>
