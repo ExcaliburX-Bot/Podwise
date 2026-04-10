@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-10 02:30:27
+> 📅 生成时间: 2026-04-10 07:26:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2984期:Collagen supplements improve skin but won't stop wrinkles
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNpO4pAArNSwSEDwO2.m4a?channel=rss&album_id=14812466&track_id=967489013&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9bac-audiofreehighqps/A3/72/GKwRIRwNpO4pAArNSwSEDwO2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNpO4pAArNSwSEDwO2.m4a?channel=rss&album_id=14812466&track_id=967489013&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9bac-audiofreehighqps/A3/72/GKwRIRwNpO4pAArNSwSEDwO2.m4a
-```
-
-</details>
-
----
-
-### 2. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
+### 1. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
 
 **播客名称**: 沈奕斐的播客
 
@@ -73,15 +46,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69d7af9ee2c8be31
 
 ---
 
-### 3. 279 “甲午”的明治日本步步踩对 现在的高市早苗处处树敌？
+### 2. 第2984期:Collagen supplements improve skin but won't stop wrinkles
 
-**播客名称**: 东亚观察局
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+https://jt.ximalaya.com//GKwRIRwNpO4pAArNSwSEDwO2.m4a?channel=rss&album_id=14812466&track_id=967489013&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9bac-audiofreehighqps/A3/72/GKwRIRwNpO4pAArNSwSEDwO2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +66,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+https://jt.ximalaya.com//GKwRIRwNpO4pAArNSwSEDwO2.m4a?channel=rss&album_id=14812466&track_id=967489013&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9bac-audiofreehighqps/A3/72/GKwRIRwNpO4pAArNSwSEDwO2.m4a
+```
+
+</details>
+
+---
+
+### 3. 短剧&AI漫剧出海爆赚？TikTok价值洼地在墨西哥？搞钱就得顺势而为！ | 长沙听友会
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119
 
 ---
 
-### 5. 云九资本袁语：智能的哥白尼时刻，要去找“天庭下凡”的人
+### 5. 279 “甲午”的明治日本步步踩对 现在的高市早苗处处树敌？
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+```
+
+</details>
+
+---
+
+### 6. 云九资本袁语：智能的哥白尼时刻，要去找“天庭下凡”的人
 
 **播客名称**: AI炼金术
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIaINq5cGAis9xwSG27N1.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. 【随机波动168】有一天我们衰老、脆弱或失能，人生就不值得过了吗？
+### 7. 【随机波动168】有一天我们衰老、脆弱或失能，人生就不值得过了吗？
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -175,33 +202,6 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b9ec5-f0fb-4a3a-8f06-97b695c029eb.mp3
-```
-
-</details>
-
----
-
-### 7. No.196 🚚 电商三国之京东篇：从中关村柜台到万亿巨兽 | 中国互联网故事17
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69d61216b977fb2c4766c5e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhwp6fXbk2R-JhTy9hn8aHIjWKWA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69d61216b977fb2c4766c5e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lhwp6fXbk2R-JhTy9hn8aHIjWKWA.m4a
 ```
 
 </details>
