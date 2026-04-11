@@ -1,5 +1,15 @@
 [
   {
+    "eid": "2&size=39234752",
+    "title": "BOOKstore Economics",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752",
+    "pubDate": "2026-04-10T23:30:43+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "pital/ep136.mp3",
     "title": "136. 美团的零售破局：收购叮咚、挑战山姆盒马？",
     "podcast": {
@@ -10,24 +20,34 @@
     "source_rss": "https://crazy.capital/feed"
   },
   {
-    "eid": "ix69wSIMFAA.m4a",
-    "title": "345 简里里 x Jon Sperry｜阿德勒心理学：自卑、家庭与你的生活风格",
+    "eid": "MC_PVNPNt37.m4a",
+    "title": "E231 对话施展：为什么今天的我们，仍然需要一种和自己有关的宏大叙事？",
     "podcast": {
-      "title": "Blow Your Mind (BYM S02)"
+      "title": "知行小酒馆"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a",
-    "pubDate": "2026-04-10T12:34:52+00:00",
-    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be3155d3b0de/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-V5hF1rZQpD32eAMC_PVNPNt37.m4a",
+    "pubDate": "2026-04-10T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "eid": "t0TXlMqmcty.m4a",
-    "title": "135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络",
+    "eid": "7678_469149.mp3",
+    "title": "小步5曲 #5丨想看的演出好多啊",
     "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
+      "title": "周末变奏 Key Change"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69d8bbdfe2c8be3155dcc2fe/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltwEGwVo7grn_V-Rft0TXlMqmcty.m4a",
-    "pubDate": "2026-04-10T09:08:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg2OCwidCI6MX0.JNOueMogsUSmOpfKRTwNPD12PQk/keychangefm/8224187678_469149.mp3",
+    "pubDate": "2026-04-10T09:23:28+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
+  },
+  {
+    "eid": "xzgKGfGYmWw.m4a",
+    "title": "465 从成化斗彩鸡缸杯到「瓷母」：刘越谈中国古瓷名品拍卖风云录",
+    "podcast": {
+      "title": "忽左忽右"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be3155dccac9/media.xyzcdn.net/5e4ee557418a84a0466737b7/luq0fMTO1evk26QCBxzgKGfGYmWw.m4a",
+    "pubDate": "2026-04-10T09:14:20+00:00",
+    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
     "eid": "3o9Kz6dv0Uv.m4a",
@@ -50,16 +70,6 @@
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
-    "eid": "W3e4gSHbNOB.m4a",
-    "title": "S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a",
-    "pubDate": "2026-04-09T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "DZZ9a3IVK_B.m4a",
     "title": "279 “甲午”的明治日本步步踩对 现在的高市早苗处处树敌？",
     "podcast": {
@@ -68,6 +78,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a",
     "pubDate": "2026-04-09T22:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "W3e4gSHbNOB.m4a",
+    "title": "S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a",
+    "pubDate": "2026-04-09T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
     "eid": "is9xwSG27N1.m4a",
@@ -120,16 +140,6 @@
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
-    "eid": "5v8fnwy1HNB.m4a",
-    "title": "三月广播电视报：地球太烦了，我想去波江座👎",
-    "podcast": {
-      "title": "展开讲讲"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69d4d5f4b977fb2c474f8c87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ljNffSfd_TZfXpLTq5v8fnwy1HNB.m4a",
-    "pubDate": "2026-04-07T10:37:55+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
-  },
-  {
     "eid": "sALRcttZ-c7.mp3",
     "title": "再听孙燕姿：把青春唱成日常",
     "podcast": {
@@ -160,16 +170,6 @@
     "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
   },
   {
-    "eid": "4m9yxEDyPqG.m4a",
-    "title": "vol.245叭叭KTV说唱季",
-    "podcast": {
-      "title": "正经叭叭"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69d3cf42b977fb2c473c4435/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgmZ-DwW4RwL8KQUv4m9yxEDyPqG.m4a",
-    "pubDate": "2026-04-06T15:59:49+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
     "eid": "as4zL2y6IK3.m4a",
     "title": "Ep192 派出所半日游，Louis Ck专场观后，专场调研",
     "podcast": {
@@ -190,14 +190,24 @@
     "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
-    "eid": "vigGVZvdYfS.m4a",
-    "title": "263.Sora死了，Adobe跌了，美图何去何从？",
+    "eid": "DbLmdQ5FMRp.m4a",
+    "title": "Vol.93 AI面前，互联网其实也是传统行业---串台难得正经",
     "podcast": {
-      "title": "乱翻书"
+      "title": "屠龙之术"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69cb87c8e2c8be3155ffc21f/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgjMYveOoC8WPzR0YvigGVZvdYfS.m4a",
-    "pubDate": "2026-03-31T08:39:06+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69cb6c97e2c8be3155fc4859/media.xyzcdn.net/6507bc165c88d2412626b401/lkVduMib4BaD1MS5fDbLmdQ5FMRp.m4a",
+    "pubDate": "2026-04-02T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
+  },
+  {
+    "eid": "C7o_1MexUax.m4a",
+    "title": "EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be3155f03013/media.xyzcdn.net/640ee2438be5d40013fe4a87/luFh0-OXXXQTHJ_GUC7o_1MexUax.m4a",
+    "pubDate": "2026-03-30T16:34:33+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "m7Jw4LH0YC4.m4a",
@@ -230,14 +240,14 @@
     "source_rss": "https://feed.xyzfm.space/uh4c8lad9j3l"
   },
   {
-    "eid": "qb-j7gWfSCP.m4a",
-    "title": "EP75 | OpenClaw 中推养虾第一人 - 宇成",
+    "eid": "o3zhRaP3eBv.m4a",
+    "title": "我们是如何定义 OpenClaw for Teams 新产品形态的｜对谈 Kuse&Junior 联创兼 CTO 宇豪",
     "podcast": {
-      "title": "出海去孵化器"
+      "title": "42章经"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69bfaad23c625cc5ae8cc63a/media.xyzcdn.net/646a8c23023239d3851f5e70/lkUuD4QYvTLekexkeqb-j7gWfSCP.m4a",
-    "pubDate": "2026-03-22T08:54:29+00:00",
-    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69bbc8ea3c625cc5ae21b461/media.xyzcdn.net/648b0b641c48983391a63f98/lkp1A0TodFlxOyYCYo3zhRaP3eBv.m4a",
+    "pubDate": "2026-03-19T14:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
     "eid": "8WCOYT2wrCr.m4a",
@@ -270,6 +280,16 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
+    "eid": "d2af9a745a1.mp3",
+    "title": "62 从红楼到还珠再到你我，奔涌向前的女性",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3",
+    "pubDate": "2026-03-03T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
+  },
+  {
     "eid": "XbVLjmWyuHy.m4a",
     "title": "哥大休学创业，打造首个通用学习智能体",
     "podcast": {
@@ -278,25 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/69a4d388de29766da90b7c45/media.xyzcdn.net/646f194853a5e5ea1408d97c/lpYVrvSxv7P3C_1RLXbVLjmWyuHy.m4a",
     "pubDate": "2026-03-02T00:07:50+00:00",
     "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
-    "eid": "50947/media.mp3",
-    "title": "衣裙与战场之间：读《肉不如竹》",
-    "podcast": {
-      "title": "艺术有读"
-    },
-    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69a065f2231fec5915250947/media.mp3",
-    "pubDate": "2026-02-28T03:51:24+00:00",
-    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
-  },
-  {
-    "eid": "i15AARpYX8B.m4a",
-    "title": "一位自由译者转型之路和她经历的AI未来",
-    "podcast": {
-      "title": "二维吾码"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a",
-    "pubDate": "2026-02-11T06:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
   }
 ]
