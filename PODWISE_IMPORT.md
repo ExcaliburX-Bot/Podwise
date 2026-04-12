@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-12 07:13:27
+> 📅 生成时间: 2026-04-12 13:00:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2986期:Hedgehog secret discovered – they hear at a range far beyond humans
+### 1. BOOKstore Economics
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINpPPJAA_AkASEEqWa.m4a?channel=rss&album_id=14812466&track_id=967495044&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/af16-audiofreehighqps/C0/70/GKwRIJINpPPJAA_AkASEEqWa.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIJINpPPJAA_AkASEEqWa.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINpPPJAA_AkASEEqWa.m4a?channel=rss&album_id=14812466&track_id=967495044&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/af16-audiofreehighqps/C0/70/GKwRIJINpPPJAA_AkASEEqWa.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69d7af9ee2c8be31
 
 ---
 
-### 10. S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？
+### 10. 短剧&AI漫剧出海爆赚？TikTok价值洼地在墨西哥？搞钱就得顺势而为！ | 长沙听友会
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
 ```
 
 </details>

@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-12 07:13  
+> 📅 **更新时间**: 2026-04-12 13:00  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2986期:Hedgehog secret discovered – they hear at a range far beyond humans
+### 1. BOOKstore Economics
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINpPPJAA_AkASEEqWa.m4a?channel=rss&album_id=14812466&track_id=967495044&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/af16-audiofreehighqps/C0/70/GKwRIJINpPPJAA_AkASEEqWa.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ce9ad3f-2ad4-4653-891f-d9d8d64f79ef&feed=hvWWWzRv&t=podcast&e=nx-s1-5751214&p=510289&d=2452&size=39234752)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？
+### 10. 短剧&AI漫剧出海爆赚？TikTok价值洼地在墨西哥？搞钱就得顺势而为！ | 长沙听友会
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
