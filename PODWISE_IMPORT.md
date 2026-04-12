@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-12 02:32:09
+> 📅 生成时间: 2026-04-12 07:13:27
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://rio.xyzcdn.net/crazycapital/ep136.mp3
 
 ---
 
-### 3. E231 对话施展：为什么今天的我们，仍然需要一种和自己有关的宏大叙事？
+### 3. 345 简里里 x Jon Sperry｜阿德勒心理学：自卑、家庭与你的生活风格
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
+```
+
+</details>
+
+---
+
+### 4. E231 对话施展：为什么今天的我们，仍然需要一种和自己有关的宏大叙事？
 
 **播客名称**: 知行小酒馆
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be31
 
 ---
 
-### 4. 小步5曲 #5丨想看的演出好多啊
+### 5. 小步5曲 #5丨想看的演出好多啊
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg2OCwidCI6MX0.JNOueMogsUSmOpfKRTwNPD1
 
 ---
 
-### 5. 465 从成化斗彩鸡缸杯到「瓷母」：刘越谈中国古瓷名品拍卖风云录
+### 6. 465 从成化斗彩鸡缸杯到「瓷母」：刘越谈中国古瓷名品拍卖风云录
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be31
 
 ---
 
-### 6. 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
+### 7. 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -181,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69d8bbdfe2c8be31
 
 ---
 
-### 7. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
+### 8. vol.579 见面聊聊｜我最恐惧的，就是把我的恐惧说出来样银笑幻！feat.罗永浩
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_fKjaJyDRUrFVuUMqvnZyhXdQKrVqhzcvkcczuKSMyLdMBmHHCEnjERQaKs-74.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_fKjaJyDRUrFVuUMqvnZyhXdQKrVqhzcvkcczuKSMyLdMBmHHCEnjERQaKs-74.m4a
+```
+
+</details>
+
+---
+
+### 9. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
 
 **播客名称**: 沈奕斐的播客
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69d7af9ee2c8be31
 
 ---
 
-### 8. 279 “甲午”的明治日本步步踩对 现在的高市早苗处处树敌？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
-```
-
-</details>
-
----
-
-### 9. S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？
+### 10. S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a
-```
-
-</details>
-
----
-
-### 10. 云九资本袁语：智能的哥白尼时刻，要去找“天庭下凡”的人
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINq5cGAis9xwSG27N1.m4a?channel=rss&album_id=74194808&track_id=968669137&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/214c-audiofreehighqps/37/39/GKwRIaINq5cGAis9xwSG27N1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINq5cGAis9xwSG27N1.m4a?channel=rss&album_id=74194808&track_id=968669137&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/214c-audiofreehighqps/37/39/GKwRIaINq5cGAis9xwSG27N1.m4a
 ```
 
 </details>
