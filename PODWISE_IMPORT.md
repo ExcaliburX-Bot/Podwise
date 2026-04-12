@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-12 13:00:14
+> 📅 生成时间: 2026-04-12 18:49:46
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. BOOKstore Economics
+### 1. vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a
+```
+
+</details>
+
+---
+
+### 2. 从削苹果到Scaling Law，机器人离“有手感”还有多远？-对谈Sharpa、NVIDIA-Vol94
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69db3b71b977fb2c47b5bc82/media.xyzcdn.net/636669d51064cb55f31505fc/ln1s5xk8H0wF_heVhBVm0-FClS0H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69db3b71b977fb2c47b5bc82/media.xyzcdn.net/636669d51064cb55f31505fc/ln1s5xk8H0wF_heVhBVm0-FClS0H.m4a
+```
+
+</details>
+
+---
+
+### 3. BOOKstore Economics
 
 **播客名称**: Planet Money
 
@@ -46,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 2. 136. 美团的零售破局：收购叮咚、挑战山姆盒马？
+### 4. 136. 美团的零售破局：收购叮咚、挑战山姆盒马？
 
 **播客名称**: 疯投圈
 
@@ -67,60 +121,6 @@ https://rio.xyzcdn.net/crazycapital/ep136.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep136.mp3
-```
-
-</details>
-
----
-
-### 3. 345 简里里 x Jon Sperry｜阿德勒心理学：自卑、家庭与你的生活风格
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
-```
-
-</details>
-
----
-
-### 4. E231 对话施展：为什么今天的我们，仍然需要一种和自己有关的宏大叙事？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be3155d3b0de/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-V5hF1rZQpD32eAMC_PVNPNt37.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be3155d3b0de/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-V5hF1rZQpD32eAMC_PVNPNt37.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg2OCwidCI6MX0.JNOueMogsUSmOpfKRTwNPD1
 
 ---
 
-### 6. 465 从成化斗彩鸡缸杯到「瓷母」：刘越谈中国古瓷名品拍卖风云录
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be3155dccac9/media.xyzcdn.net/5e4ee557418a84a0466737b7/luq0fMTO1evk26QCBxzgKGfGYmWw.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be3155dccac9/media.xyzcdn.net/5e4ee557418a84a0466737b7/luq0fMTO1evk26QCBxzgKGfGYmWw.m4a
-```
-
-</details>
-
----
-
-### 7. 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
+### 6. 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -208,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69d8bbdfe2c8be31
 
 ---
 
-### 8. vol.579 见面聊聊｜我最恐惧的，就是把我的恐惧说出来样银笑幻！feat.罗永浩
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_fKjaJyDRUrFVuUMqvnZyhXdQKrVqhzcvkcczuKSMyLdMBmHHCEnjERQaKs-74.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_fKjaJyDRUrFVuUMqvnZyhXdQKrVqhzcvkcczuKSMyLdMBmHHCEnjERQaKs-74.m4a
-```
-
-</details>
-
----
-
-### 9. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
+### 7. 252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04
 
 **播客名称**: 沈奕斐的播客
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69d7af9ee2c8be31
 
 ---
 
-### 10. 短剧&AI漫剧出海爆赚？TikTok价值洼地在墨西哥？搞钱就得顺势而为！ | 长沙听友会
+### 8. S8 Vol.3 纪源资本陈于思：当AGI来敲门，你确定自己准备好了吗？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
+https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69d7f994b977fb2c4789b1ac/media.xyzcdn.net/63d945ece725b5378a158d29/lhBTr7y_aDxfe5cDVkFXETi_WWVC.m4a
+https://jt.ximalaya.com//GKwRIJINrOzeAW3e4gSHbNOB.m4a?channel=rss&album_id=20119986&track_id=968927476&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d188-audiofreehighqps/83/41/GKwRIJINrOzeAW3e4gSHbNOB.m4a
+```
+
+</details>
+
+---
+
+### 9. 279 “甲午”的明治日本步步踩对 现在的高市早苗处处树敌？
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69d7d00de2c8be3155cee4e7/media.xyzcdn.net/5e9a4e25418a84a046bc6156/li9-OTtTCY51rZMwBDZZ9a3IVK_B.m4a
+```
+
+</details>
+
+---
+
+### 10. 云九资本袁语：智能的哥白尼时刻，要去找“天庭下凡”的人
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaINq5cGAis9xwSG27N1.m4a?channel=rss&album_id=74194808&track_id=968669137&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/214c-audiofreehighqps/37/39/GKwRIaINq5cGAis9xwSG27N1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaINq5cGAis9xwSG27N1.m4a?channel=rss&album_id=74194808&track_id=968669137&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/214c-audiofreehighqps/37/39/GKwRIaINq5cGAis9xwSG27N1.m4a
 ```
 
 </details>
