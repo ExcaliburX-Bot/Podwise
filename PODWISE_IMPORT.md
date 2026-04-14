@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-13 19:13:39
+> 📅 生成时间: 2026-04-14 02:30:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.246地铁不只是通勤路，也可以是行为艺术
+### 1. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_rHcSGdBBpxwFcxueQCqmGKWabZUhDQCMAYvGpthXWVAnDyJrsSLptdcAyt-2e.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_rHcSGdBBpxwFcxueQCqmGKWabZUhDQCMAYvGpthXWVAnDyJrsSLptdcAyt-2e.mp3
+```
+
+</details>
+
+---
+
+### 2. EP76 | 给 OpenClaw 发一张工牌的 Tom
+
+**播客名称**: 出海去孵化器
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
+```
+
+</details>
+
+---
+
+### 3. 第2988期:Black History Educational Toys
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNr3zgABqoDwSIdOkJ.m4a?channel=rss&album_id=14812466&track_id=969370082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6f8d-audiofreehighqps/7F/E2/GKwRIDoNr3zgABqoDwSIdOkJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNr3zgABqoDwSIdOkJ.m4a?channel=rss&album_id=14812466&track_id=969370082&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6f8d-audiofreehighqps/7F/E2/GKwRIDoNr3zgABqoDwSIdOkJ.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.246地铁不只是通勤路，也可以是行为艺术
 
 **播客名称**: 正经叭叭
 
@@ -46,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69dcf3fee2c8be31
 
 ---
 
-### 2. vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈
+### 6. vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -73,34 +181,7 @@ https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMau
 
 ---
 
-### 3. 第2987期:Massive Natural World Database
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENr3k0AA4XDASIczbX.m4a?channel=rss&album_id=14812466&track_id=969366666&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f623-audiofreehighqps/D3/EB/GKwRIUENr3k0AA4XDASIczbX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENr3k0AA4XDASIczbX.m4a?channel=rss&album_id=14812466&track_id=969366666&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f623-audiofreehighqps/D3/EB/GKwRIUENr3k0AA4XDASIczbX.m4a
-```
-
-</details>
-
----
-
-### 4. 885: Bless This Mess
+### 7. 885: Bless This Mess
 
 **播客名称**: This American Life
 
@@ -127,7 +208,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. 从削苹果到Scaling Law，机器人离“有手感”还有多远？-对谈Sharpa、NVIDIA-Vol94
+### 8. 从削苹果到Scaling Law，机器人离“有手感”还有多远？-对谈Sharpa、NVIDIA-Vol94
 
 **播客名称**: 脑放电波
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69db3b71b977fb2c
 
 ---
 
-### 6. BOOKstore Economics
+### 9. BOOKstore Economics
 
 **播客名称**: Planet Money
 
@@ -181,15 +262,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 345 简里里 x Jon Sperry｜阿德勒心理学：自卑、家庭与生活风格
+### 10. 136. 美团的零售破局：收购叮咚、挑战山姆盒马？
 
-**播客名称**: Blow Your Mind (BYM S02)
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
+https://rio.xyzcdn.net/crazycapital/ep136.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,88 +282,7 @@ https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=69903
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a
-```
-
-</details>
-
----
-
-### 8. E231 对话施展：为什么今天的我们，仍然需要一种和自己有关的宏大叙事？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be3155d3b0de/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-V5hF1rZQpD32eAMC_PVNPNt37.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69d85efbe2c8be3155d3b0de/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-V5hF1rZQpD32eAMC_PVNPNt37.m4a
-```
-
-</details>
-
----
-
-### 9. 465 从成化斗彩鸡缸杯到「瓷母」：刘越谈中国古瓷名品拍卖风云录
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be3155dccac9/media.xyzcdn.net/5e4ee557418a84a0466737b7/luq0fMTO1evk26QCBxzgKGfGYmWw.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69d8bc1de2c8be3155dccac9/media.xyzcdn.net/5e4ee557418a84a0466737b7/luq0fMTO1evk26QCBxzgKGfGYmWw.m4a
-```
-
-</details>
-
----
-
-### 10. 135. 和自然选择创始人Tristan聊，Elys、赛博分身、灵魂、Context的获取与流动和AI社交网络
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69d8bbdfe2c8be3155dcc2fe/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltwEGwVo7grn_V-Rft0TXlMqmcty.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69d8bbdfe2c8be3155dcc2fe/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltwEGwVo7grn_V-Rft0TXlMqmcty.m4a
+https://rio.xyzcdn.net/crazycapital/ep136.mp3
 ```
 
 </details>
