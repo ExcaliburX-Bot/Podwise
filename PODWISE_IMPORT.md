@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-14 13:25:04
+> 📅 生成时间: 2026-04-14 19:14:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 徐文浩：AGI 已经来了，接下来开始比赛分发
+### 1. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c47b033c0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lic8B7dkxTS3Qjrs6Af1RGBF4xRf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c47b033c0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lic8B7dkxTS3Qjrs6Af1RGBF4xRf.m4a
+```
+
+</details>
+
+---
+
+### 2. 徐文浩：AGI 已经来了，接下来开始比赛分发
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,34 @@ https://jt.ximalaya.com//GKwRIJENs3Y_AmKfggSJ9Mfa.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. Gemma4真相：它不是智能，是苦力！｜有端侧模型就不烧Token了？
+### 3. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a
+```
+
+</details>
+
+---
+
+### 4. 电子黑奴Gemma4：它不是智能，是苦力！｜有端侧模型就不烧Token了？
 
 **播客名称**: 人民公园说AI
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69de06d8b977fb2c
 
 ---
 
-### 3. EP76 | 给 OpenClaw 发一张工牌的 Tom
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
-```
-
-</details>
-
----
-
-### 4. 第2988期:Black History Educational Toys
+### 5. 第2988期:Black History Educational Toys
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +154,7 @@ https://jt.ximalaya.com//GKwRIDoNr3zgABqoDwSIdOkJ.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
+### 6. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
 
 **播客名称**: 文化有限
 
@@ -148,33 +175,6 @@ https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a
-```
-
-</details>
-
----
-
-### 6. vol.246地铁不只是通勤路，也可以是行为艺术
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69dcf3fee2c8be31551cf561/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo6Zdvvs0h1zvsYNdI4Z3T-sR-6T.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69dcf3fee2c8be31551cf561/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo6Zdvvs0h1zvsYNdI4Z3T-sR-6T.m4a
 ```
 
 </details>
