@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-15 02:29:14
+> 📅 生成时间: 2026-04-15 07:44:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
+### 1. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
+```
+
+</details>
+
+---
+
+### 2. 第2989期:Youth Horse Riding Program
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNr4AhAA4bHgSIdsg_.m4a?channel=rss&album_id=14812466&track_id=969372904&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cbbf-audiofreehighqps/52/34/GKwRIDoNr4AhAA4bHgSIdsg_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNr4AhAA4bHgSIdsg_.m4a?channel=rss&album_id=14812466&track_id=969372904&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cbbf-audiofreehighqps/52/34/GKwRIDoNr4AhAA4bHgSIdsg_.m4a
+```
+
+</details>
+
+---
+
+### 3. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c
 
 ---
 
-### 2. How to get through the Strait of Hormuz
+### 4. How to get through the Strait of Hormuz
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 徐文浩：AGI 已经来了，接下来开始比赛分发
+### 5. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c47b033c0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lic8B7dkxTS3Qjrs6Af1RGBF4xRf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c47b033c0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lic8B7dkxTS3Qjrs6Af1RGBF4xRf.m4a
+```
+
+</details>
+
+---
+
+### 6. 徐文浩：AGI 已经来了，接下来开始比赛分发
 
 **播客名称**: AI炼金术
 
@@ -100,61 +181,7 @@ https://jt.ximalaya.com//GKwRIJENs3Y_AmKfggSJ9Mfa.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a
-```
-
-</details>
-
----
-
-### 5. 电子黑奴Gemma4：它不是智能，是苦力！｜有端侧模型就不烧Token了？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69de06d8b977fb2c47e96e0d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liYcTlEbcBmI_82cBltL8tefsFx-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69de06d8b977fb2c47e96e0d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liYcTlEbcBmI_82cBltL8tefsFx-.m4a
-```
-
-</details>
-
----
-
-### 6. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
+### 7. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,15 +208,15 @@ https://tk.wavpub.com/WPDL_rHcSGdBBpxwFcxueQCqmGKWabZUhDQCMAYvGpthXWVAnDyJrsSLpt
 
 ---
 
-### 7. EP76 | 给 OpenClaw 发一张工牌的 Tom
+### 8. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
 
-**播客名称**: 出海去孵化器
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
+https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
+https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a
 ```
 
 </details>
 
 ---
 
-### 8. vol.246地铁不只是通勤路，也可以是行为艺术
+### 9. vol.246地铁不只是通勤路，也可以是行为艺术
 
 **播客名称**: 正经叭叭
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69dcf3fee2c8be31
 
 ---
 
-### 9. vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈
+### 10. 885: Bless This Mess
 
-**播客名称**: 无聊斋
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMau
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a
-```
-
-</details>
-
----
-
-### 10. 和NVIDIA、Sharpa谈灵巧手：从削苹果到Scaling Law，机器人离"有手感"还有多远？-Vol94
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69db3b71b977fb2c47b5bc82/media.xyzcdn.net/636669d51064cb55f31505fc/ln1s5xk8H0wF_heVhBVm0-FClS0H.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69db3b71b977fb2c47b5bc82/media.xyzcdn.net/636669d51064cb55f31505fc/ln1s5xk8H0wF_heVhBVm0-FClS0H.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache
 ```
 
 </details>
