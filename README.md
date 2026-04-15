@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-15 07:44  
+> 📅 **更新时间**: 2026-04-15 13:23  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+### 1. No.197 🏍 中国摩托车简史
 
-**播客**: 周末变奏 Key Change
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be315540f48a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgc_dpIZD1Rw_X0RKDBiV_r-mSo7.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c47f1ee14/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lh_CQyoSs_DztmYB5kmBjaPA6W9V.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. How to get through the Strait of Hormuz
+### 3. How to get through the Strait of Hormuz
 
 **播客**: Planet Money
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+### 4. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 徐文浩：AGI 已经来了，接下来开始比赛分发
+### 5. 徐文浩：AGI 已经来了，接下来开始比赛分发
 
 **播客**: AI炼金术
 
@@ -86,7 +73,33 @@
 
 ---
 
-### 7. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
+### 6. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 电子黑奴Gemma4：它不是智能，是苦力！｜有端侧模型就不烧Token了？
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69de06d8b977fb2c47e96e0d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liYcTlEbcBmI_82cBltL8tefsFx-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
 
 **播客**: Vibration 歪波音室
 
@@ -99,28 +112,15 @@
 
 ---
 
-### 8. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
+### 9. EP76 | 给 OpenClaw 发一张工牌的 Tom
 
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.246地铁不只是通勤路，也可以是行为艺术
-
-**播客**: 正经叭叭
+**播客**: 出海去孵化器
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69dcf3fee2c8be31551cf561/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo6Zdvvs0h1zvsYNdI4Z3T-sR-6T.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
