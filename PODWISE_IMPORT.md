@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-16 13:28:35
+> 📅 生成时间: 2026-04-16 19:12:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
+### 1. Vol.94 再不聊聊openclaw可能就不需要聊了---串台知本论
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e0d423b977fb2c471ea30c/media.xyzcdn.net/6507bc165c88d2412626b401/lsk7qaq_m0XT-I7PNuGgyfXs6ny4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e0d423b977fb2c471ea30c/media.xyzcdn.net/6507bc165c88d2412626b401/lsk7qaq_m0XT-I7PNuGgyfXs6ny4.m4a
+```
+
+</details>
+
+---
+
+### 2. 一堂给小学生的特别艺术课
+
+**播客名称**: 艺术有读
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd1902377/media.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd1902377/media.mp3
+```
+
+</details>
+
+---
+
+### 3. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31
 
 ---
 
-### 2. 第2990期:Smart Glasses: The Next Technological Leap
+### 4. 第2990期:Smart Glasses: The Next Technological Leap
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoNr4LOAA3dcwSIeNHe.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. No.197 🏍 中国摩托车简史
+### 5. No.197 🏍 中国摩托车简史
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be31
 
 ---
 
-### 4. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+### 6. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +181,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMe
 
 ---
 
-### 5. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
+### 7. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c
 
 ---
 
-### 6. How to get through the Strait of Hormuz
+### 8. How to get through the Strait of Hormuz
 
 **播客名称**: Planet Money
 
@@ -181,7 +235,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+### 9. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c
 
 ---
 
-### 8. 徐文浩：AGI 已经来了，接下来开始比赛分发
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENs3Y_AmKfggSJ9Mfa.m4a?channel=rss&album_id=74194808&track_id=970029642&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6556-audiofreehighqps/EA/65/GKwRIJENs3Y_AmKfggSJ9Mfa.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENs3Y_AmKfggSJ9Mfa.m4a?channel=rss&album_id=74194808&track_id=970029642&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6556-audiofreehighqps/EA/65/GKwRIJENs3Y_AmKfggSJ9Mfa.m4a
-```
-
-</details>
-
----
-
-### 9. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
+### 10. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a
-```
-
-</details>
-
----
-
-### 10. EP76 | 给 OpenClaw 发一张工牌的 Tom
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a
 ```
 
 </details>
