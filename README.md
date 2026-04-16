@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-16 07:44  
+> 📅 **更新时间**: 2026-04-16 13:28  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. No.197 🏍 中国摩托车简史
+### 2. 第2990期:Smart Glasses: The Next Technological Leap
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNr4LOAA3dcwSIeNHe.m4a?channel=rss&album_id=14812466&track_id=969374878&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c895-audiofreehighqps/C7/23/GKwRIDoNr4LOAA3dcwSIeNHe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.197 🏍 中国摩托车简史
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+### 4. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
 
 **播客**: 周末变奏 Key Change
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
+### 5. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. How to get through the Strait of Hormuz
+### 6. How to get through the Strait of Hormuz
 
 **播客**: Planet Money
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+### 7. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 徐文浩：AGI 已经来了，接下来开始比赛分发
+### 8. 徐文浩：AGI 已经来了，接下来开始比赛分发
 
 **播客**: AI炼金术
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
+### 9. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
 
 **播客**: 忽左忽右
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. EP76 | 给 OpenClaw 发一张工牌的 Tom
+### 10. EP76 | 给 OpenClaw 发一张工牌的 Tom
 
 **播客**: 出海去孵化器
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69dd2b71b977fb2c47daa6d1/media.xyzcdn.net/646a8c23023239d3851f5e70/lrQZtcOUTkY620KV1C0mU7yQkuxE.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
