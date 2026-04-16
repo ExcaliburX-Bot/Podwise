@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-16 02:35  
+> 📅 **更新时间**: 2026-04-16 07:44  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2990期:Smart Glasses: The Next Technological Leap
+### 1. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNr4LOAA3dcwSIeNHe.m4a?channel=rss&album_id=14812466&track_id=969374878&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c895-audiofreehighqps/C7/23/GKwRIDoNr4LOAA3dcwSIeNHe.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 徐文浩：AGI 已经来了，接下来开始比赛分发
+### 6. 具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69dae02ab977fb2c47b033c0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lic8B7dkxTS3Qjrs6Af1RGBF4xRf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 徐文浩：AGI 已经来了，接下来开始比赛分发
 
 **播客**: AI炼金术
 
@@ -86,20 +99,20 @@
 
 ---
 
-### 7. 神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量
+### 8. 466 悟空中队、鸿翔伞兵与笕桥精神：邹德怀谈抗战空军老照片收藏
 
-**播客**: Vibration 歪波音室
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_rHcSGdBBpxwFcxueQCqmGKWabZUhDQCMAYvGpthXWVAnDyJrsSLptdcAyt-2e.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69de00c4b977fb2c47e8c4c1/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpwhw3PoENPpV7eFPVREFoO2Bj6W.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. EP76 | 给 OpenClaw 发一张工牌的 Tom
+### 9. EP76 | 给 OpenClaw 发一张工牌的 Tom
 
 **播客**: 出海去孵化器
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
+### 10. Vol.330 金色笔记：人生崩溃了也没关系，可以慢慢拼｜2007诺奖得主
 
 **播客**: 文化有限
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENsVKHAttTygSJN2zm.m4a?channel=rss&album_id=29887212&track_id=969666236&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/0885-audiofreehighqps/F3/3E/GKwRIUENsVKHAttTygSJN2zm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
