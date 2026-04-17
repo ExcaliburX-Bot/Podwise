@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-17 07:45:17
+> 📅 生成时间: 2026-04-17 13:18:23
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 95.心声特辑：好朋友一起旅行的真心话和大冒险
+### 1. E232 对话严艺家：我们和我们内心的资本主义
 
-**播客名称**: 展开讲讲
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69e1ce8eb977fb2c472e3796/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-5waM8tc3tkgIZLEv7dM1jrR1c.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69e1ce8eb977fb2c472e3796/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-5waM8tc3tkgIZLEv7dM1jrR1c.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
+### 2. 467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lirVhsKBuTY8e4G8jPVkfIRDUGF1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lirVhsKBuTY8e4G8jPVkfIRDUGF1.m4a
+```
+
+</details>
+
+---
+
+### 3. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
+```
+
+</details>
+
+---
+
+### 4. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
 
 **播客名称**: 东亚观察局
 
@@ -73,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c
 
 ---
 
-### 3. 第2991期:NASA Probe Searches for Life on Mars
+### 5. 95.心声特辑：好朋友一起旅行的真心话和大冒险
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
+```
+
+</details>
+
+---
+
+### 6. 第2991期:NASA Probe Searches for Life on Mars
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,15 +181,15 @@ https://jt.ximalaya.com//GKwRIRwNr4XeABH-uASIej7D.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
+### 7. Vol.94 再不聊聊openclaw可能就不需要聊了---串台知本论
 
-**播客名称**: 搞钱女孩
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e0d423b977fb2c471ea30c/media.xyzcdn.net/6507bc165c88d2412626b401/lsk7qaq_m0XT-I7PNuGgyfXs6ny4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,41 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e0d423b977fb2c471ea30c/media.xyzcdn.net/6507bc165c88d2412626b401/lsk7qaq_m0XT-I7PNuGgyfXs6ny4.m4a
 ```
 
 </details>
 
 ---
 
-### 5. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119986&track_id=970530246&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/495a-audiofreehighqps/EF/E4/GKwRIaINtlNUARcojQSLFvmd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119986&track_id=970530246&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/495a-audiofreehighqps/EF/E4/GKwRIaINtlNUARcojQSLFvmd.m4a
-```
-
-</details>
-
----
-
-### 6. 一堂给小学生的特别艺术课
+### 8. 一堂给小学生的特别艺术课
 
 **播客名称**: 艺术有读
 
@@ -181,7 +235,34 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd19
 
 ---
 
-### 7. No.197 🏍 中国摩托车简史
+### 9. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a
+```
+
+</details>
+
+---
+
+### 10. No.197 🏍 中国摩托车简史
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be31
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be315540f48a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgc_dpIZD1Rw_X0RKDBiV_r-mSo7.m4a
-```
-
-</details>
-
----
-
-### 8. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
-```
-
-</details>
-
----
-
-### 9. 136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c47f1ee14/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lh_CQyoSs_DztmYB5kmBjaPA6W9V.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c47f1ee14/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lh_CQyoSs_DztmYB5kmBjaPA6W9V.m4a
-```
-
-</details>
-
----
-
-### 10. How to get through the Strait of Hormuz
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0b16f641-25cb-448f-ae03-296a00110cf6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0b16f641-25cb-448f-ae03-296a00110cf6&feed=hvWWWzRv&t=podcast&e=nx-s1-5785290&p=510289&d=1133&size=18135754
 ```
 
 </details>
