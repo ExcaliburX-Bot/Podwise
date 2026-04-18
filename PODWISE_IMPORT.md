@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-18 13:01:11
+> 📅 生成时间: 2026-04-18 18:51:22
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2992期:American teenager depicts the migrant crisis through art
+### 1. Do prediction market bettors make anything better?
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaINr4lzABiKNASIe_hv.m4a?channel=rss&album_id=14812466&track_id=969379170&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2640-audiofreehighqps/B7/68/GKwRIaINr4lzABiKNASIe_hv.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIaINr4lzABiKNASIe_hv.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaINr4lzABiKNASIe_hv.m4a?channel=rss&album_id=14812466&track_id=969379170&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2640-audiofreehighqps/B7/68/GKwRIaINr4lzABiKNASIe_hv.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
 ```
 
 </details>
@@ -127,61 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69
 
 ---
 
-### 5. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
-```
-
-</details>
-
----
-
-### 6. 95.心声特辑：好朋友一起旅行的真心话和大冒险
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
-```
-
-</details>
-
----
-
-### 7. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
+### 5. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
 
 **播客名称**: 东亚观察局
 
@@ -208,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c
 
 ---
 
-### 8. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
+### 6. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
+```
+
+</details>
+
+---
+
+### 7. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 一堂给小学生的特别艺术课
+### 8. 一堂给小学生的特别艺术课
 
 **播客名称**: 艺术有读
 
@@ -262,7 +235,7 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd19
 
 ---
 
-### 10. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
+### 9. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
 
 **播客名称**: 人民公园说AI
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a
+```
+
+</details>
+
+---
+
+### 10. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
 ```
 
 </details>
