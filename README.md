@@ -1,35 +1,35 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-18 07:06  
+> 📅 **更新时间**: 2026-04-18 13:01  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 103.为什么滋养我的，Often没那么高深
+### 1. 第2992期:American teenager depicts the migrant crisis through art
 
-**播客**: 喷嚏
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69e202931e94ae69217dbbcc/media.xyzcdn.net/605b0d5d64b27cf2f137f131/ljy2TYTOK_EP_4qgowVwie5JjyHe.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaINr4lzABiKNASIe_hv.m4a?channel=rss&album_id=14812466&track_id=969379170&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2640-audiofreehighqps/B7/68/GKwRIaINr4lzABiKNASIe_hv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. Do prediction market bettors make anything better?
+### 2. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
 
-**播客**: Planet Money
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496e7db5b12/media.xyzcdn.net/6507bc165c88d2412626b401/lhhgKyAxAgN2tvoeHO6pX7gtheYP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c472503ff/media.xyzcdn.net/5e9a4e25418a84a046bc6156/liejjlReNggg3ftW9877vV35XxGL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 95.心声特辑：好朋友一起旅行的真心话和大冒险
+### 6. 95.心声特辑：好朋友一起旅行的真心话和大冒险
 
 **播客**: 展开讲讲
 
@@ -99,20 +86,20 @@
 
 ---
 
-### 8. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
+### 7. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
 
-**播客**: 搞钱女孩
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c472503ff/media.xyzcdn.net/5e9a4e25418a84a046bc6156/liejjlReNggg3ftW9877vV35XxGL.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
+### 8. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
 
 **播客**: 创业内幕 Startup Insider
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. No.197 🏍 中国摩托车简史
+### 9. 一堂给小学生的特别艺术课
 
-**播客**: 半拿铁 | 商业沉浮录
+**播客**: 艺术有读
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be315540f48a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgc_dpIZD1Rw_X0RKDBiV_r-mSo7.m4a)
+- 🎵 [音频文件](https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd1902377/media.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
