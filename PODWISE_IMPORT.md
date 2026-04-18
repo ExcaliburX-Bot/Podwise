@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-17 18:59:35
+> 📅 生成时间: 2026-04-18 02:22:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
+### 1. Do prediction market bettors make anything better?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
+```
+
+</details>
+
+---
+
+### 2. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
 
 **播客名称**: 屠龙之术
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496
 
 ---
 
-### 2. E232 对话严艺家：我们和我们内心的资本主义
+### 3. E232 对话严艺家：我们和我们内心的资本主义
 
 **播客名称**: 知行小酒馆
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69e1ce8eb977fb2c
 
 ---
 
-### 3. 467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突
+### 4. 467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突
 
 **播客名称**: 忽左忽右
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69
 
 ---
 
-### 4. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
+### 5. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -121,33 +148,6 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aeda
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
-```
-
-</details>
-
----
-
-### 5. 95.心声特辑：好朋友一起旅行的真心话和大冒险
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c
 
 ---
 
-### 7. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
-```
-
-</details>
-
----
-
-### 8. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
+### 7. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 一堂给小学生的特别艺术课
+### 8. 一堂给小学生的特别艺术课
 
 **播客名称**: 艺术有读
 
@@ -256,6 +229,33 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd19
 音频链接（点击复制）:
 ```
 https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd1902377/media.mp3
+```
+
+</details>
+
+---
+
+### 9. 水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31555998b9/media.xyzcdn.net/FqkVD-IEcmSeiVCfh7y7GVdxWdHS.m4a
 ```
 
 </details>
