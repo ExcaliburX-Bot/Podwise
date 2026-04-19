@@ -20,16 +20,6 @@
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
-    "eid": "O6pX7gtheYP.m4a",
-    "title": "Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经",
-    "podcast": {
-      "title": "屠龙之术"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496e7db5b12/media.xyzcdn.net/6507bc165c88d2412626b401/lhhgKyAxAgN2tvoeHO6pX7gtheYP.m4a",
-    "pubDate": "2026-04-17T16:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
-  },
-  {
     "eid": "Ev7dM1jrR1c.m4a",
     "title": "E232 对话严艺家：我们和我们内心的资本主义",
     "podcast": {
@@ -40,16 +30,6 @@
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "eid": "bhiNkNLx2h6.m4a",
-    "title": "467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq8TKO0CRt73yt_S0bhiNkNLx2h6.m4a",
-    "pubDate": "2026-04-17T09:44:28+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
     "eid": "184570cefc8.mp3",
     "title": "160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙",
     "podcast": {
@@ -58,6 +38,16 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3",
     "pubDate": "2026-04-17T09:30:00+08:00",
     "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
+    "eid": "G85S74DKszd.m4a",
+    "title": "95.心声特辑：好朋友一起旅行的真心话和大冒险",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69e0ea1bb977fb2c4720da41/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lrP27kNApMvrOuPMUG85S74DKszd.m4a",
+    "pubDate": "2026-04-17T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
     "eid": "877vV35XxGL.m4a",
@@ -90,6 +80,16 @@
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
+    "eid": "02377/media.mp3",
+    "title": "一堂给小学生的特别艺术课",
+    "podcast": {
+      "title": "艺术有读"
+    },
+    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69dffe2b2fdc372bd1902377/media.mp3",
+    "pubDate": "2026-04-16T09:53:32+00:00",
+    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
+  },
+  {
     "eid": "7y7GVdxWdHS.m4a",
     "title": "水！吃着爱马仕小龙虾，收藏Claude Code源码 ，AI 界的“艳照门”爷青回！",
     "podcast": {
@@ -120,6 +120,16 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
+    "eid": "kmBjaPA6W9V.m4a",
+    "title": "136. 全球大模型季报第9集：和广密聊，Coding是AGI第二幕、硅谷御三家真相、模型正成为新一代OS",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69de68cfb977fb2c47f1ee14/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lh_CQyoSs_DztmYB5kmBjaPA6W9V.m4a",
+    "pubDate": "2026-04-14T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
     "eid": "Af1RGBF4xRf.m4a",
     "title": "具身智能的滔天大泡沫中，他已经把机器人送进300个家庭｜对话张翼：未来不远创始人/CEO",
     "podcast": {
@@ -138,16 +148,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENs3Y_AmKfggSJ9Mfa.m4a?channel=rss&album_id=74194808&track_id=970029642&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6556-audiofreehighqps/EA/65/GKwRIJENs3Y_AmKfggSJ9Mfa.m4a",
     "pubDate": "2026-04-14T12:30:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
-    "eid": "LptdcAyt-2e.mp3",
-    "title": "神专系列丨伍佰《梦的河流》：反映时代的真实，给出勇气和力量",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPDL_rHcSGdBBpxwFcxueQCqmGKWabZUhDQCMAYvGpthXWVAnDyJrsSLptdcAyt-2e.mp3",
-    "pubDate": "2026-04-14T06:00:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "C0mU7yQkuxE.m4a",
@@ -180,6 +180,26 @@
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
+    "eid": "MauyAaRb-33.m4a",
+    "title": "vol.580 当INFJ遇上ESTP：什吗！经过疲惫的一周，一场热闹的社交正是你所需要的？？？｜老友闲谈",
+    "podcast": {
+      "title": "无聊斋"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_wAzNqavFseHAZZwNvaTvgaQeLdrjvsJpebRZqgDEvgYpfVvpThMauyAaRb-33.m4a",
+    "pubDate": "2026-04-13T00:00:00+08:00",
+    "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
+  },
+  {
+    "eid": "a8f2435&nocache",
+    "title": "885: Bless This Mess",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=f2a4a8d9-a9ad-47b4-8f83-5617fa8f2435&nocache",
+    "pubDate": "2026-04-12T18:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
     "eid": "BVm0-FClS0H.m4a",
     "title": "和NVIDIA、Sharpa谈灵巧手：从削苹果到Scaling Law，机器人离\"有手感\"还有多远？-Vol94",
     "podcast": {
@@ -200,16 +220,6 @@
     "source_rss": "https://crazy.capital/feed"
   },
   {
-    "eid": "ix69wSIMFAA.m4a",
-    "title": "345 简里里 x Jon Sperry｜阿德勒心理学：自卑、家庭与生活风格",
-    "podcast": {
-      "title": "Blow Your Mind (BYM S02)"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUENrrIRAix69wSIMFAA.m4a?channel=rss&album_id=6990384&track_id=969253632&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/7982-audiofreehighqps/9D/B7/GKwRIUENrrIRAix69wSIMFAA.m4a",
-    "pubDate": "2026-04-10T12:34:52+00:00",
-    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
-  },
-  {
     "eid": "3o9Kz6dv0Uv.m4a",
     "title": "252.多动症孩子患上抑郁症休学，密集母职妈妈做了哪些改变？｜学员对谈04",
     "podcast": {
@@ -218,16 +228,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69d7af9ee2c8be3155cc1acd/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liiln9juM0SYaNKt63o9Kz6dv0Uv.m4a",
     "pubDate": "2026-04-10T00:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
-  },
-  {
-    "eid": "7b695c029eb.mp3",
-    "title": "【随机波动168】有一天我们衰老、脆弱或失能，人生就不值得过了吗？",
-    "podcast": {
-      "title": "随机波动StochasticVolatility"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/a77b9ec5-f0fb-4a3a-8f06-97b695c029eb.mp3",
-    "pubDate": "2026-04-08T12:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
     "eid": "IyJK5dn1Sqc.m4a",
@@ -248,16 +248,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69d37a0ab977fb2c47351246/media.xyzcdn.net/5eae66d1418a84a046472b4d/lvlkE5UNbtbXgsHSGas4zL2y6IK3.m4a",
     "pubDate": "2026-04-06T09:20:29+00:00",
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
-  },
-  {
-    "eid": "C7o_1MexUax.m4a",
-    "title": "EP124 为什么 Agent 时代，CLI 反而成了最优解？⚡",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69caa449e2c8be3155f03013/media.xyzcdn.net/640ee2438be5d40013fe4a87/luFh0-OXXXQTHJ_GUC7o_1MexUax.m4a",
-    "pubDate": "2026-03-30T16:34:33+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "2ThkpQbdeNe.m4a",
@@ -298,5 +288,15 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69a959cdc8cdeb38c2f4ee25/media.xyzcdn.net/5e7c9577418a84a04606b797/lqS2BZ54G2mnGVwR0lxewcgiB3uD.m4a",
     "pubDate": "2026-03-05T10:53:24+00:00",
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
+  },
+  {
+    "eid": "d2af9a745a1.mp3",
+    "title": "62 从红楼到还珠再到你我，奔涌向前的女性",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/116269764/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-2%2Fb4477a78-9381-7c8d-0b95-9d2af9a745a1.mp3",
+    "pubDate": "2026-03-03T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   }
 ]
