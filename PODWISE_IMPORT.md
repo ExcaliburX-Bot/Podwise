@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-18 18:51:22
+> 📅 生成时间: 2026-04-19 02:36:57
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Do prediction market bettors make anything better?
+### 1. 第2993期:ADA protects people with disabilities from discrimination.
 
-**播客名称**: Planet Money
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
+https://jt.ximalaya.com//GKwRIRwNr4zbABjWjwSIfXcB.m4a?channel=rss&album_id=14812466&track_id=969381513&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e595-audiofreehighqps/34/15/GKwRIRwNr4zbABjWjwSIfXcB.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
+https://jt.ximalaya.com//GKwRIRwNr4zbABjWjwSIfXcB.m4a?channel=rss&album_id=14812466&track_id=969381513&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e595-audiofreehighqps/34/15/GKwRIRwNr4zbABjWjwSIfXcB.m4a
 ```
 
 </details>
 
 ---
 
-### 2. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
+### 2. 103.为什么滋养我的，Often没那么高深
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69e202931e94ae69217dbbcc/media.xyzcdn.net/605b0d5d64b27cf2f137f131/ljy2TYTOK_EP_4qgowVwie5JjyHe.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69e202931e94ae69217dbbcc/media.xyzcdn.net/605b0d5d64b27cf2f137f131/ljy2TYTOK_EP_4qgowVwie5JjyHe.m4a
+```
+
+</details>
+
+---
+
+### 3. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
 
 **播客名称**: 屠龙之术
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496e7db5b12/media.xyzcdn.net/6507bc165c88d2412626b401/lhhgKyAxAgN2tvoeHO6pX7gtheYP.m4a
-```
-
-</details>
-
----
-
-### 3. E232 对话严艺家：我们和我们内心的资本主义
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69e1ce8eb977fb2c472e3796/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-5waM8tc3tkgIZLEv7dM1jrR1c.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69e1ce8eb977fb2c472e3796/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lp-5waM8tc3tkgIZLEv7dM1jrR1c.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69
 
 ---
 
-### 5. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
+### 5. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
+```
+
+</details>
+
+---
+
+### 6. 280 国内对手烂 国外川普癫：韩国总统李在明太稳了？
 
 **播客名称**: 东亚观察局
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69e13daeb977fb2c
 
 ---
 
-### 6. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
+### 7. 对话李欣频：从创伤到创富，AI时代的新财富自由之路
 
 **播客名称**: 搞钱女孩
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e132b9e2c8be31556aaf19/media.xyzcdn.net/63d945ece725b5378a158d29/lnEAOoKUl7PkRUxGTPNFWzU6WCYY.m4a
-```
-
-</details>
-
----
-
-### 7. S8 Vol.4 群核科技黄晓煌：十五年磨一剑，迎接空间智能新纪元
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119986&track_id=970530246&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/495a-audiofreehighqps/EF/E4/GKwRIaINtlNUARcojQSLFvmd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaINtlNUARcojQSLFvmd.m4a?channel=rss&album_id=20119986&track_id=970530246&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/495a-audiofreehighqps/EF/E4/GKwRIaINtlNUARcojQSLFvmd.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e06842e2c8be31
 
 ---
 
-### 10. 短篇选和瞬间们：用尽全身气力和热情，高呼音乐万岁
+### 10. No.197 🏍 中国摩托车简史
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be315540f48a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgc_dpIZD1Rw_X0RKDBiV_r-mSo7.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMe
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Njg5NSwidCI6MX0.DGZqpF__Hjl7CoTBi41hrMeb1dw/keychangefm/8223857930_566298.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69df1b1fe2c8be315540f48a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgc_dpIZD1Rw_X0RKDBiV_r-mSo7.m4a
 ```
 
 </details>
