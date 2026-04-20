@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-20 13:28:06
+> 📅 生成时间: 2026-04-20 19:04:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
+### 1. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
+
+**播客名称**: 硬地骇客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
+```
+
+</details>
+
+---
+
+### 2. 亲历机器人马拉松：破纪录、狂欢与20个被忽视的洞察-Vol95
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
+```
+
+</details>
+
+---
+
+### 3. 137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep137.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep137.mp3
+```
+
+</details>
+
+---
+
+### 4. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
 
 **播客名称**: 出海去孵化器
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496
 
 ---
 
-### 2. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
+### 5. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
 
 **播客名称**: 无聊斋
 
@@ -73,7 +154,7 @@ https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYdu
 
 ---
 
-### 3. 第2994期:How micro-dramas could revolutionise our viewing habits
+### 6. 第2994期:How micro-dramas could revolutionise our viewing habits
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +181,7 @@ https://jt.ximalaya.com//GKwRIaINugw3ABG-GgSMhXL7.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 393: Infidelity
+### 7. 393: Infidelity
 
 **播客名称**: This American Life
 
@@ -127,7 +208,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. “你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料
+### 8. “你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c
 
 ---
 
-### 6. 103.为什么滋养我的，Often没那么高深
+### 9. 103.为什么滋养我的，Often没那么高深
 
 **播客名称**: 喷嚏
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69e202931e94ae69
 
 ---
 
-### 7. Do prediction market bettors make anything better?
+### 10. Do prediction market bettors make anything better?
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000
-```
-
-</details>
-
----
-
-### 8. Vol.95 视频模型内卷、Agent爆发与大厂的焦虑---串台进击波财经
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496e7db5b12/media.xyzcdn.net/6507bc165c88d2412626b401/lhhgKyAxAgN2tvoeHO6pX7gtheYP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e224c91d989496e7db5b12/media.xyzcdn.net/6507bc165c88d2412626b401/lhhgKyAxAgN2tvoeHO6pX7gtheYP.m4a
-```
-
-</details>
-
----
-
-### 9. 467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq8TKO0CRt73yt_S0bhiNkNLx2h6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq8TKO0CRt73yt_S0bhiNkNLx2h6.m4a
-```
-
-</details>
-
----
-
-### 10. 160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3
 ```
 
 </details>
