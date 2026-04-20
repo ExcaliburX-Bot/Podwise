@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T18:51:28.467053",
+  "generated_at": "2026-04-20T02:37:31.104661",
   "total_count": 10,
   "episodes": [
     {
@@ -14,6 +14,26 @@
     },
     {
       "rank": 2,
+      "title": "第2994期:How micro-dramas could revolutionise our viewing habits",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaINugw3ABG-GgSMhXL7.m4a?channel=rss&album_id=14812466&track_id=971165062&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8d99-audiofreehighqps/94/2B/GKwRIaINugw3ABG-GgSMhXL7.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "393: Infidelity",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
       "title": "“你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c470e4136/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHl1-hY1GwtainUjjgf8XBS4FYH.m4a",
@@ -23,30 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "第2993期:ADA protects people with disabilities from discrimination.",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwNr4zbABjWjwSIfXcB.m4a?channel=rss&album_id=14812466&track_id=969381513&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e595-audiofreehighqps/34/15/GKwRIRwNr4zbABjWjwSIfXcB.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "103.为什么滋养我的，Often没那么高深",
       "podcast": "喷嚏",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69e202931e94ae69217dbbcc/media.xyzcdn.net/605b0d5d64b27cf2f137f131/ljy2TYTOK_EP_4qgowVwie5JjyHe.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "Do prediction market bettors make anything better?",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/776721b2-dfb6-46f4-ad6b-f7e8ad3df60f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=776721b2-dfb6-46f4-ad6b-f7e8ad3df60f&feed=hvWWWzRv&t=podcast&e=nx-s1-5789382&p=510289&d=1945&size=31123000",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,9 +74,9 @@
     },
     {
       "rank": 8,
-      "title": "467 霍尔木兹海峡千年史：从苏美尔文明、葡萄牙大征服到现代中东冲突",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e1fb9c1e94ae69217d20ec/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq8TKO0CRt73yt_S0bhiNkNLx2h6.m4a",
+      "title": "160: 群核IPO后与黄晓煌聊这15年：被嫌弃的GPU、冠军酷家乐、空间智能、六小龙",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/aedaf6bd-54e1-41d8-ab81-0184570cefc8.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
