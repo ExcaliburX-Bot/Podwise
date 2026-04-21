@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-21 13:25:11
+> 📅 生成时间: 2026-04-21 19:10:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 助眠电台｜04
+### 1. 63 当女性去世界游荡，Women就会欢聚一堂
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F1e6e1418-9798-c0b7-ef7a-237ef8c4b7d9.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F1e6e1418-9798-c0b7-ef7a-237ef8c4b7d9.mp3
+```
+
+</details>
+
+---
+
+### 2. 助眠电台｜04
 
 **播客名称**: 得意忘形
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae69
 
 ---
 
-### 2. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
+### 3. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496
 
 ---
 
-### 3. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
+### 4. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +127,34 @@ https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcja
 
 ---
 
-### 4. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
+### 5. 第2995期:Do birds build their homes like humans?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJINug7sABLfYwSMhwGC.m4a?channel=rss&album_id=14812466&track_id=971167512&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7002-audiofreehighqps/09/F8/GKwRIJINug7sABLfYwSMhwGC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJINug7sABLfYwSMhwGC.m4a?channel=rss&album_id=14812466&track_id=971167512&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7002-audiofreehighqps/09/F8/GKwRIJINug7sABLfYwSMhwGC.m4a
+```
+
+</details>
+
+---
+
+### 6. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
 
 **播客名称**: 文化有限
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
+### 7. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
 
 **播客名称**: 硬地骇客
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae69
 
 ---
 
-### 6. vol.247你家软装没被坑？那你应该是硬装
+### 8. 137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费
 
-**播客名称**: 正经叭叭
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrQ_GcefL1Ig3NXtOdSmpX3XGVya.m4a
+https://rio.xyzcdn.net/crazycapital/ep137.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,41 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrQ_GcefL1Ig3NXtOdSmpX3XGVya.m4a
+https://rio.xyzcdn.net/crazycapital/ep137.mp3
 ```
 
 </details>
 
 ---
 
-### 7. 亲历机器人马拉松：破纪录、狂欢与20个被忽视的洞察-Vol95
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
-```
-
-</details>
-
----
-
-### 8. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
+### 9. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
 
 **播客名称**: 出海去孵化器
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496
 
 ---
 
-### 9. 137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的
+### 10. 137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496e7fecc7b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lha_FAiWxTGet0QMbcOSts3cb5Vb.m4a
-```
-
-</details>
-
----
-
-### 10. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYduWSkTm-21.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYduWSkTm-21.m4a
 ```
 
 </details>
