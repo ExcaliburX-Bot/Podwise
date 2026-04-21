@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-21 07:49:07
+> 📅 生成时间: 2026-04-21 13:25:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
+### 1. 助眠电台｜04
+
+**播客名称**: 得意忘形
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a
+```
+
+</details>
+
+---
+
+### 2. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
+```
+
+</details>
+
+---
+
+### 3. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,34 +100,7 @@ https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcja
 
 ---
 
-### 2. 第2995期:Do birds build their homes like humans?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINug7sABLfYwSMhwGC.m4a?channel=rss&album_id=14812466&track_id=971167512&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7002-audiofreehighqps/09/F8/GKwRIJINug7sABLfYwSMhwGC.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINug7sABLfYwSMhwGC.m4a?channel=rss&album_id=14812466&track_id=971167512&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7002-audiofreehighqps/09/F8/GKwRIJINug7sABLfYwSMhwGC.m4a
-```
-
-</details>
-
----
-
-### 3. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
+### 4. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
 
 **播客名称**: 文化有限
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887
 
 ---
 
-### 4. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
+### 5. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
 
 **播客名称**: 硬地骇客
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae69
 
 ---
 
-### 5. vol.247你家软装没被坑？那你应该是硬装
+### 6. vol.247你家软装没被坑？那你应该是硬装
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae69
 
 ---
 
-### 6. 亲历机器人马拉松：破纪录、狂欢与20个被忽视的洞察-Vol95
+### 7. 亲历机器人马拉松：破纪录、狂欢与20个被忽视的洞察-Vol95
 
 **播客名称**: 脑放电波
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496
 
 ---
 
-### 7. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
+### 8. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
 
 **播客名称**: 出海去孵化器
 
@@ -208,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496
 
 ---
 
-### 8. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
+### 9. 137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496e7fecc7b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lha_FAiWxTGet0QMbcOSts3cb5Vb.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496e7fecc7b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lha_FAiWxTGet0QMbcOSts3cb5Vb.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
 
 **播客名称**: 无聊斋
 
@@ -229,60 +283,6 @@ https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYdu
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYduWSkTm-21.m4a
-```
-
-</details>
-
----
-
-### 9. 393: Infidelity
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache
-```
-
-</details>
-
----
-
-### 10. “你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c470e4136/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHl1-hY1GwtainUjjgf8XBS4FYH.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c470e4136/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHl1-hY1GwtainUjjgf8XBS4FYH.m4a
 ```
 
 </details>
