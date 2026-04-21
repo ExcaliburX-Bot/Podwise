@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-21 02:32:50
+> 📅 生成时间: 2026-04-21 07:49:07
 > 📊 总计: 10 个播客
 
 ---
@@ -208,34 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496
 
 ---
 
-### 8. 137. 对洪乐潼的4小时访谈：AI for Math、把数学变成Lean、数学天书中的证明、直觉、被创造与被发现的
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496e7fecc7b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lha_FAiWxTGet0QMbcOSts3cb5Vb.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69e4e6951d989496e7fecc7b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lha_FAiWxTGet0QMbcOSts3cb5Vb.m4a
-```
-
-</details>
-
----
-
-### 9. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
+### 8. vol.581 见面聊聊｜本来聊的是“爱海爱海爱海哟”，但奈何XX人真是太！坏！了！
 
 **播客名称**: 无聊斋
 
@@ -262,7 +235,7 @@ https://tk.wavpub.com/WPDL_rmzKdTgqmjCuwPMRZfLFMSrmAXpSUUKUTbXzKuUwjqLdDJBhaPYdu
 
 ---
 
-### 10. 393: Infidelity
+### 9. 393: Infidelity
 
 **播客名称**: This American Life
 
@@ -283,6 +256,33 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/88122e0e-0b8d-421b-ac4f-e3bbb8f6533b/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=88122e0e-0b8d-421b-ac4f-e3bbb8f6533b&nocache
+```
+
+</details>
+
+---
+
+### 10. “你有一把能够挖出金子的铲子，肯定不会先给别人用”｜对谈开物纪陆子恒：用AI发明新材料
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c470e4136/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHl1-hY1GwtainUjjgf8XBS4FYH.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e0344eb977fb2c470e4136/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHl1-hY1GwtainUjjgf8XBS4FYH.m4a
 ```
 
 </details>
