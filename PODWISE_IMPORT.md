@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-22 13:25:42
+> 📅 生成时间: 2026-04-22 19:12:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机信箱·地球日】我在世界上有棵树
+### 1. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e430
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
 ```
 
 </details>
 
 ---
 
-### 2. Live: Anthropic co-founder on AI and jobs
+### 2. No.198 🛍️ 电商三国之拼多多篇：五环外起青萍末，十年撼动巨擘间 | 中国互联网故事18
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae6921e03bce/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liuo1qV4OdLF_PyIeTl3K7ageTvl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae6921e03bce/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liuo1qV4OdLF_PyIeTl3K7ageTvl.m4a
+```
+
+</details>
+
+---
+
+### 3. Live: Anthropic co-founder on AI and jobs
 
 **播客名称**: Planet Money
 
@@ -73,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
+### 4. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
 
 **播客名称**: 贝望录
 
@@ -100,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69e5cfdf1d989496
 
 ---
 
-### 4. 63 当女性去世界游荡，Women就会欢聚一堂
+### 5. 第2996期:World's longest coastal path opened by King Charles
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNuhCdAASxawSMh88W.m4a?channel=rss&album_id=14812466&track_id=971168731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dce-audiofreehighqps/06/FF/GKwRIDoNuhCdAASxawSMh88W.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNuhCdAASxawSMh88W.m4a?channel=rss&album_id=14812466&track_id=971168731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dce-audiofreehighqps/06/FF/GKwRIDoNuhCdAASxawSMh88W.m4a
+```
+
+</details>
+
+---
+
+### 6. 63 当女性去世界游荡，Women就会欢聚一堂
 
 **播客名称**: 放学以后After school
 
@@ -127,7 +181,7 @@ https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 5. 助眠电台｜04
+### 7. 助眠电台｜04
 
 **播客名称**: 得意忘形
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae69
 
 ---
 
-### 6. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
+### 8. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
 
-**播客名称**: 硬地骇客
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,22 +228,22 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
 ```
 
 </details>
 
 ---
 
-### 7. vol.247你家软装没被坑？那你应该是硬装
+### 9. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
 
-**播客名称**: 正经叭叭
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh4InfYm640uGwfum_1Pd_PS0Jji.m4a
+https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcjaUxrVm-da.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh4InfYm640uGwfum_1Pd_PS0Jji.m4a
+https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcjaUxrVm-da.mp3
 ```
 
 </details>
 
 ---
 
-### 8. 亲历机器人马拉松：破纪录、狂欢与20个被忽视的洞察-Vol95
+### 10. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
 
-**播客名称**: 脑放电波
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
+https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/69e62af81d989496e7151289/media.xyzcdn.net/636669d51064cb55f31505fc/lsG8VxpbEnlLe3LNn2YKG-OJiqX7.m4a
-```
-
-</details>
-
----
-
-### 9. 137. 从顺德猪肉婆到韩国圣水洞：那些AI无法取代的体验消费
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep137.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep137.mp3
-```
-
-</details>
-
----
-
-### 10. EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长
-
-**播客名称**: 出海去孵化器
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496e70e74ca/media.xyzcdn.net/646a8c23023239d3851f5e70/lvoEqc0wrLjBgF7sbynXhyBpXSVu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496e70e74ca/media.xyzcdn.net/646a8c23023239d3851f5e70/lvoEqc0wrLjBgF7sbynXhyBpXSVu.m4a
+https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
 ```
 
 </details>
