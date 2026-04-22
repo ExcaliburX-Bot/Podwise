@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-22 02:31  
+> 📅 **更新时间**: 2026-04-22 07:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
+### 1. 【随机信箱·地球日】我在世界上有棵树
 
-**播客**: 贝望录
+**播客**: 随机波动StochasticVolatility
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69e5cfdf1d989496e70cc0c4/media.xyzcdn.net/5e285856418a84a04627b7be/lj8MoNNZHxHSDIYSluTnntJ7R6U9.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 第2996期:World's longest coastal path opened by King Charles
+### 2. Live: Anthropic co-founder on AI and jobs
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第2996期:World's longest coastal path opened by King Charles
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 264.库克的道德锚点
+### 4. 264.库克的道德锚点
 
 **播客**: 乱翻书
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69e7cc921e94ae6921d5683b/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg3T77R6ajM31WcSdV1zE6C8hHj0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 63 当女性去世界游荡，Women就会欢聚一堂
-
-**播客**: 放学以后After school
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F1e6e1418-9798-c0b7-ef7a-237ef8c4b7d9.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -120,7 +120,7 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrQ_GcefL1Ig3NXtOdSmpX3XGVya.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69e63bab1e94ae6921bb3cb3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lh4InfYm640uGwfum_1Pd_PS0Jji.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
