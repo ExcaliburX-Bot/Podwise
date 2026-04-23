@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-22 19:12:11
+> 📅 生成时间: 2026-04-23 02:34:12
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
+### 1. 第2997期:Investing in Africa yields huge profits.
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
+https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812466&track_id=971173126&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/858e-audiofreehighqps/E1/32/GKwRIMANuhVYABQ3AgSMih8f.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
+https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812466&track_id=971173126&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/858e-audiofreehighqps/E1/32/GKwRIMANuhVYABQ3AgSMih8f.m4a
 ```
 
 </details>
 
 ---
 
-### 2. No.198 🛍️ 电商三国之拼多多篇：五环外起青萍末，十年撼动巨擘间 | 中国互联网故事18
+### 2. 勇敢做AI浪潮里的一朵小浪花，搞钱没有天花板 | 深圳听友会
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e953321e94ae6921ed3394/media.xyzcdn.net/63d945ece725b5378a158d29/lrcvwotvFX5vqFXluxYUFKIbRcA8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e953321e94ae6921ed3394/media.xyzcdn.net/63d945ece725b5378a158d29/lrcvwotvFX5vqFXluxYUFKIbRcA8.m4a
+```
+
+</details>
+
+---
+
+### 3. 【随机信箱·地球日】我在世界上有棵树
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
+```
+
+</details>
+
+---
+
+### 4. No.198 🛍️ 电商三国之拼多多篇：五环外起青萍末，十年撼动巨擘间 | 中国互联网故事18
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae69
 
 ---
 
-### 3. Live: Anthropic co-founder on AI and jobs
+### 5. Live: Anthropic co-founder on AI and jobs
 
 **播客名称**: Planet Money
 
@@ -94,60 +148,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/84058b82-a902-4386-a805-559b5d745329/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=84058b82-a902-4386-a805-559b5d745329&feed=hvWWWzRv&t=podcast&e=nx-s1-5794326&p=510289&d=1785&size=28565926
-```
-
-</details>
-
----
-
-### 4. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69e5cfdf1d989496e70cc0c4/media.xyzcdn.net/5e285856418a84a04627b7be/lj8MoNNZHxHSDIYSluTnntJ7R6U9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69e5cfdf1d989496e70cc0c4/media.xyzcdn.net/5e285856418a84a04627b7be/lj8MoNNZHxHSDIYSluTnntJ7R6U9.m4a
-```
-
-</details>
-
----
-
-### 5. 第2996期:World's longest coastal path opened by King Charles
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoNuhCdAASxawSMh88W.m4a?channel=rss&album_id=14812466&track_id=971168731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dce-audiofreehighqps/06/FF/GKwRIDoNuhCdAASxawSMh88W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoNuhCdAASxawSMh88W.m4a?channel=rss&album_id=14812466&track_id=971168731&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dce-audiofreehighqps/06/FF/GKwRIDoNuhCdAASxawSMh88W.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcja
 
 ---
 
-### 10. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
+### 10. EP125 12 个问题，搞懂 Vibe Coding 爆火真相：人人能做产品？👨‍💻
 
-**播客名称**: 文化有限
+**播客名称**: 硬地骇客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/69e669001e94ae6921be04dc/media.xyzcdn.net/640ee2438be5d40013fe4a87/lkOkPR2Gs-GE3NsQhhlNEukEbc78.m4a
 ```
 
 </details>
