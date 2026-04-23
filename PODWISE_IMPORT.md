@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-23 07:51:10
+> 📅 生成时间: 2026-04-23 13:27:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2997期:Investing in Africa yields huge profits.
+### 1. AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812466&track_id=971173126&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/858e-audiofreehighqps/E1/32/GKwRIMANuhVYABQ3AgSMih8f.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812466&track_id=971173126&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/858e-audiofreehighqps/E1/32/GKwRIMANuhVYABQ3AgSMih8f.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 勇敢做AI浪潮里的一朵小浪花，搞钱没有天花板 | 深圳听友会
+### 2. Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69e9cc161d989496e752d932/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ludFlvAw7lId_tCi9GaGBbXOBVtz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69e9cc161d989496e752d932/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ludFlvAw7lId_tCi9GaGBbXOBVtz.m4a
+```
+
+</details>
+
+---
+
+### 3. Agent\TPU\生态\安全\开放，Google Cloud到底在bet什么？-Google Cloud Next速记
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e9b86a1e94ae6921f519d1/media.xyzcdn.net/6507bc165c88d2412626b401/lrvDMZkfyCGCm6A3gLiv2su9Oq8O.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e9b86a1e94ae6921f519d1/media.xyzcdn.net/6507bc165c88d2412626b401/lrvDMZkfyCGCm6A3gLiv2su9Oq8O.m4a
+```
+
+</details>
+
+---
+
+### 4. 勇敢做AI浪潮里的一朵小浪花，搞钱没有天花板 | 深圳听友会
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69e953321e94ae69
 
 ---
 
-### 3. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
+### 5. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
 
 **播客名称**: 十字路口Crossing
 
@@ -100,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae69
 
 ---
 
-### 4. Live: Anthropic co-founder on AI and jobs
+### 6. No.198 🛍️ 电商三国之拼多多篇：五环外起青萍末，十年撼动巨擘间 | 中国互联网故事18
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae6921e03bce/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liuo1qV4OdLF_PyIeTl3K7ageTvl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae6921e03bce/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liuo1qV4OdLF_PyIeTl3K7ageTvl.m4a
+```
+
+</details>
+
+---
+
+### 7. Live: Anthropic co-founder on AI and jobs
 
 **播客名称**: Planet Money
 
@@ -127,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
+### 8. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
 
 **播客名称**: 贝望录
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69e5cfdf1d989496
 
 ---
 
-### 6. 63 当女性去世界游荡，Women就会欢聚一堂
+### 9. 63 当女性去世界游荡，Women就会欢聚一堂
 
 **播客名称**: 放学以后After school
 
@@ -181,61 +262,7 @@ https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 7. 助眠电台｜04
-
-**播客名称**: 得意忘形
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a
-```
-
-</details>
-
----
-
-### 8. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a
-```
-
-</details>
-
----
-
-### 9. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
+### 10. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
 
 **播客名称**: Vibration 歪波音室
 
@@ -256,33 +283,6 @@ https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcja
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcjaUxrVm-da.mp3
-```
-
-</details>
-
----
-
-### 10. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a
 ```
 
 </details>

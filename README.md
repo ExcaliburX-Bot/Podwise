@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-23 07:51  
+> 📅 **更新时间**: 2026-04-23 13:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第2997期:Investing in Africa yields huge profits.
+### 1. AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANuhVYABQ3AgSMih8f.m4a?channel=rss&album_id=14812466&track_id=971173126&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/858e-audiofreehighqps/E1/32/GKwRIMANuhVYABQ3AgSMih8f.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 勇敢做AI浪潮里的一朵小浪花，搞钱没有天花板 | 深圳听友会
+### 2. Musical.ly如何成为 TikTok？PM眼中的字节产品文化和全球化之路｜字节跳动 第5集
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69e9cc161d989496e752d932/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ludFlvAw7lId_tCi9GaGBbXOBVtz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Agent\TPU\生态\安全\开放，Google Cloud到底在bet什么？-Google Cloud Next速记
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69e9b86a1e94ae6921f519d1/media.xyzcdn.net/6507bc165c88d2412626b401/lrvDMZkfyCGCm6A3gLiv2su9Oq8O.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 勇敢做AI浪潮里的一朵小浪花，搞钱没有天花板 | 深圳听友会
 
 **播客**: 搞钱女孩
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
+### 5. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +73,20 @@
 
 ---
 
-### 4. Live: Anthropic co-founder on AI and jobs
+### 6. No.198 🛍️ 电商三国之拼多多篇：五环外起青萍末，十年撼动巨擘间 | 中国互联网故事18
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69e879ca1e94ae6921e03bce/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liuo1qV4OdLF_PyIeTl3K7ageTvl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. Live: Anthropic co-founder on AI and jobs
 
 **播客**: Planet Money
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
+### 8. 220. 英伦奇葩说丨从料理到燃料，英国人把“吃饭”简化成了一套效率系统
 
 **播客**: 贝望录
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 63 当女性去世界游荡，Women就会欢聚一堂
+### 9. 63 当女性去世界游荡，Women就会欢聚一堂
 
 **播客**: 放学以后After school
 
@@ -86,33 +125,7 @@
 
 ---
 
-### 7. 助眠电台｜04
-
-**播客**: 得意忘形
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 468 演员的自我修养：漫谈港片黄金二十年的表演艺术与时代风格
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69e73a5e1d989496e72663bf/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljN5gwqsPtfJitExjTvJ_jqPTt-H.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
+### 10. 🎷爵士嘻哈 Mixtape：快樂不必要但很重要
 
 **播客**: Vibration 歪波音室
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_NdVhaMkrhAyPkjBXQgqcQmYTajyrtaQmgMLnbdYKpNePVXMyEAcjaUxrVm-da.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.331 思考，快与慢：我的大脑为什么总是敷衍我
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENuzpQA14DhQSM8foi.m4a?channel=rss&album_id=29887212&track_id=971351118&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a66a-audiofreehighqps/15/59/GKwRIJENuzpQA14DhQSM8foi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
