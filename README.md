@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-24 08:02  
+> 📅 **更新时间**: 2026-04-24 13:22  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
+### 1. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
+### 3. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
+### 4. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
 
 **播客**: 沈奕斐的播客
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. 281 职业与梦想 憧憬与困惑：多文化背景的东亚青年们如何谈论未来？
+### 5. 第2998期:Smart gloves exploring space
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNuhhXAA3HwQSMi_Y4.m4a?channel=rss&album_id=14812466&track_id=971176596&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c5d1-audiofreehighqps/5A/27/GKwRIDoNuhhXAA3HwQSMi_Y4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 281 职业与梦想 憧憬与困惑：多文化背景的东亚青年们如何谈论未来？
 
 **播客**: 东亚观察局
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 中美AI创业的生态差异---对谈Google Cloud北亚区创投生态负责人
+### 7. 中美AI创业的生态差异---对谈Google Cloud北亚区创投生态负责人
 
 **播客**: 屠龙之术
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. S8 Vol.5 费曼动力胡适：当化石能源不可持续，我们如何重构下一代能源体系？
+### 8. S8 Vol.5 费曼动力胡适：当化石能源不可持续，我们如何重构下一代能源体系？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -86,20 +112,20 @@
 
 ---
 
-### 7. 用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC
+### 9. 课代表立正：AI 课卖 2000 刀，偏偏坚持古法手搓
 
-**播客**: 42章经
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69e999241e94ae6921f2901d/media.xyzcdn.net/648b0b641c48983391a63f98/liiv-fKcDolfb06hKOyz0IX3feJY.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANv5rCAkb7IgSO4jlv.m4a?channel=rss&album_id=74194808&track_id=972184420&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ee5b-audiofreehighqps/2C/76/GKwRIMANv5rCAkb7IgSO4jlv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打
+### 10. AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打
 
 **播客**: 人民公园说AI
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 【随机信箱·地球日】我在世界上有棵树
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
