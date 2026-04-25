@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-24 18:51:08
+> 📅 生成时间: 2026-04-25 02:24:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 265.卷王vs平常心：骑手的两种选择
+### 1. 第2999期:Cambodian music composer
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoNuh7YABooTASMkUQy.m4a?channel=rss&album_id=14812466&track_id=971181515&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fc8f-audiofreehighqps/31/94/GKwRIDoNuh7YABooTASMkUQy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoNuh7YABooTASMkUQy.m4a?channel=rss&album_id=14812466&track_id=971181515&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fc8f-audiofreehighqps/31/94/GKwRIDoNuh7YABooTASMkUQy.m4a
+```
+
+</details>
+
+---
+
+### 2. Battlefield rare earths: How the U.S. lost to China
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311
+```
+
+</details>
+
+---
+
+### 3. 265.卷王vs平常心：骑手的两种选择
 
 **播客名称**: 乱翻书
 
@@ -46,115 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae69
 
 ---
 
-### 2. 469 五胡之外：丁零、稽胡、中古弥勒信仰与华北胡人入塞
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69210f14ab/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltxa4NvCRnULz99mM1IxOJnqP3yc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69210f14ab/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltxa4NvCRnULz99mM1IxOJnqP3yc.m4a
-```
-
-</details>
-
----
-
-### 3. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573ae95-f9b3-4428-94e7-79d33418400b.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573ae95-f9b3-4428-94e7-79d33418400b.mp3
-```
-
-</details>
-
----
-
-### 4. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
-```
-
-</details>
-
----
-
-### 5. 第2998期:Smart gloves exploring space
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoNuhhXAA3HwQSMi_Y4.m4a?channel=rss&album_id=14812466&track_id=971176596&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c5d1-audiofreehighqps/5A/27/GKwRIDoNuhhXAA3HwQSMi_Y4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoNuhhXAA3HwQSMi_Y4.m4a?channel=rss&album_id=14812466&track_id=971176596&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c5d1-audiofreehighqps/5A/27/GKwRIDoNuhhXAA3HwQSMi_Y4.m4a
-```
-
-</details>
-
----
-
-### 6. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
+### 4. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,61 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69e9c7501e94ae69
 
 ---
 
-### 7. 281 职业与梦想 憧憬与困惑：多文化背景的东亚青年们如何谈论未来？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69ea6bb31d989496e75e1e31/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lprEqWOidUn_wWni7DysA6IHcc23.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69ea6bb31d989496e75e1e31/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lprEqWOidUn_wWni7DysA6IHcc23.m4a
-```
-
-</details>
-
----
-
-### 8. 中美AI创业的生态差异---对谈Google Cloud北亚区创投生态负责人
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69ea99ef1d989496e75ecb41/media.xyzcdn.net/6507bc165c88d2412626b401/ll9FU4WOibrglRQO1XdPcs7uMtG4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69ea99ef1d989496e75ecb41/media.xyzcdn.net/6507bc165c88d2412626b401/ll9FU4WOibrglRQO1XdPcs7uMtG4.m4a
-```
-
-</details>
-
----
-
-### 9. S8 Vol.5 费曼动力胡适：当化石能源不可持续，我们如何重构下一代能源体系？
+### 5. S8 Vol.5 费曼动力胡适：当化石能源不可持续，我们如何重构下一代能源体系？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -262,7 +154,7 @@ https://jt.ximalaya.com//GKwRIUENv2Y2AZWpZwSOxkt3.m4a?channel=rss&album_id=20119
 
 ---
 
-### 10. 用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC
+### 6. 用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC
 
 **播客名称**: 42章经
 
@@ -283,6 +175,114 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69e999241e94ae69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69e999241e94ae6921f2901d/media.xyzcdn.net/648b0b641c48983391a63f98/liiv-fKcDolfb06hKOyz0IX3feJY.m4a
+```
+
+</details>
+
+---
+
+### 7. 课代表立正：AI 课卖 2000 刀，偏偏坚持古法手搓
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANv5rCAkb7IgSO4jlv.m4a?channel=rss&album_id=74194808&track_id=972184420&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ee5b-audiofreehighqps/2C/76/GKwRIMANv5rCAkb7IgSO4jlv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANv5rCAkb7IgSO4jlv.m4a?channel=rss&album_id=74194808&track_id=972184420&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ee5b-audiofreehighqps/2C/76/GKwRIMANv5rCAkb7IgSO4jlv.m4a
+```
+
+</details>
+
+---
+
+### 8. AI 御三家，已经不打模型了：Codex 反杀，桌面端正式开打
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69e9e7a11d989496e755a70f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhD2i4qUgPvYxCI7EfFOPKSS44L5.m4a
+```
+
+</details>
+
+---
+
+### 9. 把7位黑客松选手请进播客｜冠军、怪才和48小时不眠的野心家
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e8a1f21e94ae6921e403b9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhOzhSuQbw8Csa5tj5tqC7saQreX.m4a
+```
+
+</details>
+
+---
+
+### 10. 【随机信箱·地球日】我在世界上有棵树
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3
 ```
 
 </details>
