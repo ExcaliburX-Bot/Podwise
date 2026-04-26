@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-26 13:04:48
+> 📅 生成时间: 2026-04-26 18:54:15
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 番外篇：浪浪联欢大录制｜选上岸还是选下海？选社保！社保！社保啊！
+### 1. vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘
 
 **播客名称**: 无聊斋
 
@@ -27,7 +27,7 @@
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_MhFUBaTvEMsSYrPHadesRPvBZQdQDXCNFKCQNGUvdSYzYnXLQDxFSxMnaf-ff.m4a
+https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://tk.wavpub.com/WPDL_MhFUBaTvEMsSYrPHadesRPvBZQdQDXCNFKCQNGUvdSYzYnXLQDxFS
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_MhFUBaTvEMsSYrPHadesRPvBZQdQDXCNFKCQNGUvdSYzYnXLQDxFSxMnaf-ff.m4a
+https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第3000期:Exploring the origin of the universe
+### 2. 96.随橙想呢，直播为浪姐做了一次心肺复苏？
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
+```
+
+</details>
+
+---
+
+### 3. 为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496e76d373c/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgaRNGnaqRaN2C9P4jsSURvT6cEs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496e76d373c/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgaRNGnaqRaN2C9P4jsSURvT6cEs.m4a
+```
+
+</details>
+
+---
+
+### 4. 第3000期:Exploring the origin of the universe
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoNuiO5ABW8wgSMk7To.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
+### 5. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae69
 
 ---
 
-### 4. 串台加更丨浪浪联欢大录制，上岸下海小故事
+### 6. 串台加更丨浪浪联欢大录制，上岸下海小故事
 
 **播客名称**: 正经叭叭
 
@@ -127,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496
 
 ---
 
-### 5. Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
-```
-
-</details>
-
----
-
-### 6. Battlefield rare earths: How the U.S. lost to China
+### 7. Battlefield rare earths: How the U.S. lost to China
 
 **播客名称**: Planet Money
 
@@ -175,33 +202,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311
-```
-
-</details>
-
----
-
-### 7. 265.卷王vs平常心：骑手的两种选择
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae6921126ceb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae6921126ceb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69
 
 ---
 
-### 10. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
+### 10. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573ae95-f9b3-4428-94e7-79d33418400b.mp3
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573ae95-f9b3-4428-94e7-79d33418400b.mp3
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
 ```
 
 </details>
