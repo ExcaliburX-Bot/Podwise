@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-26 07:28:08
+> 📅 生成时间: 2026-04-26 13:04:48
 > 📊 总计: 10 个播客
 
 ---
@@ -100,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae69
 
 ---
 
-### 4. Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制
+### 4. 串台加更丨浪浪联欢大录制，上岸下海小故事
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a
+```
+
+</details>
+
+---
+
+### 5. Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496
 
 ---
 
-### 5. Battlefield rare earths: How the U.S. lost to China
+### 6. Battlefield rare earths: How the U.S. lost to China
 
 **播客名称**: Planet Money
 
@@ -154,7 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 265.卷王vs平常心：骑手的两种选择
+### 7. 265.卷王vs平常心：骑手的两种选择
 
 **播客名称**: 乱翻书
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae69
 
 ---
 
-### 7. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
+### 8. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
 
 **播客名称**: 知行小酒馆
 
@@ -208,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69
 
 ---
 
-### 8. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
+### 9. 469 五胡之外：丁零、稽胡、中古弥勒信仰与华北胡人入塞
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69210f14ab/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltxa4NvCRnULz99mM1IxOJnqP3yc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69210f14ab/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltxa4NvCRnULz99mM1IxOJnqP3yc.m4a
+```
+
+</details>
+
+---
+
+### 10. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -229,60 +283,6 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/b573ae95-f9b3-4428-94e7-79d33418400b.mp3
-```
-
-</details>
-
----
-
-### 9. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a
-```
-
-</details>
-
----
-
-### 10. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69e9c7501e94ae6921f69b62/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmEtojW_ZUjvuJ4r76ROdfBGm9dg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69e9c7501e94ae6921f69b62/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmEtojW_ZUjvuJ4r76ROdfBGm9dg.m4a
 ```
 
 </details>
