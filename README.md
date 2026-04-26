@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-25 18:52  
+> 📅 **更新时间**: 2026-04-26 02:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,15 +47,15 @@
 
 ---
 
-### 4. 第2999期:Cambodian music composer
+### 4. 串台加更丨浪浪联欢大录制，上岸下海小故事
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 正经叭叭
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoNuh7YABooTASMkUQy.m4a?channel=rss&album_id=14812466&track_id=971181515&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fc8f-audiofreehighqps/31/94/GKwRIDoNuh7YABooTASMkUQy.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 469 五胡之外：丁零、稽胡、中古弥勒信仰与华北胡人入塞
+### 6. 469 五胡之外：丁零、稽胡、中古弥勒信仰与华北胡人入塞
 
 **播客**: 忽左忽右
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
+### 7. 161: 中国最早AI创业者的故事，与唐文斌聊天才策略、旷视、十年前的机器人和具身新创业
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,20 +99,7 @@
 
 ---
 
-### 9. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
+### 8. 253.职场维权前提是什么？职场上有什么法律护身符？｜职场系列10
 
 **播客**: 沈奕斐的播客
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69e9c7501e94ae6921f69b62/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmEtojW_ZUjvuJ4r76ROdfBGm9dg.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 281 职业与梦想 憧憬与困惑：多文化背景的东亚青年们如何谈论未来？
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69ea6bb31d989496e75e1e31/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lprEqWOidUn_wWni7DysA6IHcc23.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 中美AI创业的生态差异---对谈Google Cloud北亚区创投生态负责人
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69ea99ef1d989496e75ecb41/media.xyzcdn.net/6507bc165c88d2412626b401/ll9FU4WOibrglRQO1XdPcs7uMtG4.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
