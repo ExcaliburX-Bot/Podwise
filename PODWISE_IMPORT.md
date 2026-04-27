@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-27 13:51:36
+> 📅 生成时间: 2026-04-27 19:20:29
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsr
 
 ---
 
-### 6. 第3001期:Mixed-breed dogs more badly behaved, vets warn
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJENwegGAAP-RgSPt8VY.m4a?channel=rss&album_id=14812466&track_id=972557534&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae70-audiofreehighqps/73/E1/GKwRIJENwegGAAP-RgSPt8VY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJENwegGAAP-RgSPt8VY.m4a?channel=rss&album_id=14812466&track_id=972557534&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae70-audiofreehighqps/73/E1/GKwRIJENwegGAAP-RgSPt8VY.m4a
-```
-
-</details>
-
----
-
-### 7. 为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰
+### 6. 为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰
 
 **播客名称**: 十字路口Crossing
 
@@ -208,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496
 
 ---
 
-### 8. 串台加更丨浪浪联欢大录制，上岸下海小故事
+### 7. 96.随橙想呢，直播为浪姐做了一次心肺复苏？
 
-**播客名称**: 正经叭叭
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +201,22 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
 ```
 
 </details>
 
 ---
 
-### 9. Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制
+### 8. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae692124bfcf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/luNH8CAHsj7pjBTWaIEUTOkWoS6a.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +228,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae692124bfcf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/luNH8CAHsj7pjBTWaIEUTOkWoS6a.m4a
+```
+
+</details>
+
+---
+
+### 9. Battlefield rare earths: How the U.S. lost to China
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311
 ```
 
 </details>
