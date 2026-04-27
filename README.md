@@ -1,35 +1,35 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-27 02:42  
+> 📅 **更新时间**: 2026-04-27 08:23  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
+### 1. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
 
-**播客**: 晚点聊 LateTalk
+**播客**: 出海相对论
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 第3001期:Mixed-breed dogs more badly behaved, vets warn
+### 2. vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 无聊斋
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENwegGAAP-RgSPt8VY.m4a?channel=rss&album_id=14812466&track_id=972557534&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae70-audiofreehighqps/73/E1/GKwRIJENwegGAAP-RgSPt8VY.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. 为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496e76d373c/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgaRNGnaqRaN2C9P4jsSURvT6cEs.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 96.随橙想呢，直播为浪姐做了一次心肺复苏？
+### 4. 96.随橙想呢，直播为浪姐做了一次心肺复苏？
 
 **播客**: 展开讲讲
 
@@ -69,6 +56,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae692124bfcf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/luNH8CAHsj7pjBTWaIEUTOkWoS6a.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,7 +86,33 @@
 
 ---
 
-### 7. 265.卷王vs平常心：骑手的两种选择
+### 7. 串台加更丨浪浪联欢大录制，上岸下海小故事
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ec96511d989496e77b3159/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsMXaQUoZbUY6tJK59LMlK2wfBtP.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Battlefield rare earths: How the U.S. lost to China
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 265.卷王vs平常心：骑手的两种选择
 
 **播客**: 乱翻书
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
+### 10. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
 
 **播客**: 知行小酒馆
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 469 五胡之外：丁零、稽胡、中古弥勒信仰与华北胡人入塞
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69eb37411e94ae69210f14ab/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltxa4NvCRnULz99mM1IxOJnqP3yc.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 138. 对罗福莉3.5小时访谈：AI范式已然巨变！OpenClaw、Agent范式很吃后训练、卡的分配、组织平权
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69eae15a1e94ae692107cc50/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvjthrP5i6nloL64YOJ_JDDRa4WF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
