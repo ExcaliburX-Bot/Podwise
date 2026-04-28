@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-27 19:20:29
+> 📅 生成时间: 2026-04-28 02:50:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 拉斐尔——美男子制造机
+### 1. 第3002期:Data shows decline in migratory fish populations
 
-**播客名称**: 艺术有读
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6f7181/media.mp3
+https://jt.ximalaya.com//GKwRIDoNweolAAPuHwSPuL-W.m4a?channel=rss&album_id=14812466&track_id=972559313&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dfbd-audiofreehighqps/29/E7/GKwRIDoNweolAAPuHwSPuL-W.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6
 
 音频链接（点击复制）:
 ```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6f7181/media.mp3
+https://jt.ximalaya.com//GKwRIDoNweolAAPuHwSPuL-W.m4a?channel=rss&album_id=14812466&track_id=972559313&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dfbd-audiofreehighqps/29/E7/GKwRIDoNweolAAPuHwSPuL-W.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
+### 2. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887212&track_id=972349040&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3a17-audiofreehighqps/08/6F/GKwRIRwNwJlpAorYLwSPOSHm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887212&track_id=972349040&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3a17-audiofreehighqps/08/6F/GKwRIRwNwJlpAorYLwSPOSHm.m4a
+```
+
+</details>
+
+---
+
+### 3. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69
 
 ---
 
-### 3. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
+### 4. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d028
 
 ---
 
-### 4. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
+### 5. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
 
 **播客名称**: 出海相对论
 
@@ -121,33 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a
-```
-
-</details>
-
----
-
-### 5. vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496
 
 ---
 
-### 7. 96.随橙想呢，直播为浪姐做了一次心肺复苏？
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a
-```
-
-</details>
-
----
-
-### 8. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
+### 7. 番外 14： 跟李诞聊聊播客、创作、AI 与中年
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae692124bfcf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/luNH8CAHsj7pjBTWaIEUTOkWoS6a.m4a
+```
+
+</details>
+
+---
+
+### 8. Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 10. 265.卷王vs平常心：骑手的两种选择
+### 10. E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆
 
-**播客名称**: 乱翻书
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae6921126ceb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae6921126ceb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a
 ```
 
 </details>
