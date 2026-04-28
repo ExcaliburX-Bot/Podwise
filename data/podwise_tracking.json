@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T02:50:06.973255",
+  "generated_at": "2026-04-28T08:24:13.486176",
   "total_count": 10,
   "episodes": [
     {
@@ -24,6 +24,26 @@
     },
     {
       "rank": 3,
+      "title": "vol.248提不提钱的，都可以提前退休!",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ef440064c9c68759ee6def/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/liUpnZ7gW1w6ViO0XKeYVI02GrXt.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "拉斐尔——美男子制造机",
+      "podcast": "艺术有读",
+      "audio_url": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6f7181/media.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a",
@@ -33,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3",
@@ -43,27 +63,27 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "#27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪",
-      "podcast": "出海相对论",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "为什么公司用不好AI？从焦虑到行动的 3 个关键动作｜对谈百融智能张韶峰",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69eb5dfc1d989496e76d373c/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgaRNGnaqRaN2C9P4jsSURvT6cEs.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 7,
+      "title": "vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘",
+      "podcast": "无聊斋",
+      "audio_url": "https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "title": "96.随橙想呢，直播为浪姐做了一次心肺复苏？",
+      "podcast": "展开讲讲",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69ecd4a91d989496e77f52b7/media.xyzcdn.net/5e280faa418a84a0461f9bfb/llT3VCAOWAh16uQqWl-ZYp4AS5Pp.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "番外 14： 跟李诞聊聊播客、创作、AI 与中年",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69ece4fd1e94ae692124bfcf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/luNH8CAHsj7pjBTWaIEUTOkWoS6a.m4a",
@@ -73,30 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 8,
-      "title": "Ep193【加长特别版】在努力上岸的时代，有人夜里跳海 | 浪浪联欢大录制",
-      "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ec970b1d989496e77b3a51/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnpqB2CY7rH8fasblDoD7-_TmoqX.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "Battlefield rare earths: How the U.S. lost to China",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8856e6f5-c07d-4d85-be0d-534bb4dd549d/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8856e6f5-c07d-4d85-be0d-534bb4dd549d&feed=hvWWWzRv&t=podcast&e=nx-s1-5798742&p=510289&d=2055&size=32894311",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 10,
-      "title": "E233 在选择越来越多的今天，怎么想吃点好的更难了？｜知行小饭馆",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69eb27fd1e94ae69210da373/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lkF3suRH0pRkbz-NF8R5DR99oqsQ.m4a",
+      "title": "265.卷王vs平常心：骑手的两种选择",
+      "podcast": "乱翻书",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69eb6b2e1e94ae6921126ceb/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/llBkEfKtAfmr7CuCyoqFIAVJTXLy.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
