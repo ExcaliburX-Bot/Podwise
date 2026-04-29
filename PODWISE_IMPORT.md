@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-29 13:54:40
+> 📅 生成时间: 2026-04-29 19:24:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 任鑫：AI 转型没戏，得重新投胎
+### 1. Spirit Airlines and the future of cheap flights
 
-**播客名称**: AI炼金术
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236
 ```
 
 </details>
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4
 
 ---
 
-### 3. 4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_JrdvuLmzMLgHvXYTyeTYKpCAUvtzQMyuHFYQGKrENYSGrKQMWpYeJgHXWd-20.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_JrdvuLmzMLgHvXYTyeTYKpCAUvtzQMyuHFYQGKrENYSGrKQMWpYeJgHXWd-20.mp3
-```
-
-</details>
-
----
-
-### 4. 第3003期:Does where you grow up shape your personality?
+### 3. 第3003期:Does where you grow up shape your personality?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJENwe4gABIO3wSPuouG.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 266.从红果到AI短剧：谁在革谁的命？
+### 4. 266.从红果到AI短剧：谁在革谁的命？
 
 **播客名称**: 乱翻书
 
@@ -148,6 +121,33 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a
+```
+
+</details>
+
+---
+
+### 5. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e96b5b1e94ae6921ee3c2b/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHm1cFno7MQMFV3g0aajmW4zdPd.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e96b5b1e94ae6921ee3c2b/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHm1cFno7MQMFV3g0aajmW4zdPd.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea
 
 ---
 
-### 8. vol.248提不提钱的，都可以提前退休!
+### 8. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887212&track_id=972349040&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3a17-audiofreehighqps/08/6F/GKwRIRwNwJlpAorYLwSPOSHm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887212&track_id=972349040&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3a17-audiofreehighqps/08/6F/GKwRIRwNwJlpAorYLwSPOSHm.m4a
+```
+
+</details>
+
+---
+
+### 9. vol.248提不提钱的，都可以提前退休!
 
 **播客名称**: 正经叭叭
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ef440064c9c687
 
 ---
 
-### 9. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
+### 10. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a
-```
-
-</details>
-
----
-
-### 10. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3
 ```
 
 </details>
