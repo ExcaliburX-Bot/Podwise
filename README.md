@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-29 02:49  
+> 📅 **更新时间**: 2026-04-29 08:16  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 266.从红果到AI短剧：谁在革谁的命？
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
+### 3. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
 
 **播客**: 十字路口Crossing
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. Ep194 可能是全网最完全冈仁波齐转山说明书
+### 4. Ep194 可能是全网最完全冈仁波齐转山说明书
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 15 好好的人，怎么就成了电车痴汉呢？
+### 5. 15 好好的人，怎么就成了电车痴汉呢？
 
 **播客**: 鸟鸟快乐实验室
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
+### 6. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
 
 **播客**: 文化有限
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. vol.248提不提钱的，都可以提前退休!
+### 7. vol.248提不提钱的，都可以提前退休!
 
 **播客**: 正经叭叭
 
@@ -112,20 +99,20 @@
 
 ---
 
-### 9. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
+### 8. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
 
-**播客**: 晚点聊 LateTalk
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
+### 9. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
 
 **播客**: 出海相对论
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

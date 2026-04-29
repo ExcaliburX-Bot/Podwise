@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-04-29 02:49:06
+> 📅 生成时间: 2026-04-29 08:16:39
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIJENwe4gABIO3wSPuouG.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 266.从红果到AI短剧：谁在革谁的命？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a
-```
-
-</details>
-
----
-
-### 4. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
+### 3. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e96b5b1e94ae69
 
 ---
 
-### 5. Ep194 可能是全网最完全冈仁波齐转山说明书
+### 4. Ep194 可能是全网最完全冈仁波齐转山说明书
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69f04d48b973c3fd
 
 ---
 
-### 6. 15 好好的人，怎么就成了电车痴汉呢？
+### 5. 15 好好的人，怎么就成了电车痴汉呢？
 
 **播客名称**: 鸟鸟快乐实验室
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea
 
 ---
 
-### 7. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
+### 6. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
 
 **播客名称**: 文化有限
 
@@ -208,7 +181,7 @@ https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.248提不提钱的，都可以提前退休!
+### 7. vol.248提不提钱的，都可以提前退休!
 
 **播客名称**: 正经叭叭
 
@@ -235,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ef440064c9c687
 
 ---
 
-### 9. 162: 批量生素材、模型筛网红，与飞书深诺Meetsocial沈晨岗聊AI时代的出海营销
+### 8. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,14 +228,14 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d028
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/d02867bd-8e0e-42f1-a993-e274fb32f405.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a
 ```
 
 </details>
 
 ---
 
-### 10. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
+### 9. #27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪
 
 **播客名称**: 出海相对论
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.582 宠物殡葬师英豪：讲讲我把1万多只小猫鬼小狗鬼送去“彩虹国”的故事｜浮世绘
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_TxnYQvYKCwkQSXGTQmLvWCzVVeGQzPAmngSYtnUgJNfVpeXppGFsrZqdRj-48.m4a
 ```
 
 </details>
