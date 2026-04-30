@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-29 19:24  
+> 📅 **更新时间**: 2026-04-30 02:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Spirit Airlines and the future of cheap flights
+### 1. 第3004期:Should the wreck of the Titanic be raised?
 
-**播客**: Planet Money
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENwkDfABIn1wSP3pG7.m4a?channel=rss&album_id=14812466&track_id=972612429&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1b09-audiofreehighqps/FC/8E/GKwRIUENwkDfABIn1wSP3pG7.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. No.199 🚲 自行车 200年
+### 2. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 任鑫：AI 转型没戏，得重新投胎
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. No.199 🚲 自行车 200年
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,20 +60,20 @@
 
 ---
 
-### 3. 第3003期:Does where you grow up shape your personality?
+### 5. 4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENwe4gABIO3wSPuouG.m4a?channel=rss&album_id=14812466&track_id=972562495&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3eb8-audiofreehighqps/6E/DA/GKwRIJENwe4gABIO3wSPuouG.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JrdvuLmzMLgHvXYTyeTYKpCAUvtzQMyuHFYQGKrENYSGrKQMWpYeJgHXWd-20.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 266.从红果到AI短剧：谁在革谁的命？
+### 6. 266.从红果到AI短剧：谁在革谁的命？
 
 **播客**: 乱翻书
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
+### 7. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. Ep194 可能是全网最完全冈仁波齐转山说明书
+### 8. Ep194 可能是全网最完全冈仁波齐转山说明书
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 15 好好的人，怎么就成了电车痴汉呢？
+### 9. 15 好好的人，怎么就成了电车痴汉呢？
 
 **播客**: 鸟鸟快乐实验室
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
+### 10. Vol.332 英国病人：标签化时代，还能做个“不可索引”的人吗？
 
 **播客**: 文化有限
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNwJlpAorYLwSPOSHm.m4a?channel=rss&album_id=29887212&track_id=972349040&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3a17-audiofreehighqps/08/6F/GKwRIRwNwJlpAorYLwSPOSHm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.248提不提钱的，都可以提前退休!
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69ef440064c9c68759ee6def/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/liUpnZ7gW1w6ViO0XKeYVI02GrXt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 470 爪哇国探奇：从婆罗浮屠、科莫多龙到歹土传说
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69ef29a21e94ae69214537df/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhzTpe62ONrmoR62c2WE9EgYA-tX.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
