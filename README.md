@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-04-30 02:50  
+> 📅 **更新时间**: 2026-04-30 08:21  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3004期:Should the wreck of the Titanic be raised?
+### 1. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3004期:Should the wreck of the Titanic be raised?
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
+### 3. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
 
 **播客**: 搞钱女孩
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. 任鑫：AI 转型没戏，得重新投胎
+### 4. Spirit Airlines and the future of cheap flights
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 任鑫：AI 转型没戏，得重新投胎
 
 **播客**: AI炼金术
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. No.199 🚲 自行车 200年
+### 6. No.199 🚲 自行车 200年
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉
+### 7. 4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 266.从红果到AI短剧：谁在革谁的命？
+### 8. 266.从红果到AI短剧：谁在革谁的命？
 
 **播客**: 乱翻书
 
@@ -86,20 +112,7 @@
 
 ---
 
-### 7. 当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e96b5b1e94ae6921ee3c2b/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHm1cFno7MQMFV3g0aajmW4zdPd.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Ep194 可能是全网最完全冈仁波齐转山说明书
+### 9. Ep194 可能是全网最完全冈仁波齐转山说明书
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69f04d48b973c3fd59984685/media.xyzcdn.net/5eae66d1418a84a046472b4d/luaz4xrEIzwfyufml1ySzWwA1t27.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 15 好好的人，怎么就成了电车痴汉呢？
-
-**播客**: 鸟鸟快乐实验室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea877246cb/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsUBE7iIhsS3Jo_rx0aJjbNNaqxh.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

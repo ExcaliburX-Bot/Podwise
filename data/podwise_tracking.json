@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-04-30T02:50:49.038384",
+  "generated_at": "2026-04-30T08:21:26.866166",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "第3004期:Should the wreck of the Titanic be raised?",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIUENwkDfABIn1wSP3pG7.m4a?channel=rss&album_id=14812466&track_id=972612429&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1b09-audiofreehighqps/FC/8E/GKwRIUENwkDfABIn1wSP3pG7.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a",
@@ -23,7 +33,17 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Spirit Airlines and the future of cheap flights",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "任鑫：AI 转型没戏，得重新投胎",
       "podcast": "AI炼金术",
       "audio_url": "https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a",
@@ -33,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "No.199 🚲 自行车 200年",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4ca59c4e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llmGJ_04JSVY90jTkbNGTh4mRoib.m4a",
@@ -43,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPDL_JrdvuLmzMLgHvXYTyeTYKpCAUvtzQMyuHFYQGKrENYSGrKQMWpYeJgHXWd-20.mp3",
@@ -53,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "266.从红果到AI短剧：谁在革谁的命？",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a",
@@ -63,30 +83,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
-      "title": "当我们在讨论 Harness 的时候，我们在讨论什么 | 深度对谈: Minimax × Hermes Agent",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69e96b5b1e94ae6921ee3c2b/media.xyzcdn.net/60502e253c92d4f62c2a9577/lvHm1cFno7MQMFV3g0aajmW4zdPd.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Ep194 可能是全网最完全冈仁波齐转山说明书",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69f04d48b973c3fd59984685/media.xyzcdn.net/5eae66d1418a84a046472b4d/luaz4xrEIzwfyufml1ySzWwA1t27.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "15 好好的人，怎么就成了电车痴汉呢？",
-      "podcast": "鸟鸟快乐实验室",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea877246cb/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsUBE7iIhsS3Jo_rx0aJjbNNaqxh.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
