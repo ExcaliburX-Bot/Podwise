@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-01 08:10  
+> 📅 **更新时间**: 2026-05-01 13:17  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+### 2. 第3005期:NYC hosts sustainable events.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJENwkR7ABh0KwSP391M.m4a?channel=rss&album_id=14812466&track_id=972614533&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4813-audiofreehighqps/05/94/GKwRIJENwkR7ABh0KwSP391M.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
+### 4. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
 
 **播客**: 周末变奏 Key Change
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
+### 5. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
+### 6. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
 
 **播客**: 人民公园说AI
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
+### 7. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
 
 **播客**: 屠龙之术
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

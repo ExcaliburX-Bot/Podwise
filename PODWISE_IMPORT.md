@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-01 08:10:14
+> 📅 生成时间: 2026-05-01 13:17:27
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a7
 
 ---
 
-### 2. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+### 2. 第3005期:NYC hosts sustainable events.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJENwkR7ABh0KwSP391M.m4a?channel=rss&album_id=14812466&track_id=972614533&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4813-audiofreehighqps/05/94/GKwRIJENwkR7ABh0KwSP391M.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJENwkR7ABh0KwSP391M.m4a?channel=rss&album_id=14812466&track_id=972614533&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4813-audiofreehighqps/05/94/GKwRIJENwkR7ABh0KwSP391M.m4a
+```
+
+</details>
+
+---
+
+### 3. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a995
 
 ---
 
-### 3. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
+### 4. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
 
 **播客名称**: 周末变奏 Key Change
 
@@ -100,7 +127,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ88
 
 ---
 
-### 4. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
+### 5. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -127,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/0965
 
 ---
 
-### 5. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
+### 6. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
 
 **播客名称**: 人民公园说AI
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b4
 
 ---
 
-### 6. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
+### 7. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
 
 **播客名称**: 屠龙之术
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a
-```
-
-</details>
-
----
-
-### 7. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a
 ```
 
 </details>
