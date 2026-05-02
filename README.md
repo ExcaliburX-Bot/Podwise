@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-02 02:38  
+> 📅 **更新时间**: 2026-05-02 07:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. How to make a BOOK into a bestseller
+### 1. 104.我不想那么真了，可以吗？
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. How to make a BOOK into a bestseller
 
 **播客**: Planet Money
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 第3006期:Reading stories to dogs can improve reading skills
+### 3. 第3006期:Reading stories to dogs can improve reading skills
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
+### 4. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
 
 **播客**: 忽左忽右
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Ira (Reluctantly) Gives a Graduation Speech
+### 5. Ira (Reluctantly) Gives a Graduation Speech
 
 **播客**: This American Life
 
@@ -56,19 +69,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,15 +112,15 @@
 
 ---
 
-### 9. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
+### 9. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
 
-**播客**: 人民公园说AI
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

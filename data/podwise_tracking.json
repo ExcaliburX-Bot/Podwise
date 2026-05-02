@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-02T02:38:15.577802",
+  "generated_at": "2026-05-02T07:43:02.175539",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "104.我不想那么真了，可以吗？",
+      "podcast": "喷嚏",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "How to make a BOOK into a bestseller",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "第3006期:Reading stories to dogs can improve reading skills",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIDoNwkdBAA_xBQSP4Q5j.m4a?channel=rss&album_id=14812466&track_id=972616324&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f703-audiofreehighqps/BC/24/GKwRIDoNwkdBAA_xBQSP4Q5j.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f47a4978d33cb2c4f8a38d/media.xyzcdn.net/FtNMyj-i2AHH4kmyyeBcRLWEMfqW.m4a",
@@ -33,20 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Ira (Reluctantly) Gives a Graduation Speech",
       "podcast": "This American Life",
       "audio_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射",
-      "podcast": "张小珺Jùn｜商业访谈录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a",
+      "title": "语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

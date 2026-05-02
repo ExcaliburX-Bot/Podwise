@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-02 02:38:15
+> 📅 生成时间: 2026-05-02 07:43:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. How to make a BOOK into a bestseller
+### 1. 104.我不想那么真了，可以吗？
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a
+```
+
+</details>
+
+---
+
+### 2. How to make a BOOK into a bestseller
 
 **播客名称**: Planet Money
 
@@ -46,7 +73,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 2. 第3006期:Reading stories to dogs can improve reading skills
+### 3. 第3006期:Reading stories to dogs can improve reading skills
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIDoNwkdBAA_xBQSP4Q5j.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
+### 4. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
 
 **播客名称**: 忽左忽右
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f47a4978d33cb2
 
 ---
 
-### 4. Ira (Reluctantly) Gives a Graduation Speech
+### 5. Ira (Reluctantly) Gives a Graduation Speech
 
 **播客名称**: This American Life
 
@@ -121,33 +148,6 @@ https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_
 音频链接（点击复制）:
 ```
 https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3
-```
-
-</details>
-
----
-
-### 5. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/0965
 
 ---
 
-### 9. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
+### 9. 语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo
 
-**播客名称**: 人民公园说AI
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a
 ```
 
 </details>
