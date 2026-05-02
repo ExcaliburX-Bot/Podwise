@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-05-01T19:10:54.471295",
+  "generated_at": "2026-05-02T02:38:15.577802",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "How to make a BOOK into a bestseller",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "第3006期:Reading stories to dogs can improve reading skills",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoNwkdBAA_xBQSP4Q5j.m4a?channel=rss&album_id=14812466&track_id=972616324&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f703-audiofreehighqps/BC/24/GKwRIDoNwkdBAA_xBQSP4Q5j.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f47a4978d33cb2c4f8a38d/media.xyzcdn.net/FtNMyj-i2AHH4kmyyeBcRLWEMfqW.m4a",
@@ -13,7 +33,17 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "Ira (Reluctantly) Gives a Graduation Speech",
+      "podcast": "This American Life",
+      "audio_url": "https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射",
       "podcast": "张小珺Jùn｜商业访谈录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a",
@@ -23,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）",
       "podcast": "沈奕斐的播客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a77199616b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgLuzl0hPxWZhJrh80cp5EO0rA1M.m4a",
@@ -33,17 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "第3005期:NYC hosts sustainable events.",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJENwkR7ABh0KwSP391M.m4a?channel=rss&album_id=14812466&track_id=972614533&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4813-audiofreehighqps/05/94/GKwRIJENwkR7ABh0KwSP391M.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ882gfc/keychangefm/8222435269_151971.mp3",
@@ -53,30 +73,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
-      "title": "语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo",
-      "podcast": "屠龙之术",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba94126a402/media.xyzcdn.net/6507bc165c88d2412626b401/lnX58yRsG0Y5QCSEpkFQqfUzvaFY.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！",
-      "podcast": "搞钱女孩",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 8,
-      "title": "Spirit Airlines and the future of cheap flights",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0ef15917-0bac-4790-8990-dc70b76a5c90/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0ef15917-0bac-4790-8990-dc70b76a5c90&feed=hvWWWzRv&t=podcast&e=nx-s1-5804507&p=510289&d=1535&size=24570236",
+      "title": "163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "任鑫：AI 转型没戏，得重新投胎",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a",
+      "title": "因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！",
+      "podcast": "人民公园说AI",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "No.199 🚲 自行车 200年",
-      "podcast": "半拿铁 | 商业沉浮录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4ca59c4e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llmGJ_04JSVY90jTkbNGTh4mRoib.m4a",
+      "title": "一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
