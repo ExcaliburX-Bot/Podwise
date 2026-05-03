@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-03 02:49  
+> 📅 **更新时间**: 2026-05-03 08:00  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
+### 3. How to make a BOOK into a bestseller
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
 
 **播客**: 忽左忽右
 
@@ -47,20 +60,20 @@
 
 ---
 
-### 4. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
+### 5. Ira (Reluctantly) Gives a Graduation Speech
 
-**播客**: 沈奕斐的播客
+**播客**: This American Life
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a77199616b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgLuzl0hPxWZhJrh80cp5EO0rA1M.m4a)
+- 🎵 [音频文件](https://www.thisamericanlife.org/sites/default/files/audio/upload/extra/goucher_bonus_ep_-_free_sample_bounce.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+### 6. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -73,46 +86,7 @@
 
 ---
 
-### 6. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ882gfc/keychangefm/8222435269_151971.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 任鑫：AI 转型没戏，得重新投胎
+### 7. 任鑫：AI 转型没戏，得重新投胎
 
 **播客**: AI炼金术
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. No.199 🚲 自行车 200年
+### 8. No.199 🚲 自行车 200年
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4ca59c4e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llmGJ_04JSVY90jTkbNGTh4mRoib.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JrdvuLmzMLgHvXYTyeTYKpCAUvtzQMyuHFYQGKrENYSGrKQMWpYeJgHXWd-20.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 266.从红果到AI短剧：谁在革谁的命？
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/69f0d90f740bacea8777122d/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgZf6BU7bfaLR5QvNhlFZkuFAHOb.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
