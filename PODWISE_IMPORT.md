@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-04 13:58:32
+> 📅 生成时间: 2026-05-04 19:27:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 初夏限定歌单：做一场清甜的白日梦
+### 1. vol.249我送礼离开，你千里之外
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkXN4XORa7xTSnRQkFm5u0lnBEhx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkXN4XORa7xTSnRQkFm5u0lnBEhx.m4a
+```
+
+</details>
+
+---
+
+### 2. 初夏限定歌单：做一场清甜的白日梦
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDP
 
 ---
 
-### 2. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+### 3. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
 
 **播客名称**: 无聊斋
 
@@ -73,7 +100,7 @@ https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFU
 
 ---
 
-### 3. 第3008期:Keeping leftovers safe
+### 4. 第3008期:Keeping leftovers safe
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoNyyNIABS7XgSTCyAa.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 886: Blackout
+### 5. 886: Blackout
 
 **播客名称**: This American Life
 
@@ -121,33 +148,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3
-```
-
-</details>
-
----
-
-### 5. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69f2c01ffbed7ba9
 
 ---
 
-### 10. No.199 🚲 自行车 200年
+### 10. 一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4ca59c4e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llmGJ_04JSVY90jTkbNGTh4mRoib.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f0b75ad97e02e4ca59c4e6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llmGJ_04JSVY90jTkbNGTh4mRoib.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69f22fe4fbed7ba9412214a6/media.xyzcdn.net/63d945ece725b5378a158d29/liEmcw0xLRNL1WthzJ9GCKBliAbz.m4a
 ```
 
 </details>
