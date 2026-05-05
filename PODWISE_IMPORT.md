@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-05 02:39:45
+> 📅 生成时间: 2026-05-05 08:08:05
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://jt.ximalaya.com//GKwRIRwNyyVqAAYR2ASTDGLc.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Vol.333 白日尽头：每次告别，都是下一次重生
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
-```
-
-</details>
-
----
-
-### 3. vol.249我送礼离开，你千里之外
+### 2. vol.249我送礼离开，你千里之外
 
 **播客名称**: 正经叭叭
 
@@ -100,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efc
 
 ---
 
-### 4. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+### 3. 初夏限定歌单：做一场清甜的白日梦
 
-**播客名称**: 无聊斋
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
+https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +93,14 @@ https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFU
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
+https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
 ```
 
 </details>
 
 ---
 
-### 5. 886: Blackout
+### 4. 886: Blackout
 
 **播客名称**: This American Life
 
@@ -154,7 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
+### 5. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -181,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea
 
 ---
 
-### 7. How to make a BOOK into a bestseller
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963
-```
-
-</details>
-
----
-
-### 8. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
+### 6. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
 
 **播客名称**: 忽左忽右
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f47a4978d33cb2
 
 ---
 
-### 9. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
+### 7. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
 
 **播客名称**: 沈奕斐的播客
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a7
 
 ---
 
-### 10. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+### 8. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ882gfc/keychangefm/8222435269_151971.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a995
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ882gfc/keychangefm/8222435269_151971.mp3
+```
+
+</details>
+
+---
+
+### 9. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3
+```
+
+</details>
+
+---
+
+### 10. 任鑫：AI 转型没戏，得重新投胎
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a
 ```
 
 </details>

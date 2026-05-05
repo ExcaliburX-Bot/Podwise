@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-05 02:39  
+> 📅 **更新时间**: 2026-05-05 08:08  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. Vol.333 白日尽头：每次告别，都是下一次重生
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. vol.249我送礼离开，你千里之外
+### 2. vol.249我送礼离开，你千里之外
 
 **播客**: 正经叭叭
 
@@ -47,20 +34,20 @@
 
 ---
 
-### 4. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+### 3. 初夏限定歌单：做一场清甜的白日梦
 
-**播客**: 无聊斋
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 886: Blackout
+### 4. 886: Blackout
 
 **播客**: This American Life
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
+### 5. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. How to make a BOOK into a bestseller
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
+### 6. 日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争
 
 **播客**: 忽左忽右
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
+### 7. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
 
 **播客**: 沈奕斐的播客
 
@@ -125,15 +99,41 @@
 
 ---
 
-### 10. 139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射
+### 8. 王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/69f3857a5c60a99573fea0c2/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luffrgudEiiGHQxam49tfQci63NO.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MCwidCI6MX0.kp-WB-bzuqxnasb_C0CaZ882gfc/keychangefm/8222435269_151971.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 任鑫：AI 转型没戏，得重新投胎
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMANx7lvAQI6OwSR1myz.m4a?channel=rss&album_id=74194808&track_id=973527611&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/df57-audiofreehighqps/FF/62/GKwRIMANx7lvAQI6OwSR1myz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
