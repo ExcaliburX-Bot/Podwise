@@ -1,31 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-05-05 19:17  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写](#) | 忽左忽右 | 2026-05-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.249我送礼离开，你千里之外](#) | 正经叭叭 | 2026-05-04 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [初夏限定歌单：做一场清甜的白日梦](#) | Vibration 歪波音室 | 2026-05-04 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [886: Blackout](#) | This American Life | 2026-05-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴](#) | 无聊斋 | 2026-05-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [126. 春季追剧小结：毁掉神剧的方法就是拍续集](#) | 英美剧漫游指南KillingTV | 2026-05-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [104.我不想那么真了，可以吗？](#) | 喷嚏 | 2026-05-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [How to make a BOOK into a bestseller](#) | Planet Money | 2026-05-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [日本谍报物语01｜明治对华特务潮：倒幕开国、大陆政策与甲午战争](#) | 忽左忽右 | 2026-05-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Ira (Reluctantly) Gives a Graduation Speech](#) | This American Life | 2026-05-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [139. 【Agent的综述】和苏煜聊Agent技术史、OpenClaw Moment、边界的消弭和社会的辐射](#) | 张小珺Jùn｜商业访谈录 | 2026-05-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）](#) | 沈奕斐的播客 | 2026-05-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [王嘉仪：在“水性扬花”的光影间，成为自己喜欢的样子](#) | 周末变奏 Key Change | 2026-04-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！](#) | 人民公园说AI | 2026-04-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化](#) | 晚点聊 LateTalk | 2026-04-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [语言、coding、多模态，到底谁坐AI的主桌？---狂喜98页PPT-solo](#) | 屠龙之术 | 2026-04-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [一小波：小红书3万粉也能年入百万？揭秘低粉高变现的自媒体搞钱大法！](#) | 搞钱女孩 | 2026-04-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Spirit Airlines and the future of cheap flights](#) | Planet Money | 2026-04-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [No.199 🚲 自行车 200年](#) | 半拿铁 | 商业沉浮录 | 2026-04-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Google 的 AI 策略：不赌模型，赌什么？- Google Cloud Next 现场 S10E09](#) | What's Next｜科技早知道 | 2026-04-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [266.从红果到AI短剧：谁在革谁的命？](#) | 乱翻书 | 2026-04-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [4月新歌推荐丨门尼、邓泽西、Arlo Parks、東京酒吐座…这个月冷门但值得！🎉](#) | Vibration 歪波音室 | 2026-04-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [当我们在讨论 Harness 的时候，我们在讨论什么 - 深度对谈: Minimax × Hermes Agent](#) | 十字路口Crossing | 2026-04-28 |
+---
 
-_最后更新: 2026-05-05 17:12:16_
+## 🎯 Top 10 热门播客
+
+### 1. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11e59dec82/media.xyzcdn.net/60502e253c92d4f62c2a9577/lklUK3i7C4Gzw4jvxeE7ODSFGiS3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea81422b32/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsOI7QRLNKygtxF889rG1ugxm1DS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3009期:Exhibition will explore the late Queen's fashion
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNyyVqAAYR2ASTDGLc.m4a?channel=rss&album_id=14812466&track_id=974024029&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dbb0-audiofreehighqps/24/DA/GKwRIRwNyyVqAAYR2ASTDGLc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Vol.333 白日尽头：每次告别，都是下一次重生
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. vol.249我送礼离开，你千里之外
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 初夏限定歌单：做一场清甜的白日梦
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 886: Blackout
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/40ac9d61-48fa-49cd-8a8b-c80a95885223/audio/128/default.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. How to make a BOOK into a bestseller
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a77199616b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgLuzl0hPxWZhJrh80cp5EO0rA1M.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*
