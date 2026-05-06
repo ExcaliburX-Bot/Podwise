@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-06 14:08:43
+> 📅 生成时间: 2026-05-06 19:45:02
 > 📊 总计: 10 个播客
 
 ---
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efc
 
 ---
 
-### 4. 第3010期:Eco-friendly straws
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwNyyiFAAuvcQSTDfdH.m4a?channel=rss&album_id=14812466&track_id=974025834&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0057-audiofreehighqps/B2/EF/GKwRIRwNyyiFAAuvcQSTDfdH.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwNyyiFAAuvcQSTDfdH.m4a?channel=rss&album_id=14812466&track_id=974025834&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0057-audiofreehighqps/B2/EF/GKwRIRwNyyiFAAuvcQSTDfdH.m4a
-```
-
-</details>
-
----
-
-### 5. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 4. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客名称**: 贝望录
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69f8dab1f93890ea
 
 ---
 
-### 6. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 5. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客名称**: 十字路口Crossing
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11
 
 ---
 
-### 7. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 6. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea
 
 ---
 
-### 8. Vol.333 白日尽头：每次告别，都是下一次重生
+### 7. Vol.333 白日尽头：每次告别，都是下一次重生
 
 **播客名称**: 文化有限
 
@@ -235,34 +208,7 @@ https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. vol.249我送礼离开，你千里之外
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a
-```
-
-</details>
-
----
-
-### 10. 初夏限定歌单：做一场清甜的白日梦
+### 8. 初夏限定歌单：做一场清甜的白日梦
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +229,60 @@ https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDP
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
+```
+
+</details>
+
+---
+
+### 9. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
+```
+
+</details>
+
+---
+
+### 10. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a
 ```
 
 </details>
