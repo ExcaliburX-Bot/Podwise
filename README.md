@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-06 02:45  
+> 📅 **更新时间**: 2026-05-06 14:08  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3010期:Eco-friendly straws
+### 1. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670b720bb01/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lvVRfM2nUVTrEEuyli8xZOUl6cDQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. How we got free agents in baseball
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a3511ba2-5712-446a-9036-9c3aa9fad15b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a3511ba2-5712-446a-9036-9c3aa9fad15b&feed=hvWWWzRv&t=podcast&e=nx-s1-5812912&p=510289&d=1731&size=27704512)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 十年后，Faker坐到了李世石的旁边
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efcd6f4eaec/media.xyzcdn.net/6507bc165c88d2412626b401/lnN7Z34jydViy49CDV2K9JEPtLUF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第3010期:Eco-friendly straws
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 5. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客**: 贝望录
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 6. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 7. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客**: 忽左忽右
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. Vol.333 白日尽头：每次告别，都是下一次重生
+### 8. Vol.333 白日尽头：每次告别，都是下一次重生
 
 **播客**: 文化有限
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. vol.249我送礼离开，你千里之外
+### 9. vol.249我送礼离开，你千里之外
 
 **播客**: 正经叭叭
 
@@ -86,54 +125,15 @@
 
 ---
 
-### 7. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+### 10. 初夏限定歌单：做一场清甜的白日梦
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
-
-**播客**: 英美剧漫游指南KillingTV
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. How to make a BOOK into a bestseller
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/0d2c8c38-ba31-44ef-8961-81365471932b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=0d2c8c38-ba31-44ef-8961-81365471932b&feed=hvWWWzRv&t=podcast&e=nx-s1-5785166&p=510289&d=2805&size=44880963)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 254.年轻人该怎样对待父母？到底要不要彩礼？｜播客粉丝线下见面会（上）
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69f3311d038707a77199616b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgLuzl0hPxWZhJrh80cp5EO0rA1M.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
