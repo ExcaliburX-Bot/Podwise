@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-07 02:46:55
+> 📅 生成时间: 2026-05-07 08:32:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
+### 1. 第3011期:The most comfortable seat in the world.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
+```
+
+</details>
+
+---
+
+### 2. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
 
 **播客名称**: 搞钱女孩
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a9
 
 ---
 
-### 2. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
+### 3. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670
 
 ---
 
-### 3. How we got free agents in baseball
+### 4. How we got free agents in baseball
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 十年后，Faker坐到了李世石的旁边
+### 5. 十年后，Faker坐到了李世石的旁边
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efc
 
 ---
 
-### 5. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 6. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客名称**: 贝望录
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69f8dab1f93890ea
 
 ---
 
-### 6. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 7. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客名称**: 十字路口Crossing
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11
 
 ---
 
-### 7. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 8. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客名称**: 忽左忽右
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea81422b32/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsOI7QRLNKygtxF889rG1ugxm1DS.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.333 白日尽头：每次告别，都是下一次重生
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
 ```
 
 </details>
