@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-07 08:32:36
+> 📅 生成时间: 2026-05-07 14:06:12
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3011期:The most comfortable seat in the world.
+### 1. 管 Vibe Coding 项目，就像管公共厕所
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
+https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
+https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
+### 2. 97.国产都市剧30年：我的家，谁做主？
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
+```
+
+</details>
+
+---
+
+### 3. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a9
 
 ---
 
-### 3. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
+### 4. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670
 
 ---
 
-### 4. How we got free agents in baseball
+### 5. How we got free agents in baseball
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 十年后，Faker坐到了李世石的旁边
+### 6. 十年后，Faker坐到了李世石的旁边
 
 **播客名称**: 屠龙之术
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efc
 
 ---
 
-### 6. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 7. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客名称**: 贝望录
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69f8dab1f93890ea
 
 ---
 
-### 7. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 8. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客名称**: 十字路口Crossing
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11
 
 ---
 
-### 8. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 9. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客名称**: 忽左忽右
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea
 
 ---
 
-### 9. vol.249我送礼离开，你千里之外
+### 10. vol.249我送礼离开，你千里之外
 
 **播客名称**: 正经叭叭
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efc
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a
-```
-
-</details>
-
----
-
-### 10. 初夏限定歌单：做一场清甜的白日梦
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
 ```
 
 </details>

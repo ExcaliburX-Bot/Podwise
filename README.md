@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-07 08:32  
+> 📅 **更新时间**: 2026-05-07 14:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3011期:The most comfortable seat in the world.
+### 1. 管 Vibe Coding 项目，就像管公共厕所
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
+### 2. 97.国产都市剧30年：我的家，谁做主？
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
 
 **播客**: 搞钱女孩
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
+### 4. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. How we got free agents in baseball
+### 5. How we got free agents in baseball
 
 **播客**: Planet Money
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 十年后，Faker坐到了李世石的旁边
+### 6. 十年后，Faker坐到了李世石的旁边
 
 **播客**: 屠龙之术
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 7. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客**: 贝望录
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 8. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客**: 十字路口Crossing
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 9. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客**: 忽左忽右
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. vol.249我送礼离开，你千里之外
+### 10. vol.249我送礼离开，你千里之外
 
 **播客**: 正经叭叭
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 初夏限定歌单：做一场清甜的白日梦
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
