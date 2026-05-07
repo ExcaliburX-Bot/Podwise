@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-07 14:06:12
+> 📅 生成时间: 2026-05-07 19:42:25
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. 97.国产都市剧30年：我的家，谁做主？
+### 2. 第3011期:The most comfortable seat in the world.
 
-**播客名称**: 展开讲讲
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
+https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
+https://jt.ximalaya.com//GKwRIRwNyyxZABafwASTD4V_.m4a?channel=rss&album_id=14812466&track_id=974028491&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/10d1-audiofreehighqps/AA/B6/GKwRIRwNyyxZABafwASTD4V_.m4a
 ```
 
 </details>
@@ -154,88 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 十年后，Faker坐到了李世石的旁边
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efcd6f4eaec/media.xyzcdn.net/6507bc165c88d2412626b401/lnN7Z34jydViy49CDV2K9JEPtLUF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fad4a5e05c0efcd6f4eaec/media.xyzcdn.net/6507bc165c88d2412626b401/lnN7Z34jydViy49CDV2K9JEPtLUF.m4a
-```
-
-</details>
-
----
-
-### 7. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69f8dab1f93890ea813af365/media.xyzcdn.net/5e285856418a84a04627b7be/lstRz1QMUDnQK9I8KSg_bYT6HnCX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/69f8dab1f93890ea813af365/media.xyzcdn.net/5e285856418a84a04627b7be/lstRz1QMUDnQK9I8KSg_bYT6HnCX.m4a
-```
-
-</details>
-
----
-
-### 8. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11e59dec82/media.xyzcdn.net/60502e253c92d4f62c2a9577/lklUK3i7C4Gzw4jvxeE7ODSFGiS3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11e59dec82/media.xyzcdn.net/60502e253c92d4f62c2a9577/lklUK3i7C4Gzw4jvxeE7ODSFGiS3.m4a
-```
-
-</details>
-
----
-
-### 9. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 6. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69f9ba3cf93890ea
 
 ---
 
-### 10. vol.249我送礼离开，你千里之外
+### 7. Vol.333 白日尽头：每次告别，都是下一次重生
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUENzG3YAyDfFgSTe17h.m4a?channel=rss&album_id=29887212&track_id=974190054&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8111-audiofreehighqps/18/AC/GKwRIUENzG3YAyDfFgSTe17h.m4a
+```
+
+</details>
+
+---
+
+### 8. vol.249我送礼离开，你千里之外
 
 **播客名称**: 正经叭叭
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efc
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a
+```
+
+</details>
+
+---
+
+### 9. 初夏限定歌单：做一场清甜的白日梦
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3
+```
+
+</details>
+
+---
+
+### 10. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a
 ```
 
 </details>
