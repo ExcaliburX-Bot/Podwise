@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-06 19:45  
+> 📅 **更新时间**: 2026-05-07 02:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
+### 1. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a939d7f298/media.xyzcdn.net/63d945ece725b5378a158d29/lixvYyPSm5KZdb4H6lI1Dv9f6HQS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. How we got free agents in baseball
+### 3. How we got free agents in baseball
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 十年后，Faker坐到了李世石的旁边
+### 4. 十年后，Faker坐到了李世石的旁边
 
 **播客**: 屠龙之术
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
+### 5. 221. 英伦奇葩说丨在英国，你拿起哪份报纸，别人就知道你是谁
 
 **播客**: 贝望录
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
+### 6. 探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
+### 7. 471 当江户幕府开始「性转」：漫画《大奥》的历史想象与权力书写
 
 **播客**: 忽左忽右
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Vol.333 白日尽头：每次告别，都是下一次重生
+### 8. Vol.333 白日尽头：每次告别，都是下一次重生
 
 **播客**: 文化有限
 
@@ -99,7 +112,20 @@
 
 ---
 
-### 8. 初夏限定歌单：做一场清甜的白日梦
+### 9. vol.249我送礼离开，你千里之外
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/69f8aa65e05c0efcd6de5b55/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqpQWwmzKTiHKRrIjTtLtHHZxePe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 初夏限定歌单：做一场清甜的白日梦
 
 **播客**: Vibration 歪波音室
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_JmtzxxXYJKbNFnLNCWJMbnBKxygyfwsFKnnAWYKQnKQJcWYWyPYDPKFFfd-6b.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.583 “工作中的什么最消耗人？除了发工资的一切” feat.刘同｜无聊斋牌创口贴
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_ynTFMfnVQmaArfpWhnTfrXxJPZWXWDUrQwGmCDEvFkeucypzgPSFUESmkx-69.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 126. 春季追剧小结：毁掉神剧的方法就是拍续集
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
