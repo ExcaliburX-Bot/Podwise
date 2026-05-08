@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-08 13:45:43
+> 📅 生成时间: 2026-05-08 19:16:30
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69fd8a69e1eb34a9
 
 ---
 
-### 3. 日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a
-```
-
-</details>
-
----
-
-### 4. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+### 3. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd502
 
 ---
 
-### 5. 第3012期:Astronauts telling stories to spark children's interest
+### 4. 第3012期:Astronauts telling stories to spark children's interest
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -148,6 +121,33 @@ https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812466&track_id=974030652&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7df8-audiofreehighqps/F1/DA/GKwRIJINyy9lAA6pkASTEMUN.m4a
+```
+
+</details>
+
+---
+
+### 5. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69fc98ed1b7bd50295ac72cc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnKSWVeUxyKfVtlBP8RprcDVCNFh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69fc98ed1b7bd50295ac72cc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnKSWVeUxyKfVtlBP8RprcDVCNFh.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 管 Vibe Coding 项目，就像管公共厕所
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
-```
-
-</details>
-
----
-
-### 8. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
+### 7. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
 
 **播客名称**: 三五环
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a
+```
+
+</details>
+
+---
+
+### 8. 97.国产都市剧30年：我的家，谁做主？
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
 ```
 
 </details>

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T13:45:43.437579",
+  "generated_at": "2026-05-08T19:16:30.596266",
   "total_count": 10,
   "episodes": [
     {
@@ -24,16 +24,6 @@
     },
     {
       "rank": 3,
-      "title": "日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
       "title": "没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内",
       "podcast": "屠龙之术",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a",
@@ -43,10 +33,20 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "第3012期:Astronauts telling stories to spark children's interest",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812466&track_id=974030652&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7df8-audiofreehighqps/F1/DA/GKwRIJINyy9lAA6pkASTEMUN.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "title": "282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样",
+      "podcast": "东亚观察局",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69fc98ed1b7bd50295ac72cc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnKSWVeUxyKfVtlBP8RprcDVCNFh.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -64,9 +64,9 @@
     },
     {
       "rank": 7,
-      "title": "管 Vibe Coding 项目，就像管公共厕所",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a",
+      "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+      "podcast": "三五环",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,9 +74,9 @@
     },
     {
       "rank": 8,
-      "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
-      "podcast": "三五环",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
+      "title": "97.国产都市剧30年：我的家，谁做主？",
+      "podcast": "展开讲讲",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
