@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-08 19:16:30
+> 📅 生成时间: 2026-05-09 02:45:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
+### 1. Diary of a WNBA negotiator
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,95 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f087
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084
 ```
 
 </details>
 
 ---
 
-### 2. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+### 2. 第3013期:The Tea Culture You Don't Know
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4NyzGyAAwqyQSTEbCy.m4a?channel=rss&album_id=14812466&track_id=974032248&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ed9-audiofreehighqps/C0/D0/GKwRIW4NyzGyAAwqyQSTEbCy.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4NyzGyAAwqyQSTEbCy.m4a?channel=rss&album_id=14812466&track_id=974032248&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ed9-audiofreehighqps/C0/D0/GKwRIW4NyzGyAAwqyQSTEbCy.m4a
+```
+
+</details>
+
+---
+
+### 3. 秘密行动：不安的交响，也许正是对生活的折射
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MiwidCI6MX0.qwC5rT7TILaEJ_utRLp1Pj9jH_Q/keychangefm/8221740323_216519.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MiwidCI6MX0.qwC5rT7TILaEJ_utRLp1Pj9jH_Q/keychangefm/8221740323_216519.mp3
+```
+
+</details>
+
+---
+
+### 4. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f96f60-25be-45ac-b832-56776a23d534.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f96f60-25be-45ac-b832-56776a23d534.mp3
+```
+
+</details>
+
+---
+
+### 5. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
 
 **播客名称**: 知行小酒馆
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69fd8a69e1eb34a9
 
 ---
 
-### 3. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+### 6. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
 
 **播客名称**: 屠龙之术
 
@@ -100,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd502
 
 ---
 
-### 4. 第3012期:Astronauts telling stories to spark children's interest
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812466&track_id=974030652&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7df8-audiofreehighqps/F1/DA/GKwRIJINyy9lAA6pkASTEMUN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812466&track_id=974030652&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7df8-audiofreehighqps/F1/DA/GKwRIJINyy9lAA6pkASTEMUN.m4a
-```
-
-</details>
-
----
-
-### 5. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
+### 7. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
 
 **播客名称**: 东亚观察局
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69fc98ed1b7bd502
 
 ---
 
-### 6. S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司
+### 8. 管 Vibe Coding 项目，就像管公共厕所
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a
+https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +228,14 @@ https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a
+https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a
 ```
 
 </details>
 
 ---
 
-### 7. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
+### 9. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
 
 **播客名称**: 三五环
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a9
 
 ---
 
-### 8. 97.国产都市剧30年：我的家，谁做主？
+### 10. 97.国产都市剧30年：我的家，谁做主？
 
 **播客名称**: 展开讲讲
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a
-```
-
-</details>
-
----
-
-### 9. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a939d7f298/media.xyzcdn.net/63d945ece725b5378a158d29/lixvYyPSm5KZdb4H6lI1Dv9f6HQS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a939d7f298/media.xyzcdn.net/63d945ece725b5378a158d29/lixvYyPSm5KZdb4H6lI1Dv9f6HQS.m4a
-```
-
-</details>
-
----
-
-### 10. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670b720bb01/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lvVRfM2nUVTrEEuyli8xZOUl6cDQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670b720bb01/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lvVRfM2nUVTrEEuyli8xZOUl6cDQ.m4a
 ```
 
 </details>

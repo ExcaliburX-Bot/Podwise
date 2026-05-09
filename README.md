@@ -1,27 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-08 19:16  
+> 📅 **更新时间**: 2026-05-09 02:45  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
+### 1. Diary of a WNBA negotiator
 
-**播客**: What's Next｜科技早知道
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+### 2. 第3013期:The Tea Culture You Don't Know
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4NyzGyAAwqyQSTEbCy.m4a?channel=rss&album_id=14812466&track_id=974032248&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0ed9-audiofreehighqps/C0/D0/GKwRIW4NyzGyAAwqyQSTEbCy.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 秘密行动：不安的交响，也许正是对生活的折射
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MiwidCI6MX0.qwC5rT7TILaEJ_utRLp1Pj9jH_Q/keychangefm/8221740323_216519.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f96f60-25be-45ac-b832-56776a23d534.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
 
 **播客**: 知行小酒馆
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+### 6. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
 
 **播客**: 屠龙之术
 
@@ -47,20 +86,7 @@
 
 ---
 
-### 4. 第3012期:Astronauts telling stories to spark children's interest
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJINyy9lAA6pkASTEMUN.m4a?channel=rss&album_id=14812466&track_id=974030652&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7df8-audiofreehighqps/F1/DA/GKwRIJINyy9lAA6pkASTEMUN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
+### 7. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
 
 **播客**: 东亚观察局
 
@@ -73,20 +99,20 @@
 
 ---
 
-### 6. S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司
+### 8. 管 Vibe Coding 项目，就像管公共厕所
 
-**播客**: 创业内幕 Startup Insider
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
+### 9. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
 
 **播客**: 三五环
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 97.国产都市剧30年：我的家，谁做主？
+### 10. 97.国产都市剧30年：我的家，谁做主？
 
 **播客**: 展开讲讲
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a939d7f298/media.xyzcdn.net/63d945ece725b5378a158d29/lixvYyPSm5KZdb4H6lI1Dv9f6HQS.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670b720bb01/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lvVRfM2nUVTrEEuyli8xZOUl6cDQ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
