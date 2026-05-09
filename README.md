@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-09 02:45  
+> 📅 **更新时间**: 2026-05-09 07:55  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. 秘密行动：不安的交响，也许正是对生活的折射
+### 3. 255.要不要在乎别人的认可？为什么要给自己建立信息茧房？｜播客粉丝见面会（下）
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 秘密行动：不安的交响，也许正是对生活的折射
 
 **播客**: 周末变奏 Key Change
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
+### 5. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
 
 **播客**: 硅谷101
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+### 6. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
 
 **播客**: 知行小酒馆
 
@@ -73,7 +99,20 @@
 
 ---
 
-### 6. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+### 8. 日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
 
 **播客**: 屠龙之术
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
+### 10. 282 面对不确定的未来学着“翼装飞行” 就像这期聊天的走向一样
 
 **播客**: 东亚观察局
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/69fc98ed1b7bd50295ac72cc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnKSWVeUxyKfVtlBP8RprcDVCNFh.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 管 Vibe Coding 项目，就像管公共厕所
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN0khwAeae5gSVnIMT.m4a?channel=rss&album_id=74194808&track_id=975044957&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/0d4a-audiofreehighqps/A6/61/GKwRIUEN0khwAeae5gSVnIMT.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. No.220 钱为什么不是万能良药？聊聊那些返贫的故事
-
-**播客**: 三五环
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 97.国产都市剧30年：我的家，谁做主？
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
