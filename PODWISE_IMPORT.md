@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-10 02:51:52
+> 📅 生成时间: 2026-05-10 08:06:57
 > 📊 总计: 10 个播客
 
 ---
@@ -181,34 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f9
 
 ---
 
-### 7. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3
-```
-
-</details>
-
----
-
-### 8. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+### 7. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
 
 **播客名称**: 知行小酒馆
 
@@ -235,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69fd8a69e1eb34a9
 
 ---
 
-### 9. S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司
+### 8. 日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +228,34 @@ https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a
+```
+
+</details>
+
+---
+
+### 9. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a
 ```
 
 </details>

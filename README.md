@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-10 02:51  
+> 📅 **更新时间**: 2026-05-10 08:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+### 7. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
 
 **播客**: 知行小酒馆
 
@@ -112,15 +99,28 @@
 
 ---
 
-### 9. S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司
+### 8. 日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
