@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-11 09:37:19
+> 📅 生成时间: 2026-05-11 14:48:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
+### 1. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lv5lKWc7D7tXldn1dc993ubl_Vvh.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lv5lKWc7D7tXldn1dc993ubl_Vvh.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
 
 **播客名称**: 无聊斋
 
@@ -40,33 +67,6 @@ https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZF
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a
-```
-
-</details>
-
----
-
-### 2. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 255.要不要在乎别人的认可？为什么要给自己建立信息茧房？｜播客粉丝见面会（下）
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a
-```
-
-</details>
-
----
-
-### 8. 秘密行动：不安的交响，也许正是对生活的折射
+### 7. 秘密行动：不安的交响，也许正是对生活的折射
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MiwidCI6MX0.qwC5rT7TILaEJ_utRLp1Pj9
 
 ---
 
-### 9. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
+### 8. E235｜20年内CAR-T治愈癌症？与刘诚博士聊聊癌症治疗的底层哲学
 
 **播客名称**: 硅谷101
 
@@ -262,7 +235,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/90f9
 
 ---
 
-### 10. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
+### 9. 探访 Hacker House：硅谷年轻人，正在搬进「AI 创业宿舍」| S10E10
 
 **播客名称**: What's Next｜科技早知道
 
@@ -283,6 +256,33 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f087
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f0870843-fd16-49f5-8f24-80281f9fff77.mp3
+```
+
+</details>
+
+---
+
+### 10. E234 当我不再被工作定义！5 个普通人的价值感重建时刻｜小酒馆故事会 🍻
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69fd8a69e1eb34a939f868c0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llMbRoj-IKIJJ1cncg70u0FFrCFg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/69fd8a69e1eb34a939f868c0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/llMbRoj-IKIJJ1cncg70u0FFrCFg.m4a
 ```
 
 </details>
