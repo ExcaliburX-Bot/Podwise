@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-12 14:23:25
+> 📅 生成时间: 2026-05-12 19:50:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+### 1. 138 ✪ 👟昂跑中国重直营、🦍超级猩猩不办卡
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep138.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep138.mp3
+```
+
+</details>
+
+---
+
+### 2. Ep196 音乐大师课 | 不假唱、不怯场、不好听
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a
+```
+
+</details>
+
+---
+
+### 3. EP126 Agent Harness 🏇
+
+**播客名称**: 硬地骇客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a
+```
+
+</details>
+
+---
+
+### 4. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
 
 **播客名称**: 乱翻书
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9
 
 ---
 
-### 2. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
+### 5. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a02efd51b7bd502
 
 ---
 
-### 3. 346 趁年轻， 玩个大的！｜AI 时代的传奇人生: 哈萨比斯和洪乐潼
+### 6. 346 趁年轻， 玩个大的！｜AI 时代的传奇人生: 哈萨比斯和洪乐潼
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -100,15 +181,15 @@ https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=69903
 
 ---
 
-### 4. 第3017期:The best time to exercise depends on your body clock, study finds
+### 7. Vol.334 布鲁克林：所有离开家的人都能理解这本小说
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4N1Hh3AAadVgSWYc40.m4a?channel=rss&album_id=14812466&track_id=975392041&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/213c-audiofreehighqps/E8/EC/GKwRIW4N1Hh3AAadVgSWYc40.m4a
+https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +201,14 @@ https://jt.ximalaya.com//GKwRIW4N1Hh3AAadVgSWYc40.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4N1Hh3AAadVgSWYc40.m4a?channel=rss&album_id=14812466&track_id=975392041&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/213c-audiofreehighqps/E8/EC/GKwRIW4N1Hh3AAadVgSWYc40.m4a
+https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a
 ```
 
 </details>
 
 ---
 
-### 5. vol.250班班难过班班过，主任工作也难做
+### 8. vol.250班班难过班班过，主任工作也难做
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a01ee6c1b7bd502
 
 ---
 
-### 6. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
+### 9. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a
+```
+
+</details>
+
+---
+
+### 10. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd502
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a
-```
-
-</details>
-
----
-
-### 7. 318: With Great Power
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache
-```
-
-</details>
-
----
-
-### 8. Ep195 音乐大师课 | 狗和音乐有什么关系
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ff5a6de1eb34a939123c29/media.xyzcdn.net/5eae66d1418a84a046472b4d/lgCS2KHkL11NTPqoKZbBFl-zw1m1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/69ff5a6de1eb34a939123c29/media.xyzcdn.net/5eae66d1418a84a046472b4d/lgCS2KHkL11NTPqoKZbBFl-zw1m1.m4a
-```
-
-</details>
-
----
-
-### 9. Diary of a WNBA negotiator
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084
-```
-
-</details>
-
----
-
-### 10. 255.要不要在乎别人的认可？为什么要给自己建立信息茧房？｜播客粉丝见面会（下）
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a
 ```
 
 </details>
