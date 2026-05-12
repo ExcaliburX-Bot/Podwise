@@ -10,26 +10,6 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
-    "eid": "1G1WQSXOjTw.m4a",
-    "title": "Vol.334 布鲁克林：所有离开家的人都能理解这本小说",
-    "podcast": {
-      "title": "文化有限"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a",
-    "pubDate": "2026-05-11T23:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
-  },
-  {
-    "eid": "ikkkJPqsoI7.m4a",
-    "title": "vol.250班班难过班班过，主任工作也难做",
-    "podcast": {
-      "title": "正经叭叭"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a01ee6c1b7bd50295f1dae9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhjEJoPgbRm3XsI4likkkJPqsoI7.m4a",
-    "pubDate": "2026-05-11T16:00:42+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
     "eid": "c993ubl_Vvh.m4a",
     "title": "独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96",
     "podcast": {
@@ -38,6 +18,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lv5lKWc7D7tXldn1dc993ubl_Vvh.m4a",
     "pubDate": "2026-05-11T14:22:48+00:00",
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
+    "eid": "qZFqWeLA-82.m4a",
+    "title": "vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读",
+    "podcast": {
+      "title": "无聊斋"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a",
+    "pubDate": "2026-05-11T00:02:17+08:00",
+    "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
+  },
+  {
+    "eid": "4yY-UuqAe8h.m4a",
+    "title": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a",
+    "pubDate": "2026-05-11T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "f0fcafb&nocache",
@@ -68,6 +68,16 @@
     "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a96e83d4-fbbd-460b-a371-c76712fde3c6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a96e83d4-fbbd-460b-a371-c76712fde3c6&feed=hvWWWzRv&t=podcast&e=nx-s1-5816448&p=510289&d=1758&size=28132084",
     "pubDate": "2026-05-09T02:26:37+00:00",
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "bizUKp6km8U.m4a",
+    "title": "255.要不要在乎别人的认可？为什么要给自己建立信息茧房？｜播客粉丝见面会（下）",
+    "podcast": {
+      "title": "沈奕斐的播客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/69fd8e60e1eb34a939f8bf8a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmg_ivDAoVQTQnbpibizUKp6km8U.m4a",
+    "pubDate": "2026-05-09T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "0323_216519.mp3",
@@ -110,16 +120,6 @@
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "eid": "Wexs4x9i3sn.m4a",
-    "title": "日本谍报物语02｜对俄情报桥头堡：黑龙会、日俄战争与关东军特务网的建立",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/69fda0b21b7bd50295b9bbb4/media.xyzcdn.net/FqX06VnEUaEWZg-1YWexs4x9i3sn.m4a",
-    "pubDate": "2026-05-08T09:01:51+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
     "eid": "e_6JI-r31EA.m4a",
     "title": "没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内",
     "podcast": {
@@ -128,16 +128,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a",
     "pubDate": "2026-05-08T05:31:40+00:00",
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
-  },
-  {
-    "eid": "YAsqASVczLl.m4a",
-    "title": "S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a",
-    "pubDate": "2026-05-07T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
     "eid": "8RprcDVCNFh.m4a",
@@ -150,6 +140,16 @@
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
+    "eid": "YAsqASVczLl.m4a",
+    "title": "S8 Vol.6 编程猫孙悦：我们是一家「反焦虑」的公司",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIN0fkiAYAsqASVczLl.m4a?channel=rss&album_id=20119986&track_id=974987064&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/5739-audiofreehighqps/31/62/GKwRIaIN0fkiAYAsqASVczLl.m4a",
+    "pubDate": "2026-05-07T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
     "eid": "eae5gSVnIMT.m4a",
     "title": "管 Vibe Coding 项目，就像管公共厕所",
     "podcast": {
@@ -160,6 +160,26 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
+    "eid": "mmWTiWMB3o9.m4a",
+    "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
+    "pubDate": "2026-05-07T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "E79xx3AaF9A.m4a",
+    "title": "97.国产都市剧30年：我的家，谁做主？",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a",
+    "pubDate": "2026-05-07T09:11:36+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
     "eid": "lI1Dv9f6HQS.m4a",
     "title": "上班有多苦？发到小红薯！职场博主从起号到变现必听 | 香港听友会",
     "podcast": {
@@ -168,6 +188,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/69fb1b07e1eb34a939d7f298/media.xyzcdn.net/63d945ece725b5378a158d29/lixvYyPSm5KZdb4H6lI1Dv9f6HQS.m4a",
     "pubDate": "2026-05-06T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "i8xZOUl6cDQ.m4a",
+    "title": "No.200 ⚔️ 电商三国之群雄逐鹿：腰挂公章、持剑拒签，以及 108 种死法 | 中国互联网故事19",
+    "podcast": {
+      "title": "半拿铁 | 商业沉浮录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/69f3626b7de62670b720bb01/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lvVRfM2nUVTrEEuyli8xZOUl6cDQ.m4a",
+    "pubDate": "2026-05-06T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
     "eid": "eE7ODSFGiS3.m4a",
@@ -208,26 +238,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a",
     "pubDate": "2026-05-02T06:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
-  },
-  {
-    "eid": "ae52a411d64.mp3",
-    "title": "163: 详解DeepSeekV4：Infra巨鲸、百万上下文走进现实、极致效率优化",
-    "podcast": {
-      "title": "晚点聊 LateTalk"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/09658018-16d6-4d56-84d1-0ae52a411d64.mp3",
-    "pubDate": "2026-04-30T14:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
-    "eid": "WkcA35GFpXW.m4a",
-    "title": "因为我善？DeepSeekV4 国产适配和100 亿美金融资背后的阳谋，黄仁勋最怕的噩梦成真了！",
-    "podcast": {
-      "title": "人民公园说AI"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/69f34338b39400b493443a50/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ltQCBLAGr3G7TnkEBWkcA35GFpXW.m4a",
-    "pubDate": "2026-04-30T12:15:22+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
     "eid": "hlFZkuFAHOb.m4a",
@@ -288,15 +298,5 @@
     "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F1e6e1418-9798-c0b7-ef7a-237ef8c4b7d9.mp3",
     "pubDate": "2026-04-21T16:00:00+00:00",
     "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
-  },
-  {
-    "eid": "ZIW3dd6wbep.m4a",
-    "title": "助眠电台｜04",
-    "podcast": {
-      "title": "得意忘形"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a",
-    "pubDate": "2026-04-21T12:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
   }
 ]
