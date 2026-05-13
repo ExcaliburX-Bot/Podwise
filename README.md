@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-13 02:57  
+> 📅 **更新时间**: 2026-05-13 08:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 138 ✪ 👟昂跑中国重直营、🦍超级猩猩不办卡
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep138.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第3018期:Exoskeleton devices help paralyzed people stand up again
+### 1. 第3018期:Exoskeleton devices help paralyzed people stand up again
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,20 +21,7 @@
 
 ---
 
-### 3. 222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd50295e45cd6/media.xyzcdn.net/5e285856418a84a04627b7be/lr-0IYnT7vIQn8SxaeFNfoc9eFLi.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. EP126 Agent Harness 🏇
+### 2. EP126 Agent Harness 🏇
 
 **播客**: 硬地骇客
 
@@ -60,7 +34,7 @@
 
 ---
 
-### 5. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+### 3. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
 
 **播客**: 乱翻书
 
@@ -73,20 +47,33 @@
 
 ---
 
-### 6. Vol.334 布鲁克林：所有离开家的人都能理解这本小说
+### 4. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
 
-**播客**: 文化有限
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a02efd51b7bd50295fed4de/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo8s0gJnUaZH34hmadPeD1XVFMNi.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. vol.250班班难过班班过，主任工作也难做
+### 5. 346 AI 时代的传奇人生: 哈萨比斯和洪乐潼
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.250班班难过班班过，主任工作也难做
 
 **播客**: 正经叭叭
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
+### 7. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
 
 **播客**: 脑放电波
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
+### 8. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
 
 **播客**: 无聊斋
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
+### 9. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 318: With Great Power
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
