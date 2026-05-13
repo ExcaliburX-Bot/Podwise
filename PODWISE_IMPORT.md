@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-13 14:31:48
+> 📅 生成时间: 2026-05-13 19:53:33
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://tk.wavpub.com/WPDL_DrQcSXPErzvCSWMvwPSZeWuMCgNhEfjmGwakSLFVKVVbzzaDmkwYN
 
 ---
 
-### 2. 从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3
-```
-
-</details>
-
----
-
-### 3. No.201 🚄 中国高铁简史
+### 2. No.201 🚄 中国高铁简史
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502
 
 ---
 
-### 4. 222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂
+### 3. 222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂
 
 **播客名称**: 贝望录
 
@@ -127,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd502
 
 ---
 
-### 5. 第3018期:Exoskeleton devices help paralyzed people stand up again
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoN1JSuABGdzASWcD4X.m4a?channel=rss&album_id=14812466&track_id=975412437&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0987-audiofreehighqps/B3/2F/GKwRIDoN1JSuABGdzASWcD4X.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoN1JSuABGdzASWcD4X.m4a?channel=rss&album_id=14812466&track_id=975412437&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0987-audiofreehighqps/B3/2F/GKwRIDoN1JSuABGdzASWcD4X.m4a
-```
-
-</details>
-
----
-
-### 6. Ep196 音乐大师课 | 不假唱、不怯场、不好听
+### 4. Ep196 音乐大师课 | 不假唱、不怯场、不好听
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a9
 
 ---
 
-### 7. EP126 Agent Harness 🏇
+### 5. EP126 Agent Harness 🏇
 
 **播客名称**: 硬地骇客
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a9
 
 ---
 
-### 8. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+### 6. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
 
 **播客名称**: 乱翻书
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9
 
 ---
 
-### 9. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
+### 7. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
 
 **播客名称**: 忽左忽右
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a02efd51b7bd502
 
 ---
 
-### 10. 346 AI 时代的传奇人生: 哈萨比斯和洪乐潼
+### 8. Vol.334 布鲁克林：所有离开家的人都能理解这本小说
 
-**播客名称**: Blow Your Mind (BYM S02)
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a
+https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=69903
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a
+https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a
+```
+
+</details>
+
+---
+
+### 9. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a
 ```
 
 </details>

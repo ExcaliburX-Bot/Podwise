@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T14:31:48.773964",
+  "generated_at": "2026-05-13T19:53:33.105764",
   "total_count": 10,
   "episodes": [
     {
@@ -14,16 +14,6 @@
     },
     {
       "rank": 2,
-      "title": "从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11",
-      "podcast": "What's Next｜科技早知道",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
       "title": "No.201 🚄 中国高铁简史",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq-o7AzpV8BgnytZ1pkWx0xdiUfU.m4a",
@@ -33,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd50295e45cd6/media.xyzcdn.net/5e285856418a84a04627b7be/lr-0IYnT7vIQn8SxaeFNfoc9eFLi.m4a",
@@ -43,17 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "第3018期:Exoskeleton devices help paralyzed people stand up again",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIDoN1JSuABGdzASWcD4X.m4a?channel=rss&album_id=14812466&track_id=975412437&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0987-audiofreehighqps/B3/2F/GKwRIDoN1JSuABGdzASWcD4X.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "Ep196 音乐大师课 | 不假唱、不怯场、不好听",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a",
@@ -63,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "EP126 Agent Harness 🏇",
       "podcast": "硬地骇客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a",
@@ -73,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9393fb269/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a",
@@ -83,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a02efd51b7bd50295fed4de/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo8s0gJnUaZH34hmadPeD1XVFMNi.m4a",
@@ -93,10 +73,30 @@
       "notes": ""
     },
     {
+      "rank": 8,
+      "title": "Vol.334 布鲁克林：所有离开家的人都能理解这本小说",
+      "podcast": "文化有限",
+      "audio_url": "https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 10,
-      "title": "346 AI 时代的传奇人生: 哈萨比斯和洪乐潼",
-      "podcast": "Blow Your Mind (BYM S02)",
-      "audio_url": "https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a",
+      "title": "vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读",
+      "podcast": "无聊斋",
+      "audio_url": "https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
