@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-13 08:43  
+> 📅 **更新时间**: 2026-05-13 14:31  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3018期:Exoskeleton devices help paralyzed people stand up again
+### 1. 听她的歌，越过「正确答案」的荒野
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_DrQcSXPErzvCSWMvwPSZeWuMCgNhEfjmGwakSLFVKVVbzzaDmkwYNxxJWW-ce.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.201 🚄 中国高铁简史
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq-o7AzpV8BgnytZ1pkWx0xdiUfU.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd50295e45cd6/media.xyzcdn.net/5e285856418a84a04627b7be/lr-0IYnT7vIQn8SxaeFNfoc9eFLi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 第3018期:Exoskeleton devices help paralyzed people stand up again
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +73,20 @@
 
 ---
 
-### 2. EP126 Agent Harness 🏇
+### 6. Ep196 音乐大师课 | 不假唱、不怯场、不好听
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. EP126 Agent Harness 🏇
 
 **播客**: 硬地骇客
 
@@ -34,7 +99,7 @@
 
 ---
 
-### 3. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+### 8. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
 
 **播客**: 乱翻书
 
@@ -47,7 +112,7 @@
 
 ---
 
-### 4. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
+### 9. 472 港英「政治部」轶闻：冷战前线的谍都香港与英国殖民地情报网
 
 **播客**: 忽左忽右
 
@@ -60,7 +125,7 @@
 
 ---
 
-### 5. 346 AI 时代的传奇人生: 哈萨比斯和洪乐潼
+### 10. 346 AI 时代的传奇人生: 哈萨比斯和洪乐潼
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -69,71 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. vol.250班班难过班班过，主任工作也难做
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a01ee6c1b7bd50295f1dae9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqMn0RJ3vyBP0rig6QPI_y5uBqLr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.584 见面聊聊｜小学同学录、情书、原创疼痛小说…那不是我的来时路，那就是我的黑历史呀！（已拜读
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_rpZhZewCUWBtrRXfttKgLCJTxgfWDTeQnXgJqPmqwFxfyVKvtRqZFqWeLA-82.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 318: With Great Power
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
