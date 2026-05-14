@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-14 14:09:26
+> 📅 生成时间: 2026-05-14 19:44:27
 > 📊 总计: 10 个播客
 
 ---
@@ -235,15 +235,15 @@ https://rio.xyzcdn.net/crazycapital/ep138.mp3
 
 ---
 
-### 9. EP126 Agent Harness 🏇
+### 9. 222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂
 
-**播客名称**: 硬地骇客
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd50295e45cd6/media.xyzcdn.net/5e285856418a84a04627b7be/lr-0IYnT7vIQn8SxaeFNfoc9eFLi.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a013e931b7bd50295e45cd6/media.xyzcdn.net/5e285856418a84a04627b7be/lr-0IYnT7vIQn8SxaeFNfoc9eFLi.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集
+### 10. Ep196 音乐大师课 | 不假唱、不怯场、不好听
 
-**播客名称**: 乱翻书
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9393fb269/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9393fb269/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a
 ```
 
 </details>
