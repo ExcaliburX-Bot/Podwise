@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T14:05:25.338768",
+  "generated_at": "2026-05-15T19:27:49.640427",
   "total_count": 10,
   "episodes": [
     {
@@ -24,26 +24,6 @@
     },
     {
       "rank": 3,
-      "title": "473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
-      "title": "256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01",
-      "podcast": "沈奕斐的播客",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
       "title": "第3020期:Magic-themed Bar",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIMAN1JqBAA3zdwSWcyjA.m4a?channel=rss&album_id=14812466&track_id=975416843&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a3f7-audiofreehighqps/03/94/GKwRIMAN1JqBAA3zdwSWcyjA.m4a",
@@ -53,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a",
@@ -63,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a",
@@ -73,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？",
       "podcast": "创业内幕 Startup Insider",
       "audio_url": "https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a",
@@ -83,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
       "podcast": "硅谷101",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
@@ -93,10 +73,30 @@
       "notes": ""
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "何一：我的野心，是有一个配得上我的世界！",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a04b860e1eb34a9395b1409/media.xyzcdn.net/63d945ece725b5378a158d29/lsPAB2N8PlZIb-sgiwHoNi5IxWeH.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "The secret meeting that launched OPEC",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
