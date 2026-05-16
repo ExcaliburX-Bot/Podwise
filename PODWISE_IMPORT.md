@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-15 19:27:49
+> 📅 生成时间: 2026-05-16 02:49:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 1. Jerome Powell and the Future of Fed Independence
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LIn
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949
 ```
 
 </details>
 
 ---
 
-### 2. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+### 2. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
 
-**播客名称**: 知行小酒馆
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +66,14 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd502
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 第3020期:Magic-themed Bar
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAN1JqBAA3zdwSWcyjA.m4a?channel=rss&album_id=14812466&track_id=975416843&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a3f7-audiofreehighqps/03/94/GKwRIMAN1JqBAA3zdwSWcyjA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAN1JqBAA3zdwSWcyjA.m4a?channel=rss&album_id=14812466&track_id=975416843&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a3f7-audiofreehighqps/03/94/GKwRIMAN1JqBAA3zdwSWcyjA.m4a
-```
-
-</details>
-
----
-
-### 4. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
+### 3. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
 
 **播客名称**: 人民公园说AI
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a
+```
+
+</details>
+
+---
+
+### 4. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502
 
 ---
 
-### 6. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a
-```
-
-</details>
-
----
-
-### 7. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
+### 6. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
 
 **播客名称**: 硅谷101
 
@@ -208,34 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066
 
 ---
 
-### 8. 164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3
-```
-
-</details>
-
----
-
-### 9. 何一：我的野心，是有一个配得上我的世界！
+### 7. 何一：我的野心，是有一个配得上我的世界！
 
 **播客名称**: 搞钱女孩
 
@@ -262,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a04b860e1eb34a9
 
 ---
 
-### 10. The secret meeting that launched OPEC
+### 8. 听她的歌，越过「正确答案」的荒野
 
-**播客名称**: Planet Money
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740
+https://tk.wavpub.com/WPDL_DrQcSXPErzvCSWMvwPSZeWuMCgNhEfjmGwakSLFVKVVbzzaDmkwYNxxJWW-ce.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/8770271d-665f-4211-bf65-ebe192bfc19f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=8770271d-665f-4211-bf65-ebe192bfc19f&feed=hvWWWzRv&t=podcast&e=nx-s1-5819610&p=510289&d=1653&size=26457740
+https://tk.wavpub.com/WPDL_DrQcSXPErzvCSWMvwPSZeWuMCgNhEfjmGwakSLFVKVVbzzaDmkwYNxxJWW-ce.mp3
+```
+
+</details>
+
+---
+
+### 9. 从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3
+```
+
+</details>
+
+---
+
+### 10. No.201 🚄 中国高铁简史
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liH2xeYmE4ZPXah_IzSJPKhGRYIU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liH2xeYmE4ZPXah_IzSJPKhGRYIU.m4a
 ```
 
 </details>
