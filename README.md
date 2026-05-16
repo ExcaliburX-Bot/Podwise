@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-16 08:03  
+> 📅 **更新时间**: 2026-05-16 13:20  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. Jerome Powell and the Future of Fed Independence
+### 2. 第3021期:Climate change leads to severe violence against women in Somalia
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIN1J1ZABD8RQSWdd3f.m4a?channel=rss&album_id=14812466&track_id=975419163&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f26-audiofreehighqps/22/F6/GKwRIJIN1J1ZABD8RQSWdd3f.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Jerome Powell and the Future of Fed Independence
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 4. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客**: 周末变奏 Key Change
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+### 5. E235 与其担心 AI 改变你，不如今天就用它做一件小事
 
 **播客**: 知行小酒馆
 
@@ -60,20 +73,20 @@
 
 ---
 
-### 5. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
+### 6. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
 
-**播客**: 沈奕斐的播客
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
+### 7. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
 
 **播客**: 人民公园说AI
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
+### 8. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
 
 **播客**: 东亚观察局
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
+### 9. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. 164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
+### 10. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
 
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 何一：我的野心，是去更大的世界看看！
-
-**播客**: 搞钱女孩
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a04b860e1eb34a9395b1409/media.xyzcdn.net/63d945ece725b5378a158d29/lsPAB2N8PlZIb-sgiwHoNi5IxWeH.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
