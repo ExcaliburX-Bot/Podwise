@@ -1,5 +1,15 @@
 [
   {
+    "eid": "O-QXqnEsB4z.m4a",
+    "title": "105.第三届京斯卡来了，这奖怎么还在颁啊",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a",
+    "pubDate": "2026-05-16T06:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+  },
+  {
     "eid": "3&size=27737949",
     "title": "Jerome Powell and the Future of Fed Independence",
     "podcast": {
@@ -8,6 +18,26 @@
     "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949",
     "pubDate": "2026-05-15T19:59:43+00:00",
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "0767_091604.mp3",
+    "title": "碎梦飞跃做客，和我们不想被困在的那个夏天",
+    "podcast": {
+      "title": "周末变奏 Key Change"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3",
+    "pubDate": "2026-05-15T15:05:20+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
+  },
+  {
+    "eid": "j04ZEsFXBM3.m4a",
+    "title": "E235 与其担心 AI 改变你，不如今天就用它做一件小事",
+    "podcast": {
+      "title": "知行小酒馆"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a",
+    "pubDate": "2026-05-15T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "F-sDx_TgReQ.m4a",
@@ -30,16 +60,6 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "Uv81gSYs87f.m4a",
-    "title": "S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a",
-    "pubDate": "2026-05-14T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "PYxGuO5FIo1.m4a",
     "title": "283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意",
     "podcast": {
@@ -50,18 +70,28 @@
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
-    "eid": "82bca4181e4.mp3",
-    "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+    "eid": "Uv81gSYs87f.m4a",
+    "title": "S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？",
     "podcast": {
-      "title": "硅谷101"
+      "title": "创业内幕 Startup Insider"
     },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
-    "pubDate": "2026-05-14T17:00:00-07:00",
-    "source_rss": "https://feeds.fireside.fm/sv101/rss"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a",
+    "pubDate": "2026-05-14T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
+    "eid": "c9af6e572d7.mp3",
+    "title": "164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3",
+    "pubDate": "2026-05-14T08:45:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "wHoNi5IxWeH.m4a",
-    "title": "何一：我的野心，是有一个配得上我的世界！",
+    "title": "何一：我的野心，是去更大的世界看看！",
     "podcast": {
       "title": "搞钱女孩"
     },
@@ -90,26 +120,6 @@
     "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
   },
   {
-    "eid": "zSJPKhGRYIU.m4a",
-    "title": "No.201 🚄 中国高铁简史",
-    "podcast": {
-      "title": "半拿铁 | 商业沉浮录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liH2xeYmE4ZPXah_IzSJPKhGRYIU.m4a",
-    "pubDate": "2026-05-13T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
-    "eid": "pital/ep138.mp3",
-    "title": "138 ✪ 👟昂跑中国重直营、🦍超级猩猩不办卡",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep138.mp3",
-    "pubDate": "2026-05-13T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
-  },
-  {
     "eid": "eFNfoc9eFLi.m4a",
     "title": "222. 从100%橙汁到生姜shot，果汁这门生意比你想的更复杂",
     "podcast": {
@@ -130,6 +140,16 @@
     "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
+    "eid": "XnOQqaSJ91D.m4a",
+    "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9393fb269/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a",
+    "pubDate": "2026-05-12T10:16:41+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
     "eid": "eWGcASX6xXu.m4a",
     "title": "346 AI 时代的传奇人生: 哈萨比斯和洪乐潼",
     "podcast": {
@@ -148,6 +168,16 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIRwN1lPRA1G1WQSXOjTw.m4a?channel=rss&album_id=29887212&track_id=975698887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1b19-audiofreehighqps/33/E2/GKwRIRwN1lPRA1G1WQSXOjTw.m4a",
     "pubDate": "2026-05-11T23:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+  },
+  {
+    "eid": "QPI_y5uBqLr.m4a",
+    "title": "vol.250班班难过班班过，主任工作也难做",
+    "podcast": {
+      "title": "正经叭叭"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a01ee6c1b7bd50295f1dae9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqMn0RJ3vyBP0rig6QPI_y5uBqLr.m4a",
+    "pubDate": "2026-05-11T16:00:42+00:00",
+    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
     "eid": "fKcWqUhueQr.m4a",
@@ -210,14 +240,24 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "E79xx3AaF9A.m4a",
-    "title": "97.国产都市剧30年：我的家，谁做主？",
+    "eid": "mmWTiWMB3o9.m4a",
+    "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
     "podcast": {
-      "title": "展开讲讲"
+      "title": "三五环"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a",
-    "pubDate": "2026-05-07T09:11:36+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
+    "pubDate": "2026-05-07T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "eE7ODSFGiS3.m4a",
+    "title": "探秘 Claude Code，搞懂 Agent Harness｜对谈来新璐",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/69f2e83fbb3ffa11e59dec82/media.xyzcdn.net/60502e253c92d4f62c2a9577/lklUK3i7C4Gzw4jvxeE7ODSFGiS3.m4a",
+    "pubDate": "2026-05-05T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
   },
   {
     "eid": "DGPEYgX1VjM.m4a",
@@ -230,14 +270,14 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
-    "eid": "1h3ac0vmfk_.m4a",
-    "title": "104.我不想那么真了，可以吗？",
+    "eid": "0aJjbNNaqxh.m4a",
+    "title": "15 好好的人，怎么就成了电车痴汉呢？",
     "podcast": {
-      "title": "喷嚏"
+      "title": "鸟鸟快乐实验室"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/69f4aaa978d33cb2c4faccb3/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lhZgm3WjFEKpDp5E51h3ac0vmfk_.m4a",
-    "pubDate": "2026-05-02T06:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea877246cb/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsUBE7iIhsS3Jo_rx0aJjbNNaqxh.m4a",
+    "pubDate": "2026-04-28T09:42:19+00:00",
+    "source_rss": "https://feed.xyzfm.space/uuumubpgwqgx"
   },
   {
     "eid": "f7181/media.mp3",
@@ -258,45 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a",
     "pubDate": "2026-04-27T05:57:08+00:00",
     "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
-  },
-  {
-    "eid": "Oyz0IX3feJY.m4a",
-    "title": "用 Agent 动力学，和 40 个 Agents 一起为「人 + AI」做产品｜对谈 Slock.ai 创始人 RC",
-    "podcast": {
-      "title": "42章经"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/69e999241e94ae6921f2901d/media.xyzcdn.net/648b0b641c48983391a63f98/liiv-fKcDolfb06hKOyz0IX3feJY.m4a",
-    "pubDate": "2026-04-23T13:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
-  },
-  {
-    "eid": "928e504adb3.mp3",
-    "title": "【随机信箱·地球日】我在世界上有棵树",
-    "podcast": {
-      "title": "随机波动StochasticVolatility"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e43043ba-b940-4ca0-9dfa-6928e504adb3.mp3",
-    "pubDate": "2026-04-22T12:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/stovol/rss"
-  },
-  {
-    "eid": "ZIW3dd6wbep.m4a",
-    "title": "助眠电台｜04",
-    "podcast": {
-      "title": "得意忘形"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a",
-    "pubDate": "2026-04-21T12:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
-  },
-  {
-    "eid": "ynXhyBpXSVu.m4a",
-    "title": "EP77 | 十年老兵的出海局：兼职打造爆款邮件工具，一人公司如何靠“刚需”实现全球增长",
-    "podcast": {
-      "title": "出海去孵化器"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646a8c23023239d3851f5e70/69e5dfa01d989496e70e74ca/media.xyzcdn.net/646a8c23023239d3851f5e70/lvoEqc0wrLjBgF7sbynXhyBpXSVu.m4a",
-    "pubDate": "2026-04-20T08:18:11+00:00",
-    "source_rss": "https://feed.xyzfm.space/ljdbew4rgvq9"
   }
 ]

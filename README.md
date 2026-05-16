@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-16 02:49  
+> 📅 **更新时间**: 2026-05-16 08:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Jerome Powell and the Future of Fed Independence
+### 1. 105.第三届京斯卡来了，这奖怎么还在颁啊
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Jerome Powell and the Future of Fed Independence
 
 **播客**: Planet Money
 
@@ -21,7 +34,33 @@
 
 ---
 
-### 2. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
+### 3. 碎梦飞跃做客，和我们不想被困在的那个夏天
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
 
 **播客**: 沈奕斐的播客
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
+### 6. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
 
 **播客**: 人民公园说AI
 
@@ -47,20 +86,7 @@
 
 ---
 
-### 4. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
+### 7. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
 
 **播客**: 东亚观察局
 
@@ -73,20 +99,33 @@
 
 ---
 
-### 6. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
+### 8. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
 
-**播客**: 硅谷101
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. 何一：我的野心，是有一个配得上我的世界！
+### 9. 164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 何一：我的野心，是去更大的世界看看！
 
 **播客**: 搞钱女孩
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a04b860e1eb34a9395b1409/media.xyzcdn.net/63d945ece725b5378a158d29/lsPAB2N8PlZIb-sgiwHoNi5IxWeH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 听她的歌，越过「正确答案」的荒野
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_DrQcSXPErzvCSWMvwPSZeWuMCgNhEfjmGwakSLFVKVVbzzaDmkwYNxxJWW-ce.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 从央视纪录片到爆款 AI 短剧：第一批「转身」的导演 | S10E11
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/3c05e3d5-d8f6-44c1-97ca-698261d7b2bc.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.201 🚄 中国高铁简史
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0410b41b7bd502950dd0b9/media.xyzcdn.net/62382c1103bea1ebfffa1c00/liH2xeYmE4ZPXah_IzSJPKhGRYIU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
