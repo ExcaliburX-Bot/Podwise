@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-16 13:20:31
+> 📅 生成时间: 2026-05-16 19:03:29
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 105.第三届京斯卡来了，这奖怎么还在颁啊
+### 1. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a
+```
+
+</details>
+
+---
+
+### 2. 105.第三届京斯卡来了，这奖怎么还在颁啊
 
 **播客名称**: 喷嚏
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502
 
 ---
 
-### 2. 第3021期:Climate change leads to severe violence against women in Somalia
+### 3. 第3021期:Climate change leads to severe violence against women in Somalia
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJIN1J1ZABD8RQSWdd3f.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Jerome Powell and the Future of Fed Independence
+### 4. Jerome Powell and the Future of Fed Independence
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 5. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LIn
 
 ---
 
-### 5. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+### 6. E235 与其担心 AI 改变你，不如今天就用它做一件小事
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd502
 
 ---
 
-### 6. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
+### 7. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
 
 **播客名称**: 忽左忽右
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9
 
 ---
 
-### 7. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
+### 8. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
 
-**播客名称**: 人民公园说AI
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,34 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a
-```
-
-</details>
-
----
-
-### 8. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119
 
 ---
 
-### 10. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
+### 10. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
 
-**播客名称**: 硅谷101
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a
 ```
 
 </details>

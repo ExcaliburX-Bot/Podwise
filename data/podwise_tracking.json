@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-16T13:20:31.555512",
+  "generated_at": "2026-05-16T19:03:29.059787",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "105.第三届京斯卡来了，这奖怎么还在颁啊",
       "podcast": "喷嚏",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "第3021期:Climate change leads to severe violence against women in Somalia",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIJIN1J1ZABD8RQSWdd3f.m4a?channel=rss&album_id=14812466&track_id=975419163&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9f26-audiofreehighqps/22/F6/GKwRIJIN1J1ZABD8RQSWdd3f.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Jerome Powell and the Future of Fed Independence",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "碎梦飞跃做客，和我们不想被困在的那个夏天",
       "podcast": "周末变奏 Key Change",
       "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3",
@@ -43,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "E235 与其担心 AI 改变你，不如今天就用它做一件小事",
       "podcast": "知行小酒馆",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a",
@@ -53,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a",
@@ -63,20 +73,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
-      "title": "太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 8,
-      "title": "283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意",
-      "podcast": "东亚观察局",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a",
+      "title": "256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01",
+      "podcast": "沈奕斐的播客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
-      "podcast": "硅谷101",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
+      "title": "283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意",
+      "podcast": "东亚观察局",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502952acf6a/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpWhEvDYnVDD8hE9hPYxGuO5FIo1.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
