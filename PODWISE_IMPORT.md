@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-17 08:20:23
+> 📅 生成时间: 2026-05-17 13:18:23
 > 📊 总计: 10 个播客
 
 ---
@@ -127,7 +127,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LIn
 
 ---
 
-### 5. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
+### 5. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a
+```
+
+</details>
+
+---
+
+### 6. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9
 
 ---
 
-### 6. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
+### 7. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a9
 
 ---
 
-### 7. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
+### 8. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
 
 **播客名称**: 人民公园说AI
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9
 
 ---
 
-### 8. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
+### 9. 283 日本人看不了棒球 中国人看不到世界杯？聊聊体育转播这门生意
 
 **播客名称**: 东亚观察局
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a05f7b51b7bd502
 
 ---
 
-### 9. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
+### 10. S8 Vol.7 QuickCEP陈光：一家AI Agent公司，如何成为出海品牌背后的「隐形冠军」？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a
-```
-
-</details>
-
----
-
-### 10. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3
 ```
 
 </details>
