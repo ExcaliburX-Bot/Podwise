@@ -1,15 +1,5 @@
 [
   {
-    "eid": "BAwKASWeE7I.m4a",
-    "title": "第3022期:South Sudan has resolved its measles vaccination issues",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoN1J_FABAwKASWeE7I.m4a?channel=rss&album_id=14812466&track_id=975421620&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0b84-audiofreehighqps/7E/A3/GKwRIDoN1J_FABAwKASWeE7I.m4a",
-    "pubDate": "2026-05-17T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
     "eid": "SBACZqrCBdI.m4a",
     "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
     "podcast": {
@@ -20,6 +10,26 @@
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
+    "eid": "O-QXqnEsB4z.m4a",
+    "title": "105.第三届京斯卡来了，这奖怎么还在颁啊",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a",
+    "pubDate": "2026-05-16T06:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+  },
+  {
+    "eid": "3&size=27737949",
+    "title": "Jerome Powell and the Future of Fed Independence",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949",
+    "pubDate": "2026-05-15T19:59:43+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "0767_091604.mp3",
     "title": "碎梦飞跃做客，和我们不想被困在的那个夏天",
     "podcast": {
@@ -28,16 +38,6 @@
     "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3",
     "pubDate": "2026-05-15T15:05:20+00:00",
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
-    "eid": "j04ZEsFXBM3.m4a",
-    "title": "E235 与其担心 AI 改变你，不如今天就用它做一件小事",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a",
-    "pubDate": "2026-05-15T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "3yckP47CtV5.m4a",
@@ -88,6 +88,16 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEN2kClAUv81gSYs87f.m4a?channel=rss&album_id=20119986&track_id=976400727&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/01dd-audiofreehighqps/80/90/GKwRIJEN2kClAUv81gSYs87f.m4a",
     "pubDate": "2026-05-14T22:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
+    "eid": "82bca4181e4.mp3",
+    "title": "E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？",
+    "podcast": {
+      "title": "硅谷101"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3",
+    "pubDate": "2026-05-14T17:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "c9af6e572d7.mp3",
@@ -150,14 +160,34 @@
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
-    "eid": "gKgRH-95FGu.m4a",
-    "title": "EP126 Agent Harness 🏇",
+    "eid": "9kNdjgT4wqZ.m4a",
+    "title": "Ep196 音乐大师课 | 不假唱、不怯场、不好听",
     "podcast": {
-      "title": "硬地骇客"
+      "title": "基本无害 Mostly Harmless"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a",
-    "pubDate": "2026-05-12T16:54:56+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a036993e1eb34a93946ffb1/media.xyzcdn.net/5eae66d1418a84a046472b4d/lv-QitqCwtGX7mgrl9kNdjgT4wqZ.m4a",
+    "pubDate": "2026-05-12T18:39:09+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+  },
+  {
+    "eid": "XnOQqaSJ91D.m4a",
+    "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a02f59ce1eb34a9393fb269/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lvgLR_jWS7o7utJaUXnOQqaSJ91D.m4a",
+    "pubDate": "2026-05-12T10:16:41+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "eWGcASX6xXu.m4a",
+    "title": "346 AI 时代的传奇人生: 哈萨比斯和洪乐潼",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIN2GdSAeWGcASX6xXu.m4a?channel=rss&album_id=6990384&track_id=976045667&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22c3-audiofreehighqps/D0/C9/GKwRIaIN2GdSAeWGcASX6xXu.m4a",
+    "pubDate": "2026-05-12T03:51:24+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   },
   {
     "eid": "1G1WQSXOjTw.m4a",
@@ -200,36 +230,6 @@
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
-    "eid": "4yY-UuqAe8h.m4a",
-    "title": "140. 对姚顺宇的4小时访谈：请允许我小疯一下！在Anthropic和Gemini训模型、技术预测、英雄主义已过去",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a00aa051b7bd50295dfe41d/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ll7qIcIWWGFSsORHr4yY-UuqAe8h.m4a",
-    "pubDate": "2026-05-11T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
-  },
-  {
-    "eid": "f0fcafb&nocache",
-    "title": "318: With Great Power",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cc05f2e3-ca9b-4f21-a33c-608eef0fcafb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cc05f2e3-ca9b-4f21-a33c-608eef0fcafb&nocache",
-    "pubDate": "2026-05-10T18:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
-  },
-  {
-    "eid": "e_6JI-r31EA.m4a",
-    "title": "没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内",
-    "podcast": {
-      "title": "屠龙之术"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/69fd6ce61b7bd50295b5a3ad/media.xyzcdn.net/6507bc165c88d2412626b401/ll8o2rJ650yPTnLDCe_6JI-r31EA.m4a",
-    "pubDate": "2026-05-08T05:31:40+00:00",
-    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
-  },
-  {
     "eid": "eae5gSVnIMT.m4a",
     "title": "管 Vibe Coding 项目，就像管公共厕所",
     "podcast": {
@@ -248,6 +248,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
     "pubDate": "2026-05-07T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "E79xx3AaF9A.m4a",
+    "title": "97.国产都市剧30年：我的家，谁做主？",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/69fc4ec6e1eb34a939e7e025/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lmnCyn4d5DS6bWJ23E79xx3AaF9A.m4a",
+    "pubDate": "2026-05-07T09:11:36+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
     "eid": "eE7ODSFGiS3.m4a",
@@ -288,15 +298,5 @@
     "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6f7181/media.mp3",
     "pubDate": "2026-04-27T13:37:16+00:00",
     "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
-  },
-  {
-    "eid": "9IlRA0x-t1W.m4a",
-    "title": "#27 哈佛、MIT休学创业，用AI重构硬件制造，把设计权还给公众——对话VIBE CREATING创始人谢佳豪",
-    "podcast": {
-      "title": "出海相对论"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/69eef89e1d989496e79b8ae1/media.xyzcdn.net/63b7dd49289d2739647d9587/lr10jqWbipIIbfO3I9IlRA0x-t1W.m4a",
-    "pubDate": "2026-04-27T05:57:08+00:00",
-    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
   }
 ]

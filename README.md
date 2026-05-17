@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-17 02:58  
+> 📅 **更新时间**: 2026-05-17 08:20  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3022期:South Sudan has resolved its measles vaccination issues
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN1J_FABAwKASWeE7I.m4a?channel=rss&album_id=14812466&track_id=975421620&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0b84-audiofreehighqps/7E/A3/GKwRIDoN1J_FABAwKASWeE7I.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+### 1. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
 
 **播客**: 42章经
 
@@ -34,7 +21,33 @@
 
 ---
 
-### 3. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 2. 105.第三届京斯卡来了，这奖怎么还在颁啊
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Jerome Powell and the Future of Fed Independence
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客**: 周末变奏 Key Change
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. E235 与其担心 AI 改变你，不如今天就用它做一件小事
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 164: 当AI“杀死”SaaS，与明略吴明辉聊多Agent网络、软件业转型和 AI 新组织
+### 10. E236｜99%的作业都是AI写的：当代名校生眼里，大学还剩下什么？
 
-**播客**: 晚点聊 LateTalk
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ca5acce8-68a5-4ae0-b58c-bc9af6e572d7.mp3)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/b066c769-00d2-4341-bf61-a82bca4181e4.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
