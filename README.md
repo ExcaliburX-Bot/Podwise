@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-18 03:36  
+> 📅 **更新时间**: 2026-05-18 10:01  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
+### 1. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194808&track_id=977347652&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7889-audiofreehighqps/ED/EA/GKwRIW4N4FIGAYo_OASa3j5_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
 
 **播客**: 无聊斋
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 第3023期:The tiny creatures that clean your face
+### 4. 第3023期:The tiny creatures that clean your face
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,33 +60,20 @@
 
 ---
 
-### 3. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
+### 5. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
 
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 887: Two Is One, One Is None!
-
-**播客**: This American Life
+**播客**: 张小珺Jùn｜商业访谈录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
+### 6. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -69,19 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 8. Jerome Powell and the Future of Fed Independence
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客**: 周末变奏 Key Change
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+### 10. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
 
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
-
-**播客**: 沈奕斐的播客
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
