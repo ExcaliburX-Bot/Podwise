@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-18 10:01:35
+> 📅 生成时间: 2026-05-18 15:30:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-</details>
-
----
-
-### 2. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
+### 1. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
 
 **播客名称**: AI炼金术
 
@@ -73,7 +46,7 @@ https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
+### 2. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
 
 **播客名称**: 无聊斋
 
@@ -94,6 +67,33 @@ https://tk.wavpub.com/WPDL_JpwGxLVKnhQBDhqfwqDMqXHmcxCeTnsgVwBnYVtMMVAgmjfdmqTSX
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_JpwGxLVKnhQBDhqfwqDMqXHmcxCeTnsgVwBnYVtMMVAgmjfdmqTSXTYsuE-4b.m4a
+```
+
+</details>
+
+---
+
+### 3. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://jt.ximalaya.com//GKwRIUEN3awVABGKtgSZ5WlP.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+### 5. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +147,41 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
 ```
 
 </details>
 
 ---
 
-### 6. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
+### 6. 887: Two Is One, One Is None!
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache
+```
+
+</details>
+
+---
+
+### 7. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502
 
 ---
 
-### 7. 105.第三届京斯卡来了，这奖怎么还在颁啊
+### 8. 105.第三届京斯卡来了，这奖怎么还在颁啊
 
 **播客名称**: 喷嚏
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502
 
 ---
 
-### 8. Jerome Powell and the Future of Fed Independence
+### 9. Jerome Powell and the Future of Fed Independence
 
 **播客名称**: Planet Money
 
@@ -235,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 10. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客名称**: 周末变奏 Key Change
 
@@ -256,33 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LIn
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3
-```
-
-</details>
-
----
-
-### 10. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a
 ```
 
 </details>
