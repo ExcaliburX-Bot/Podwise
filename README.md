@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-17 19:07  
+> 📅 **更新时间**: 2026-05-18 03:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-### 2. 第3022期:South Sudan has resolved its measles vaccination issues
+### 2. 第3023期:The tiny creatures that clean your face
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -29,12 +29,51 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN1J_FABAwKASWeE7I.m4a?channel=rss&album_id=14812466&track_id=975421620&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0b84-audiofreehighqps/7E/A3/GKwRIDoN1J_FABAwKASWeE7I.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN3awVABGKtgSZ5WlP.m4a?channel=rss&album_id=14812466&track_id=976949619&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/004b-audiofreehighqps/F6/E3/GKwRIUEN3awVABGKtgSZ5WlP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+### 3. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 887: Two Is One, One Is None!
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/9b11b73f-1993-4511-a098-a1417fb6be13/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=9b11b73f-1993-4511-a098-a1417fb6be13&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
 
 **播客**: 42章经
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 105.第三届京斯卡来了，这奖怎么还在颁啊
+### 7. 105.第三届京斯卡来了，这奖怎么还在颁啊
 
 **播客**: 喷嚏
 
@@ -60,20 +99,7 @@
 
 ---
 
-### 5. Jerome Powell and the Future of Fed Independence
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 碎梦飞跃做客，和我们不想被困在的那个夏天
+### 8. 碎梦飞跃做客，和我们不想被困在的那个夏天
 
 **播客**: 周末变奏 Key Change
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. E235 与其担心 AI 改变你，不如今天就用它做一件小事
+### 9. E235 与其担心 AI 改变你，不如今天就用它做一件小事
 
 **播客**: 知行小酒馆
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. 473 漫谈卢梭：是革命恐怖师爷还是启蒙民权先驱？
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a06e8f1e1eb34a9397689ea/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhRk_JJDFHRYVlE1G3yckP47CtV5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
+### 10. 256.大学生迷茫怎么办？工作如何保持高精力？｜答粉丝问01
 
 **播客**: 沈奕斐的播客
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a0448b8e1eb34a939544be1/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpUuUzTmRu8DsmZrYF-sDx_TgReQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 太会玩了！OpenAI、Anthropic联手私募暴击传统行业，硅谷终于学会“中国模式”了？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a05e813e1eb34a9396adabe/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrOwMakpaYRg9Cz7fUpw05Bcf7OD.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
