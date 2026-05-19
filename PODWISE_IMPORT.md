@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-18 19:43:28
+> 📅 生成时间: 2026-05-19 03:29:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.251不是我不明白，这世界变化快
+### 1. 第3024期:Sustainable tourism partnership encourages visits
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN3a6-AASQOwSZ5qRs.m4a?channel=rss&album_id=14812466&track_id=976951837&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bdfb-audiofreehighqps/18/C8/GKwRIRwN3a6-AASQOwSZ5qRs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN3a6-AASQOwSZ5qRs.m4a?channel=rss&album_id=14812466&track_id=976951837&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/bdfb-audiofreehighqps/18/C8/GKwRIRwN3a6-AASQOwSZ5qRs.m4a
+```
+
+</details>
+
+---
+
+### 2. Vol.335 心的表达：抱抱你心里的那个小孩
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a
+```
+
+</details>
+
+---
+
+### 3. vol.251不是我不明白，这世界变化快
 
 **播客名称**: 正经叭叭
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a0b1af21b7bd502
 
 ---
 
-### 2. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-</details>
-
----
-
-### 3. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
+### 4. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
 
 **播客名称**: AI炼金术
 
@@ -100,7 +127,34 @@ https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+### 5. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_JpwGxLVKnhQBDhqfwqDMqXHmcxCeTnsgVwBnYVtMMVAgmjfdmqTSXTYsuE-4b.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_JpwGxLVKnhQBDhqfwqDMqXHmcxCeTnsgVwBnYVtMMVAgmjfdmqTSXTYsuE-4b.m4a
+```
+
+</details>
+
+---
+
+### 6. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -127,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502
 
 ---
 
-### 5. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
-```
-
-</details>
-
----
-
-### 6. 887: Two Is One, One Is None!
+### 7. 887: Two Is One, One Is None!
 
 **播客名称**: This American Life
 
@@ -181,7 +208,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 7. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+### 8. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a
+```
+
+</details>
+
+---
+
+### 9. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
 
 **播客名称**: 42章经
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd502
 
 ---
 
-### 8. 105.第三届京斯卡来了，这奖怎么还在颁啊
+### 10. 105.第三届京斯卡来了，这奖怎么还在颁啊
 
 **播客名称**: 喷嚏
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a
-```
-
-</details>
-
----
-
-### 9. Jerome Powell and the Future of Fed Independence
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/368db4b9-5df2-463d-b8c5-8be3d2c4b842/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=368db4b9-5df2-463d-b8c5-8be3d2c4b842&feed=hvWWWzRv&t=podcast&e=nx-s1-5823832&p=510289&d=1733&size=27737949
-```
-
-</details>
-
----
-
-### 10. 碎梦飞跃做客，和我们不想被困在的那个夏天
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3
 ```
 
 </details>
