@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-19 09:40:37
+> 📅 生成时间: 2026-05-19 15:18:38
 > 📊 总计: 10 个播客
 
 ---
@@ -181,7 +181,34 @@ https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
+### 7. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a
+```
+
+</details>
+
+---
+
+### 8. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
 
 **播客名称**: 搞钱女孩
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a9
 
 ---
 
-### 8. 887: Two Is One, One Is None!
+### 9. 887: Two Is One, One Is None!
 
 **播客名称**: This American Life
 
@@ -235,7 +262,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 9. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
+### 10. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a
-```
-
-</details>
-
----
-
-### 10. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a
 ```
 
 </details>

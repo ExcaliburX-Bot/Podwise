@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-19 09:40  
+> 📅 **更新时间**: 2026-05-19 15:18  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,7 +86,20 @@
 
 ---
 
-### 7. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
+### 7. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
 
 **播客**: 搞钱女孩
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 887: Two Is One, One Is None!
+### 9. 887: Two Is One, One Is None!
 
 **播客**: This American Life
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
+### 10. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
