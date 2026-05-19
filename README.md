@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-19 03:29  
+> 📅 **更新时间**: 2026-05-19 09:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3024期:Sustainable tourism partnership encourages visits
+### 1. 474 三百年细说从头：孙立天谈传教士档案视角的康熙废储与夺嫡疑云
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a0c256be1eb34a939b0cb35/media.xyzcdn.net/5e4ee557418a84a0466737b7/lif-uGb1FsgULTqEb2hZOPgNOPBg.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3024期:Sustainable tourism partnership encourages visits
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Vol.335 心的表达：抱抱你心里的那个小孩
+### 3. Vol.335 心的表达：抱抱你心里的那个小孩
 
 **播客**: 文化有限
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. vol.251不是我不明白，这世界变化快
+### 4. vol.251不是我不明白，这世界变化快
 
 **播客**: 正经叭叭
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
+### 5. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
 
 **播客**: AI炼金术
 
@@ -60,33 +86,20 @@
 
 ---
 
-### 5. vol.585 老友信箱｜旅游城市推荐（又名各地美食种草）！大馋丫头小子们有福了奥！
+### 7. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_JpwGxLVKnhQBDhqfwqDMqXHmcxCeTnsgVwBnYVtMMVAgmjfdmqTSXTYsuE-4b.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
-
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. 887: Two Is One, One Is None!
+### 8. 887: Two Is One, One Is None!
 
 **播客**: This American Life
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft.阿曼达/叶子/Ben
+### 9. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
+### 10. 当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert
 
 **播客**: 42章经
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 105.第三届京斯卡来了，这奖怎么还在颁啊
-
-**播客**: 喷嚏
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a0764191b7bd502953babcd/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lpmdR_SLXIfOfA0i_O-QXqnEsB4z.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
