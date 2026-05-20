@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-20 09:32:02
+> 📅 生成时间: 2026-05-20 15:17:53
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328b
 
 ---
 
-### 3. Vacation and why Americans take so little
+### 3. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a939bfd4ef/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrSnMW05odoje_Lb1_-7aSLRwxON.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a939bfd4ef/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrSnMW05odoje_Lb1_-7aSLRwxON.m4a
+```
+
+</details>
+
+---
+
+### 4. Vacation and why Americans take so little
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 223．Olga新书《开口就是机会》对谈：为什么有能力的人，更要学会开口？
+### 5. 特别加更｜生死教育的内核是珍爱当下，是此生尽兴，是珍惜每一次月升月落｜从《10间敢死队》聊到安宁疗护
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a
+```
+
+</details>
+
+---
+
+### 6. 223．Olga新书《开口就是机会》对谈：为什么有能力的人，更要学会开口？
 
 **播客名称**: 贝望录
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0c08921b7bd502
 
 ---
 
-### 5. 第3025期:African continent splitting into two parts
+### 7. 第3025期:African continent splitting into two parts
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -154,7 +208,34 @@ https://jt.ximalaya.com//GKwRIRwN3bMLAA5o8QSZ6JJw.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. Vol.335 心的表达：抱抱你心里的那个小孩
+### 8. 474 三百年细说从头：孙立天谈传教士档案视角的康熙废储与夺嫡疑云
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a0c256be1eb34a939b0cb35/media.xyzcdn.net/5e4ee557418a84a0466737b7/lif-uGb1FsgULTqEb2hZOPgNOPBg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a0c256be1eb34a939b0cb35/media.xyzcdn.net/5e4ee557418a84a0466737b7/lif-uGb1FsgULTqEb2hZOPgNOPBg.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.335 心的表达：抱抱你心里的那个小孩
 
 **播客名称**: 文化有限
 
@@ -181,7 +262,7 @@ https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. vol.251不是我不明白，这世界变化快
+### 10. vol.251不是我不明白，这世界变化快
 
 **播客名称**: 正经叭叭
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a0b1af21b7bd502
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a0b1af21b7bd502956312c4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lp2JEnGkUo8UmZkKYTVGOgFZLUF4.m4a
-```
-
-</details>
-
----
-
-### 8. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3
-```
-
-</details>
-
----
-
-### 9. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194808&track_id=977347652&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7889-audiofreehighqps/ED/EA/GKwRIW4N4FIGAYo_OASa3j5_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4N4FIGAYo_OASa3j5_.m4a?channel=rss&album_id=74194808&track_id=977347652&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7889-audiofreehighqps/ED/EA/GKwRIW4N4FIGAYo_OASa3j5_.m4a
-```
-
-</details>
-
----
-
-### 10. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a
 ```
 
 </details>
