@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-20 03:30  
+> 📅 **更新时间**: 2026-05-20 09:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 特别加更｜生死教育的内核是珍爱当下，是此生尽兴，是珍惜每一次月升月落｜从《10间敢死队》聊到安宁疗护
+### 1. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
 
-**播客**: 无聊斋
+**播客**: What's Next｜科技早知道
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 223．Olga新书《开口就是机会》对谈：为什么有能力的人，更要学会开口？
+### 2. 【随机波动169】暗处的闽南女儿
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Vacation and why Americans take so little
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 223．Olga新书《开口就是机会》对谈：为什么有能力的人，更要学会开口？
 
 **播客**: 贝望录
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 第3025期:African continent splitting into two parts
+### 5. 第3025期:African continent splitting into two parts
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,20 +73,20 @@
 
 ---
 
-### 4. 474 三百年细说从头：孙立天谈传教士档案视角的康熙废储与夺嫡疑云
+### 6. Vol.335 心的表达：抱抱你心里的那个小孩
 
-**播客**: 忽左忽右
+**播客**: 文化有限
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a0c256be1eb34a939b0cb35/media.xyzcdn.net/5e4ee557418a84a0466737b7/lif-uGb1FsgULTqEb2hZOPgNOPBg.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. vol.251不是我不明白，这世界变化快
+### 7. vol.251不是我不明白，这世界变化快
 
 **播客**: 正经叭叭
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
+### 8. 165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
+### 9. 云九资本沈文杰：VC 别把自己当 Nature 审稿人
 
 **播客**: AI炼金术
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. 141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
+### 10. 一人公司搞钱：有人两月24条广告胖30斤，有人做四休三每天工作4小时｜成都听友会
 
 **播客**: 搞钱女孩
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a09f0bde1eb34a93994daef/media.xyzcdn.net/63d945ece725b5378a158d29/lpr2ietUHecBAc3vjje-tR1sUlX5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
