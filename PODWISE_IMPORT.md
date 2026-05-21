@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-21 15:23:15
+> 📅 生成时间: 2026-05-21 19:52:08
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd502
 
 ---
 
-### 5. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
+### 5. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
 
-**播客名称**: 硅谷101
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c360
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
 ```
 
 </details>
