@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-20 20:13:22
+> 📅 生成时间: 2026-05-21 03:36:33
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
+### 1. 第3026期:Pentagon releases never-before-seen UFO files
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN3bWeAAwyIgSZ6deN.m4a?channel=rss&album_id=14812466&track_id=976956830&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2c2c-audiofreehighqps/B7/AB/GKwRIRwN3bWeAAwyIgSZ6deN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN3bWeAAwyIgSZ6deN.m4a?channel=rss&album_id=14812466&track_id=976956830&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2c2c-audiofreehighqps/B7/AB/GKwRIRwN3bWeAAwyIgSZ6deN.m4a
+```
+
+</details>
+
+---
+
+### 2. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd5029589b185/media.xyzcdn.net/63d945ece725b5378a158d29/lpMvQ1eEx2Onlj8CIpPDk3W8ZFY6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd5029589b185/media.xyzcdn.net/63d945ece725b5378a158d29/lpMvQ1eEx2Onlj8CIpPDk3W8ZFY6.m4a
+```
+
+</details>
+
+---
+
+### 3. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+```
+
+</details>
+
+---
+
+### 4. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
 
 **播客名称**: What's Next｜科技早知道
 
@@ -46,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0
 
 ---
 
-### 2. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
+### 5. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
 
 **播客名称**: 十字路口Crossing
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a0be0cfe1eb34a9
 
 ---
 
-### 3. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
+### 6. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
 
 **播客名称**: AI炼金术
 
@@ -100,7 +181,7 @@ https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 【随机波动169】暗处的闽南女儿
+### 7. 【随机波动169】暗处的闽南女儿
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -127,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328b
 
 ---
 
-### 5. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
+### 8. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a9
 
 ---
 
-### 6. Vacation and why Americans take so little
+### 9. Vacation and why Americans take so little
 
 **播客名称**: Planet Money
 
@@ -181,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 特别加更｜生死教育的内核是珍爱当下，是此生尽兴，是珍惜每一次月升月落｜从《10间敢死队》聊到安宁疗护
+### 10. 特别加更｜生死教育的内核是珍爱当下，是此生尽兴，是珍惜每一次月升月落｜从《10间敢死队》聊到安宁疗护
 
 **播客名称**: 无聊斋
 
@@ -202,87 +283,6 @@ https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdw
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a
-```
-
-</details>
-
----
-
-### 8. 第3025期:African continent splitting into two parts
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN3bMLAA5o8QSZ6JJw.m4a?channel=rss&album_id=14812466&track_id=976955166&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aafb-audiofreehighqps/42/14/GKwRIRwN3bMLAA5o8QSZ6JJw.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN3bMLAA5o8QSZ6JJw.m4a?channel=rss&album_id=14812466&track_id=976955166&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aafb-audiofreehighqps/42/14/GKwRIRwN3bMLAA5o8QSZ6JJw.m4a
-```
-
-</details>
-
----
-
-### 9. 223．Olga新书《开口就是机会》对谈：为什么有能力的人，更要学会开口？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0c08921b7bd502956dca28/media.xyzcdn.net/5e285856418a84a04627b7be/lhBhlfCW1feKmBuB9bJWuFESn2dP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0c08921b7bd502956dca28/media.xyzcdn.net/5e285856418a84a04627b7be/lhBhlfCW1feKmBuB9bJWuFESn2dP.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.335 心的表达：抱抱你心里的那个小孩
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a
 ```
 
 </details>
