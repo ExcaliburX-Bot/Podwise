@@ -50,16 +50,6 @@
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
-    "eid": "0ec061bbf52.mp3",
-    "title": "7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12",
-    "podcast": {
-      "title": "What's Next｜科技早知道"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3",
-    "pubDate": "2026-05-20T17:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
-  },
-  {
     "eid": "c32AURYMT-o.m4a",
     "title": "人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy",
     "podcast": {
@@ -78,6 +68,16 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194808&track_id=977871334&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/e5c7-audiofreehighqps/37/D4/GKwRIMAN4zzEAdXgiQScBg4A.m4a",
     "pubDate": "2026-05-20T12:30:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+  },
+  {
+    "eid": "f0a5e60980a.mp3",
+    "title": "【随机波动169】暗处的闽南女儿",
+    "podcast": {
+      "title": "随机波动StochasticVolatility"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3",
+    "pubDate": "2026-05-20T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
     "eid": "_-7aSLRwxON.m4a",
@@ -130,6 +130,16 @@
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
+    "eid": "oxnmASbBzsK.m4a",
+    "title": "Vol.335 心的表达：抱抱你心里的那个小孩",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoN4JuqAoxnmASbBzsK.m4a?channel=rss&album_id=29887212&track_id=977405309&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/1924-audiofreehighqps/35/9C/GKwRIDoN4JuqAoxnmASbBzsK.m4a",
+    "pubDate": "2026-05-18T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+  },
+  {
     "eid": "3790ec4ad7c.mp3",
     "title": "165: 英伟达 GEAR 高深远：世界模型、自进化循环、DreamDojo",
     "podcast": {
@@ -138,16 +148,6 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c2aa54f3-15dc-47a2-8a4d-13790ec4ad7c.mp3",
     "pubDate": "2026-05-18T08:45:00+08:00",
     "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
-    "eid": "VM-RC5yw22M.m4a",
-    "title": "141. Freda的投资札记第2集：Tokenmaxxing、把电机塞进蒸汽机、接力赛变篮球赛、孤独、人的连接",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a09d58b1b7bd502955258ab/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lmeczS2JtKzE79rKpVM-RC5yw22M.m4a",
-    "pubDate": "2026-05-18T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "fb6be13&nocache",
@@ -160,14 +160,14 @@
     "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
-    "eid": "SBACZqrCBdI.m4a",
-    "title": "当软件容易被创作，新时代的产品长什么样？ | 对谈 Albert",
+    "eid": "OJRG-75PVHU.m4a",
+    "title": "Ep197 玩户外的究竟是不是自讨苦吃（不是！！ ft. 钳钳妈阿曼达/叶梓颐巡天者/Ben麻麻鱼",
     "podcast": {
-      "title": "42章经"
+      "title": "基本无害 Mostly Harmless"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a059d321b7bd50295257a5e/media.xyzcdn.net/648b0b641c48983391a63f98/ltgaLbpl0P41D33VvSBACZqrCBdI.m4a",
-    "pubDate": "2026-05-16T13:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a099f2b1b7bd502954e8da2/media.xyzcdn.net/5eae66d1418a84a046472b4d/lieG-B9Z0M6xpXn55OJRG-75PVHU.m4a",
+    "pubDate": "2026-05-17T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
     "eid": "O-QXqnEsB4z.m4a",
@@ -188,16 +188,6 @@
     "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzQ3MSwidCI6MX0.HjrXzVToNMXj9TRW2iu1LInvNaU/keychangefm/8221150767_091604.mp3",
     "pubDate": "2026-05-15T15:05:20+00:00",
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
-    "eid": "j04ZEsFXBM3.m4a",
-    "title": "E235 与其担心 AI 改变你，不如今天就用它做一件小事",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a06c4b91b7bd50295331e94/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmeX-XyuMcedD_V9Jj04ZEsFXBM3.m4a",
-    "pubDate": "2026-05-15T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "F-sDx_TgReQ.m4a",
@@ -230,16 +220,6 @@
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
-    "eid": "gKgRH-95FGu.m4a",
-    "title": "EP126 Agent Harness 🏇",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a0358b3e1eb34a939468885/media.xyzcdn.net/640ee2438be5d40013fe4a87/lhpMa_yS1MT_xSaVbgKgRH-95FGu.m4a",
-    "pubDate": "2026-05-12T16:54:56+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
-  },
-  {
     "eid": "XnOQqaSJ91D.m4a",
     "title": "头腾大战八年后，再把字节和腾讯在各个战场上的竞争逐一拆开｜字节跳动 第6集",
     "podcast": {
@@ -260,6 +240,16 @@
     "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   },
   {
+    "eid": "fKcWqUhueQr.m4a",
+    "title": "独家实测机器人上门保洁：149元3小时背后，数据与能力的天花板-Vol96",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a01e2901b7bd50295f0ee49/media.xyzcdn.net/636669d51064cb55f31505fc/lke3UkIZAxPdFgUu4fKcWqUhueQr.m4a",
+    "pubDate": "2026-05-11T14:22:48+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
     "eid": "e_6JI-r31EA.m4a",
     "title": "没有中间地带：大国AI博弈、效率碾压和白领的“恩格斯暂停”---串台大内",
     "podcast": {
@@ -270,24 +260,14 @@
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
-    "eid": "DGPEYgX1VjM.m4a",
-    "title": "126. 春季追剧小结：毁掉神剧的方法就是拍续集",
+    "eid": "mmWTiWMB3o9.m4a",
+    "title": "No.220 钱为什么不是万能良药？聊聊那些返贫的故事",
     "podcast": {
-      "title": "英美剧漫游指南KillingTV"
+      "title": "三五环"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/69f710f5f93890ea812ab5b6/media.xyzcdn.net/5e7c9577418a84a04606b797/lskDuEu-KYCMCdiKWDGPEYgX1VjM.m4a",
-    "pubDate": "2026-05-03T09:33:19+00:00",
-    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
-  },
-  {
-    "eid": "0aJjbNNaqxh.m4a",
-    "title": "15 好好的人，怎么就成了电车痴汉呢？",
-    "podcast": {
-      "title": "鸟鸟快乐实验室"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/69f07f0c740bacea877246cb/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsUBE7iIhsS3Jo_rx0aJjbNNaqxh.m4a",
-    "pubDate": "2026-04-28T09:42:19+00:00",
-    "source_rss": "https://feed.xyzfm.space/uuumubpgwqgx"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/69fb511be1eb34a939dbb8dc/media.xyzcdn.net/5e280fab418a84a0461faa3c/lg4uSvkSTeJvA6yddmmWTiWMB3o9.m4a",
+    "pubDate": "2026-05-07T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
     "eid": "f7181/media.mp3",
@@ -298,5 +278,25 @@
     "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/69ef62ea04be15363b6f7181/media.mp3",
     "pubDate": "2026-04-27T13:37:16+00:00",
     "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
+  },
+  {
+    "eid": "37ef8c4b7d9.mp3",
+    "title": "63 当女性去世界游荡，Women就会欢聚一堂",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/118694389/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-19%2F1e6e1418-9798-c0b7-ef7a-237ef8c4b7d9.mp3",
+    "pubDate": "2026-04-21T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
+  },
+  {
+    "eid": "ZIW3dd6wbep.m4a",
+    "title": "助眠电台｜04",
+    "podcast": {
+      "title": "得意忘形"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e74543a418a84a046c4e50e/69e733a31e94ae6921ca3320/media.xyzcdn.net/5e74543a418a84a046c4e50e/lnXVD1sVZobNgyPBiZIW3dd6wbep.m4a",
+    "pubDate": "2026-04-21T12:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/klaak6nmc3ux"
   }
 ]

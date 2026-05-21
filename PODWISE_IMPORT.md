@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-21 09:39:13
+> 📅 生成时间: 2026-05-21 15:23:15
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c360
 
 ---
 
-### 6. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
-```
-
-</details>
-
----
-
-### 7. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
+### 6. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
 
 **播客名称**: 十字路口Crossing
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a0be0cfe1eb34a9
 
 ---
 
-### 8. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
+### 7. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
 
 **播客名称**: AI炼金术
 
@@ -229,6 +202,33 @@ https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194808&track_id=977871334&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/e5c7-audiofreehighqps/37/D4/GKwRIMAN4zzEAdXgiQScBg4A.m4a
+```
+
+</details>
+
+---
+
+### 8. 【随机波动169】暗处的闽南女儿
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
 ```
 
 </details>
