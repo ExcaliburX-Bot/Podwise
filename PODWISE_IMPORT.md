@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-21 03:36:33
+> 📅 生成时间: 2026-05-21 09:39:13
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3026期:Pentagon releases never-before-seen UFO files
+### 1. 五月广播电视报：若问世间谁无伤
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
+```
+
+</details>
+
+---
+
+### 2. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+```
+
+</details>
+
+---
+
+### 3. 第3026期:Pentagon releases never-before-seen UFO files
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIRwN3bWeAAwyIgSZ6deN.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
+### 4. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd502
 
 ---
 
-### 3. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
+### 5. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
 
 **播客名称**: 硅谷101
 
@@ -100,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c360
 
 ---
 
-### 4. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
+### 6. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
 
 **播客名称**: What's Next｜科技早知道
 
@@ -127,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0
 
 ---
 
-### 5. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
+### 7. 人类和 AI Agent 的最佳配合方式，还没被发明｜对谈 Paperboy
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a0be0cfe1eb34a9
 
 ---
 
-### 6. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
+### 8. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
 
 **播客名称**: AI炼金术
 
@@ -181,34 +235,7 @@ https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 【随机波动169】暗处的闽南女儿
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
-```
-
-</details>
-
----
-
-### 8. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
+### 9. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a9
 
 ---
 
-### 9. Vacation and why Americans take so little
+### 10. Vacation and why Americans take so little
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/bb26e4f6-4d59-42da-aff7-ebebdf22f325/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=bb26e4f6-4d59-42da-aff7-ebebdf22f325&feed=hvWWWzRv&t=podcast&e=nx-s1-5827074&p=510289&d=1509&size=24157710
-```
-
-</details>
-
----
-
-### 10. 特别加更｜生死教育的内核是珍爱当下，是此生尽兴，是珍惜每一次月升月落｜从《10间敢死队》聊到安宁疗护
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_yukCphpExRyGLSMXkPQdnegNVmFWbYnnWWgDuNnbPCAGPYaPrBjdwpxsqt-f5.m4a
 ```
 
 </details>
