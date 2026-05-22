@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-22 09:20:28
+> 📅 生成时间: 2026-05-22 14:37:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 347 好好吃饭——人能不能吃得又健康又高兴？
+### 1. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
+```
+
+</details>
+
+---
+
+### 2. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a101a7f8b5c94538e8ba1a6/media.xyzcdn.net/FmRtPgDWAAAQS-fXgjb3DezX0Vsj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a101a7f8b5c94538e8ba1a6/media.xyzcdn.net/FmRtPgDWAAAQS-fXgjb3DezX0Vsj.m4a
+```
+
+</details>
+
+---
+
+### 3. 347 好好吃饭——人能不能吃得又健康又高兴？
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -46,7 +100,34 @@ https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=69903
 
 ---
 
-### 2. 第3027期:Boys are unhappy at school
+### 4. 24. 找出路丨从KPF、隈研吾事务所到青天制作所，一个建筑师决定不再走“标准答案”
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
+```
+
+</details>
+
+---
+
+### 5. 第3027期:Boys are unhappy at school
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJIN3eJ9AApNjQSaATdD.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. S8 Vol.8 慧工云金敏恒：从一家工厂开始，如何捡起制造业的「满地螺丝」？
+### 6. S8 Vol.8 慧工云金敏恒：从一家工厂开始，如何捡起制造业的「满地螺丝」？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -100,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. 五月广播电视报：若问世间谁无伤
+### 7. 五月广播电视报：若问世间谁无伤
 
 **播客名称**: 展开讲讲
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a9
 
 ---
 
-### 5. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
+### 8. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +235,7 @@ https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBK
 
 ---
 
-### 6. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
+### 9. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
 
 **播客名称**: 搞钱女孩
 
@@ -181,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd502
 
 ---
 
-### 7. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
+### 10. 7000 亿美元砸向 AI：这是下一代互联网，还是泡沫重演？| S10E12
 
-**播客名称**: 硅谷101
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,88 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c360
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
-```
-
-</details>
-
----
-
-### 8. OceanBase 封仲淹：Vibe Coding 只是开始，下一站是软件工厂
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194808&track_id=977871334&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/e5c7-audiofreehighqps/37/D4/GKwRIMAN4zzEAdXgiQScBg4A.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAN4zzEAdXgiQScBg4A.m4a?channel=rss&album_id=74194808&track_id=977871334&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/e5c7-audiofreehighqps/37/D4/GKwRIMAN4zzEAdXgiQScBg4A.m4a
-```
-
-</details>
-
----
-
-### 9. 【随机波动169】暗处的闽南女儿
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/328bb37b-9c6d-4d7a-bd54-2f0a5e60980a.mp3
-```
-
-</details>
-
----
-
-### 10. No.202 🛡️盛大的盛大，传奇的传奇 | 中国互联网故事20
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a939bfd4ef/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgeLuMRdDFrkIo5TO4J1LRUgbvjr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a0d5364e1eb34a939bfd4ef/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgeLuMRdDFrkIo5TO4J1LRUgbvjr.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7af0955b-e3b5-4b40-9ccf-90ec061bbf52.mp3
 ```
 
 </details>
