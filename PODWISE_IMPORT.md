@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-24 03:32:11
+> 📅 生成时间: 2026-05-24 08:27:56
 > 📊 总计: 10 个播客
 
 ---
@@ -235,15 +235,15 @@ https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
+### 9. 五月广播电视报：若问世间谁无伤
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBK
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
 ```
 
 </details>
