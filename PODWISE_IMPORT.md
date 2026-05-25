@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-25 10:03:42
+> 📅 生成时间: 2026-05-25 14:52:09
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3030期:A student eats an artwork
+### 1. 王建硕：Markdown，是新时代的编程语言
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoN6gvWAfBZWwSefN5G.m4a?channel=rss&album_id=74194808&track_id=979043832&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a7b4-audiofreehighqps/F1/39/GKwRIDoN6gvWAfBZWwSefN5G.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoN6gvWAfBZWwSefN5G.m4a?channel=rss&album_id=74194808&track_id=979043832&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a7b4-audiofreehighqps/F1/39/GKwRIDoN6gvWAfBZWwSefN5G.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3030期:A student eats an artwork
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIRwN3u0DAAgAtgSaXdHv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 676: Here’s Looking at You, Kid
+### 3. 676: Here’s Looking at You, Kid
 
 **播客名称**: This American Life
 
@@ -73,7 +100,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 3. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+### 4. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
 **播客名称**: 硅谷101
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5126
 
 ---
 
-### 4. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
+### 5. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
 
 **播客名称**: 脑放电波
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c9453
 
 ---
 
-### 5. 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪
+### 6. 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪
 
 **播客名称**: 42章经
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a100e7da7621e15
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a100e7da7621e15d0c88337/media.xyzcdn.net/648b0b641c48983391a63f98/lsI79O-Z19zPlvmqdBpZnEOGPk3F.m4a
-```
-
-</details>
-
----
-
-### 6. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=69903
 
 ---
 
-### 9. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
+### 9. 24. 找出路丨从KPF、隈研吾事务所到青天制作所，一个建筑师决定不再走“标准答案”
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBK
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 从消费到消废，聊聊那些让生活低能耗、高丝滑的花钱智慧！
+### 10. S8 Vol.8 慧工云金敏恒：从一家工厂开始，如何捡起制造业的「满地螺丝」？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd5029589b185/media.xyzcdn.net/63d945ece725b5378a158d29/lpMvQ1eEx2Onlj8CIpPDk3W8ZFY6.m4a
+https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119986&track_id=977848678&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc67-audiofreehighqps/7E/B6/GKwRIJIN4yZJAXwbiQSb9vyy.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd502
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a0dfb5d1b7bd5029589b185/media.xyzcdn.net/63d945ece725b5378a158d29/lpMvQ1eEx2Onlj8CIpPDk3W8ZFY6.m4a
+https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119986&track_id=977848678&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc67-audiofreehighqps/7E/B6/GKwRIJIN4yZJAXwbiQSb9vyy.m4a
 ```
 
 </details>
