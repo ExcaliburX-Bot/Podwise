@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-25 14:52:09
+> 📅 生成时间: 2026-05-25 19:28:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 王建硕：Markdown，是新时代的编程语言
+### 1. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1445ade59ebca93643ccdd/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll2Z5I0VFVw8rR1EsMSUx0-lysKx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1445ade59ebca93643ccdd/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll2Z5I0VFVw8rR1EsMSUx0-lysKx.m4a
+```
+
+</details>
+
+---
+
+### 2. 王建硕：Markdown，是新时代的编程语言
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,34 @@ https://jt.ximalaya.com//GKwRIDoN6gvWAfBZWwSefN5G.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. 第3030期:A student eats an artwork
+### 3. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_AYMyqsfbRVUTbSHceVhUmqEwYVFyHmyawKvfHWNaHzdKSjyNGFWDvcmxHC-f3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_AYMyqsfbRVUTbSHceVhUmqEwYVFyHmyawKvfHWNaHzdKSjyNGFWDvcmxHC-f3.m4a
+```
+
+</details>
+
+---
+
+### 4. 第3030期:A student eats an artwork
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,34 +127,7 @@ https://jt.ximalaya.com//GKwRIRwN3u0DAAgAtgSaXdHv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 676: Here’s Looking at You, Kid
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache
-```
-
-</details>
-
----
-
-### 4. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+### 5. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
 **播客名称**: 硅谷101
 
@@ -121,33 +148,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5126
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3
-```
-
-</details>
-
----
-
-### 5. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a100e7da7621e15
 
 ---
 
-### 7. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
+### 7. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a
+```
+
+</details>
+
+---
+
+### 8. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a101a7f8b5c9453
 
 ---
 
-### 8. 347 好好吃饭——人能不能吃得又健康又高兴？
+### 9. 347 好好吃饭——人能不能吃得又健康又高兴？
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -229,33 +256,6 @@ https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=6990384&track_id=978221216&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/3304-audiofreehighqps/CF/BA/GKwRIDoN5PO-AiaVRQScsXxD.m4a
-```
-
-</details>
-
----
-
-### 9. 24. 找出路丨从KPF、隈研吾事务所到青天制作所，一个建筑师决定不再走“标准答案”
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
 ```
 
 </details>
