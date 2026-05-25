@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-24 19:15:44
+> 📅 生成时间: 2026-05-25 03:42:29
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://tk.wavpub.com/WPDL_AYMyqsfbRVUTbSHceVhUmqEwYVFyHmyawKvfHWNaHzdKSjyNGFWDv
 
 ---
 
-### 2. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
+### 2. 676: Here’s Looking at You, Kid
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache
+```
+
+</details>
+
+---
+
+### 3. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
 
 **播客名称**: 脑放电波
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c9453
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a
-```
-
-</details>
-
----
-
-### 3. 第3029期:Bad fans stop a big football game
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAN3edKAAjFeQSaAzZF.m4a?channel=rss&album_id=14812466&track_id=976988048&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f4ce-audiofreehighqps/C8/FE/GKwRIMAN3edKAAjFeQSaAzZF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAN3edKAAjFeQSaAzZF.m4a?channel=rss&album_id=14812466&track_id=976988048&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f4ce-audiofreehighqps/C8/FE/GKwRIMAN3edKAAjFeQSaAzZF.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a100e7da7621e15
 
 ---
 
-### 5. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
+### 5. The giant factory town that might be a giant mistake
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944
+```
+
+</details>
+
+---
+
+### 6. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9
 
 ---
 
-### 6. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
+### 7. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a101a7f8b5c9453
 
 ---
 
-### 7. 347 好好吃饭——人能不能吃得又健康又高兴？
+### 8. 347 好好吃饭——人能不能吃得又健康又高兴？
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,15 +235,15 @@ https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. 五月广播电视报：若问世间谁无伤
+### 9. 24. 找出路丨从KPF、隈研吾事务所到青天制作所，一个建筑师决定不再走“标准答案”
 
-**播客名称**: 展开讲讲
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a0ecbfee1eb34a939d50661/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lm7DvgTjrqqsuBYMABgWf4K62QwT.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a0eb5201b7bd5029592bfa0/media.xyzcdn.net/FvfWOx_VrN8M1GdrQAnIy-9kfH12.m4a
 ```
 
 </details>
 
 ---
 
-### 9. ✨慵懒节奏 Mixtape：你的愉悦好伙伴
+### 10. S8 Vol.8 慧工云金敏恒：从一家工厂开始，如何捡起制造业的「满地螺丝」？
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
+https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119986&track_id=977848678&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc67-audiofreehighqps/7E/B6/GKwRIJIN4yZJAXwbiQSb9vyy.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBK
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_hyJKAbWjjjNHqqxEwpjYTwGGqcpCcjsyQGXmGcmJGMVtvXHCLAGBKHFZQf-56.mp3
-```
-
-</details>
-
----
-
-### 10. E237｜央视和FIFA谈判纷争背后，体育赛事转播权的博弈与生意
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c3607c08-6eb6-48bd-8250-b41b5b8272e6.mp3
+https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119986&track_id=977848678&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc67-audiofreehighqps/7E/B6/GKwRIJIN4yZJAXwbiQSb9vyy.m4a
 ```
 
 </details>
