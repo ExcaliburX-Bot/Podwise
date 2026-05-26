@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-26 15:24:00
+> 📅 生成时间: 2026-05-26 20:08:01
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1547aa13abca41
 
 ---
 
-### 2. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
+### 2. 166: 许华哲再次具身创业：不想错过最大的西瓜
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3
+```
+
+</details>
+
+---
+
+### 3. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
 
 **播客名称**: 搞钱女孩
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a14b8678b5c9453
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a14b8678b5c94538eb3e8c2/media.xyzcdn.net/63d945ece725b5378a158d29/lgTtzxWNdHLjvXOKa3gy8VMdagw-.m4a
-```
-
-</details>
-
----
-
-### 3. 第3031期:Japan has a new word for the weather
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEN3u-UAAl3JwSaXw98.m4a?channel=rss&album_id=14812466&track_id=977131818&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c819-audiofreehighqps/F3/04/GKwRIUEN3u-UAAl3JwSaXw98.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEN3u-UAAl3JwSaXw98.m4a?channel=rss&album_id=14812466&track_id=977131818&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c819-audiofreehighqps/F3/04/GKwRIUEN3u-UAAl3JwSaXw98.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 10. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+### 10. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
 
-**播客名称**: 硅谷101
+**播客名称**: 脑放电波
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5126
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a
 ```
 
 </details>
