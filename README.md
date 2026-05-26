@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-26 09:54  
+> 📅 **更新时间**: 2026-05-26 15:24  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 166: 许华哲再次具身创业：不想错过最大的西瓜
+### 1. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
 
-**播客**: 晚点聊 LateTalk
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1547aa13abca418579b4b2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnPGN_P2rAz9-mevcRf_pMDXYIHR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 第3031期:Japan has a new word for the weather
+### 2. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a14b8678b5c94538eb3e8c2/media.xyzcdn.net/63d945ece725b5378a158d29/lgTtzxWNdHLjvXOKa3gy8VMdagw-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3031期:Japan has a new word for the weather
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
+### 4. 大神出山！Karpathy为何加入Anthropic？马斯克强力22万卡助攻，这波Anthropic赢麻了？
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a146d6e8b5c94538eb2dfb9/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhKj1vnLv4Vciujm6hTPGMc0B8an.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
 
 **播客**: 文化有限
 
@@ -47,7 +73,20 @@
 
 ---
 
-### 4. 王建硕：Markdown，是新时代的编程语言
+### 6. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1445ade59ebca93643ccdd/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll2Z5I0VFVw8rR1EsMSUx0-lysKx.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 王建硕：Markdown，是新时代的编程语言
 
 **播客**: AI炼金术
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
+### 8. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
 
 **播客**: 无聊斋
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 676: Here’s Looking at You, Kid
+### 9. 676: Here’s Looking at You, Kid
 
 **播客**: This American Life
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+### 10. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
 **播客**: 硅谷101
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/51260de8-60ef-4b76-b3e5-2e559c4a0923.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. The giant factory town that might be a giant mistake
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=3d7dbfe9-0e1c-4db6-a672-d7a3829dfd2e&feed=hvWWWzRv&t=podcast&e=nx-s1-5831786&p=510289&d=1618&size=25903944)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
