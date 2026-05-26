@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-25 19:28  
+> 📅 **更新时间**: 2026-05-26 03:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
+### 1. 166: 许华哲再次具身创业：不想错过最大的西瓜
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a14b8678b5c94538eb3e8c2/media.xyzcdn.net/63d945ece725b5378a158d29/lgTtzxWNdHLjvXOKa3gy8VMdagw-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3031期:Japan has a new word for the weather
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN3u-UAAl3JwSaXw98.m4a?channel=rss&album_id=14812466&track_id=977131818&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c819-audiofreehighqps/F3/04/GKwRIUEN3u-UAAl3JwSaXw98.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN6LGMAqdtYwSeA4l6.m4a?channel=rss&album_id=29887212&track_id=978812423&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/affa-audiofreehighqps/BA/17/GKwRIaIN6LGMAqdtYwSeA4l6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
 
 **播客**: 正经叭叭
 
@@ -21,7 +73,7 @@
 
 ---
 
-### 2. 王建硕：Markdown，是新时代的编程语言
+### 6. 王建硕：Markdown，是新时代的编程语言
 
 **播客**: AI炼金术
 
@@ -34,7 +86,7 @@
 
 ---
 
-### 3. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
+### 7. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
 
 **播客**: 无聊斋
 
@@ -47,20 +99,7 @@
 
 ---
 
-### 4. 第3030期:A student eats an artwork
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN3u0DAAgAtgSaXdHv.m4a?channel=rss&album_id=14812466&track_id=977129478&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cd81-audiofreehighqps/9C/1C/GKwRIRwN3u0DAAgAtgSaXdHv.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
+### 8. E238｜聊聊Harness时代AI-First的组织架构：从信任人到信任AI
 
 **播客**: 硅谷101
 
@@ -73,7 +112,20 @@
 
 ---
 
-### 6. 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪
+### 9. DeepSeek V4价格骨折背后：一位“二流程序员”的两次红利时刻-对谈 Proma 开发者Erlich-Vol97
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1132518b5c94538e943390/media.xyzcdn.net/636669d51064cb55f31505fc/llA3xcoeIsp38jVv-DB1KZog026W.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 一个 AI 创始人的虚荣心、装，和愚昧之巅｜对谈 invoko.ai 创始人梦琪
 
 **播客**: 42章经
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a100e7da7621e15d0c88337/media.xyzcdn.net/648b0b641c48983391a63f98/lsI79O-Z19zPlvmqdBpZnEOGPk3F.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. E236 从时间管理到爱你老己：我们如何停止和自己较劲？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a0ffa80e59ebca9361c8451/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvzBeTKxhAZNPFwvEh-ihd8vlzM5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 日本谍报物语03｜特高课、满铁调查部与昭和时代对内情报控制的升级
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a101a7f8b5c94538e8ba1a6/media.xyzcdn.net/FmRtPgDWAAAQS-fXgjb3DezX0Vsj.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 347 好好吃饭——人能不能吃得又健康又高兴？
-
-**播客**: Blow Your Mind (BYM S02)
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN5PO-AiaVRQScsXxD.m4a?channel=rss&album_id=6990384&track_id=978221216&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/3304-audiofreehighqps/CF/BA/GKwRIDoN5PO-AiaVRQScsXxD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. S8 Vol.8 慧工云金敏恒：从一家工厂开始，如何捡起制造业的「满地螺丝」？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIN4yZJAXwbiQSb9vyy.m4a?channel=rss&album_id=20119986&track_id=977848678&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc67-audiofreehighqps/7E/B6/GKwRIJIN4yZJAXwbiQSb9vyy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
