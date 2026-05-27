@@ -1,14 +1,79 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-27 09:42  
+> 📅 **更新时间**: 2026-05-27 15:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. The leaked tapes that show how the rich avoid taxes
+### 1. 华为的「韬定律」，是创新还是噱头？| Bonus
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471f937-616b-4f49-a7ae-49137d32dbe5.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Spark AI 李智昊：用视频做世界模型，路线非常不本质
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN7LnhAZpWLwSfdjGf.m4a?channel=rss&album_id=74194808&track_id=979509160&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/2142-audiofreehighqps/38/82/GKwRIJEN7LnhAZpWLwSfdjGf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. No.203 ✈️ “不死鸟”兰世立
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a15a9f713abca418579f7c7/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmn87Q3xJOg-iMA_D4mDl8CdRsDT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 16 我们学了那么多性知识，为什么还是不会爱？两位性咨询师的坦白局
+
+**播客**: 鸟鸟快乐实验室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lnoKCM4G6WeNp0wql7D6xEXyAKFi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. The leaked tapes that show how the rich avoid taxes
 
 **播客**: Planet Money
 
@@ -21,20 +86,7 @@
 
 ---
 
-### 2. 142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a15a2cbff7b9a8c0a5b953f/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg4SPHlAUnrJuULqRaXS_1Gc5ufZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3032期:Private space stations
+### 7. 第3032期:Private space stations
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,7 +99,20 @@
 
 ---
 
-### 4. 98.砝码还是枷锁？言情小说如何安置女性道德
+### 8. 142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a15a2cbff7b9a8c0a5b953f/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg4SPHlAUnrJuULqRaXS_1Gc5ufZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 98.砝码还是枷锁？言情小说如何安置女性道德
 
 **播客**: 展开讲讲
 
@@ -60,80 +125,15 @@
 
 ---
 
-### 5. 166: 许华哲再次具身创业：不想错过最大的西瓜
+### 10. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
 
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
-
-**播客**: 搞钱女孩
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a14b8678b5c94538eb3e8c2/media.xyzcdn.net/63d945ece725b5378a158d29/lgTtzxWNdHLjvXOKa3gy8VMdagw-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 大神出山！Karpathy为何加入Anthropic？马斯克强力22万卡助攻，这波Anthropic赢麻了？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a146d6e8b5c94538eb2dfb9/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhKj1vnLv4Vciujm6hTPGMc0B8an.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN6LGMAqdtYwSeA4l6.m4a?channel=rss&album_id=29887212&track_id=978812423&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/affa-audiofreehighqps/BA/17/GKwRIaIN6LGMAqdtYwSeA4l6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1445ade59ebca93643ccdd/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll2Z5I0VFVw8rR1EsMSUx0-lysKx.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 676: Here’s Looking at You, Kid
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1547aa13abca418579b4b2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnPGN_P2rAz9-mevcRf_pMDXYIHR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
