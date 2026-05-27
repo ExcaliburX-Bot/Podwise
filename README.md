@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-26 20:08  
+> 📅 **更新时间**: 2026-05-27 03:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
+### 1. 142. 雨森的创投观察第2集：Harness、下一个字节、2026大机会和Stanley Druckenmiller
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a15a2cbff7b9a8c0a5b953f/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg4SPHlAUnrJuULqRaXS_1Gc5ufZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 98.砝码还是枷锁？言情小说如何安置女性道德
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a15a676ff7b9a8c0a5b97c2/media.xyzcdn.net/5e280faa418a84a0461f9bfb/licgRUSCzL2CidBiUOHowvna3hpb.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
 
 **播客**: 忽左忽右
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 166: 许华哲再次具身创业：不想错过最大的西瓜
+### 4. 166: 许华哲再次具身创业：不想错过最大的西瓜
 
 **播客**: 晚点聊 LateTalk
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
+### 5. 成为OPC，不做NPC！搞钱让我主体性大觉醒 | 苏州听友会
 
 **播客**: 搞钱女孩
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. 大神出山！Karpathy为何加入Anthropic？马斯克强力22万卡助攻，这波Anthropic赢麻了？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a146d6e8b5c94538eb2dfb9/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhKj1vnLv4Vciujm6hTPGMc0B8an.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
+### 6. Vol.336 光明与黑暗的辞典：要怎么和凶宅一起生活
 
 **播客**: 文化有限
 
@@ -73,7 +86,20 @@
 
 ---
 
-### 6. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
+### 7. 大神出山！Karpathy为何加入Anthropic？马斯克强力22万卡助攻，这波Anthropic赢麻了？
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a146d6e8b5c94538eb2dfb9/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lhKj1vnLv4Vciujm6hTPGMc0B8an.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. vol.252醋鱼汉堡到熟醉沼虾，杭州美食首推吃瓜
 
 **播客**: 正经叭叭
 
@@ -86,20 +112,7 @@
 
 ---
 
-### 7. 王建硕：Markdown，是新时代的编程语言
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN6gvWAfBZWwSefN5G.m4a?channel=rss&album_id=74194808&track_id=979043832&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/a7b4-audiofreehighqps/F1/39/GKwRIDoN6gvWAfBZWwSefN5G.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
+### 9. vol.586 鸟修马桶企鹅发电、恋爱只找倒三角、装修就整“家徒四壁”？不儿您内冷知识是靠谱不靠谱啊！
 
 **播客**: 无聊斋
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_AYMyqsfbRVUTbSHceVhUmqEwYVFyHmyawKvfHWNaHzdKSjyNGFWDvcmxHC-f3.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 676: Here’s Looking at You, Kid
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0de0c859-d1f8-4279-b9f8-48dd3aafaf77/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0de0c859-d1f8-4279-b9f8-48dd3aafaf77&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
