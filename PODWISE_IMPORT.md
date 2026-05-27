@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-27 15:39:14
+> 📅 生成时间: 2026-05-27 20:14:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 华为的「韬定律」，是创新还是噱头？| Bonus
+### 1. 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局刘筱宁
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471f937-616b-4f49-a7ae-49137d32dbe5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a11a57c8b5c94538e98794d/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgK71gYTqTSvKc_wIPz0hkZkEMne.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471f937-616b-4f49-a7ae-49137d32dbe5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a11a57c8b5c94538e98794d/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgK71gYTqTSvKc_wIPz0hkZkEMne.m4a
 ```
 
 </details>
@@ -154,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb08
 
 ---
 
-### 6. The leaked tapes that show how the rich avoid taxes
+### 6. AI行业的收钱、花钱与赚钱---串台赛博对话
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a169508c6d2b9e2f8808c13/media.xyzcdn.net/6507bc165c88d2412626b401/lrR-h60uwqWiaRfkgjLq855i2cvF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a169508c6d2b9e2f8808c13/media.xyzcdn.net/6507bc165c88d2412626b401/lrR-h60uwqWiaRfkgjLq855i2cvF.m4a
+```
+
+</details>
+
+---
+
+### 7. The leaked tapes that show how the rich avoid taxes
 
 **播客名称**: Planet Money
 
@@ -175,33 +202,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408
-```
-
-</details>
-
----
-
-### 7. 第3032期:Private space stations
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN3vIqAAoVvwSaYDfY.m4a?channel=rss&album_id=14812466&track_id=977133966&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ca34-audiofreehighqps/F7/61/GKwRIJEN3vIqAAoVvwSaYDfY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN3vIqAAoVvwSaYDfY.m4a?channel=rss&album_id=14812466&track_id=977133966&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ca34-audiofreehighqps/F7/61/GKwRIJEN3vIqAAoVvwSaYDfY.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a15a2cbff7b9a8c
 
 ---
 
-### 9. 98.砝码还是枷锁？言情小说如何安置女性道德
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a15a676ff7b9a8c0a5b97c2/media.xyzcdn.net/5e280faa418a84a0461f9bfb/licgRUSCzL2CidBiUOHowvna3hpb.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a15a676ff7b9a8c0a5b97c2/media.xyzcdn.net/5e280faa418a84a0461f9bfb/licgRUSCzL2CidBiUOHowvna3hpb.m4a
-```
-
-</details>
-
----
-
-### 10. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
+### 9. 午后偏见045｜拉美是一种命运：被遮蔽的思想、抗争与另一种现代性
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1547aa13abca41
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1547aa13abca418579b4b2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnPGN_P2rAz9-mevcRf_pMDXYIHR.m4a
+```
+
+</details>
+
+---
+
+### 10. 166: 许华哲再次具身创业：不想错过最大的西瓜
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/c7f4e8c0-49d8-4b44-9257-824f4e254991.mp3
 ```
 
 </details>
