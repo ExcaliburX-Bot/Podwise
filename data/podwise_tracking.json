@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-28T15:51:33.764099",
+  "generated_at": "2026-05-28T20:21:10.645288",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！",
-      "podcast": "Vibration 歪波音室",
-      "audio_url": "https://tk.wavpub.com/WPDL_beCfNqHpnDMpESUKQnJWFNbPBEaXYQtLGrXfcfSdWULWRsUYbYCDKCmUHh-29.mp3",
+      "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -14,9 +14,9 @@
     },
     {
       "rank": 2,
-      "title": "第3033期:A robot monk",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEN3vWeAAk4BASaYfFs.m4a?channel=rss&album_id=14812466&track_id=977136930&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7149-audiofreehighqps/90/97/GKwRIUEN3vWeAAk4BASaYfFs.m4a",
+      "title": "在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰",
+      "podcast": "人民公园说AI",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a1804527460cabdeb57412f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lh2wFBcXuo6oZeOqFbyfgwj4JwuF.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -24,6 +24,26 @@
     },
     {
       "rank": 3,
+      "title": "143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪",
+      "podcast": "张小珺Jùn｜商业访谈录",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a170f747460cabdeb56dabb/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljeKstsAfrj-oVTm2bpL92S4nwoc.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "对话席瑞：AI 时代，会讲故事的人先享受世界！奇葩说辩手教你讲好故事、原地升值！",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a173928ac7bdb080c31ca25/media.xyzcdn.net/63d945ece725b5378a158d29/lglhMVsSQ3QocDQIvM9t_8xo23bN.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "华为的「韬定律」，是创新还是噱头？| Bonus",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471f937-616b-4f49-a7ae-49137d32dbe5.mp3",
@@ -33,17 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "没有人真正看完威尼斯双年展",
-      "podcast": "艺术有读",
-      "audio_url": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/6a1753368084eb4dbabd7d64/media.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a11a57c8b5c94538e98794d/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgK71gYTqTSvKc_wIPz0hkZkEMne.m4a",
@@ -53,20 +63,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Spark AI 李智昊：用视频做世界模型，路线非常不本质",
       "podcast": "AI炼金术",
       "audio_url": "https://jt.ximalaya.com//GKwRIJEN7LnhAZpWLwSfdjGf.m4a?channel=rss&album_id=74194808&track_id=979509160&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/2142-audiofreehighqps/38/82/GKwRIJEN7LnhAZpWLwSfdjGf.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
-      "podcast": "三五环",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "The leaked tapes that show how the rich avoid taxes",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408",
+      "title": "No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？",
+      "podcast": "三五环",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "98.砝码还是枷锁？言情小说如何安置女性道德",
-      "podcast": "展开讲讲",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a15a676ff7b9a8c0a5b97c2/media.xyzcdn.net/5e280faa418a84a0461f9bfb/licgRUSCzL2CidBiUOHowvna3hpb.m4a",
+      "title": "16 为什么很多人，亲密越来越像上班？两位性咨询师的坦白局",
+      "podcast": "鸟鸟快乐实验室",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsVZSTCykR611lQRv_UnwXMcGWG3.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
