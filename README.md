@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-28 03:31  
+> 📅 **更新时间**: 2026-05-28 09:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！
+### 1. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a1804527460cabdeb57412f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lh2wFBcXuo6oZeOqFbyfgwj4JwuF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！
 
 **播客**: Vibration 歪波音室
 
@@ -21,20 +47,20 @@
 
 ---
 
-### 2. 第3033期:A robot monk
+### 4. 143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 张小珺Jùn｜商业访谈录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN3vWeAAk4BASaYfFs.m4a?channel=rss&album_id=14812466&track_id=977136930&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7149-audiofreehighqps/90/97/GKwRIUEN3vWeAAk4BASaYfFs.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a170f747460cabdeb56dabb/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljeKstsAfrj-oVTm2bpL92S4nwoc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. AI 时代，会讲故事的人先享受世界！奇葩说席瑞教你讲好故事、原地升值！
+### 5. AI 时代，会讲故事的人先享受世界！奇葩说席瑞教你讲好故事、原地升值！
 
 **播客**: 搞钱女孩
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 华为的「韬定律」，是创新还是噱头？| Bonus
+### 6. 华为的「韬定律」，是创新还是噱头？| Bonus
 
 **播客**: What's Next｜科技早知道
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 没有人真正看完威尼斯双年展
+### 7. 没有人真正看完威尼斯双年展
 
 **播客**: 艺术有读
 
@@ -73,20 +99,7 @@
 
 ---
 
-### 6. 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a11a57c8b5c94538e98794d/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgK71gYTqTSvKc_wIPz0hkZkEMne.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Spark AI 李智昊：用视频做世界模型，路线非常不本质
+### 8. Spark AI 李智昊：用视频做世界模型，路线非常不本质
 
 **播客**: AI炼金术
 
@@ -99,41 +112,28 @@
 
 ---
 
-### 8. 16 我们学了那么多性知识，为什么还是不会爱？两位性咨询师的坦白局
+### 9. No.203 ✈️ “不死鸟”兰世立
 
-**播客**: 鸟鸟快乐实验室
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lnoKCM4G6WeNp0wql7D6xEXyAKFi.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a15a9f713abca418579f7c7/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmn87Q3xJOg-iMA_D4mDl8CdRsDT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. AI行业的收钱、花钱与赚钱---串台赛博对话
+### 10. No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？
 
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a169508c6d2b9e2f8808c13/media.xyzcdn.net/6507bc165c88d2412626b401/lrR-h60uwqWiaRfkgjLq855i2cvF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. The leaked tapes that show how the rich avoid taxes
-
-**播客**: Planet Money
+**播客**: 三五环
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47ae5ef1-886e-4b84-9f88-3a4362d00d84/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47ae5ef1-886e-4b84-9f88-3a4362d00d84&feed=hvWWWzRv&t=podcast&e=nx-s1-5835164&p=510289&d=1579&size=25272408)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
