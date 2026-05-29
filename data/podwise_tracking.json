@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-05-29T15:31:41.934923",
+  "generated_at": "2026-05-29T20:23:40.115183",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "The sneaky way companies get new chemicals into our food",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3",
@@ -13,28 +23,8 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lv08xc55YxpFKtxtOt_PDiJinol9.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 3,
-      "title": "全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集",
-      "podcast": "乱翻书",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
-      "title": "日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与终战媾和工作的成败",
+      "title": "日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a195674ac7bdb080c32bcb8/media.xyzcdn.net/Fj7dFPWRNoaIr47Ux-cpjrtTkr2i.m4a",
       "xiaoyuzhou_url": "",
@@ -43,7 +33,27 @@
       "notes": ""
     },
     {
+      "rank": 4,
+      "title": "348 再读《海的女儿》—— 虽然化为泡沫，却仍然勇敢和带着希望",
+      "podcast": "Blow Your Mind (BYM S02)",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=6990384&track_id=979844252&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/a155-audiofreehighqps/90/47/GKwRIDoN7tDHAgZHMQSgF5KN.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 5,
+      "title": "第3034期:Lord of the Rings coin",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4N6aleAAZVZgSeTjFw.m4a?channel=rss&album_id=14812466&track_id=978962160&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b262-audiofreehighqps/0B/E0/GKwRIW4N6aleAAZVZgSeTjFw.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02",
       "podcast": "沈奕斐的播客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a",
@@ -53,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a",
@@ -63,7 +73,17 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a1804527460cabdeb57412f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lh2wFBcXuo6oZeOqFbyfgwj4JwuF.m4a",
@@ -73,30 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPDL_beCfNqHpnDMpESUKQnJWFNbPBEaXYQtLGrXfcfSdWULWRsUYbYCDKCmUHh-29.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "对话席瑞：AI 时代，会讲故事的人先享受世界！奇葩说辩手教你讲好故事、原地升值！",
-      "podcast": "搞钱女孩",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a173928ac7bdb080c31ca25/media.xyzcdn.net/63d945ece725b5378a158d29/lglhMVsSQ3QocDQIvM9t_8xo23bN.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "没有人真正看完威尼斯双年展",
-      "podcast": "艺术有读",
-      "audio_url": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/6a1753368084eb4dbabd7d64/media.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
