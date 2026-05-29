@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-28 20:21:10
+> 📅 生成时间: 2026-05-29 03:31:25
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+### 1. 第3034期:Lord of the Rings coin
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4N6aleAAZVZgSeTjFw.m4a?channel=rss&album_id=14812466&track_id=978962160&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b262-audiofreehighqps/0B/E0/GKwRIW4N6aleAAZVZgSeTjFw.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4N6aleAAZVZgSeTjFw.m4a?channel=rss&album_id=14812466&track_id=978962160&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b262-audiofreehighqps/0B/E0/GKwRIW4N6aleAAZVZgSeTjFw.m4a
+```
+
+</details>
+
+---
+
+### 2. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a
+```
+
+</details>
+
+---
+
+### 3. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
+```
+
+</details>
+
+---
+
+### 4. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a
+```
+
+</details>
+
+---
+
+### 5. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7569
 
 ---
 
-### 2. 在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰
+### 6. 在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰
 
 **播客名称**: 人民公园说AI
 
@@ -73,61 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a1804527460cabd
 
 ---
 
-### 3. 143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a170f747460cabdeb56dabb/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljeKstsAfrj-oVTm2bpL92S4nwoc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a170f747460cabdeb56dabb/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljeKstsAfrj-oVTm2bpL92S4nwoc.m4a
-```
-
-</details>
-
----
-
-### 4. 对话席瑞：AI 时代，会讲故事的人先享受世界！奇葩说辩手教你讲好故事、原地升值！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a173928ac7bdb080c31ca25/media.xyzcdn.net/63d945ece725b5378a158d29/lglhMVsSQ3QocDQIvM9t_8xo23bN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a173928ac7bdb080c31ca25/media.xyzcdn.net/63d945ece725b5378a158d29/lglhMVsSQ3QocDQIvM9t_8xo23bN.m4a
-```
-
-</details>
-
----
-
-### 5. 华为的「韬定律」，是创新还是噱头？| Bonus
+### 7. 华为的「韬定律」，是创新还是噱头？| Bonus
 
 **播客名称**: What's Next｜科技早知道
 
@@ -154,7 +208,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e471
 
 ---
 
-### 6. 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁
+### 8. 没有人真正看完威尼斯双年展
+
+**播客名称**: 艺术有读
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/6a1753368084eb4dbabd7d64/media.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/6a1753368084eb4dbabd7d64/media.mp3
+```
+
+</details>
+
+---
+
+### 9. 2026 AI 游戏全景扫描：四层图景、三大误区、一个共识缺口｜对谈 405 游局筱宁
 
 **播客名称**: 十字路口Crossing
 
@@ -181,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a11a57c8b5c9453
 
 ---
 
-### 7. Spark AI 李智昊：用视频做世界模型，路线非常不本质
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN7LnhAZpWLwSfdjGf.m4a?channel=rss&album_id=74194808&track_id=979509160&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/2142-audiofreehighqps/38/82/GKwRIJEN7LnhAZpWLwSfdjGf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN7LnhAZpWLwSfdjGf.m4a?channel=rss&album_id=74194808&track_id=979509160&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/2142-audiofreehighqps/38/82/GKwRIJEN7LnhAZpWLwSfdjGf.m4a
-```
-
-</details>
-
----
-
-### 8. No.203 ✈️ “不死鸟”兰世立
+### 10. No.203 ✈️ “不死鸟”兰世立
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a15a9f713abca41
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a15a9f713abca418579f7c7/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmn87Q3xJOg-iMA_D4mDl8CdRsDT.m4a
-```
-
-</details>
-
----
-
-### 9. No.221 雷鸟 CEO：新技术越来越多，我们为什么还需要一副智能眼镜？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a1527988b5c94538eb82f42/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljHSVA6p4M9UsqWYUk-6zsnMZH7Y.m4a
-```
-
-</details>
-
----
-
-### 10. 16 为什么很多人，亲密越来越像上班？两位性咨询师的坦白局
-
-**播客名称**: 鸟鸟快乐实验室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsVZSTCykR611lQRv_UnwXMcGWG3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsVZSTCykR611lQRv_UnwXMcGWG3.m4a
 ```
 
 </details>
