@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-29 20:23  
+> 📅 **更新时间**: 2026-05-30 02:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. The sneaky way companies get new chemicals into our food
+### 1. 第3035期:Xabi Alonso becomes Real Madrid manager
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN6a3YAAkXtwSeT7b8.m4a?channel=rss&album_id=14812466&track_id=978965201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/745f-audiofreehighqps/E3/1F/GKwRIJEN6a3YAAkXtwSeT7b8.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. The sneaky way companies get new chemicals into our food
 
 **播客**: Planet Money
 
@@ -21,28 +34,15 @@
 
 ---
 
-### 2. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
+### 3. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
 
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败
-
-**播客**: 忽左忽右
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a195674ac7bdb080c32bcb8/media.xyzcdn.net/Fj7dFPWRNoaIr47Ux-cpjrtTkr2i.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lv08xc55YxpFKtxtOt_PDiJinol9.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,33 +60,7 @@
 
 ---
 
-### 5. 第3034期:Lord of the Rings coin
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4N6aleAAZVZgSeTjFw.m4a?channel=rss&album_id=14812466&track_id=978962160&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b262-audiofreehighqps/0B/E0/GKwRIW4N6aleAAZVZgSeTjFw.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
+### 5. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
 
 **播客**: 东亚观察局
 
@@ -99,7 +73,20 @@
 
 ---
 
-### 8. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+### 6. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰
+### 8. 在中国，AI只能卖结果：奥特曼来了都要呕血三升｜对谈百融智能创始人张韶峰
 
 **播客**: 人民公园说AI
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！
+### 9. 5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！
 
 **播客**: Vibration 歪波音室
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_beCfNqHpnDMpESUKQnJWFNbPBEaXYQtLGrXfcfSdWULWRsUYbYCDKCmUHh-29.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 143. 对何小鹏的第二次访谈：更大赌注、人形机器人Iron诞生、那场意外、技术剧变下CEO、GX和缝合怪
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a170f747460cabdeb56dabb/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljeKstsAfrj-oVTm2bpL92S4nwoc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
