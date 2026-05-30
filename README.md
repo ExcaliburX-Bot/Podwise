@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-05-30 08:26  
+> 📅 **更新时间**: 2026-05-30 13:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. The sneaky way companies get new chemicals into our food
+### 2. 第3035期:Xabi Alonso becomes Real Madrid manager
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN6a3YAAkXtwSeT7b8.m4a?channel=rss&album_id=14812466&track_id=978965201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/745f-audiofreehighqps/E3/1F/GKwRIJEN6a3YAAkXtwSeT7b8.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. The sneaky way companies get new chemicals into our food
 
 **播客**: Planet Money
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 348 再读《海的女儿》—— 虽然化为泡沫，却仍然勇敢和带着希望
-
-**播客**: Blow Your Mind (BYM S02)
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=6990384&track_id=979844252&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/a155-audiofreehighqps/90/47/GKwRIDoN7tDHAgZHMQSgF5KN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
+### 7. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
 
 **播客**: 沈奕斐的播客
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
+### 8. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
 
 **播客**: 东亚观察局
 
@@ -121,6 +108,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
