@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-30 19:13:37
+> 📅 生成时间: 2026-05-31 03:43:25
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabd
 
 ---
 
-### 3. 第3035期:Xabi Alonso becomes Real Madrid manager
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN6a3YAAkXtwSeT7b8.m4a?channel=rss&album_id=14812466&track_id=978965201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/745f-audiofreehighqps/E3/1F/GKwRIJEN6a3YAAkXtwSeT7b8.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN6a3YAAkXtwSeT7b8.m4a?channel=rss&album_id=14812466&track_id=978965201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/745f-audiofreehighqps/E3/1F/GKwRIJEN6a3YAAkXtwSeT7b8.m4a
-```
-
-</details>
-
----
-
-### 4. The sneaky way companies get new chemicals into our food
+### 3. The sneaky way companies get new chemicals into our food
 
 **播客名称**: Planet Money
 
@@ -127,34 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
-```
-
-</details>
-
----
-
-### 6. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
+### 4. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabd
 
 ---
 
-### 7. 日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败
+### 5. 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a
+```
+
+</details>
+
+---
+
+### 6. 日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a195674ac7bdb08
 
 ---
 
-### 8. 348 再读《海的女儿》—— 虽然化为泡沫，却仍然勇敢和带着希望
+### 7. 348 再读《海的女儿》—— 虽然化为泡沫，却仍然勇敢和带着希望
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=69903
 
 ---
 
-### 9. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
+### 8. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
 
 **播客名称**: 沈奕斐的播客
 
@@ -262,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabd
 
 ---
 
-### 10. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+### 9. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3
+https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7569
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3
+https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
+```
+
+</details>
+
+---
+
+### 10. 5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_beCfNqHpnDMpESUKQnJWFNbPBEaXYQtLGrXfcfSdWULWRsUYbYCDKCmUHh-29.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_beCfNqHpnDMpESUKQnJWFNbPBEaXYQtLGrXfcfSdWULWRsUYbYCDKCmUHh-29.mp3
 ```
 
 </details>
