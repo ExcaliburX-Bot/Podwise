@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-31 13:43:09
+> 📅 生成时间: 2026-05-31 19:15:57
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 最后的“手搓”--- AI司马迁的ima使用进化史
+### 1. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpMvBQGc-44.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpMvBQGc-44.m4a
+```
+
+</details>
+
+---
+
+### 2. 最后的“手搓”--- AI司马迁的ima使用进化史
 
 **播客名称**: 屠龙之术
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabd
 
 ---
 
-### 2. 106.成年人怎么判断，自己到底擅长什么？
+### 3. 第3036期:Can language influence how we see time?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIN6bE3ABEK9ASeUQKx.m4a?channel=rss&album_id=14812466&track_id=978967505&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e24-audiofreehighqps/61/8F/GKwRIaIN6bE3ABEK9ASeUQKx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIN6bE3ABEK9ASeUQKx.m4a?channel=rss&album_id=14812466&track_id=978967505&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e24-audiofreehighqps/61/8F/GKwRIaIN6bE3ABEK9ASeUQKx.m4a
+```
+
+</details>
+
+---
+
+### 4. 106.成年人怎么判断，自己到底擅长什么？
 
 **播客名称**: 喷嚏
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabd
 
 ---
 
-### 3. The sneaky way companies get new chemicals into our food
+### 5. The sneaky way companies get new chemicals into our food
 
 **播客名称**: Planet Money
 
@@ -100,15 +154,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
+### 6. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
 
-**播客名称**: 知行小酒馆
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lv08xc55YxpFKtxtOt_PDiJinol9.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +174,14 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabd
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lv08xc55YxpFKtxtOt_PDiJinol9.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
 ```
 
 </details>
 
 ---
 
-### 5. 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
+### 7. 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
 
 **播客名称**: 乱翻书
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb08
 
 ---
 
-### 6. 日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败
+### 8. 日本谍报物语04｜战时日军情报网：华北治安战、太平洋情报战与「终战媾和」工作的成败
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a195674ac7bdb08
 
 ---
 
-### 7. 348. 你不能嫁给只认识一天的男人！童话再解读
+### 9. 348. 你不能嫁给只认识一天的男人！童话再解读
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,34 +262,7 @@ https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a
-```
-
-</details>
-
----
-
-### 9. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
+### 10. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
 
 **播客名称**: 东亚观察局
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabd
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a
-```
-
-</details>
-
----
-
-### 10. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3
 ```
 
 </details>
