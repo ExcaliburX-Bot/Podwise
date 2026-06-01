@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-01 11:31:21
+> 📅 生成时间: 2026-06-01 17:37:19
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
+### 1. vol.253近邻岂是池中物，一遇风云就面对
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
 
 **播客名称**: 无聊斋
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpM
 
 ---
 
-### 2. 第3037期:Celebrate zoological society's 200th anniversary
+### 3. 第3037期:Celebrate zoological society's 200th anniversary
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIRwN6bN8AAUp1ASeUeuY.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 137: The Book That Changed Your Life
+### 4. 137: The Book That Changed Your Life
 
 **播客名称**: This American Life
 
@@ -100,7 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 4. 最后的“手搓”--- AI司马迁的ima使用进化史
+### 5. 最后的“手搓”--- AI司马迁的ima使用进化史
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabd
 
 ---
 
-### 5. 106.成年人怎么判断，自己到底擅长什么？
+### 6. 106.成年人怎么判断，自己到底擅长什么？
 
 **播客名称**: 喷嚏
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabd
 
 ---
 
-### 6. The sneaky way companies get new chemicals into our food
+### 7. The sneaky way companies get new chemicals into our food
 
 **播客名称**: Planet Money
 
@@ -181,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
+### 8. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
 
 **播客名称**: What's Next｜科技早知道
 
@@ -208,7 +235,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47f
 
 ---
 
-### 8. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
+### 9. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
 
 **播客名称**: 知行小酒馆
 
@@ -229,33 +256,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabd
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lhYzc5Sy4C93FLuwy4NzmDCpM_xA.m4a
-```
-
-</details>
-
----
-
-### 9. 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a
 ```
 
 </details>

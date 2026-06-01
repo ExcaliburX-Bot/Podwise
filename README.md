@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-01 11:31  
+> 📅 **更新时间**: 2026-06-01 17:37  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
+### 1. vol.253近邻岂是池中物，一遇风云就面对
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
 
 **播客**: 无聊斋
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 第3037期:Celebrate zoological society's 200th anniversary
+### 3. 第3037期:Celebrate zoological society's 200th anniversary
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 137: The Book That Changed Your Life
+### 4. 137: The Book That Changed Your Life
 
 **播客**: This American Life
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 最后的“手搓”--- AI司马迁的ima使用进化史
+### 5. 最后的“手搓”--- AI司马迁的ima使用进化史
 
 **播客**: 屠龙之术
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 106.成年人怎么判断，自己到底擅长什么？
+### 6. 106.成年人怎么判断，自己到底擅长什么？
 
 **播客**: 喷嚏
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. The sneaky way companies get new chemicals into our food
+### 7. The sneaky way companies get new chemicals into our food
 
 **播客**: Planet Money
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
+### 8. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
 
 **播客**: What's Next｜科技早知道
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
+### 9. E237 出发吧，扔掉旧地图，去 AI 时代的新世界尽情探索
 
 **播客**: 知行小酒馆
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a19390a7460cabdeb57c0e5/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lhYzc5Sy4C93FLuwy4NzmDCpM_xA.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 全面压制，不留空档：字节跳动如何做增长？｜字节跳动 第7集
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1953f9ac7bdb080c32baa5/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpFNZB6qzXFgXGiky8tlyoc9BZCC.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
