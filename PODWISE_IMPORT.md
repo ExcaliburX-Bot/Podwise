@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-05-31 19:15:57
+> 📅 生成时间: 2026-06-01 03:58:32
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,61 @@ https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpM
 
 ---
 
-### 2. 最后的“手搓”--- AI司马迁的ima使用进化史
+### 2. 第3037期:Celebrate zoological society's 200th anniversary
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN6bN8AAUp1ASeUeuY.m4a?channel=rss&album_id=14812466&track_id=978969682&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6cb6-audiofreehighqps/53/86/GKwRIRwN6bN8AAUp1ASeUeuY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN6bN8AAUp1ASeUeuY.m4a?channel=rss&album_id=14812466&track_id=978969682&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6cb6-audiofreehighqps/53/86/GKwRIRwN6bN8AAUp1ASeUeuY.m4a
+```
+
+</details>
+
+---
+
+### 3. 137: The Book That Changed Your Life
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache
+```
+
+</details>
+
+---
+
+### 4. 最后的“手搓”--- AI司马迁的ima使用进化史
 
 **播客名称**: 屠龙之术
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabd
 
 ---
 
-### 3. 第3036期:Can language influence how we see time?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN6bE3ABEK9ASeUQKx.m4a?channel=rss&album_id=14812466&track_id=978967505&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e24-audiofreehighqps/61/8F/GKwRIaIN6bE3ABEK9ASeUQKx.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN6bE3ABEK9ASeUQKx.m4a?channel=rss&album_id=14812466&track_id=978967505&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2e24-audiofreehighqps/61/8F/GKwRIaIN6bE3ABEK9ASeUQKx.m4a
-```
-
-</details>
-
----
-
-### 4. 106.成年人怎么判断，自己到底擅长什么？
+### 5. 106.成年人怎么判断，自己到底擅长什么？
 
 **播客名称**: 喷嚏
 
@@ -121,33 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabd
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabdeb580909/media.xyzcdn.net/605b0d5d64b27cf2f137f131/li7QMXm7O0OlqQJQnNC7t-twZ8Rm.m4a
-```
-
-</details>
-
----
-
-### 5. The sneaky way companies get new chemicals into our food
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=69903
 
 ---
 
-### 10. 284 坂上之云vs长夜隧道：摇摆的“甲午”与中日国运分岔
+### 10. 257.原生家庭决定你的一生？如何与控制欲强的父母相处？｜答网友问02
 
-**播客名称**: 东亚观察局
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabd
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a1869887460cabdeb577793/media.xyzcdn.net/5e9a4e25418a84a046bc6156/looqsqakZza1dJBDG6vKlAHeBED3.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a1812757460cabdeb574b1f/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsObypQr62U3WZEAHreUOVwLFida.m4a
 ```
 
 </details>
