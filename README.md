@@ -1,35 +1,35 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-01 21:31  
+> 📅 **更新时间**: 2026-06-02 03:54  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.253近邻岂是池中物，一遇风云就面对
+### 1. 第3038期:How exercise could boost your exam grades
 
-**播客**: 正经叭叭
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAN8CzTABPx_QSglUyy.m4a?channel=rss&album_id=14812466&track_id=980054169&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fd68-audiofreehighqps/6E/AA/GKwRIMAN8CzTABPx_QSglUyy.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. AI 真的在“蒸馏”人类吗？硅谷裁员潮、京东“涅槃”和教皇的焦虑-Vol98
+### 2. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
 
-**播客**: 脑放电波
+**播客**: 文化有限
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1da6487460cabdeb597eb7/media.xyzcdn.net/636669d51064cb55f31505fc/luvnWFO0EAvy1Xn9ibrkaDwkgHHo.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 第3037期:Celebrate zoological society's 200th anniversary
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN6bN8AAUp1ASeUeuY.m4a?channel=rss&album_id=14812466&track_id=978969682&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6cb6-audiofreehighqps/53/86/GKwRIRwN6bN8AAUp1ASeUeuY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 137: The Book That Changed Your Life
+### 5. 137: The Book That Changed Your Life
 
 **播客**: This American Life
 
@@ -86,33 +73,7 @@
 
 ---
 
-### 7. 最后的“手搓”--- AI司马迁的ima使用进化史
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabdeb58bf36/media.xyzcdn.net/6507bc165c88d2412626b401/lnFllEk6dQbzuOGj_fyFhZFz22Bb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 106.成年人怎么判断，自己到底擅长什么？
-
-**播客**: 喷嚏
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabdeb580909/media.xyzcdn.net/605b0d5d64b27cf2f137f131/li7QMXm7O0OlqQJQnNC7t-twZ8Rm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. The sneaky way companies get new chemicals into our food
+### 6. The sneaky way companies get new chemicals into our food
 
 **播客**: Planet Money
 
@@ -125,7 +86,7 @@
 
 ---
 
-### 10. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
+### 7. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
 
 **播客**: What's Next｜科技早知道
 
@@ -134,6 +95,45 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 348. 你不能嫁给只认识一天的男人！童话再解读
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN7tDHAgZHMQSgF5KN.m4a?channel=rss&album_id=6990384&track_id=979844252&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/a155-audiofreehighqps/90/47/GKwRIDoN7tDHAgZHMQSgF5KN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN7dOCAUBz0ASfy7gO.m4a?channel=rss&album_id=20119986&track_id=979675225&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b35d-audiofreehighqps/CE/7E/GKwRIaIN7dOCAUBz0ASfy7gO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/75697b83-bdc7-40a6-8fd5-77440b8cc85a.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
