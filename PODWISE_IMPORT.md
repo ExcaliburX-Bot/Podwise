@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-02 10:22:05
+> 📅 生成时间: 2026-06-02 16:22:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 1. 64 创造我们人类的光合作用：在植物园一起共读丰容
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
+```
+
+</details>
+
+---
+
+### 2. Mixtape丨百会儿童节特辑：给小耳朵的歌
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3
+```
+
+</details>
+
+---
+
+### 3. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客名称**: 忽左忽右
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571
 
 ---
 
-### 2. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
-```
-
-</details>
-
----
-
-### 3. vol.253近邻岂是池中物，一遇风云就面对
+### 4. vol.253近邻岂是池中物，一遇风云就面对
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabd
 
 ---
 
-### 4. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
+### 5. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
 
 **播客名称**: 脑放电波
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1da6487460cabd
 
 ---
 
-### 5. 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
+### 6. 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
 
 **播客名称**: 乱翻书
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabd
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabdeb597a29/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lrvMi-rUXZ81afNqXDFK_dLdIxhX.m4a
-```
-
-</details>
-
----
-
-### 6. 丛龙峰：AI 会消灭掉“上个破班儿”的感觉
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194808&track_id=980493071&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/40b3-audiofreehighqps/96/02/GKwRIRwN8wVGAfkkegShj7T5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194808&track_id=980493071&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/40b3-audiofreehighqps/96/02/GKwRIRwN8wVGAfkkegShj7T5.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabd
 
 ---
 
-### 9. 106.成年人怎么判断，自己到底擅长什么？
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabdeb580909/media.xyzcdn.net/605b0d5d64b27cf2f137f131/li7QMXm7O0OlqQJQnNC7t-twZ8Rm.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a19c1847460cabdeb580909/media.xyzcdn.net/605b0d5d64b27cf2f137f131/li7QMXm7O0OlqQJQnNC7t-twZ8Rm.m4a
-```
-
-</details>
-
----
-
-### 10. The sneaky way companies get new chemicals into our food
+### 9. The sneaky way companies get new chemicals into our food
 
 **播客名称**: Planet Money
 
@@ -283,6 +256,33 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9badf7b4-5d50-4584-8410-c616ac8e0b77/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9badf7b4-5d50-4584-8410-c616ac8e0b77&feed=hvWWWzRv&t=podcast&e=nx-s1-5836552&p=510289&d=2141&size=34262710
+```
+
+</details>
+
+---
+
+### 10. 存储三巨头破万亿市值，存储超级周期何时能见顶？| S10E13
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c47ff830-8cb5-4e58-b7d7-1a04e4e5a4c1.mp3
 ```
 
 </details>
