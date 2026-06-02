@@ -1,35 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-06-02 20:47  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [64 创造我们人类的光合作用：在植物园一起共读丰容](#) | 放学以后After school | 2026-06-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Mixtape丨百会儿童节特辑：给小耳朵的歌](#) | 周末变奏 Key Change | 2026-06-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3038期:How exercise could boost your exam grades](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默](#) | 文化有限 | 2026-06-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [丛龙峰：AI 会消灭掉“上个破班儿”的感觉](#) | AI炼金术 | 2026-06-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3037期:Celebrate zoological society's 200th anniversary](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-01 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母O day156（1551-1560)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-05-31 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [137: The Book That Changed Your Life](#) | This American Life | 2026-05-31 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊](#) | 无聊斋 | 2026-05-31 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3036期:Can language influence how we see time?](#) | 英语每日一听 | 每天少于5分钟 | 2026-05-31 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）10-2020年新高考一卷（山东卷）](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-05-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3035期:Xabi Alonso becomes Real Madrid manager](#) | 英语每日一听 | 每天少于5分钟 | 2026-05-30 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [The sneaky way companies get new chemicals into our food](#) | Planet Money | 2026-05-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [存储三巨头破万亿市值，存储超级周期何时能见顶？- S10E13](#) | What's Next｜科技早知道 | 2026-05-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [348. 你不能嫁给只认识一天的男人！童话再解读](#) | Blow Your Mind (BYM S02) | 2026-05-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3034期:Lord of the Rings coin](#) | 英语每日一听 | 每天少于5分钟 | 2026-05-29 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 柯南·道尔《福尔摩斯和公爵的儿子》part4](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-05-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.9 米正科技张相成：死磕技术，我做了一台全球最小的专业意式咖啡机](#) | 创业内幕 Startup Insider | 2026-05-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [167: 洋葱学园杨临风：用AI制造捷径，是在杀死真学习](#) | 晚点聊 LateTalk | 2026-05-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3033期:A robot monk](#) | 英语每日一听 | 每天少于5分钟 | 2026-05-28 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [5月新歌推荐丨雷擎、汪川、LE SSERAFIM、BIBI…不容错过❤️！](#) | Vibration 歪波音室 | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [没有人真正看完威尼斯双年展](#) | 艺术有读 | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [华为的「韬定律」，是创新还是噱头？- Bonus](#) | What's Next｜科技早知道 | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Spark AI 李智昊：用视频做世界模型，路线非常不本质](#) | AI炼金术 | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [The leaked tapes that show how the rich avoid taxes](#) | Planet Money | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3032期:Private space stations](#) | 英语每日一听 | 每天少于5分钟 | 2026-05-27 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（高级续）71-75](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-05-26 |
+---
 
-_最后更新: 2026-06-02 18:03:33_
+## 🎯 Top 10 热门播客
+
+### 1. 64 创造我们人类的光合作用：在植物园一起共读丰容
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Mixtape丨百会儿童节特辑：给小耳朵的歌
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571ae9f61fc/media.xyzcdn.net/5e4ee557418a84a0466737b7/llkZwHhV0yOq5zQ7azHfuEoFavS3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第3038期:How exercise could boost your exam grades
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAN8CzTABPx_QSglUyy.m4a?channel=rss&album_id=14812466&track_id=980054169&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fd68-audiofreehighqps/6E/AA/GKwRIMAN8CzTABPx_QSglUyy.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. vol.253近邻岂是池中物，一遇风云就面对
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1da6487460cabdeb597eb7/media.xyzcdn.net/636669d51064cb55f31505fc/luvnWFO0EAvy1Xn9ibrkaDwkgHHo.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabdeb597a29/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lrvMi-rUXZ81afNqXDFK_dLdIxhX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 丛龙峰：AI 会消灭掉“上个破班儿”的感觉
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194808&track_id=980493071&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/40b3-audiofreehighqps/96/02/GKwRIRwN8wVGAfkkegShj7T5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpMvBQGc-44.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 最后的“手搓”--- AI司马迁的ima使用进化史
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1c26687460cabdeb58bf36/media.xyzcdn.net/6507bc165c88d2412626b401/lnFllEk6dQbzuOGj_fyFhZFz22Bb.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*
