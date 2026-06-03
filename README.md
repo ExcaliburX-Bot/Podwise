@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-03 10:56  
+> 📅 **更新时间**: 2026-06-03 16:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
+### 1. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcuaQYff-a3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 一人公司的另一种可能：AI 负责经营，人类负责热爱 | 英文访谈 S10E14
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
 
 **播客**: 随机波动StochasticVolatility
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. There's no business like dough business
+### 4. There's no business like dough business
 
 **播客**: Planet Money
 
@@ -34,7 +60,20 @@
 
 ---
 
-### 3. 第3039期:Most popular race: London marathon breaks records
+### 5. 224. 去英国留学，孩子的未来怎么选？与择校顾问与华人爸爸一起聊聊教育、未来与家庭选择
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 第3039期:Most popular race: London marathon breaks records
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 64 创造我们人类的光合作用：在植物园一起共读丰容
+### 7. 64 创造我们人类的光合作用：在植物园一起共读丰容
 
 **播客**: 放学以后After school
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. Mixtape丨百会儿童节特辑：给小耳朵的歌
+### 8. Mixtape丨百会儿童节特辑：给小耳朵的歌
 
 **播客**: 周末变奏 Key Change
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 9. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客**: 忽左忽右
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
+### 10. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
 
 **播客**: 文化有限
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.253近邻岂是池中物，一遇风云就面对
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1da6487460cabdeb597eb7/media.xyzcdn.net/636669d51064cb55f31505fc/luvnWFO0EAvy1Xn9ibrkaDwkgHHo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabdeb597a29/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lrvMi-rUXZ81afNqXDFK_dLdIxhX.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
