@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-03 04:00:35
+> 📅 生成时间: 2026-06-03 10:56:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3039期:Most popular race: London marathon breaks records
+### 1. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e794ff-2a19-495a-a9b6-2173b8ec66b5.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e794ff-2a19-495a-a9b6-2173b8ec66b5.mp3
+```
+
+</details>
+
+---
+
+### 2. There's no business like dough business
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
+```
+
+</details>
+
+---
+
+### 3. 第3039期:Most popular race: London marathon breaks records
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIMAN8C6PAAUIDwSgliLk.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 64 创造我们人类的光合作用：在植物园一起共读丰容
+### 4. 64 创造我们人类的光合作用：在植物园一起共读丰容
 
 **播客名称**: 放学以后After school
 
@@ -73,7 +127,7 @@ https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 3. Mixtape丨百会儿童节特辑：给小耳朵的歌
+### 5. Mixtape丨百会儿童节特辑：给小耳朵的歌
 
 **播客名称**: 周末变奏 Key Change
 
@@ -100,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYK
 
 ---
 
-### 4. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 6. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客名称**: 忽左忽右
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571
 
 ---
 
-### 5. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
+### 7. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
 
 **播客名称**: 文化有限
 
@@ -154,7 +208,7 @@ https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887
 
 ---
 
-### 6. vol.253近邻岂是池中物，一遇风云就面对
+### 8. vol.253近邻岂是池中物，一遇风云就面对
 
 **播客名称**: 正经叭叭
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabd
 
 ---
 
-### 7. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
+### 9. AI真的在“蒸馏”人类吗？硅谷裁员潮，被“克隆”的主播，教皇的焦虑-Vol98
 
 **播客名称**: 脑放电波
 
@@ -208,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a1da6487460cabd
 
 ---
 
-### 8. 丛龙峰：AI 会消灭掉“上个破班儿”的感觉
+### 10. 267.3000块成本，3.5亿次播放，AI短剧怎么在抖音挣钱？
 
-**播客名称**: AI炼金术
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194808&track_id=980493071&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/40b3-audiofreehighqps/96/02/GKwRIRwN8wVGAfkkegShj7T5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabdeb597a29/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lrvMi-rUXZ81afNqXDFK_dLdIxhX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwN8wVGAfkkegShj7T5.m4a?channel=rss&album_id=74194808&track_id=980493071&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/40b3-audiofreehighqps/96/02/GKwRIRwN8wVGAfkkegShj7T5.m4a
-```
-
-</details>
-
----
-
-### 9. vol.587 考前吃36个鸡翅、艺考说土味情话、实验产率突破130%？老大 我们这么考试真的能拿高分吗？｜见面聊聊
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpMvBQGc-44.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_sTQZUwERuasMaJnQCEUkbYXeQKffwUBXLgnHAsQcuUnVpcFDNmLpMvBQGc-44.m4a
-```
-
-</details>
-
----
-
-### 10. 137: The Book That Changed Your Life
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/e55b1946-2658-4592-9afe-1c2a3033a31c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=e55b1946-2658-4592-9afe-1c2a3033a31c&nocache
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a1d9e487460cabdeb597a29/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lrvMi-rUXZ81afNqXDFK_dLdIxhX.m4a
 ```
 
 </details>
