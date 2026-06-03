@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-03 16:46:52
+> 📅 生成时间: 2026-06-03 20:54:22
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcu
 
 ---
 
-### 2. 一人公司的另一种可能：AI 负责经营，人类负责热爱 | 英文访谈 S10E14
+### 2. “悲观者正确，乐观者成功”，和好友亚婷聊聊AI行业的种种
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,22 +66,22 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e9
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
+### 3. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e794ff-2a19-495a-a9b6-2173b8ec66b5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +93,41 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e7
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e794ff-2a19-495a-a9b6-2173b8ec66b5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a
 ```
 
 </details>
 
 ---
 
-### 4. There's no business like dough business
+### 4. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b57222329345/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq1UIBXcHptCjtMX-ZZzRJCbs16g.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b57222329345/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq1UIBXcHptCjtMX-ZZzRJCbs16g.m4a
+```
+
+</details>
+
+---
+
+### 5. There's no business like dough business
 
 **播客名称**: Planet Money
 
@@ -121,33 +148,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
-```
-
-</details>
-
----
-
-### 5. 224. 去英国留学，孩子的未来怎么选？与择校顾问与华人爸爸一起聊聊教育、未来与家庭选择
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://jt.ximalaya.com//GKwRIMAN8C6PAAUIDwSgliLk.m4a?channel=rss&album_id=14812
 
 ---
 
-### 7. 64 创造我们人类的光合作用：在植物园一起共读丰容
+### 7. 224. 去英国留学，孩子的未来怎么选？与择校顾问与华人爸爸一起聊聊教育、未来与家庭选择
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
+```
+
+</details>
+
+---
+
+### 8. 64 创造我们人类的光合作用：在植物园一起共读丰容
 
 **播客名称**: 放学以后After school
 
@@ -208,7 +235,7 @@ https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 8. Mixtape丨百会儿童节特辑：给小耳朵的歌
+### 9. Mixtape丨百会儿童节特辑：给小耳朵的歌
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +262,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYK
 
 ---
 
-### 9. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 10. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571ae9f61fc/media.xyzcdn.net/5e4ee557418a84a0466737b7/llkZwHhV0yOq5zQ7azHfuEoFavS3.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
 ```
 
 </details>
