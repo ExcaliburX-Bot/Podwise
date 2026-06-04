@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-04 14:58:38
+> 📅 生成时间: 2026-06-04 20:05:08
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 河豚已经不会毒死你了，但我们决定假装它还会
+### 1. 睡前安抚歌单：月光照进房间的时候
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3
+```
+
+</details>
+
+---
+
+### 2. 河豚已经不会毒死你了，但我们决定假装它还会
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
+### 3. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -67,33 +94,6 @@ https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcu
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcuaQYff-a3.m4a
-```
-
-</details>
-
----
-
-### 3. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://jt.ximalaya.com//GKwRIaIN8W-VAA9IKASg__sF.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 139 ✪ 泡泡玛特和拼多多值得投资么？
+### 5. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
 
-**播客名称**: 疯投圈
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep139.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://rio.xyzcdn.net/crazycapital/ep139.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep139.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
 ```
 
 </details>
@@ -181,61 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e9
 
 ---
 
-### 7. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a
-```
-
-</details>
-
----
-
-### 8. “悲观者正确，乐观者成功”，和好友亚婷聊聊AI行业的种种
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
-```
-
-</details>
-
----
-
-### 9. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
+### 7. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -262,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e7
 
 ---
 
-### 10. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
+### 8. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b57222329345/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq1UIBXcHptCjtMX-ZZzRJCbs16g.m4a
+```
+
+</details>
+
+---
+
+### 9. There's no business like dough business
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d93bd302-5976-4583-98ac-3ebc7799c321/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d93bd302-5976-4583-98ac-3ebc7799c321&feed=hvWWWzRv&t=podcast&e=nx-s1-5844617&p=510289&d=1643&size=26299751
+```
+
+</details>
+
+---
+
+### 10. 64 创造我们人类的光合作用：在植物园一起共读丰容
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
 ```
 
 </details>
