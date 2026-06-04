@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-04 03:55  
+> 📅 **更新时间**: 2026-06-04 09:54  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 第3040期:Healthy snack shops replace unhealthy habits.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN8W-VAA9IKASg__sF.m4a?channel=rss&album_id=14812466&track_id=980235304&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2cc1-audiofreehighqps/D9/76/GKwRIaIN8W-VAA9IKASg__sF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
+### 2. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
 
 **播客**: 搞钱女孩
 
@@ -47,28 +34,41 @@
 
 ---
 
-### 4. 一人公司的另一种可能：AI 负责经营，人类负责热爱 | 英文访谈 S10E14
+### 3. 139 ✪ 泡泡玛特和拼多多值得投资么？
 
-**播客**: What's Next｜科技早知道
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep139.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
+### 4. 第3040期:Healthy snack shops replace unhealthy habits.
 
-**播客**: 十字路口Crossing
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN8W-VAA9IKASg__sF.m4a?channel=rss&album_id=14812466&track_id=980235304&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2cc1-audiofreehighqps/D9/76/GKwRIaIN8W-VAA9IKASg__sF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. “悲观者正确，乐观者成功”，和好友亚婷聊聊AI行业的种种
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,33 @@
 
 ---
 
-### 8. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 8. 64 创造我们人类的光合作用：在植物园一起共读丰容
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. Mixtape丨百会儿童节特辑：给小耳朵的歌
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客**: 忽左忽右
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571ae9f61fc/media.xyzcdn.net/5e4ee557418a84a0466737b7/llkZwHhV0yOq5zQ7azHfuEoFavS3.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. vol.253近邻岂是池中物，一遇风云就面对
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
