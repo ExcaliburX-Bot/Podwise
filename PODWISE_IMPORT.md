@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-03 20:54:22
+> 📅 生成时间: 2026-06-04 03:55:27
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcu
 
 ---
 
-### 2. “悲观者正确，乐观者成功”，和好友亚婷聊聊AI行业的种种
+### 2. 第3040期:Healthy snack shops replace unhealthy habits.
 
-**播客名称**: 屠龙之术
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
+https://jt.ximalaya.com//GKwRIaIN8W-VAA9IKASg__sF.m4a?channel=rss&album_id=14812466&track_id=980235304&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2cc1-audiofreehighqps/D9/76/GKwRIaIN8W-VAA9IKASg__sF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a1ed39db30e1571ae9f85ee/media.xyzcdn.net/6507bc165c88d2412626b401/lhlLbk88QXGKF7YAt0wHK4I7oeu9.m4a
+https://jt.ximalaya.com//GKwRIaIN8W-VAA9IKASg__sF.m4a?channel=rss&album_id=14812466&track_id=980235304&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2cc1-audiofreehighqps/D9/76/GKwRIaIN8W-VAA9IKASg__sF.m4a
 ```
 
 </details>
 
 ---
 
-### 3. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
+### 3. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
+```
+
+</details>
+
+---
+
+### 4. 一人公司的另一种可能：AI 负责经营，人类负责热爱 | 英文访谈 S10E14
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3
+```
+
+</details>
+
+---
+
+### 5. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
 
 **播客名称**: 十字路口Crossing
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb08
 
 ---
 
-### 4. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
+### 6. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b572
 
 ---
 
-### 5. There's no business like dough business
+### 7. There's no business like dough business
 
 **播客名称**: Planet Money
 
@@ -154,115 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 第3039期:Most popular race: London marathon breaks records
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAN8C6PAAUIDwSgliLk.m4a?channel=rss&album_id=14812466&track_id=980054784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1587-audiofreehighqps/AB/5C/GKwRIMAN8C6PAAUIDwSgliLk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAN8C6PAAUIDwSgliLk.m4a?channel=rss&album_id=14812466&track_id=980054784&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1587-audiofreehighqps/AB/5C/GKwRIMAN8C6PAAUIDwSgliLk.m4a
-```
-
-</details>
-
----
-
-### 7. 224. 去英国留学，孩子的未来怎么选？与择校顾问与华人爸爸一起聊聊教育、未来与家庭选择
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a1d995cac7bdb080c345b62/media.xyzcdn.net/5e285856418a84a04627b7be/lhJeAQv34uZel0W0aTD-UjkfFp0h.m4a
-```
-
-</details>
-
----
-
-### 8. 64 创造我们人类的光合作用：在植物园一起共读丰容
-
-**播客名称**: 放学以后After school
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://anchor.fm/s/81d05f80/podcast/play/120893910/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-2%2F6205fd06-caa1-dcee-b64f-3799445edf62.mp3
-```
-
-</details>
-
----
-
-### 9. Mixtape丨百会儿童节特辑：给小耳朵的歌
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzY4NiwidCI6MX0.TGxaQxov1hiu4IqHHC64KYKJz5Y/keychangefm/8219697827_863005.mp3
-```
-
-</details>
-
----
-
-### 10. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
+### 8. 475 湘西的民风、巫鬼与文学创作：从平江不肖生到沈从文
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a1e952fb30e1571ae9f61fc/media.xyzcdn.net/5e4ee557418a84a0466737b7/llkZwHhV0yOq5zQ7azHfuEoFavS3.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.337 初步举证：我同样支离破碎，但仍站在这里永不沉默
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEN8vfwAwI9pQShiEp_.m4a?channel=rss&album_id=29887212&track_id=980479301&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/71a7-audiofreehighqps/0F/08/GKwRIUEN8vfwAwI9pQShiEp_.m4a
+```
+
+</details>
+
+---
+
+### 10. vol.253近邻岂是池中物，一遇风云就面对
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a1da57a7460cabdeb597e3f/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhi8DWA7_6xgU3gILqFDBYSffVEY.m4a
 ```
 
 </details>
