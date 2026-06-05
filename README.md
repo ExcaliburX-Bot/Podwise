@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-05 09:47  
+> 📅 **更新时间**: 2026-06-05 14:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3041期:Artist in the field
+### 1. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: Blow Your Mind (BYM S02)
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN8XJLAA3EewShARtz.m4a?channel=rss&album_id=14812466&track_id=980237110&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/37c3-audiofreehighqps/38/74/GKwRIaIN8XJLAA3EewShARtz.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=6990384&track_id=981342722&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/58d8-audiofreehighqps/D2/AB/GKwRIaIN-FL2AidtewSjd3SR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
+### 2. 285 灵活务实 道阻且长：李在明上台一周年的外交成绩单
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a226a01b30e1571aea11274/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg8IP2kU5EJNpa1ZIiocfC1KLCuR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b5722233dedb/media.xyzcdn.net/FqDytUSV1Y_gn4b1w37P0OXVchM-.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
 
 **播客**: 沈奕斐的播客
 
@@ -34,7 +60,46 @@
 
 ---
 
-### 3. 河豚已经不会毒死你了，但我们决定假装它还会
+### 5. 第3041期:Artist in the field
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN8XJLAA3EewShARtz.m4a?channel=rss&album_id=14812466&track_id=980237110&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/37c3-audiofreehighqps/38/74/GKwRIaIN8XJLAA3EewShARtz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 睡前安抚歌单：月光照进房间的时候
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 河豚已经不会毒死你了，但我们决定假装它还会
 
 **播客**: AI炼金术
 
@@ -47,7 +112,7 @@
 
 ---
 
-### 4. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
+### 9. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
 
 **播客**: 无聊斋
 
@@ -60,20 +125,7 @@
 
 ---
 
-### 5. 139 ✪ 泡泡玛特和拼多多值得投资么？
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep139.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
+### 10. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
 
 **播客**: 搞钱女孩
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 一人公司的另一种可能：AI 负责经营，人类负责热爱 | 英文访谈 S10E14
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/33e95bf5-9dd2-45d7-9b5f-6e05a078f2d7.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. OpenAI 和 Anthropic 共同看好的 FDE：AI 时代的新岗位出现，旧分工松动｜对谈 Rolling AI
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a1e4022ac7bdb080c348b41/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljlaTRJiMRLNBe_LUqmAt0C74Xo6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 【随机波动170】妈妈，我们的旅程时时刻刻都在发生
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/29e794ff-2a19-495a-a9b6-2173b8ec66b5.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.204 📺 互联网视频平台混战：从后舍男生到漫长的季节 | 中国互联网故事21
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a1fb7f97444b57222329345/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq1UIBXcHptCjtMX-ZZzRJCbs16g.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
