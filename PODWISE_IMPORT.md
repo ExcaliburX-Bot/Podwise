@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-06 08:32:19
+> 📅 生成时间: 2026-06-06 13:40:51
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://jt.ximalaya.com//GKwRIaIN8XTcAA3ZDAShAjzZ.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 2. Why is there a supplement craze if they don’t even work?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
+```
+
+</details>
+
+---
+
+### 3. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
 
 **播客名称**: 知行小酒馆
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571aea0ef61/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqxko7iq3MdfYhPMHk7ajywpHDqn.m4a
-```
-
-</details>
-
----
-
-### 3. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=6990384&track_id=981342722&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/58d8-audiofreehighqps/D2/AB/GKwRIaIN-FL2AidtewSjd3SR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=6990384&track_id=981342722&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/58d8-audiofreehighqps/D2/AB/GKwRIaIN-FL2AidtewSjd3SR.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 河豚已经不会毒死你了，但我们决定假装它还会
+### 8. 睡前安抚歌单：月光照进房间的时候
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3
+```
+
+</details>
+
+---
+
+### 9. 河豚已经不会毒死你了，但我们决定假装它还会
 
 **播客名称**: AI炼金术
 
@@ -235,15 +262,15 @@ https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194
 
 ---
 
-### 9. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
+### 10. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
 
-**播客名称**: 搞钱女孩
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
+https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcuaQYff-a3.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a
-```
-
-</details>
-
----
-
-### 10. 139 ✪ 泡泡玛特和拼多多值得投资么？
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep139.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep139.mp3
+https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcuaQYff-a3.m4a
 ```
 
 </details>
