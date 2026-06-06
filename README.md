@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-06 03:23  
+> 📅 **更新时间**: 2026-06-06 08:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. Why is there a supplement craze if they don’t even work?
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 2. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
 
 **播客**: 知行小酒馆
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
+### 3. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 285 灵活务实 道阻且长：李在明上台一周年的外交成绩单
+### 4. 285 灵活务实 道阻且长：李在明上台一周年的外交成绩单
 
 **播客**: 东亚观察局
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
+### 5. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
 
 **播客**: 忽左忽右
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
+### 6. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
 
 **播客**: 沈奕斐的播客
 
@@ -99,20 +86,20 @@
 
 ---
 
-### 8. 睡前安抚歌单：月光照进房间的时候
+### 7. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
 
-**播客**: Vibration 歪波音室
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. 河豚已经不会毒死你了，但我们决定假装它还会
+### 8. 河豚已经不会毒死你了，但我们决定假装它还会
 
 **播客**: AI炼金术
 
@@ -121,6 +108,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194808&track_id=981123778&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/9C/87/GKwRIRwN9ucIAKW9MgSi59-q.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. Fish：程序员转型开拼豆店爆火，10万入局半年50家店
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a208175b30e1571aea03da5/media.xyzcdn.net/63d945ece725b5378a158d29/lirIzQKy2fiRUzlIzzeMMQk__Dgz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
