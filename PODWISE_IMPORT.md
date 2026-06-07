@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-06 19:21:42
+> 📅 生成时间: 2026-06-07 03:51:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep198 未来生活指南｜想 当 何 炅
+### 1. 第3043期:Archaeologists test making fire with bones.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEN8XakAAx9BgShAwJN.m4a?channel=rss&album_id=14812466&track_id=980241057&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f5a2-audiofreehighqps/4A/7D/GKwRIUEN8XakAAx9BgShAwJN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEN8XakAAx9BgShAwJN.m4a?channel=rss&album_id=14812466&track_id=980241057&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f5a2-audiofreehighqps/4A/7D/GKwRIUEN8XakAAx9BgShAwJN.m4a
+```
+
+</details>
+
+---
+
+### 2. Ep198 未来生活指南｜想 当 何 炅
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -46,61 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b572
 
 ---
 
-### 2. 127. 5月追剧小结：跟这部剧生活在同一个时代真的太幸福了
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
-```
-
-</details>
-
----
-
-### 3. 第3042期:Say no to food waste
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN8XTcAA3ZDAShAjzZ.m4a?channel=rss&album_id=14812466&track_id=980239487&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa83-audiofreehighqps/D4/79/GKwRIaIN8XTcAA3ZDAShAjzZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN8XTcAA3ZDAShAjzZ.m4a?channel=rss&album_id=14812466&track_id=980239487&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa83-audiofreehighqps/D4/79/GKwRIaIN8XTcAA3ZDAShAjzZ.m4a
-```
-
-</details>
-
----
-
-### 4. Why is there a supplement craze if they don’t even work?
+### 3. Why is there a supplement craze if they don’t even work?
 
 **播客名称**: Planet Money
 
@@ -127,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 4. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
 
 **播客名称**: 知行小酒馆
 
@@ -154,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571
 
 ---
 
-### 6. 285 灵活务实 道阻且长：李在明上台一周年的外交成绩单
+### 5. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
 
-**播客名称**: 东亚观察局
+**播客名称**: Blow Your Mind (BYM S02)
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a226a01b30e1571aea11274/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsAU530y-qAIxVimz0z-UIdcl1f_.m4a
+https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=6990384&track_id=981342722&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/58d8-audiofreehighqps/D2/AB/GKwRIaIN-FL2AidtewSjd3SR.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a226a01b30e1571
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a226a01b30e1571aea11274/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsAU530y-qAIxVimz0z-UIdcl1f_.m4a
+https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=6990384&track_id=981342722&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/58d8-audiofreehighqps/D2/AB/GKwRIaIN-FL2AidtewSjd3SR.m4a
 ```
 
 </details>
 
 ---
 
-### 7. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
+### 6. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b572
 
 ---
 
-### 8. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
+### 7. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 河豚已经不会毒死你了，但我们决定假装它还会
+### 8. 河豚已经不会毒死你了，但我们决定假装它还会
 
 **播客名称**: AI炼金术
 
@@ -262,7 +235,7 @@ https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194
 
 ---
 
-### 10. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
+### 9. vol.588 普通人如何克服AI焦虑？普通人就应该先玩儿AI！玩中学嘛！｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -283,6 +256,33 @@ https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcu
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_KGWLJnwHwpDLMjwLXWWECJPdCrqyMMdDTVnJjmjCLgSBrJQkMkzcuaQYff-a3.m4a
+```
+
+</details>
+
+---
+
+### 10. 139 ✪ 泡泡玛特和拼多多值得投资么？
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep139.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep139.mp3
 ```
 
 </details>
