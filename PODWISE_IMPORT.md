@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-07 13:50:28
+> 📅 生成时间: 2026-06-07 19:21:16
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【加更】左派获胜利 右派定军心 韩国选后风云急
+### 1. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
+```
+
+</details>
+
+---
+
+### 2. 高考是闭卷，但具身智能行业可以开卷-和机器人“国家队”教练何旭国聊硬科技人才观-Vol99
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b5722234f11b/media.xyzcdn.net/636669d51064cb55f31505fc/lou_CsbHG-RAkKo5KkdaXO09vMwB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b5722234f11b/media.xyzcdn.net/636669d51064cb55f31505fc/lou_CsbHG-RAkKo5KkdaXO09vMwB.m4a
+```
+
+</details>
+
+---
+
+### 3. 【加更】左派获胜利 右派定军心 韩国选后风云急
 
 **播客名称**: 东亚观察局
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2460737444b572
 
 ---
 
-### 2. 第3043期:Archaeologists test making fire with bones.
+### 4. 第3043期:Archaeologists test making fire with bones.
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIUEN8XakAAx9BgShAwJN.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Ep198 未来生活指南｜想 当 何 炅
+### 5. Ep198 未来生活指南｜想 当 何 炅
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b572
 
 ---
 
-### 4. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
+### 6. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b572
 
 ---
 
-### 5. Why is there a supplement craze if they don’t even work?
+### 7. Why is there a supplement craze if they don’t even work?
 
 **播客名称**: Planet Money
 
@@ -154,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 8. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571
 
 ---
 
-### 7. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
+### 9. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,7 +262,7 @@ https://jt.ximalaya.com//GKwRIaIN-FL2AidtewSjd3SR.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
+### 10. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
 
 **播客名称**: 忽左忽右
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b5722233dedb/media.xyzcdn.net/FqDytUSV1Y_gn4b1w37P0OXVchM-.m4a
-```
-
-</details>
-
----
-
-### 9. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a
-```
-
-</details>
-
----
-
-### 10. 河豚已经不会毒死你了，但我们决定假装它还会
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194808&track_id=981123778&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/9C/87/GKwRIRwN9ucIAKW9MgSi59-q.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194808&track_id=981123778&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/9C/87/GKwRIRwN9ucIAKW9MgSi59-q.m4a
 ```
 
 </details>
