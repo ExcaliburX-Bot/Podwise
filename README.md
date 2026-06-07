@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-07 08:54  
+> 📅 **更新时间**: 2026-06-07 13:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 扭扭爵士 New Nu-Jazz 2026 年第一辑
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzU4MCwidCI6MX0.dqDWTMj6KkaN1Yr6d4gzC5ERdYM/keychangefm/8219181595_323843.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 【加更】左派获胜利 右派定军心 韩国选后风云急
+### 1. 【加更】左派获胜利 右派定军心 韩国选后风云急
 
 **播客**: 东亚观察局
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. 第3043期:Archaeologists test making fire with bones.
+### 2. 第3043期:Archaeologists test making fire with bones.
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -43,6 +30,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEN8XakAAx9BgShAwJN.m4a?channel=rss&album_id=14812466&track_id=980241057&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f5a2-audiofreehighqps/4A/7D/GKwRIUEN8XakAAx9BgShAwJN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Ep198 未来生活指南｜想 当 何 炅
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b57222346694/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljv2yabZQT4yM3eImysBXYPcE9S8.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 5. Why is there a supplement craze if they don’t even work?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
 
 **播客**: 知行小酒馆
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
+### 7. 349 亲密关系——在“占有与逃离”中，找回自己的主体性
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
+### 8. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
 
 **播客**: 忽左忽右
 
@@ -95,19 +108,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b5722233dedb/media.xyzcdn.net/FqDytUSV1Y_gn4b1w37P0OXVchM-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a2151e4b30e1571aea0a1e6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lkqjYa3j2t0b2GGmvCQ4PlKNP0Do.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 睡前安抚歌单：月光照进房间的时候
+### 10. 河豚已经不会毒死你了，但我们决定假装它还会
 
-**播客**: Vibration 歪波音室
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_VdYqwQFuxpKEhvnDWWJdvBtbFeufXJAzUJRhTPhQeuPnvjSdGeszAUsUEE-99.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN9ucIAKW9MgSi59-q.m4a?channel=rss&album_id=74194808&track_id=981123778&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bafd-audiofreehighqps/9C/87/GKwRIRwN9ucIAKW9MgSi59-q.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
