@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-08 10:51:38
+> 📅 生成时间: 2026-06-08 15:50:10
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI赌球能暴富吗？世界杯有没有假球？博彩行业如何运作？｜20年博彩老炮讲透行业真相
+### 1. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194808&track_id=982999685&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d547-audiofreehighqps/63/15/GKwRIRwN_CVEARBmuwSk9kY4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194808&track_id=982999685&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d547-audiofreehighqps/63/15/GKwRIRwN_CVEARBmuwSk9kY4.m4a
+```
+
+</details>
+
+---
+
+### 2. AI赌球？AI含量最高的世界杯，用AI赌球能暴富吗？｜20年博彩老炮讲透行业真相
 
 **播客名称**: 人民公园说AI
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrwD3PZOhIkoibN44qKZdK9xv-mT.m4a
-```
-
-</details>
-
----
-
-### 2. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://jt.ximalaya.com//GKwRIJEN-VfEABDZCQSj1mYk.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2543dcb30e1571aea20d0b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lnjlEQjGjo1TxuPOuvYgmDV7oo8B.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2543dcb30e1571aea20d0b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lnjlEQjGjo1TxuPOuvYgmDV7oo8B.m4a
-```
-
-</details>
-
----
-
-### 5. 888: Not Today, Hades!
+### 4. 888: Not Today, Hades!
 
 **播客名称**: This American Life
 
@@ -154,34 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 高考是闭卷，但具身智能行业可以开卷-和机器人“国家队”教练何旭国聊硬科技人才观-Vol99
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b5722234f11b/media.xyzcdn.net/636669d51064cb55f31505fc/lou_CsbHG-RAkKo5KkdaXO09vMwB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b5722234f11b/media.xyzcdn.net/636669d51064cb55f31505fc/lou_CsbHG-RAkKo5KkdaXO09vMwB.m4a
-```
-
-</details>
-
----
-
-### 7. 扭扭爵士 New Nu-Jazz 2026 年第一辑
+### 5. 扭扭爵士 New Nu-Jazz 2026 年第一辑
 
 **播客名称**: 周末变奏 Key Change
 
@@ -208,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzU4MCwidCI6MX0.dqDWTMj6KkaN1Yr6d4gzC5E
 
 ---
 
-### 8. 【加更】左派获胜利 右派定军心 韩国选后风云急
+### 6. 【加更】左派获胜利 右派定军心 韩国选后风云急
 
 **播客名称**: 东亚观察局
 
@@ -235,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2460737444b572
 
 ---
 
-### 9. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
+### 7. Why is there a supplement craze if they don’t even work?
 
-**播客名称**: 英美剧漫游指南KillingTV
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +201,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b572
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
 ```
 
 </details>
 
 ---
 
-### 10. E238 你还记得上一次停下脚步，认真感受世界的时候吗？和任宁聊一聊观鸟
+### 8. 日本谍报物语05｜冷战前线的「间谍乐园」：战后对内公安情报如何重生？
 
-**播客名称**: 知行小酒馆
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571aea0ef61/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqxko7iq3MdfYhPMHk7ajywpHDqn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b5722233dedb/media.xyzcdn.net/FqDytUSV1Y_gn4b1w37P0OXVchM-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a223578b30e1571aea0ef61/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqxko7iq3MdfYhPMHk7ajywpHDqn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2284447444b5722233dedb/media.xyzcdn.net/FqDytUSV1Y_gn4b1w37P0OXVchM-.m4a
+```
+
+</details>
+
+---
+
+### 9. 258.女性互助情、老乡情、恩情......《给阿嬷的情书》凭什么这么火？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a2151e4b30e1571aea0a1e6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lkqjYa3j2t0b2GGmvCQ4PlKNP0Do.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a2151e4b30e1571aea0a1e6/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lkqjYa3j2t0b2GGmvCQ4PlKNP0Do.m4a
+```
+
+</details>
+
+---
+
+### 10. S8 Vol.10 天机智能陈曦：从投资人到「创二代」，为何我选择押注力控机器人？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN9yW8ATbJfgSjCLED.m4a?channel=rss&album_id=20119986&track_id=981167167&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/6d54-audiofreehighqps/14/0E/GKwRIRwN9yW8ATbJfgSjCLED.m4a
 ```
 
 </details>
