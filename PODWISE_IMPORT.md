@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-08 20:13:29
+> 📅 生成时间: 2026-06-09 03:25:29
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
+### 1. 第3045期:Instant AI answers can trivialise human intelligence
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
+```
+
+</details>
+
+---
+
+### 2. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
+```
+
+</details>
+
+---
+
+### 3. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
+```
+
+</details>
+
+---
+
+### 4. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
 
 **播客名称**: AI炼金术
 
@@ -40,87 +121,6 @@ https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194808&track_id=982999685&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d547-audiofreehighqps/63/15/GKwRIRwN_CVEARBmuwSk9kY4.m4a
-```
-
-</details>
-
----
-
-### 2. AI赌球？AI含量最高的世界杯，用AI赌球能暴富吗？｜20年博彩老炮讲透行业真相
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrwD3PZOhIkoibN44qKZdK9xv-mT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrwD3PZOhIkoibN44qKZdK9xv-mT.m4a
-```
-
-</details>
-
----
-
-### 3. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
-```
-
-</details>
-
----
-
-### 4. 第3044期:The calming effects of rain
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN-VfEABDZCQSj1mYk.m4a?channel=rss&album_id=14812466&track_id=981487878&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/11f3-audiofreehighqps/B5/99/GKwRIJEN-VfEABDZCQSj1mYk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN-VfEABDZCQSj1mYk.m4a?channel=rss&album_id=14812466&track_id=981487878&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/11f3-audiofreehighqps/B5/99/GKwRIJEN-VfEABDZCQSj1mYk.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2543dcb30e1571
 
 ---
 
-### 6. 888: Not Today, Hades!
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache
-```
-
-</details>
-
----
-
-### 7. 高考是闭卷，但具身智能行业可以开卷-和机器人“国家队”教练何旭国聊硬科技人才观-Vol99
+### 6. 高考是闭卷，但具身智能行业可以开卷-和机器人“国家队”教练何旭国聊硬科技人才观-Vol99
 
 **播客名称**: 脑放电波
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b572
 
 ---
 
-### 8. 扭扭爵士 New Nu-Jazz 2026 年第一辑
+### 7. 扭扭爵士 New Nu-Jazz 2026 年第一辑
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzU4MCwidCI6MX0.dqDWTMj6KkaN1Yr6d4gzC5E
 
 ---
 
-### 9. 【加更】左派获胜利 右派定军心 韩国选后风云急
+### 8. 【加更】左派获胜利 右派定军心 韩国选后风云急
 
 **播客名称**: 东亚观察局
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2460737444b572
 
 ---
 
-### 10. Ep198 未来生活指南｜想 当 何 炅
+### 9. Ep198 未来生活指南｜想 当 何 炅
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b57222346694/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljv2yabZQT4yM3eImysBXYPcE9S8.m4a
+```
+
+</details>
+
+---
+
+### 10. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
 ```
 
 </details>
