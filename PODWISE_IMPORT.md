@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-09 03:25:29
+> 📅 生成时间: 2026-06-09 09:41:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3045期:Instant AI answers can trivialise human intelligence
+### 1. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b5722235f9a2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpAM4ncy89oYCj3M1vTkqgTUBz5b.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,41 +39,14 @@ https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b5722235f9a2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpAM4ncy89oYCj3M1vTkqgTUBz5b.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
-```
-
-</details>
-
----
-
-### 3. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+### 2. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
 
 **播客名称**: 文化有限
 
@@ -100,15 +73,15 @@ https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887
 
 ---
 
-### 4. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
+### 3. vol.254我要我的音乐~课
 
-**播客名称**: AI炼金术
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194808&track_id=982999685&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d547-audiofreehighqps/63/15/GKwRIRwN_CVEARBmuwSk9kY4.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b57222358e86/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll6cmVZDtuiUFNaprB4Ebn3nSnbL.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +93,34 @@ https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194808&track_id=982999685&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/d547-audiofreehighqps/63/15/GKwRIRwN_CVEARBmuwSk9kY4.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b57222358e86/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll6cmVZDtuiUFNaprB4Ebn3nSnbL.m4a
+```
+
+</details>
+
+---
+
+### 4. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLgECYfB-fd.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a25937c7444b572
 
 ---
 
-### 7. 扭扭爵士 New Nu-Jazz 2026 年第一辑
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzU4MCwidCI6MX0.dqDWTMj6KkaN1Yr6d4gzC5ERdYM/keychangefm/8219181595_323843.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzU4MCwidCI6MX0.dqDWTMj6KkaN1Yr6d4gzC5ERdYM/keychangefm/8219181595_323843.mp3
-```
-
-</details>
-
----
-
-### 8. 【加更】左派获胜利 右派定军心 韩国选后风云急
+### 7. 【加更】左派获胜利 右派定军心 韩国选后风云急
 
 **播客名称**: 东亚观察局
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2460737444b572
 
 ---
 
-### 9. Ep198 未来生活指南｜想 当 何 炅
+### 8. Ep198 未来生活指南｜想 当 何 炅
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a240d177444b572
 
 ---
 
-### 10. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
+### 9. 127. 与这部剧生活在同一个时代真的太幸福了 | 5月追剧小结
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a2434a37444b57222347b19/media.xyzcdn.net/5e7c9577418a84a04606b797/lqvP8X1GkN0OuSynCbYheyS7ToTF.m4a
+```
+
+</details>
+
+---
+
+### 10. Why is there a supplement craze if they don’t even work?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/07d5261f-ee98-4e17-a5ed-eec9dd826c89/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=07d5261f-ee98-4e17-a5ed-eec9dd826c89&feed=hvWWWzRv&t=podcast&e=nx-s1-5847893&p=510289&d=2094&size=33507457
 ```
 
 </details>
