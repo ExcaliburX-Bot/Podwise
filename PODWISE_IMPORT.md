@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-09 14:48:53
+> 📅 生成时间: 2026-06-09 20:05:47
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a281b8434bdac55
 
 ---
 
-### 2. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
-```
-
-</details>
-
----
-
-### 3. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
+### 2. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
 
 **播客名称**: 忽左忽右
 
@@ -100,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b572
 
 ---
 
-### 4. 第3045期:Instant AI answers can trivialise human intelligence
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwN-VmzAARw0ASj11rK.m4a?channel=rss&album_id=14812466&track_id=981489120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3119-audiofreehighqps/61/CB/GKwRIRwN-VmzAARw0ASj11rK.m4a
-```
-
-</details>
-
----
-
-### 5. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
+### 3. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
 
 **播客名称**: 搞钱女孩
 
@@ -154,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b572
 
 ---
 
-### 6. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+### 4. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
 
 **播客名称**: 文化有限
 
@@ -181,7 +127,7 @@ https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. vol.254我要我的音乐~课
+### 5. vol.254我要我的音乐~课
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b572
 
 ---
 
-### 8. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
+### 6. 用 AI 做会议纪要，是 AI 转型中最荒谬的事儿
 
 **播客名称**: AI炼金术
 
@@ -235,7 +181,34 @@ https://jt.ximalaya.com//GKwRIRwN_CVEARBmuwSk9kY4.m4a?channel=rss&album_id=74194
 
 ---
 
-### 9. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
+### 7. AI赌球？博彩业才是AI Native！遥遥领先10多年｜20年博彩老炮讲透行业真相
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrlHOQr6rm154bj5hlSLcfNFV56U.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrlHOQr6rm154bj5hlSLcfNFV56U.m4a
+```
+
+</details>
+
+---
+
+### 8. vol.589 一份结节退散指南送给大家！从今天起，别害臊、不愧疚、主动出击、AXBX！｜对谈张春
 
 **播客名称**: 无聊斋
 
@@ -262,7 +235,7 @@ https://tk.wavpub.com/WPDL_YgksyLYXZxKdwCDMgtdENUjtkamekzSNKbQkZmuHvRawYbjjUKpLg
 
 ---
 
-### 10. 144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式
+### 9. 144. 对阳萌的4小时访谈：消费电子死与生、第三类公司、端侧模型、产品方法、游戏模式
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2543dcb30e1571
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2543dcb30e1571aea20d0b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lnjlEQjGjo1TxuPOuvYgmDV7oo8B.m4a
+```
+
+</details>
+
+---
+
+### 10. 888: Not Today, Hades!
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/6d1871f0-e401-4324-9548-2a68d0cc764e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=6d1871f0-e401-4324-9548-2a68d0cc764e&nocache
 ```
 
 </details>
