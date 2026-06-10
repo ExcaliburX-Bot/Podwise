@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:32:29.491837",
+  "generated_at": "2026-06-10T20:28:37.924885",
   "total_count": 10,
   "episodes": [
     {
@@ -14,6 +14,16 @@
     },
     {
       "rank": 2,
+      "title": "WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "王昊奋：大模型越强，知识图谱反而越重要",
       "podcast": "AI炼金术",
       "audio_url": "https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Two indicators for lowering the rent",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095",
@@ -43,20 +53,10 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "第3046期:Five tips to learn a language faster",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "Vol.338 她和她的决心：从泥地里爬起来才得了种种自由",
-      "podcast": "文化有限",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a",
+      "title": "不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

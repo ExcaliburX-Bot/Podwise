@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-10 15:32:29
+> 📅 生成时间: 2026-06-10 20:28:37
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1
 
 ---
 
-### 2. 王昊奋：大模型越强，知识图谱反而越重要
+### 2. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a
+```
+
+</details>
+
+---
+
+### 3. 王昊奋：大模型越强，知识图谱反而越重要
 
 **播客名称**: AI炼金术
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+### 4. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf
 
 ---
 
-### 4. Two indicators for lowering the rent
+### 5. Two indicators for lowering the rent
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
+### 6. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
 
 **播客名称**: 贝望录
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
-```
-
-</details>
-
----
-
-### 6. 第3046期:Five tips to learn a language faster
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b572
 
 ---
 
-### 10. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+### 10. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
 
-**播客名称**: 文化有限
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
 ```
 
 </details>
