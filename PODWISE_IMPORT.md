@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-10 09:57:55
+> 📅 生成时间: 2026-06-10 15:32:29
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,61 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1
 
 ---
 
-### 2. Two indicators for lowering the rent
+### 2. 王昊奋：大模型越强，知识图谱反而越重要
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
+```
+
+</details>
+
+---
+
+### 3. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a
+```
+
+</details>
+
+---
+
+### 4. Two indicators for lowering the rent
 
 **播客名称**: Planet Money
 
@@ -73,34 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 第3046期:Five tips to learn a language faster
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
-```
-
-</details>
-
----
-
-### 4. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
+### 5. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
 
 **播客名称**: 贝望录
 
@@ -127,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571
 
 ---
 
-### 5. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
+### 6. 第3046期:Five tips to learn a language faster
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a
+```
+
+</details>
+
+---
+
+### 7. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
 
 **播客名称**: 硬地骇客
 
@@ -154,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a281b8434bdac55
 
 ---
 
-### 6. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
+### 8. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
+```
+
+</details>
+
+---
+
+### 9. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
 
 **播客名称**: 忽左忽右
 
@@ -181,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b572
 
 ---
 
-### 7. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+### 10. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
 
 **播客名称**: 文化有限
 
@@ -229,60 +283,6 @@ https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
-```
-
-</details>
-
----
-
-### 9. vol.254我要我的音乐~课
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b57222358e86/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll6cmVZDtuiUFNaprB4Ebn3nSnbL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b57222358e86/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll6cmVZDtuiUFNaprB4Ebn3nSnbL.m4a
-```
-
-</details>
-
----
-
-### 10. AI赌球？博彩业才是AI Native！遥遥领先10多年｜20年博彩老炮讲透行业真相
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrlHOQr6rm154bj5hlSLcfNFV56U.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrlHOQr6rm154bj5hlSLcfNFV56U.m4a
 ```
 
 </details>

@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-10 09:57  
+> 📅 **更新时间**: 2026-06-10 15:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,33 @@
 
 ---
 
-### 2. Two indicators for lowering the rent
+### 2. 王昊奋：大模型越强，知识图谱反而越重要
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Two indicators for lowering the rent
 
 **播客**: Planet Money
 
@@ -34,20 +60,7 @@
 
 ---
 
-### 3. 第3046期:Five tips to learn a language faster
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
+### 5. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
 
 **播客**: 贝望录
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
+### 6. 第3046期:Five tips to learn a language faster
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN-p2kAAj70ASkS82F.m4a?channel=rss&album_id=14812466&track_id=981673310&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fda-audiofreehighqps/DD/65/GKwRIaIN-p2kAAj70ASkS82F.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
 
 **播客**: 硬地骇客
 
@@ -73,7 +99,20 @@
 
 ---
 
-### 6. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
+### 8. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
 
 **播客**: 忽左忽右
 
@@ -86,20 +125,7 @@
 
 ---
 
-### 7. 不上班后反而收入翻好几倍？这些搞钱真相早知道就好了 | 杭州听友会
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a270c057444b57222359f83/media.xyzcdn.net/63d945ece725b5378a158d29/ls5MqBeI74vI7XZ6NCc3-_Gm2J1L.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+### 10. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
 
 **播客**: 文化有限
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.254我要我的音乐~课
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a26d5b37444b57222358e86/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ll6cmVZDtuiUFNaprB4Ebn3nSnbL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. AI赌球？博彩业才是AI Native！遥遥领先10多年｜20年博彩老炮讲透行业真相
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a26953e7444b57222356714/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrlHOQr6rm154bj5hlSLcfNFV56U.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
