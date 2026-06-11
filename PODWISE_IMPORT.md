@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-11 10:21:52
+> 📅 生成时间: 2026-06-11 15:58:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+### 1. 168: 对话王新宇：美团龙珠怎么投科技？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lk23dyzP5peVQ0SUjwLRldtYYuov.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcf
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lk23dyzP5peVQ0SUjwLRldtYYuov.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
+### 2. 第3047期:Troubles after the Champions League final
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIN-qBIAAp8igSkTPCG.m4a?channel=rss&album_id=14812466&track_id=981675127&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0592-audiofreehighqps/B7/7D/GKwRIaIN-qBIAAp8igSkTPCG.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIN-qBIAAp8igSkTPCG.m4a?channel=rss&album_id=14812466&track_id=981675127&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0592-audiofreehighqps/B7/7D/GKwRIaIN-qBIAAp8igSkTPCG.m4a
+```
+
+</details>
+
+---
+
+### 3. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
+```
+
+</details>
+
+---
+
+### 4. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
 
 **播客名称**: 十字路口Crossing
 
@@ -73,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b572
 
 ---
 
-### 3. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
+### 5. WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？| S10E15
 
-**播客名称**: 脑放电波
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcf
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
 ```
 
 </details>
 
 ---
 
-### 4. 王昊奋：大模型越强，知识图谱反而越重要
+### 6. 王昊奋：大模型越强，知识图谱反而越重要
 
 **播客名称**: AI炼金术
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194
 
 ---
 
-### 5. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+### 7. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -148,60 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a
-```
-
-</details>
-
----
-
-### 6. Two indicators for lowering the rent
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
-```
-
-</details>
-
----
-
-### 7. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
 ```
 
 </details>
