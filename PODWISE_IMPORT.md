@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-11 15:58:39
+> 📅 生成时间: 2026-06-11 20:20:26
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIaIN-qBIAAp8igSkTPCG.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
-```
-
-</details>
-
----
-
-### 4. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
+### 3. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
 
 **播客名称**: 十字路口Crossing
 
@@ -127,61 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b572
 
 ---
 
-### 5. WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？| S10E15
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
-```
-
-</details>
-
----
-
-### 6. 王昊奋：大模型越强，知识图谱反而越重要
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
-```
-
-</details>
-
----
-
-### 7. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
+### 4. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -208,7 +127,61 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf
 
 ---
 
-### 8. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
+### 5. Two indicators for lowering the rent
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
+```
+
+</details>
+
+---
+
+### 6. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
+```
+
+</details>
+
+---
+
+### 7. EP127 从 Skills 到自动化工作流，论 Agent 如何接管真实生产力 ⚙️
 
 **播客名称**: 硬地骇客
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a281b8434bdac55
 
 ---
 
-### 9. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
+### 8. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -262,7 +235,7 @@ https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=69903
 
 ---
 
-### 10. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
+### 9. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b572
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b5722235f9a2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpAM4ncy89oYCj3M1vTkqgTUBz5b.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.338 她和她的决心：从泥地里爬起来才得了种种自由
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwN_BeJAnyXHgSk79Gv.m4a?channel=rss&album_id=29887212&track_id=982990887&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/a02d-audiofreehighqps/16/5B/GKwRIRwN_BeJAnyXHgSk79Gv.m4a
 ```
 
 </details>
