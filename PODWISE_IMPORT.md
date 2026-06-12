@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-12 03:53:04
+> 📅 生成时间: 2026-06-12 10:11:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 1. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a6955829e05/media.xyzcdn.net/FmTRepabGuWs03ExX_JeqvaRJWV7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a6955829e05/media.xyzcdn.net/FmTRepabGuWs03ExX_JeqvaRJWV7.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3048期:A Russian drone hits a house in Romania
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a
+```
+
+</details>
+
+---
+
+### 3. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客名称**: 东亚观察局
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419
 
 ---
 
-### 2. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 4. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119
 
 ---
 
-### 3. 168: 对话王新宇：美团龙珠怎么投科技？
+### 5. 168: 对话王新宇：美团龙珠怎么投科技？
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -100,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e
 
 ---
 
-### 4. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+### 6. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
 
 **播客名称**: 搞钱女孩
 
@@ -127,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcf
 
 ---
 
-### 5. WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？| S10E15
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3
-```
-
-</details>
-
----
-
-### 6. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
+### 7. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
 
 **播客名称**: 脑放电波
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcf
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a
-```
-
-</details>
-
----
-
-### 7. 王昊奋：大模型越强，知识图谱反而越重要
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEN_ummAnKzigSmYBIv.m4a?channel=rss&album_id=74194808&track_id=989321698&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/c875-audiofreehighqps/88/BC/GKwRIJEN_ummAnKzigSmYBIv.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf
 
 ---
 
-### 9. 350 一个技术在马上过时之前，会达到惊人的完美 ——从膛线科技树看 AI 发展
+### 9. Two indicators for lowering the rent
 
-**播客名称**: Blow Your Mind (BYM S02)
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=69903
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a?channel=rss&album_id=6990384&track_id=985265754&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/eb3e-audiofreehighqps/A7/D9/GKwRIRwN_Yv0Ad-H6ASlq4mB.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095
 ```
 
 </details>
 
 ---
 
-### 10. 476 学者如何研究土匪：马丹丹谈豫北「百里王」王自全与人类学视角下的民国匪患
+### 10. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
 
-**播客名称**: 忽左忽右
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b5722235f9a2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpAM4ncy89oYCj3M1vTkqgTUBz5b.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b572
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a27d09e7444b5722235f9a2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lpAM4ncy89oYCj3M1vTkqgTUBz5b.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a
 ```
 
 </details>
