@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-12 10:11  
+> 📅 **更新时间**: 2026-06-12 14:56  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+### 1. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62bc5489e39/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lm3YECIH5BaU_mps0A9wB1h2xcta.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
 
 **播客**: 忽左忽右
 
@@ -21,20 +47,20 @@
 
 ---
 
-### 2. 第3048期:A Russian drone hits a house in Romania
+### 4. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 5. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客**: 东亚观察局
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 6. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 168: 对话王新宇：美团龙珠怎么投科技？
+### 7. 168: 对话王新宇：美团龙珠怎么投科技？
 
 **播客**: 晚点聊 LateTalk
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+### 8. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
 
 **播客**: 搞钱女孩
 
@@ -86,7 +112,20 @@
 
 ---
 
-### 7. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
+### 9. WWDC 26 补上了 AI，但离真正的 AI 助手还差什么？| S10E15
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9ab1512e-a4a8-4ea6-81b5-0ac7ec677d2d.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. WWDC26:苹果真的“不酷”了？剖析端侧 AI 的隐藏野心-Vol 100特别节目
 
 **播客**: 脑放电波
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a296e8cdbccffcfa9c6e7f1/media.xyzcdn.net/636669d51064cb55f31505fc/lrm6QeJ9jVMBPfrsy33o7ghKDu5Q.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. No.205 ⛵️ 潮汕往事：侨批、经济特区和没有等来的深圳奇迹
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a282d41623ad1bf9b344534/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lrulK0dSduXhfr6qeyysqMRrRjHx.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Two indicators for lowering the rent
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/574cef80-8fb7-47fd-8fa5-c0618782cec3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=574cef80-8fb7-47fd-8fa5-c0618782cec3&feed=hvWWWzRv&t=podcast&e=nx-s1-5851902&p=510289&d=1067&size=17087095)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 225. 从“卖产品”到“被信任”，是中国企业出海英国最难的一课
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a26ebaab30e1571aea2dfc5/media.xyzcdn.net/5e285856418a84a04627b7be/lmqZyHVldhzXEO7Fqf_UI_RD1qBv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
