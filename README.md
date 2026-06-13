@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-13 03:37  
+> 📅 **更新时间**: 2026-06-13 08:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,33 @@
 
 ---
 
-### 2. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 2. It’s my tree. Why can’t I cut it down?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 神探霍克尼：真实世界的观看之道
+
+**播客**: 艺术有读
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客**: 知行小酒馆
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+### 5. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
-
-**播客**: 乱翻书
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+### 6. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
 
 **播客**: 忽左忽右
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+### 7. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
 **播客**: 硅谷101
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客**: 东亚观察局
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+### 10. 168: 对话王新宇：美团龙珠怎么投科技？
 
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
-
-**播客**: 十字路口Crossing
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

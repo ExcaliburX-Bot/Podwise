@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-13 03:37:49
+> 📅 生成时间: 2026-06-13 08:57:01
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,61 @@ https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 2. It’s my tree. Why can’t I cut it down?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
+```
+
+</details>
+
+---
+
+### 3. 神探霍克尼：真实世界的观看之道
+
+**播客名称**: 艺术有读
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
+```
+
+</details>
+
+---
+
+### 4. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客名称**: 知行小酒馆
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62b
 
 ---
 
-### 3. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+### 5. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a69
 
 ---
 
-### 4. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
-```
-
-</details>
-
----
-
-### 5. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+### 6. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a69
 
 ---
 
-### 6. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+### 7. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
 **播客名称**: 硅谷101
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2592
 
 ---
 
-### 7. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客名称**: 东亚观察局
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419
 
 ---
 
-### 8. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,15 +262,15 @@ https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
+### 10. 168: 对话王新宇：美团龙珠怎么投科技？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcf
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
-```
-
-</details>
-
----
-
-### 10. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
 ```
 
 </details>
