@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-13 08:57:01
+> 📅 生成时间: 2026-06-13 13:57:43
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3049期:How to make meetings better
+### 1. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
 ```
 
 </details>
 
 ---
 
-### 2. It’s my tree. Why can’t I cut it down?
+### 2. 107.人到中年，我怎么交不到朋友了？
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
+```
+
+</details>
+
+---
+
+### 3. It’s my tree. Why can’t I cut it down?
 
 **播客名称**: Planet Money
 
@@ -73,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 神探霍克尼：真实世界的观看之道
+### 4. 神探霍克尼：真实世界的观看之道
 
 **播客名称**: 艺术有读
 
@@ -100,7 +127,7 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-
 
 ---
 
-### 4. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 5. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62b
 
 ---
 
-### 5. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+### 6. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -154,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a69
 
 ---
 
-### 6. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+### 7. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
+```
+
+</details>
+
+---
+
+### 8. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a69
 
 ---
 
-### 7. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+### 9. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
 **播客名称**: 硅谷101
 
@@ -208,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2592
 
 ---
 
-### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 10. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客名称**: 东亚观察局
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419a0d2cc59/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmC_C3sb6JZB7uHYempc9zlJoM8P.m4a
-```
-
-</details>
-
----
-
-### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119986&track_id=990129358&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b5ff-audiofreehighqps/FD/CB/GKwRIJEOAEWkAQ8w5QSnGyk9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119986&track_id=990129358&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b5ff-audiofreehighqps/FD/CB/GKwRIJEOAEWkAQ8w5QSnGyk9.m4a
-```
-
-</details>
-
----
-
-### 10. 168: 对话王新宇：美团龙珠怎么投科技？
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
 ```
 
 </details>

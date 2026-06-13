@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-13 08:57  
+> 📅 **更新时间**: 2026-06-13 13:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3049期:How to make meetings better
+### 1. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 42章经
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. It’s my tree. Why can’t I cut it down?
+### 2. 107.人到中年，我怎么交不到朋友了？
+
+**播客**: 喷嚏
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. It’s my tree. Why can’t I cut it down?
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 神探霍克尼：真实世界的观看之道
+### 4. 神探霍克尼：真实世界的观看之道
 
 **播客**: 艺术有读
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 5. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客**: 知行小酒馆
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+### 6. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -73,7 +86,20 @@
 
 ---
 
-### 6. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
+### 7. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影
 
 **播客**: 忽左忽右
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+### 9. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
 **播客**: 硅谷101
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 10. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客**: 东亚观察局
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419a0d2cc59/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmC_C3sb6JZB7uHYempc9zlJoM8P.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119986&track_id=990129358&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b5ff-audiofreehighqps/FD/CB/GKwRIJEOAEWkAQ8w5QSnGyk9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 168: 对话王新宇：美团龙珠怎么投科技？
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
