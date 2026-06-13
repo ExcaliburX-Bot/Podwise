@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-12 20:09  
+> 📅 **更新时间**: 2026-06-13 03:37  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神探霍克尼：真实世界的观看之道
+### 1. 第3049期:How to make meetings better
 
-**播客**: 艺术有读
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 第3048期:A Russian drone hits a house in Romania
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 7. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客**: 东亚观察局
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 8. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 168: 对话王新宇：美团龙珠怎么投科技？
+### 9. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
 
-**播客**: 晚点聊 LateTalk
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

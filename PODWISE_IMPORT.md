@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-12 20:09:25
+> 📅 生成时间: 2026-06-13 03:37:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神探霍克尼：真实世界的观看之道
+### 1. 第3049期:How to make meetings better
 
-**播客名称**: 艺术有读
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
+https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-
 
 音频链接（点击复制）:
 ```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
+https://jt.ximalaya.com//GKwRIDoN-qUwAAnYFASkTzvL.m4a?channel=rss&album_id=14812466&track_id=981678970&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/4D/6F/GKwRIDoN-qUwAAnYFASkTzvL.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2592
 
 ---
 
-### 7. 第3048期:A Russian drone hits a house in Romania
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIN-qK5AAiw7ASkTgi4.m4a?channel=rss&album_id=14812466&track_id=981677229&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf5-audiofreehighqps/A7/13/GKwRIaIN-qK5AAiw7ASkTgi4.m4a
-```
-
-</details>
-
----
-
-### 8. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 7. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
 
 **播客名称**: 东亚观察局
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419
 
 ---
 
-### 9. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
+### 8. S8 Vol.11 Billion Connect徐屾屾：一张SIM卡如何治好你的出境焦虑？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -262,15 +235,15 @@ https://jt.ximalaya.com//GKwRIJEOAEWkAQ8w5QSnGyk9.m4a?channel=rss&album_id=20119
 
 ---
 
-### 10. 168: 对话王新宇：美团龙珠怎么投科技？
+### 9. 对话Olga姐姐：找出口，先开口！职场不内耗的沟通宝典
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/567e4022-c39c-4dc5-b16f-125525d1288e.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a29bb33dbccffcfa9c6fdda/media.xyzcdn.net/63d945ece725b5378a158d29/lvRSXavgVuYk9bDWsVEJrS8-L-Z0.m4a
+```
+
+</details>
+
+---
+
+### 10. 高手怎么用 AI？普通人怎么学 AI？投资人如何投 AI？｜对谈课代表立正
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a275ed57444b5722235a897/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltxzgyJzGnkSVUtupPfzTqnQ3Upt.m4a
 ```
 
 </details>
