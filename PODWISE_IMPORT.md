@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-14 03:59:05
+> 📅 生成时间: 2026-06-14 09:32:41
 > 📊 总计: 10 个播客
 
 ---
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a69
 
 ---
 
-### 10. 286 日本棒球爆“家暴”丑闻 昭和“爱的铁拳”遭制裁
+### 10. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
 
-**播客名称**: 东亚观察局
+**播客名称**: 硅谷101
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419a0d2cc59/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmC_C3sb6JZB7uHYempc9zlJoM8P.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a2af9fe67048419a0d2cc59/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lmC_C3sb6JZB7uHYempc9zlJoM8P.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3
 ```
 
 </details>
