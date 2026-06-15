@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T19:25:06.790136",
+  "generated_at": "2026-06-15T04:11:53.957781",
   "total_count": 10,
   "episodes": [
     {
@@ -14,9 +14,9 @@
     },
     {
       "rank": 2,
-      "title": "把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101",
-      "podcast": "脑放电波",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a",
+      "title": "第3051期:Breathwork techniques to reduce stress",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOAngtABJ2KgSn14TQ.m4a?channel=rss&album_id=14812466&track_id=990477427&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7cc2-audiofreehighqps/B4/16/GKwRIUEOAngtABJ2KgSn14TQ.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -24,9 +24,9 @@
     },
     {
       "rank": 3,
-      "title": "第3050期:Golf makes a soldier happy again",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEN-qe9AAXlygSkULVl.m4a?channel=rss&album_id=14812466&track_id=981680738&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6af7-audiofreehighqps/E7/EF/GKwRIUEN-qe9AAXlygSkULVl.m4a",
+      "title": "354: Mistakes Were Made",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,6 +74,16 @@
     },
     {
       "rank": 8,
+      "title": "E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了",
+      "podcast": "知行小酒馆",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62bc5489e39/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lm3YECIH5BaU_mps0A9wB1h2xcta.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？",
       "podcast": "张小珺Jùn｜商业访谈录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a695582ad20/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lua5jan_xOpZ99VwXmLshdTC-gSp.m4a",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
-      "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
-      "podcast": "乱翻书",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 10,
-      "title": "日本谍报物语06｜通产省奇迹、昭和经济情报战与美日同盟下的阴影",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a2bcacc43a22a6955829e05/media.xyzcdn.net/FmTRepabGuWs03ExX_JeqvaRJWV7.m4a",
+      "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
+      "podcast": "硅谷101",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
