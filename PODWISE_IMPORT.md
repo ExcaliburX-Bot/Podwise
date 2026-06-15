@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-15 04:11:53
+> 📅 生成时间: 2026-06-15 12:11:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 1. 再听徐佳莹：非典型天后
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
+```
+
+</details>
+
+---
+
+### 2. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
 
 **播客名称**: 无聊斋
 
@@ -46,15 +73,15 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 ---
 
-### 2. 第3051期:Breathwork techniques to reduce stress
+### 3. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 脑放电波
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOAngtABJ2KgSn14TQ.m4a?channel=rss&album_id=14812466&track_id=990477427&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7cc2-audiofreehighqps/B4/16/GKwRIUEOAngtABJ2KgSn14TQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,34 +93,7 @@ https://jt.ximalaya.com//GKwRIUEOAngtABJ2KgSn14TQ.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOAngtABJ2KgSn14TQ.m4a?channel=rss&album_id=14812466&track_id=990477427&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7cc2-audiofreehighqps/B4/16/GKwRIUEOAngtABJ2KgSn14TQ.m4a
-```
-
-</details>
-
----
-
-### 3. 354: Mistakes Were Made
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a69
 
 ---
 
-### 10. E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？
+### 10. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
 
-**播客名称**: 硅谷101
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/2592
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
 ```
 
 </details>

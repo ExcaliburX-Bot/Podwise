@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-06-15T04:11:53.957781",
+  "generated_at": "2026-06-15T12:11:14.855932",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "再听徐佳莹：非典型天后",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQBUqYF-72.m4a",
@@ -13,20 +23,10 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "第3051期:Breathwork techniques to reduce stress",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEOAngtABJ2KgSn14TQ.m4a?channel=rss&album_id=14812466&track_id=990477427&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7cc2-audiofreehighqps/B4/16/GKwRIUEOAngtABJ2KgSn14TQ.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 3,
-      "title": "354: Mistakes Were Made",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache",
+      "title": "把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "E239｜SpaceX要让太空算力从科幻走向现实，但它划算吗？",
-      "podcast": "硅谷101",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/259291f5-2715-4dde-bcfe-b5beb4df5793.mp3",
+      "title": "发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集",
+      "podcast": "乱翻书",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
