@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-15 12:11:14
+> 📅 生成时间: 2026-06-15 20:54:15
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 再听徐佳莹：非典型天后
+### 1. vol.255 么的事，到底是怎么个事儿
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+```
+
+</details>
+
+---
+
+### 2. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+```
+
+</details>
+
+---
+
+### 3. 再听徐佳莹：非典型天后
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,7 +100,7 @@ https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFU
 
 ---
 
-### 2. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 4. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
 
 **播客名称**: 无聊斋
 
@@ -73,15 +127,15 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 ---
 
-### 3. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
+### 5. 354: Mistakes Were Made
 
-**播客名称**: 脑放电波
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
 ```
 
 </details>
 
 ---
 
-### 4. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
+### 6. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
 
 **播客名称**: 42章经
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d853
 
 ---
 
-### 5. 107.人到中年，我怎么交不到朋友了？
+### 7. 107.人到中年，我怎么交不到朋友了？
 
 **播客名称**: 喷嚏
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62b
 
 ---
 
-### 6. It’s my tree. Why can’t I cut it down?
+### 8. It’s my tree. Why can’t I cut it down?
 
 **播客名称**: Planet Money
 
@@ -181,34 +235,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 神探霍克尼：真实世界的观看之道
-
-**播客名称**: 艺术有读
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
-```
-
-</details>
-
----
-
-### 8. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 9. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客名称**: 知行小酒馆
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62b
 
 ---
 
-### 9. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
+### 10. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a695582ad20/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lua5jan_xOpZ99VwXmLshdTC-gSp.m4a
-```
-
-</details>
-
----
-
-### 10. 发券、裂变、极速版，如何用红包设计增长？丨字节跳动 第8集
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a2be12243a22a695582ab90/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lijPz1zGy9H2k4qd0C45ixweNU-0.m4a
 ```
 
 </details>
