@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-16 04:01:22
+> 📅 生成时间: 2026-06-16 11:08:36
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
+### 1. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a695584bb18/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg93dSUM34zDNXwTDkecxZv2Lq6s.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a695584bb18/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg93dSUM34zDNXwTDkecxZv2Lq6s.m4a
+```
+
+</details>
+
+---
+
+### 2. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,7 +73,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6
 
 ---
 
-### 2. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
+### 3. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
 
 **播客名称**: 少数派播客 SSPAI Podcast
 
@@ -73,7 +100,7 @@ https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqb
 
 ---
 
-### 3. 第3052期:Prestigious flower show lifts gnome ban
+### 4. 第3052期:Prestigious flower show lifts gnome ban
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+### 5. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
 
 **播客名称**: 文化有限
 
@@ -127,7 +154,34 @@ https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. 再听徐佳莹：非典型天后
+### 6. vol.255 么的事，到底是怎么个事儿
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+```
+
+</details>
+
+---
+
+### 7. 再听徐佳莹：非典型天后
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +208,7 @@ https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFU
 
 ---
 
-### 6. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 8. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
 
 **播客名称**: 无聊斋
 
@@ -181,7 +235,7 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 ---
 
-### 7. 354: Mistakes Were Made
+### 9. 354: Mistakes Were Made
 
 **播客名称**: This American Life
 
@@ -208,7 +262,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
+### 10. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
 
 **播客名称**: 脑放电波
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
-```
-
-</details>
-
----
-
-### 9. It’s my tree. Why can’t I cut it down?
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4f5c11ea-4513-45e7-b3d2-daa362e5bdfb/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4f5c11ea-4513-45e7-b3d2-daa362e5bdfb&feed=hvWWWzRv&t=podcast&e=nx-s1-5856509&p=510289&d=1515&size=24250915
-```
-
-</details>
-
----
-
-### 10. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62bc5489e39/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lm3YECIH5BaU_mps0A9wB1h2xcta.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62bc5489e39/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lm3YECIH5BaU_mps0A9wB1h2xcta.m4a
 ```
 
 </details>
