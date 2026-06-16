@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-16 16:50:03
+> 📅 生成时间: 2026-06-16 20:49:43
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6
 
 ---
 
-### 3. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
-
-**播客名称**: 少数派播客 SSPAI Podcast
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
-```
-
-</details>
-
----
-
-### 4. 第3052期:Prestigious flower show lifts gnome ban
+### 3. 第3052期:Prestigious flower show lifts gnome ban
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -121,6 +94,33 @@ https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887212&track_id=990684036&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e3d2-audiofreehighqps/2B/D0/GKwRIRwOA_RuAxZiyASoYjkV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887212&track_id=990684036&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e3d2-audiofreehighqps/2B/D0/GKwRIRwOA_RuAxZiyASoYjkV.m4a
 ```
 
 </details>
@@ -154,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69
 
 ---
 
-### 6. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 6. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+```
+
+</details>
+
+---
+
+### 7. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
 
 **播客名称**: 无聊斋
 
@@ -181,7 +208,7 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 ---
 
-### 7. 354: Mistakes Were Made
+### 8. 354: Mistakes Were Made
 
 **播客名称**: This American Life
 
@@ -208,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
+### 9. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
 
 **播客名称**: 脑放电波
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a69
 
 ---
 
-### 9. 107.人到中年，我怎么交不到朋友了？
+### 10. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
 
-**播客名称**: 喷嚏
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
-```
-
-</details>
-
----
-
-### 10. 神探霍克尼：真实世界的观看之道
-
-**播客名称**: 艺术有读
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
 ```
 
 </details>
