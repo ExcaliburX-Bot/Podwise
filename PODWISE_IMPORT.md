@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-15 20:54:15
+> 📅 生成时间: 2026-06-16 04:01:22
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.255 么的事，到底是怎么个事儿
+### 1. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
 
-**播客名称**: 正经叭叭
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
+### 2. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
 
-**播客名称**: 人民公园说AI
+**播客名称**: 少数派播客 SSPAI Podcast
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
 ```
 
 </details>
 
 ---
 
-### 3. 再听徐佳莹：非典型天后
+### 3. 第3052期:Prestigious flower show lifts gnome ban
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a
+```
+
+</details>
+
+---
+
+### 4. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887212&track_id=990684036&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e3d2-audiofreehighqps/2B/D0/GKwRIRwOA_RuAxZiyASoYjkV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887212&track_id=990684036&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e3d2-audiofreehighqps/2B/D0/GKwRIRwOA_RuAxZiyASoYjkV.m4a
+```
+
+</details>
+
+---
+
+### 5. 再听徐佳莹：非典型天后
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +154,7 @@ https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFU
 
 ---
 
-### 4. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 6. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
 
 **播客名称**: 无聊斋
 
@@ -127,7 +181,7 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 ---
 
-### 5. 354: Mistakes Were Made
+### 7. 354: Mistakes Were Made
 
 **播客名称**: This American Life
 
@@ -154,15 +208,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
+### 8. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
 
-**播客名称**: 42章经
+**播客名称**: 脑放电波
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,41 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d853
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
 ```
 
 </details>
 
 ---
 
-### 7. 107.人到中年，我怎么交不到朋友了？
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a2ce9db4233e62bc5490d98/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lswfhlVhKcH27qShUPdyagkMBD42.m4a
-```
-
-</details>
-
----
-
-### 8. It’s my tree. Why can’t I cut it down?
+### 9. It’s my tree. Why can’t I cut it down?
 
 **播客名称**: Planet Money
 
@@ -235,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
+### 10. E239 对话沈帅波：打工人的尽头还是做自媒体？大人，时代变了
 
 **播客名称**: 知行小酒馆
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62b
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a2bae5f4233e62bc5489e39/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lm3YECIH5BaU_mps0A9wB1h2xcta.m4a
-```
-
-</details>
-
----
-
-### 10. 145. 口述SpaceX开发史：和前高管洪力德聊，马斯克用人观、最大IPO、太空与AI、人类文明扩张前奏？
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a695582ad20/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lua5jan_xOpZ99VwXmLshdTC-gSp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a2be5da43a22a695582ad20/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lua5jan_xOpZ99VwXmLshdTC-gSp.m4a
 ```
 
 </details>
