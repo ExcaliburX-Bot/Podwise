@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-17 10:53:37
+> 📅 生成时间: 2026-06-17 15:26:30
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 真正改变世界的技术，为什么一开始都不被看好？| S10E16
+### 1. 140 ✪ 大疆还能低空飞多久？
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
+```
+
+</details>
+
+---
+
+### 2. 真正改变世界的技术，为什么一开始都不被看好？| S10E16
 
 **播客名称**: What's Next｜科技早知道
 
@@ -46,7 +73,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95
 
 ---
 
-### 2. Can computer hackers get inside your mind?
+### 3. No.206 🩺 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62bc54b3b87/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltHYN8XoewoRLND_q4ciQjIb097H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62bc54b3b87/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltHYN8XoewoRLND_q4ciQjIb097H.m4a
+```
+
+</details>
+
+---
+
+### 4. Can computer hackers get inside your mind?
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 226. 世界杯凭什么越办越贵？从一场球赛到千亿生意，是谁在掌控足球世界
+### 5. 226. 世界杯凭什么越办越贵？从一场球赛到千亿生意，是谁在掌控足球世界
 
 **播客名称**: 贝望录
 
@@ -100,7 +154,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a2faf024233e62b
 
 ---
 
-### 4. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
+### 6. 第3053期:Screens and AI toys hurt children
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+```
+
+</details>
+
+---
+
+### 7. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
+```
+
+</details>
+
+---
+
+### 8. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
 
 **播客名称**: 忽左忽右
 
@@ -127,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a69
 
 ---
 
-### 5. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
-```
-
-</details>
-
----
-
-### 6. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
+### 9. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
 
 **播客名称**: 少数派播客 SSPAI Podcast
 
@@ -181,7 +262,7 @@ https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqb
 
 ---
 
-### 7. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+### 10. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
 
 **播客名称**: 文化有限
 
@@ -202,87 +283,6 @@ https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887212&track_id=990684036&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e3d2-audiofreehighqps/2B/D0/GKwRIRwOA_RuAxZiyASoYjkV.m4a
-```
-
-</details>
-
----
-
-### 8. 毕业季｜邪修人生！Vibe Coding时代，选专业不如这3个人生开挂のSkill！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
-```
-
-</details>
-
----
-
-### 9. 再听徐佳莹：非典型天后
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
-```
-
-</details>
-
----
-
-### 10. 354: Mistakes Were Made
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
 ```
 
 </details>
