@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-16 20:49:43
+> 📅 生成时间: 2026-06-17 04:02:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
+### 1. 第3053期:Screens and AI toys hurt children
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+```
+
+</details>
+
+---
+
+### 2. 226. 世界杯凭什么越办越贵？从一场球赛到千亿生意，是谁在掌控足球世界
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a2faf024233e62bc54a23d0/media.xyzcdn.net/5e285856418a84a04627b7be/luovaPLrfeXaVwBdlIuXXBPsdPBK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a2faf024233e62bc54a23d0/media.xyzcdn.net/5e285856418a84a04627b7be/luovaPLrfeXaVwBdlIuXXBPsdPBK.m4a
+```
+
+</details>
+
+---
+
+### 3. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
+```
+
+</details>
+
+---
+
+### 4. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a69
 
 ---
 
-### 2. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
+### 5. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -73,15 +154,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6
 
 ---
 
-### 3. 第3052期:Prestigious flower show lifts gnome ban
+### 6. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 少数派播客 SSPAI Podcast
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +174,14 @@ https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
 ```
 
 </details>
 
 ---
 
-### 4. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+### 7. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
 
 **播客名称**: 文化有限
 
@@ -127,7 +208,7 @@ https://jt.ximalaya.com//GKwRIRwOA_RuAxZiyASoYjkV.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. vol.255 么的事，到底是怎么个事儿
+### 8. vol.255 么的事，到底是怎么个事儿
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69
 
 ---
 
-### 6. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
+### 9. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
 
 **播客名称**: 人民公园说AI
 
@@ -181,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a69
 
 ---
 
-### 7. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 10. 再听徐佳莹：非典型天后
 
-**播客名称**: 无聊斋
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQBUqYF-72.m4a
+https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,88 +282,7 @@ https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQ
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQBUqYF-72.m4a
-```
-
-</details>
-
----
-
-### 8. 354: Mistakes Were Made
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache
-```
-
-</details>
-
----
-
-### 9. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a
-```
-
-</details>
-
----
-
-### 10. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a
+https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3
 ```
 
 </details>

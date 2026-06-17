@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-16 20:49  
+> 📅 **更新时间**: 2026-06-17 04:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
+### 1. 第3053期:Screens and AI toys hurt children
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 226. 世界杯凭什么越办越贵？从一场球赛到千亿生意，是谁在掌控足球世界
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a2faf024233e62bc54a23d0/media.xyzcdn.net/5e285856418a84a04627b7be/luovaPLrfeXaVwBdlIuXXBPsdPBK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
 
 **播客**: 忽左忽右
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
+### 5. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
 
 **播客**: 晚点聊 LateTalk
 
@@ -34,20 +73,20 @@
 
 ---
 
-### 3. 第3052期:Prestigious flower show lifts gnome ban
+### 6. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 少数派播客 SSPAI Podcast
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOAnolAATBqQSn2Dbj.m4a?channel=rss&album_id=14812466&track_id=990478415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4368-audiofreehighqps/E4/69/GKwRIRwOAnolAATBqQSn2Dbj.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
+### 7. Vol.339 夏日特辑：夏天在各种意义上都漫长且愉快，日子发出声响
 
 **播客**: 文化有限
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. vol.255 么的事，到底是怎么个事儿
+### 8. vol.255 么的事，到底是怎么个事儿
 
 **播客**: 正经叭叭
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
+### 9. 人生就是一场Vibe Coding！哪些是必装的skill和天坑bug？计算机专业还值得学吗?
 
 **播客**: 人民公园说AI
 
@@ -86,54 +125,15 @@
 
 ---
 
-### 7. vol.590 浮世绘｜精神科30年故事会：多一点了解，就少一点误解 feat.姜涛
+### 10. 再听徐佳莹：非典型天后
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_cdVMCRXLkmJkUTmVNCFFeaZQyMQHwQqcqEgEfVVXTFBdzeCmyEYaQBUqYF-72.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 354: Mistakes Were Made
-
-**播客**: This American Life
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ae221404-f59a-4019-94df-50b841823cdb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ae221404-f59a-4019-94df-50b841823cdb&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 把我的74G基因数据塞进Mac，加上10年健康数据，AI发现了什么？-对谈生物骇客段誉-Vol 101
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a2eb65143a22a695583a494/media.xyzcdn.net/636669d51064cb55f31505fc/ltr943uI6vI62NRtVL_W1qoxAkjF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 泡沫的四个必要不充分条件 | 对谈经济学者朱宁教授
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a2a808262c3d8534722ac02/media.xyzcdn.net/648b0b641c48983391a63f98/lo4XhK5fNW1DCoRwaCtTcSfJjr78.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_MkdkgcjRGSETsqfLdWmMcvNcVZTkVTdnfPXakABZxCuntWwaqaKFUecQSX-7c.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
