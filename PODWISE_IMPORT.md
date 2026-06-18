@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-18 03:53:29
+> 📅 生成时间: 2026-06-18 10:19:03
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
+### 1. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a
+```
+
+</details>
+
+---
+
+### 2. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+```
+
+</details>
+
+---
+
+### 3. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
 
 **播客名称**: 搞钱女孩
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a69
 
 ---
 
-### 2. 140 ✪ 大疆还能低空飞多久？
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep140.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep140.mp3
-```
-
-</details>
-
----
-
-### 3. 第3054期:A judge says Blake Lively did nothing wrong
+### 4. 第3054期:A judge says Blake Lively did nothing wrong
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,61 @@ https://jt.ximalaya.com//GKwRIW4OA-YLAAkqzASoW7ur.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+### 5. 140 ✪ 大疆还能低空飞多久？
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
+```
+
+</details>
+
+---
+
+### 6. 真正改变世界的技术，为什么一开始都不被看好？| S10E16
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
+```
+
+</details>
+
+---
+
+### 7. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
 
 **播客名称**: 硅谷101
 
@@ -127,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7
 
 ---
 
-### 5. 夜晚拼凑计划
+### 8. 夜晚拼凑计划
 
 **播客名称**: 周末变奏 Key Change
 
@@ -154,15 +235,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFm
 
 ---
 
-### 6. No.206 🩺 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22
+### 9. Ep199 未来生活指南｜我 夺 快 乐
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62bc54b3b87/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltHYN8XoewoRLND_q4ciQjIb097H.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/ll220YH5DUfJ6fDd2piaPktklccv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62bc54b3b87/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltHYN8XoewoRLND_q4ciQjIb097H.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/ll220YH5DUfJ6fDd2piaPktklccv.m4a
 ```
 
 </details>
 
 ---
 
-### 7. Can computer hackers get inside your mind?
+### 10. Can computer hackers get inside your mind?
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
-```
-
-</details>
-
----
-
-### 8. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119986&track_id=991102199&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b500-audiofreehighqps/31/82/GKwRIaIOBrgaARYaWQSpVky0.m4a
-```
-
-</details>
-
----
-
-### 9. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a695584bb18/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg93dSUM34zDNXwTDkecxZv2Lq6s.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a695584bb18/media.xyzcdn.net/5e4ee557418a84a0466737b7/lg93dSUM34zDNXwTDkecxZv2Lq6s.m4a
-```
-
-</details>
-
----
-
-### 10. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
 ```
 
 </details>
