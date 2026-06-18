@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-17 20:10:47
+> 📅 生成时间: 2026-06-18 03:53:29
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 140 ✪ 大疆还能低空飞多久？
+### 1. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
+```
+
+</details>
+
+---
+
+### 2. 140 ✪ 大疆还能低空飞多久？
 
 **播客名称**: 疯投圈
 
@@ -46,15 +73,15 @@ https://rio.xyzcdn.net/crazycapital/ep140.mp3
 
 ---
 
-### 2. Ep199 未来生活指南｜我 夺 快 乐
+### 3. 第3054期:A judge says Blake Lively did nothing wrong
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnlID-1E2vzoRujjQj1xDJsCkOBB.m4a
+https://jt.ximalaya.com//GKwRIW4OA-YLAAkqzASoW7ur.m4a?channel=rss&album_id=14812466&track_id=990676378&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b0d-audiofreehighqps/C3/A2/GKwRIW4OA-YLAAkqzASoW7ur.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +93,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnlID-1E2vzoRujjQj1xDJsCkOBB.m4a
+https://jt.ximalaya.com//GKwRIW4OA-YLAAkqzASoW7ur.m4a?channel=rss&album_id=14812466&track_id=990676378&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2b0d-audiofreehighqps/C3/A2/GKwRIW4OA-YLAAkqzASoW7ur.m4a
 ```
 
 </details>
 
 ---
 
-### 3. No.206 🩺 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22
+### 4. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
+```
+
+</details>
+
+---
+
+### 5. 夜晚拼凑计划
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFmgDbg/keychangefm/8218288376_384172.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFmgDbg/keychangefm/8218288376_384172.mp3
+```
+
+</details>
+
+---
+
+### 6. No.206 🩺 检索、送药、看病：互联网医疗这些年 | 中国互联网故事22
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3221144233e62b
 
 ---
 
-### 4. 第3053期:Screens and AI toys hurt children
+### 7. Can computer hackers get inside your mind?
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +201,14 @@ https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4OA-KKAAsp0QSoWiMr.m4a?channel=rss&album_id=14812466&track_id=990674567&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4dcb-audiofreehighqps/82/E8/GKwRIW4OA-KKAAsp0QSoWiMr.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278
 ```
 
 </details>
 
 ---
 
-### 5. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
+### 8. S8 Vol.12 SENASIC琻捷李梦雄&纪源资本陈于思：物理AI的「芯」生力量
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -154,7 +235,7 @@ https://jt.ximalaya.com//GKwRIaIOBrgaARYaWQSpVky0.m4a?channel=rss&album_id=20119
 
 ---
 
-### 6. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
+### 9. 线下录音｜对谈朱宁、黄子函：从行为经济学看金融危机与股民投资偏好
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3112e043a22a69
 
 ---
 
-### 7. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
+### 10. 169: 访谈Cerebras早期投资人周楠：英伟达挑战者？Scaling Law的萌芽、被遗忘的百度美研
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -202,87 +283,6 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/2ad6ee49-2e3e-41fe-87a1-f810c4ee8352.mp3
-```
-
-</details>
-
----
-
-### 8. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
-
-**播客名称**: 少数派播客 SSPAI Podcast
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218421168_34614.mp3
-```
-
-</details>
-
----
-
-### 9. vol.255 么的事，到底是怎么个事儿
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a300a3943a22a69558449c5/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lgYfEKj6KzTxZ8wjutQaOS1OhXJu.m4a
-```
-
-</details>
-
----
-
-### 10. 毕业季｜邪修人生！Vibe Coding时代，选专业不如这3个人生开挂のSkill！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a2fd7d943a22a6955842cbd/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lnfoonI5NuZox1t2uHFXn9DloUpT.m4a
 ```
 
 </details>
