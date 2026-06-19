@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-19 04:13  
+> 📅 **更新时间**: 2026-06-19 10:24  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 1. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
 
-**播客**: 沈奕斐的播客
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a6955864b9d/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltwjxsw_MfpBsRsEN0Tezu8r7r4b.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
+### 3. 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
 
 **播客**: 十字路口Crossing
 
@@ -60,20 +47,7 @@
 
 ---
 
-### 5. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
-
-**播客**: 三五环
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpQjvkA1UJXvzKPMYsx8269WsbrY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
+### 4. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
+### 5. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+### 6. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
 
 **播客**: 屠龙之术
 
@@ -112,20 +86,33 @@
 
 ---
 
-### 9. 140 ✪ 大疆还能低空飞多久？
+### 7. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
 
-**播客**: 疯投圈
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep140.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. 夜晚拼凑计划
+### 8. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 夜晚拼凑计划
 
 **播客**: 周末变奏 Key Change
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFmgDbg/keychangefm/8218288376_384172.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Can computer hackers get inside your mind?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/90de8e2e-0f97-48f2-95d3-caee255b1414/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=90de8e2e-0f97-48f2-95d3-caee255b1414&feed=hvWWWzRv&t=podcast&e=nx-s1-5859441&p=510289&d=1782&size=28518278)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
