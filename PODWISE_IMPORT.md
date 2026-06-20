@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-20 14:01:04
+> 📅 生成时间: 2026-06-20 19:25:09
 > 📊 总计: 10 个播客
 
 ---
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a69
 
 ---
 
-### 4. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
+### 4. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
-**播客名称**: 东亚观察局
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,22 +120,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
 ```
 
 </details>
 
 ---
 
-### 5. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+### 5. 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
 
-**播客名称**: 三五环
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a69
 
 ---
 
-### 7. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
+### 7. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+```
+
+</details>
+
+---
+
+### 8. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -208,7 +235,7 @@ https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=69903
 
 ---
 
-### 8. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+### 9. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
 
 **播客名称**: 屠龙之术
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62b
 
 ---
 
-### 9. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
+### 10. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
 
 **播客名称**: 搞钱女孩
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
-```
-
-</details>
-
----
-
-### 10. 140 ✪ 大疆还能低空飞多久？
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep140.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep140.mp3
 ```
 
 </details>
