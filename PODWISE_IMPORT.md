@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-20 03:35:22
+> 📅 生成时间: 2026-06-20 08:54:22
 > 📊 总计: 10 个播客
 
 ---
@@ -73,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a69
 
 ---
 
-### 3. 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
+### 3. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,22 +93,22 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
 ```
 
 </details>
 
 ---
 
-### 4. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+### 4. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
 
-**播客名称**: 三五环
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a695585d4b5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq05CoObM_p7ZkhjI2u6rWLKJZEg.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +120,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a695585d4b5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq05CoObM_p7ZkhjI2u6rWLKJZEg.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://rio.xyzcdn.net/crazycapital/ep140.mp3
 
 ---
 
-### 9. 真正改变世界的技术，为什么一开始都不被看好？| S10E16
+### 9. 夜晚拼凑计划
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFmgDbg/keychangefm/8218288376_384172.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzg2NSwidCI6MX0.4QX6cnE5A1hk96Kul291rFmgDbg/keychangefm/8218288376_384172.mp3
 ```
 
 </details>
 
 ---
 
-### 10. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+### 10. Ep199 未来生活指南｜我 夺 快 乐
 
-**播客名称**: 硅谷101
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/ll220YH5DUfJ6fDd2piaPktklccv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a328b7643a22a69558568de/media.xyzcdn.net/5eae66d1418a84a046472b4d/ll220YH5DUfJ6fDd2piaPktklccv.m4a
 ```
 
 </details>
