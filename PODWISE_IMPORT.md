@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-20 19:25:09
+> 📅 生成时间: 2026-06-21 04:07:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3056期:Friday the 13th
+### 1. 第3057期:ISS air leaks
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -27,7 +27,7 @@
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoOA_XJAAjCigSoYsK3.m4a?channel=rss&album_id=14812466&track_id=990685906&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/89b5-audiofreehighqps/1D/71/GKwRIDoOA_XJAAjCigSoYsK3.m4a
+https://jt.ximalaya.com//GKwRIW4OA_gUAAnH7QSoZFa4.m4a?channel=rss&album_id=14812466&track_id=990687382&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dd79-audiofreehighqps/2C/98/GKwRIW4OA_gUAAnH7QSoZFa4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,41 +39,14 @@ https://jt.ximalaya.com//GKwRIDoOA_XJAAjCigSoYsK3.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoOA_XJAAjCigSoYsK3.m4a?channel=rss&album_id=14812466&track_id=990685906&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/89b5-audiofreehighqps/1D/71/GKwRIDoOA_XJAAjCigSoYsK3.m4a
+https://jt.ximalaya.com//GKwRIW4OA_gUAAnH7QSoZFa4.m4a?channel=rss&album_id=14812466&track_id=990687382&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dd79-audiofreehighqps/2C/98/GKwRIW4OA_gUAAnH7QSoZFa4.m4a
 ```
 
 </details>
 
 ---
 
-### 2. The real horror of ‘Alien’ and how it explains why we’re not paid enough
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936171
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1933&size=30936171
-```
-
-</details>
-
----
-
-### 3. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
+### 2. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
 
 **播客名称**: 忽左忽右
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a69
 
 ---
 
-### 4. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 3. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
 **播客名称**: 沈奕斐的播客
 
@@ -127,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62b
 
 ---
 
-### 5. 哪条路线，才能通往「世界模型」的终局？｜对话黄碧薇：Aether AI 创始人
+### 4. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +120,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a333a614233e62bc54ba990/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgg_eNV6JRpgVyiWTXw6BocDzDmr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
+```
+
+</details>
+
+---
+
+### 5. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a69
 
 ---
 
-### 7. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
-```
-
-</details>
-
----
-
-### 8. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
+### 7. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -235,15 +208,15 @@ https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=69903
 
 ---
 
-### 9. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+### 8. 140 ✪ 大疆还能低空飞多久？
 
-**播客名称**: 屠龙之术
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +228,22 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+https://rio.xyzcdn.net/crazycapital/ep140.mp3
 ```
 
 </details>
 
 ---
 
-### 10. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
+### 9. 真正改变世界的技术，为什么一开始都不被看好？| S10E16
 
-**播客名称**: 搞钱女孩
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a69
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/8c95b3dc-d75a-4bdd-84d4-2c06fd2d85b1.mp3
+```
+
+</details>
+
+---
+
+### 10. E240｜OpenAI联手PE砸下40亿美元，聊聊硅谷最火新职位FDE
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/47b7778e-1ed6-4dab-b7c9-8b4a6555b867.mp3
 ```
 
 </details>
