@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-22 16:54:39
+> 📅 生成时间: 2026-06-22 20:46:39
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743
 
 ---
 
-### 2. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+### 2. 韩国嘻哈 Mixtape：万花筒
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+</details>
+
+---
+
+### 3. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
 
 **播客名称**: 无聊斋
 
@@ -73,7 +100,7 @@ https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhV
 
 ---
 
-### 3. 第3058期:Choosing the right yoghurt
+### 4. 第3058期:Choosing the right yoghurt
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,34 @@ https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+### 5. 889: There’s Something About Hail Mary
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
+```
+
+</details>
+
+---
+
+### 6. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c
 
 ---
 
-### 5. The real horror of ‘Alien’ and how it explains why we’re not paid enough
+### 7. The real horror of ‘Alien’ and how it explains why we’re not paid enough
 
 **播客名称**: Planet Money
 
@@ -154,7 +208,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 8. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a6955864b9d/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltwjxsw_MfpBsRsEN0Tezu8r7r4b.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a6955864b9d/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltwjxsw_MfpBsRsEN0Tezu8r7r4b.m4a
+```
+
+</details>
+
+---
+
+### 9. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,61 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62b
 
 ---
 
-### 7. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a695585d4b5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq05CoObM_p7ZkhjI2u6rWLKJZEg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a695585d4b5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lq05CoObM_p7ZkhjI2u6rWLKJZEg.m4a
-```
-
-</details>
-
----
-
-### 8. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
-```
-
-</details>
-
----
-
-### 9. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+### 10. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
 
 **播客名称**: 屠龙之术
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62b
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
-```
-
-</details>
-
----
-
-### 10. 旋子：AI时代如何引流获客？搞定 AI 搜索优化，GEO是门好生意！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a32fd2b43a22a695585919e/media.xyzcdn.net/63d945ece725b5378a158d29/lrdF-M8H-8-bQkMSXLljddd3S9QC.m4a
 ```
 
 </details>
