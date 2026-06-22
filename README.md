@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-22 04:08  
+> 📅 **更新时间**: 2026-06-22 11:51  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+### 1. 韩国嘻哈 Mixtape：万花筒
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
 
 **播客**: 无聊斋
 
@@ -21,20 +34,20 @@
 
 ---
 
-### 2. 889: There’s Something About Hail Mary
+### 3. 第3058期:Choosing the right yoghurt
 
-**播客**: This American Life
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812466&track_id=991807281&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/90d5-audiofreehighqps/FA/F4/GKwRIDoOC7gwAA8_VwSq7-ow.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+### 4. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. The real horror of ‘Alien’ and how it explains why we’re not paid enough
+### 5. The real horror of ‘Alien’ and how it explains why we’re not paid enough
 
 **播客**: Planet Money
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
+### 6. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
 
 **播客**: 忽左忽右
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 7. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
 **播客**: 沈奕斐的播客
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
+### 8. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
 
 **播客**: 东亚观察局
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
+### 9. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+### 10. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
 
 **播客**: 三五环
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
-
-**播客**: Blow Your Mind (BYM S02)
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

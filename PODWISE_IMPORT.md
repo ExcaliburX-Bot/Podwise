@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-22 04:08:24
+> 📅 生成时间: 2026-06-22 11:51:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+### 1. 韩国嘻哈 Mixtape：万花筒
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+</details>
+
+---
+
+### 2. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
 
 **播客名称**: 无聊斋
 
@@ -46,15 +73,15 @@ https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhV
 
 ---
 
-### 2. 889: There’s Something About Hail Mary
+### 3. 第3058期:Choosing the right yoghurt
 
-**播客名称**: This American Life
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
+https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812466&track_id=991807281&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/90d5-audiofreehighqps/FA/F4/GKwRIDoOC7gwAA8_VwSq7-ow.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +93,14 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
+https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812466&track_id=991807281&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/90d5-audiofreehighqps/FA/F4/GKwRIDoOC7gwAA8_VwSq7-ow.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+### 4. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
 
 **播客名称**: 十字路口Crossing
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c
 
 ---
 
-### 4. The real horror of ‘Alien’ and how it explains why we’re not paid enough
+### 5. The real horror of ‘Alien’ and how it explains why we’re not paid enough
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
+### 6. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a69
 
 ---
 
-### 6. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 7. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62b
 
 ---
 
-### 7. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
+### 8. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
 
 **播客名称**: 东亚观察局
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62b
 
 ---
 
-### 8. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
+### 9. 番外 15：🪭 半拿铁讲金瓶梅啦，而且还是绿色的
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a33979143a22a69
 
 ---
 
-### 9. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
+### 10. No.222 程泓宁：从庙堂之上的投资人，到在真实的泥地里打滚
 
 **播客名称**: 三五环
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a69
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a33686d43a22a695585b7b0/media.xyzcdn.net/5e280fab418a84a0461faa3c/luUjLZagvjap2TTb7d0FTGUIIMZ5.m4a
-```
-
-</details>
-
----
-
-### 10. 351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a
 ```
 
 </details>
