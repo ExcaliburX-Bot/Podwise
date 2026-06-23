@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-22 20:46:39
+> 📅 生成时间: 2026-06-23 03:29:25
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.256近期录制很随机，随机聊一聊近期
+### 1. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
+
+**播客名称**: 此话当真
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743683c0ff5/media.xyzcdn.net/646f194853a5e5ea1408d97c/lqWoEa3N8CY2gh4yxNY3huGPqXvq.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743683c0ff5/media.xyzcdn.net/646f194853a5e5ea1408d97c/lqWoEa3N8CY2gh4yxNY3huGPqXvq.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3059期:Oldest person to perform a wing walk
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812466&track_id=991808949&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a35c-audiofreehighqps/A3/85/GKwRIUEOC7rcAAhdOASq8c2H.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812466&track_id=991808949&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a35c-audiofreehighqps/A3/85/GKwRIUEOC7rcAAhdOASq8c2H.m4a
+```
+
+</details>
+
+---
+
+### 3. Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
+```
+
+</details>
+
+---
+
+### 4. vol.256近期录制很随机，随机聊一聊近期
 
 **播客名称**: 正经叭叭
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743
 
 ---
 
-### 2. 韩国嘻哈 Mixtape：万花筒
+### 5. 韩国嘻哈 Mixtape：万花筒
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,7 +154,7 @@ https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcB
 
 ---
 
-### 3. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+### 6. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
 
 **播客名称**: 无聊斋
 
@@ -100,34 +181,7 @@ https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhV
 
 ---
 
-### 4. 第3058期:Choosing the right yoghurt
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812466&track_id=991807281&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/90d5-audiofreehighqps/FA/F4/GKwRIDoOC7gwAA8_VwSq7-ow.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOC7gwAA8_VwSq7-ow.m4a?channel=rss&album_id=14812466&track_id=991807281&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/90d5-audiofreehighqps/FA/F4/GKwRIDoOC7gwAA8_VwSq7-ow.m4a
-```
-
-</details>
-
----
-
-### 5. 889: There’s Something About Hail Mary
+### 7. 889: There’s Something About Hail Mary
 
 **播客名称**: This American Life
 
@@ -154,34 +208,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
-```
-
-</details>
-
----
-
-### 7. The real horror of ‘Alien’ and how it explains why we’re not paid enough
+### 8. The real horror of ‘Alien’ and how it explains why we’re not paid enough
 
 **播客名称**: Planet Money
 
@@ -202,33 +229,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607
-```
-
-</details>
-
----
-
-### 8. 477 「广州湾」风云：从雷州半岛和湛江历史看近代中法越的跨境变迁
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a6955864b9d/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltwjxsw_MfpBsRsEN0Tezu8r7r4b.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a35055a43a22a6955864b9d/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltwjxsw_MfpBsRsEN0Tezu8r7r4b.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62b
 
 ---
 
-### 10. 从开源到 Agent，从组织到个体：AIEC 大会现场侧记
+### 10. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
 
-**播客名称**: 屠龙之术
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a337d604233e62bc54bd46b/media.xyzcdn.net/6507bc165c88d2412626b401/lmStyh-wPcZJQpj98fF4S0Dz1WB0.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
 ```
 
 </details>
