@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-23 14:46:10
+> 📅 生成时间: 2026-06-23 20:03:09
 > 📊 总计: 10 个播客
 
 ---
@@ -100,34 +100,7 @@ https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
-```
-
-</details>
-
----
-
-### 5. vol.256近期录制很随机，随机聊一聊近期
+### 4. vol.256近期录制很随机，随机聊一聊近期
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743
 
 ---
 
-### 6. 韩国嘻哈 Mixtape：万花筒
+### 5. 韩国嘻哈 Mixtape：万花筒
 
 **播客名称**: Vibration 歪波音室
 
@@ -175,6 +148,33 @@ https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcB
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+</details>
+
+---
+
+### 6. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhVmABVa-96.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhVmABVa-96.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. The real horror of ‘Alien’ and how it explains why we’re not paid enough
+### 8. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
+```
+
+</details>
+
+---
+
+### 9. The real horror of ‘Alien’ and how it explains why we’re not paid enough
 
 **播客名称**: Planet Money
 
@@ -235,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
+### 10. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
 
 **播客名称**: 沈奕斐的播客
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62b
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
-```
-
-</details>
-
----
-
-### 10. 287 “文春炮”轰早苗 背后高人支招？高市上台200天后的日本政坛
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a340a784233e62bc54c1efa/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpg2ICiHcIenxvqQjHuIPS8My46I.m4a
 ```
 
 </details>
