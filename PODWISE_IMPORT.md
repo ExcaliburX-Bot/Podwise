@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-24 14:27:06
+> 📅 生成时间: 2026-06-24 19:44:27
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 268.AI时代，个人工作台会重新回到手机吗？
+### 1. 特别加更｜马家辉X刘旸教主：这到底是新书发布会，还是新漫才组合呀？！
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfWjcJHm-46.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfWjcJHm-46.m4a
+```
+
+</details>
+
+---
+
+### 2. 余一：没有 AI 转型，只有自然生发
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
+```
+
+</details>
+
+---
+
+### 3. 268.AI时代，个人工作台会重新回到手机吗？
 
 **播客名称**: 乱翻书
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743
 
 ---
 
-### 2. No.207 🔱 闽南往事：众神人间办事处，涨海声中万国商
+### 4. No.207 🔱 闽南往事：众神人间办事处，涨海声中万国商
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -67,60 +121,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3b80fc2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3b80fc2e335a35a808916f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsWHjLIWL2lIVOioEqtmxh8y9A4Y.m4a
-```
-
-</details>
-
----
-
-### 3. Mixtape丨夏至时节的梦，一片氤氲
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3
-```
-
-</details>
-
----
-
-### 4. 说好的艺术家呢？--- AI时代，内容工业的三次死亡与创作者的重生
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
 ```
 
 </details>
@@ -154,88 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 第3060期:Cocaine use in Europe
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812466&track_id=991810379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7d33-audiofreehighqps/80/E3/GKwRIUEOC719AAi2ygSq8tV4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812466&track_id=991810379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7d33-audiofreehighqps/80/E3/GKwRIUEOC719AAi2ygSq8tV4.m4a
-```
-
-</details>
-
----
-
-### 7. 227. 世界杯不只是大品牌的赌局，中小企业也能在全球赛事中讲好自己的品牌故事
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3a557c9d2f5743683c8c0e/media.xyzcdn.net/5e285856418a84a04627b7be/lvT46jGi7B3Anq5mWc8XweT8P9t_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3a557c9d2f5743683c8c0e/media.xyzcdn.net/5e285856418a84a04627b7be/lvT46jGi7B3Anq5mWc8XweT8P9t_.m4a
-```
-
-</details>
-
----
-
-### 8. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3a57bc2e335a35a808135e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqLKRwlRbPsEElwG8RLjXGjejPi8.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3a57bc2e335a35a808135e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqLKRwlRbPsEElwG8RLjXGjejPi8.m4a
-```
-
-</details>
-
----
-
-### 9. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
+### 6. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
 
 **播客名称**: 此话当真
 
@@ -262,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743
 
 ---
 
-### 10. Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？
+### 7. Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？
 
 **播客名称**: 文化有限
 
@@ -283,6 +202,87 @@ https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
+```
+
+</details>
+
+---
+
+### 8. vol.256近期录制很随机，随机聊一聊近期
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743683c0608/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpEW2YCcfyroGX1pxDsNKrjbx56z.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743683c0608/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpEW2YCcfyroGX1pxDsNKrjbx56z.m4a
+```
+
+</details>
+
+---
+
+### 9. 韩国嘻哈 Mixtape：万花筒
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3
+```
+
+</details>
+
+---
+
+### 10. 889: There’s Something About Hail Mary
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
 ```
 
 </details>
