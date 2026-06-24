@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-24 03:30:46
+> 📅 生成时间: 2026-06-24 09:27:19
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3060期:Cocaine use in Europe
+### 1. 说好的艺术家呢？--- AI时代，内容工业的三次死亡与创作者的重生
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
+```
+
+</details>
+
+---
+
+### 2. Before Kalshi and Polymarket there was the Iowa Electronic Markets
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
+```
+
+</details>
+
+---
+
+### 3. 227. 世界杯不只是大品牌的赌局，中小企业也能在全球赛事中讲好自己的品牌故事
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3a557c9d2f5743683c8c0e/media.xyzcdn.net/5e285856418a84a04627b7be/lvT46jGi7B3Anq5mWc8XweT8P9t_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3a557c9d2f5743683c8c0e/media.xyzcdn.net/5e285856418a84a04627b7be/lvT46jGi7B3Anq5mWc8XweT8P9t_.m4a
+```
+
+</details>
+
+---
+
+### 4. 第3060期:Cocaine use in Europe
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +127,7 @@ https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
+### 5. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3a57bc2e335a35
 
 ---
 
-### 3. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
+### 6. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
 
 **播客名称**: 此话当真
 
@@ -100,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743
 
 ---
 
-### 4. vol.256近期录制很随机，随机聊一聊近期
+### 7. Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a
+```
+
+</details>
+
+---
+
+### 8. vol.256近期录制很随机，随机聊一聊近期
 
 **播客名称**: 正经叭叭
 
@@ -127,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743
 
 ---
 
-### 5. 韩国嘻哈 Mixtape：万花筒
+### 9. 韩国嘻哈 Mixtape：万花筒
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +262,7 @@ https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcB
 
 ---
 
-### 6. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
+### 10. vol.591 见面聊聊｜小众美食推荐变鉴宝节目？你这好吃的纯开门啊！feat.陈晓卿
 
 **播客名称**: 无聊斋
 
@@ -175,114 +283,6 @@ https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhV
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_rUwskyWpySpBDcHmCfPhBHhBazggHVNPkbTHGaCTvuaxCJcmLZHhVmABVa-96.m4a
-```
-
-</details>
-
----
-
-### 7. 889: There’s Something About Hail Mary
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache
-```
-
-</details>
-
----
-
-### 8. 对话 MiniMax 闫俊杰：M3、10X 计划、10T 模型、和智能的终局
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a374ab075ba9e0c53368f7e/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqtILT8FLVmV99v0GsHhyFyraiBe.m4a
-```
-
-</details>
-
----
-
-### 9. The real horror of ‘Alien’ and how it explains why we’re not paid enough
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/89a6664a-233d-403c-a56e-7d28a357e64e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=89a6664a-233d-403c-a56e-7d28a357e64e&feed=hvWWWzRv&t=podcast&e=nx-s1-5863604&p=510289&d=1950&size=31211607
-```
-
-</details>
-
----
-
-### 10. 259.五分钟都坐不住的孩子，如何到自觉学习？情感支持三件套有多重要？｜学员对谈05
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a3405eb4233e62bc54c1d3b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lt8gymQ1SZzHBPQOOsLNoilmEbIX.m4a
 ```
 
 </details>
