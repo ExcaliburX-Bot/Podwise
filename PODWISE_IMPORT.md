@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-23 20:03:09
+> 📅 生成时间: 2026-06-24 03:30:46
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
+### 1. 第3060期:Cocaine use in Europe
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812466&track_id=991810379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7d33-audiofreehighqps/80/E3/GKwRIUEOC719AAi2ygSq8tV4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812466&track_id=991810379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7d33-audiofreehighqps/80/E3/GKwRIUEOC719AAi2ygSq8tV4.m4a
+```
+
+</details>
+
+---
+
+### 2. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3a57bc2e335a35
 
 ---
 
-### 2. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
+### 3. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
 
 **播客名称**: 此话当真
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743683c0ff5/media.xyzcdn.net/646f194853a5e5ea1408d97c/lqWoEa3N8CY2gh4yxNY3huGPqXvq.m4a
-```
-
-</details>
-
----
-
-### 3. 第3059期:Oldest person to perform a wing walk
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812466&track_id=991808949&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a35c-audiofreehighqps/A3/85/GKwRIUEOC7rcAAhdOASq8c2H.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812466&track_id=991808949&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a35c-audiofreehighqps/A3/85/GKwRIUEOC7rcAAhdOASq8c2H.m4a
 ```
 
 </details>

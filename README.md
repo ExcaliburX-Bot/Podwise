@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-23 20:03  
+> 📅 **更新时间**: 2026-06-24 03:30  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
+### 1. 第3060期:Cocaine use in Europe
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOC719AAi2ygSq8tV4.m4a?channel=rss&album_id=14812466&track_id=991810379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7d33-audiofreehighqps/80/E3/GKwRIUEOC719AAi2ygSq8tV4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 478 北洋漫游记：军阀、考古与瑞典王储的中国之旅
 
 **播客**: 忽左忽右
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
+### 3. 对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见
 
 **播客**: 此话当真
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743683c0ff5/media.xyzcdn.net/646f194853a5e5ea1408d97c/lqWoEa3N8CY2gh4yxNY3huGPqXvq.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3059期:Oldest person to perform a wing walk
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOC7rcAAhdOASq8c2H.m4a?channel=rss&album_id=14812466&track_id=991808949&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a35c-audiofreehighqps/A3/85/GKwRIUEOC7rcAAhdOASq8c2H.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
