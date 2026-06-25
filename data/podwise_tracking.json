@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:44:27.680838",
+  "generated_at": "2026-06-25T03:28:39.016543",
   "total_count": 10,
   "episodes": [
     {
@@ -14,9 +14,9 @@
     },
     {
       "rank": 2,
-      "title": "余一：没有 AI 转型，只有自然生发",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a",
+      "title": "第3061期:Britain will ban social media for children under 16",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OC7_UAAkJBwSq88Yp.m4a?channel=rss&album_id=14812466&track_id=991811846&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d2ef-audiofreehighqps/15/3D/GKwRIW4OC7_UAAkJBwSq88Yp.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -24,6 +24,16 @@
     },
     {
       "rank": 3,
+      "title": "对话蒋友柏：如何跳出原生家庭重塑自我？真老钱亲测有效的人生设计思维",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
       "title": "268.AI时代，个人工作台会重新回到手机吗？",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743683d4841/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgPRs5jUHHrJyKBzASAqvdLZx8fs.m4a",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "No.207 🔱 闽南往事：众神人间办事处，涨海声中万国商",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3b80fc2e335a35a808916f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsWHjLIWL2lIVOioEqtmxh8y9A4Y.m4a",
@@ -43,17 +53,37 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "Before Kalshi and Polymarket there was the Iowa Electronic Markets",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910",
+      "rank": 6,
+      "title": "Mixtape丨夏至时节的梦，一片氤氲",
+      "podcast": "周末变奏 Key Change",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "说好的艺术家呢？--- AI时代，内容工业的三次死亡与创作者的重生",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 8,
+      "title": "478 北洋漫游记：军阀、考古与瑞典王储的中国之旅",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3a57bc2e335a35a808135e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqLKRwlRbPsEElwG8RLjXGjejPi8.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "对话鹍鹏：真人互动影游突然火了，他做了十年的梦终于被看见",
       "podcast": "此话当真",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a3954439d2f5743683c0ff5/media.xyzcdn.net/646f194853a5e5ea1408d97c/lqWoEa3N8CY2gh4yxNY3huGPqXvq.m4a",
@@ -63,40 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Vol.340 从聂隐娘到宋定伯，东方志怪到底哪儿怪？",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwOCSLAAlWi-gSqFecz.m4a?channel=rss&album_id=29887212&track_id=991471113&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cef6-audiofreehighqps/49/32/GKwRIRwOCSLAAlWi-gSqFecz.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "vol.256近期录制很随机，随机聊一聊近期",
-      "podcast": "正经叭叭",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a3945399d2f5743683c0608/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpEW2YCcfyroGX1pxDsNKrjbx56z.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "韩国嘻哈 Mixtape：万花筒",
-      "podcast": "Vibration 歪波音室",
-      "audio_url": "https://tk.wavpub.com/WPDL_fkCkPMmZhnkDyVnmcvUzgawMmgyZfZDXWcjYRRtauCCbzEzwABfcBLmsjk-c8.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "889: There’s Something About Hail Mary",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/916a35c5-69f5-47e6-aaf4-e803336ec197/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=916a35c5-69f5-47e6-aaf4-e803336ec197&nocache",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
