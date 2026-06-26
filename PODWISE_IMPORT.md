@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-26 09:24:11
+> 📅 生成时间: 2026-06-26 14:22:25
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
+### 1.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+```
+
+</details>
+
+---
+
+### 2. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
+```
+
+</details>
+
+---
+
+### 3. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35
 
 ---
 
-### 2. 141 ✪ ☕️咖啡战争2026：机构化与本土化
+### 4. 141 ✪ ☕️咖啡战争2026：机构化与本土化
 
 **播客名称**: 疯投圈
 
@@ -67,60 +121,6 @@ https://rio.xyzcdn.net/crazycapital/ep141.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep141.mp3
-```
-
-</details>
-
----
-
-### 3. 第3062期:AI models
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a
-```
-
-</details>
-
----
-
-### 4. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
 ```
 
 </details>
@@ -154,15 +154,15 @@ https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119
 
 ---
 
-### 6. AI 时代的超级入口还是手机吗？| S10E17
+### 6. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a0d42-4c16-4dd6-a2ab-9277fec1a731.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +174,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a0d42-4c16-4dd6-a2ab-9277fec1a731.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
 ```
 
 </details>
@@ -235,7 +235,34 @@ https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfW
 
 ---
 
-### 9. 268.AI时代，个人工作台会重新回到手机吗？
+### 9. 余一：没有 AI 转型，只有自然生发
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
+```
+
+</details>
+
+---
+
+### 10. 268.AI时代，个人工作台会重新回到手机吗？
 
 **播客名称**: 乱翻书
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743683d4841/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgPRs5jUHHrJyKBzASAqvdLZx8fs.m4a
-```
-
-</details>
-
----
-
-### 10. Mixtape丨夏至时节的梦，一片氤氲
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3
 ```
 
 </details>

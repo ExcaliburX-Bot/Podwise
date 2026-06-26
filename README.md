@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-26 09:24  
+> 📅 **更新时间**: 2026-06-26 14:22  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
+### 1.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
 
 **播客**: 忽左忽右
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 141 ✪ ☕️咖啡战争2026：机构化与本土化
+### 4. 141 ✪ ☕️咖啡战争2026：机构化与本土化
 
 **播客**: 疯投圈
 
@@ -30,32 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep141.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3062期:AI models
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,15 +73,15 @@
 
 ---
 
-### 6. AI 时代的超级入口还是手机吗？| S10E17
+### 6. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
 
-**播客**: What's Next｜科技早知道
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a0d42-4c16-4dd6-a2ab-9277fec1a731.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,7 +112,20 @@
 
 ---
 
-### 9. 268.AI时代，个人工作台会重新回到手机吗？
+### 9. 余一：没有 AI 转型，只有自然生发
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 268.AI时代，个人工作台会重新回到手机吗？
 
 **播客**: 乱翻书
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743683d4841/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lgPRs5jUHHrJyKBzASAqvdLZx8fs.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Mixtape丨夏至时节的梦，一片氤氲
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
