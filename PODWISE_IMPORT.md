@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-26 03:36:24
+> 📅 生成时间: 2026-06-26 09:24:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
+### 1. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a
+```
+
+</details>
+
+---
+
+### 2. 141 ✪ ☕️咖啡战争2026：机构化与本土化
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep141.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep141.mp3
+```
+
+</details>
+
+---
+
+### 3. 第3062期:AI models
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a
+```
+
+</details>
+
+---
+
+### 4. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
 
 **播客名称**: 东亚观察局
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35
 
 ---
 
-### 2. S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS
+### 5. S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -73,7 +154,34 @@ https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119
 
 ---
 
-### 3. E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？
+### 6. AI 时代的超级入口还是手机吗？| S10E17
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a0d42-4c16-4dd6-a2ab-9277fec1a731.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/523a0d42-4c16-4dd6-a2ab-9277fec1a731.mp3
+```
+
+</details>
+
+---
+
+### 7. E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？
 
 **播客名称**: 硅谷101
 
@@ -100,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c38d
 
 ---
 
-### 4. 特别加更｜马家辉X刘旸教主：这到底是新书发布会，还是新漫才组合呀？！
+### 8. 特别加更｜马家辉X刘旸教主：这到底是新书发布会，还是新漫才组合呀？！
 
 **播客名称**: 无聊斋
 
@@ -127,34 +235,7 @@ https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfW
 
 ---
 
-### 5. 对话蒋友柏：如何跳出原生家庭重塑自我？真老钱亲测有效的人生设计思维
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a
-```
-
-</details>
-
----
-
-### 6. 268.AI时代，个人工作台会重新回到手机吗？
+### 9. 268.AI时代，个人工作台会重新回到手机吗？
 
 **播客名称**: 乱翻书
 
@@ -181,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a3bdd319d2f5743
 
 ---
 
-### 7. No.207 🔱 闽南往事：众神人间办事处，涨海声中万国商
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3b80fc2e335a35a808916f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsWHjLIWL2lIVOioEqtmxh8y9A4Y.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a3b80fc2e335a35a808916f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsWHjLIWL2lIVOioEqtmxh8y9A4Y.m4a
-```
-
-</details>
-
----
-
-### 8. Mixtape丨夏至时节的梦，一片氤氲
+### 10. Mixtape丨夏至时节的梦，一片氤氲
 
 **播客名称**: 周末变奏 Key Change
 
@@ -229,60 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnb
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4Nzk2MSwidCI6MX0.R-QXoFluPDV_q6fFr3L4xnbVnmY/keychangefm/8217705517_799194.mp3
-```
-
-</details>
-
----
-
-### 9. 说好的艺术家呢？--- AI时代，内容工业的三次死亡与创作者的重生
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a3b7fbb2e335a35a808904e/media.xyzcdn.net/6507bc165c88d2412626b401/liAu3Gfjx8KNOUC-TW3bUt1ONQ8-.m4a
-```
-
-</details>
-
----
-
-### 10. Before Kalshi and Polymarket there was the Iowa Electronic Markets
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/7fa3ac9c-373b-4536-9ed9-8d3b136cbba7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=7fa3ac9c-373b-4536-9ed9-8d3b136cbba7&feed=hvWWWzRv&t=podcast&e=nx-s1-5868659&p=510289&d=1377&size=22039910
 ```
 
 </details>
