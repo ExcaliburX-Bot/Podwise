@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-27 13:40:28
+> 📅 生成时间: 2026-06-27 19:19:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
+### 1. 108.时间你慢点走，我还没准备好不再年轻
 
-**播客名称**: 42章经
+**播客名称**: 喷嚏
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
 ```
 
 </details>
