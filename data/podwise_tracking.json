@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-06-26T19:45:43.424833",
+  "generated_at": "2026-06-27T02:58:42.540770",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "第3063期:David Hockney dies",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEODRpOAAh0uASrbtVE.m4a?channel=rss&album_id=14812466&track_id=991981003&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/73fa-audiofreehighqps/04/2A/GKwRIUEODRpOAAh0uASrbtVE.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "We almost had a smartphone in the 90s. Why did it fail?",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": " 1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3",
@@ -13,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？",
       "podcast": "知行小酒馆",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a",
@@ -23,7 +43,17 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "title": "特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "141 ✪ ☕️咖啡战争2026：机构化与本土化",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep141.mp3",
@@ -33,17 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "第3062期:AI models",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJEODRfxAAiMNASrbYKO.m4a?channel=rss&album_id=14812466&track_id=991979395&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8dd1-audiofreehighqps/FE/7D/GKwRIJEODRfxAAiMNASrbYKO.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS",
       "podcast": "创业内幕 Startup Insider",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a",
@@ -53,17 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
-      "title": "288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？",
-      "podcast": "东亚观察局",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？",
       "podcast": "硅谷101",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/c38d5df5-2eb3-46d3-8437-892593599d29.mp3",
@@ -73,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "特别加更｜马家辉X刘旸教主：这到底是新书发布会，还是新漫才组合呀？！",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfWjcJHm-46.m4a",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "对话蒋友柏：如何跳出原生家庭重塑自我？真老钱亲测有效的人生设计思维",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "余一：没有 AI 转型，只有自然生发",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
