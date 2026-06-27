@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-06-27T08:34:34.619521",
+  "generated_at": "2026-06-27T13:40:28.094484",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "108.时间你慢点走，我还没准备好不再年轻",
-      "podcast": "喷嚏",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a",
+      "title": "唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -24,16 +24,6 @@
     },
     {
       "rank": 3,
-      "title": "We almost had a smartphone in the 90s. Why did it fail?",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
       "title": " 1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3",
@@ -43,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？",
       "podcast": "知行小酒馆",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a",
@@ -53,10 +43,20 @@
       "notes": ""
     },
     {
+      "rank": 5,
+      "title": "141 ✪ ☕️咖啡战争2026：机构化与本土化",
+      "podcast": "疯投圈",
+      "audio_url": "https://rio.xyzcdn.net/crazycapital/ep141.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 6,
-      "title": "特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a",
+      "title": "288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？",
+      "podcast": "东亚观察局",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -64,9 +64,9 @@
     },
     {
       "rank": 7,
-      "title": "288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？",
-      "podcast": "东亚观察局",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a",
+      "title": "S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS",
+      "podcast": "创业内幕 Startup Insider",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "余一：没有 AI 转型，只有自然生发",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a",
+      "title": "对话蒋友柏：如何跳出原生家庭重塑自我？真老钱亲测有效的人生设计思维",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
