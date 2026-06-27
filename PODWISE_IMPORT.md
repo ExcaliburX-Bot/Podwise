@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-27 02:58:42
+> 📅 生成时间: 2026-06-27 08:34:34
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3063期:David Hockney dies
+### 1. 108.时间你慢点走，我还没准备好不再年轻
+
+**播客名称**: 喷嚏
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3063期:David Hockney dies
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIUEODRpOAAh0uASrbtVE.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. We almost had a smartphone in the 90s. Why did it fail?
+### 3. We almost had a smartphone in the 90s. Why did it fail?
 
 **播客名称**: Planet Money
 
@@ -73,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
+### 4.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a2
 
 ---
 
-### 4. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
+### 5. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743
 
 ---
 
-### 5. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
+### 6. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
 
 **播客名称**: 忽左忽右
 
@@ -154,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35
 
 ---
 
-### 6. 141 ✪ ☕️咖啡战争2026：机构化与本土化
+### 7. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
 
-**播客名称**: 疯投圈
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep141.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,34 +201,7 @@ https://rio.xyzcdn.net/crazycapital/ep141.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep141.mp3
-```
-
-</details>
-
----
-
-### 7. S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://tk.wavpub.com/WPDL_tPFEkzjQfRVbMGPESQpKJsERqBANnXKafnHtNcumrEfRDXQVPBJfW
 
 ---
 
-### 10. 对话蒋友柏：如何跳出原生家庭重塑自我？真老钱亲测有效的人生设计思维
+### 10. 余一：没有 AI 转型，只有自然生发
 
-**播客名称**: 搞钱女孩
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a3c1b6b9d2f5743683d62c5/media.xyzcdn.net/63d945ece725b5378a158d29/lhSmXN72JRr6maelHi0EqOD81PNE.m4a
+https://jt.ximalaya.com//GKwRIRwOEaW4A8fNdwSs7IyS.m4a?channel=rss&album_id=74194808&track_id=992647064&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6314-audiofreehighqps/D7/EE/GKwRIRwOEaW4A8fNdwSs7IyS.m4a
 ```
 
 </details>
