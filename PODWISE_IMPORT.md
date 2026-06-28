@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-28 03:41:47
+> 📅 生成时间: 2026-06-28 08:49:52
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a2
 
 ---
 
-### 6. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
-```
-
-</details>
-
----
-
-### 7. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
+### 6. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35
 
 ---
 
-### 8. 141 ✪ ☕️咖啡战争2026：机构化与本土化
+### 7. 141 ✪ ☕️咖啡战争2026：机构化与本土化
 
 **播客名称**: 疯投圈
 
@@ -235,7 +208,7 @@ https://rio.xyzcdn.net/crazycapital/ep141.mp3
 
 ---
 
-### 9. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
+### 8. 288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？
 
 **播客名称**: 东亚观察局
 
@@ -256,6 +229,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a
+```
+
+</details>
+
+---
+
+### 9. S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a
 ```
 
 </details>

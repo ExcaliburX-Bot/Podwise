@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:41:47.509983",
+  "generated_at": "2026-06-28T08:49:52.377975",
   "total_count": 10,
   "episodes": [
     {
@@ -54,16 +54,6 @@
     },
     {
       "rank": 6,
-      "title": "E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a",
@@ -73,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "141 ✪ ☕️咖啡战争2026：机构化与本土化",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep141.mp3",
@@ -83,10 +73,20 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "288 半导体热潮助推韩股起飞 泡沫越吹越大李在明该戳该灭？",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a3d574f2e335a35a809776e/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luZ4e2d0ZKS4EdAwhr1EoRPXeKGv.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS",
+      "podcast": "创业内幕 Startup Insider",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OEvH7AVqEYAStVYHP.m4a?channel=rss&album_id=20119986&track_id=992831190&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/409e-audiofreehighqps/55/6C/GKwRIW4OEvH7AVqEYAStVYHP.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
