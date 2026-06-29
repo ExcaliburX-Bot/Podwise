@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-28 19:18:13
+> 📅 生成时间: 2026-06-29 03:50:15
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
+### 1. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6b3d1-97e6-46c6-b0fb-d79c5c0f0677.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6b3d1-97e6-46c6-b0fb-d79c5c0f0677.mp3
+```
+
+</details>
+
+---
+
+### 2. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3
+```
+
+</details>
+
+---
+
+### 3. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
 
 **播客名称**: 无聊斋
 
@@ -46,7 +100,61 @@ https://tk.wavpub.com/WPDL_URMegzefnHShzXnWXXzkXWDJCBxUpYGQPeWaKKZxPhtdEENcTuehw
 
 ---
 
-### 2. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
+### 4. 第3065期:Does planning the perfect summer cause problems?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOFO4WAB2fPgSt5MR1.m4a?channel=rss&album_id=14812466&track_id=993082727&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/758f-audiofreehighqps/F2/42/GKwRIDoOFO4WAB2fPgSt5MR1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOFO4WAB2fPgSt5MR1.m4a?channel=rss&album_id=14812466&track_id=993082727&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/758f-audiofreehighqps/F2/42/GKwRIDoOFO4WAB2fPgSt5MR1.m4a
+```
+
+</details>
+
+---
+
+### 5. 128: Four Corners
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache
+```
+
+</details>
+
+---
+
+### 6. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
 
 **播客名称**: 十字路口Crossing
 
@@ -73,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743
 
 ---
 
-### 3. 第3064期:US mothers lose money and jobs
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwODRyQAAlJogSrcDHU.m4a?channel=rss&album_id=14812466&track_id=991982576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31b3-audiofreehighqps/1B/6E/GKwRIRwODRyQAAlJogSrcDHU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwODRyQAAlJogSrcDHU.m4a?channel=rss&album_id=14812466&track_id=991982576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31b3-audiofreehighqps/1B/6E/GKwRIRwODRyQAAlJogSrcDHU.m4a
-```
-
-</details>
-
----
-
-### 4. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
+### 7. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35
 
 ---
 
-### 5. 唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
+### 8. 唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
 
 **播客名称**: 42章经
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35
 
 ---
 
-### 6. 108.时间你慢点走，我还没准备好不再年轻
+### 9. 108.时间你慢点走，我还没准备好不再年轻
 
 **播客名称**: 喷嚏
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743
 
 ---
 
-### 7. We almost had a smartphone in the 90s. Why did it fail?
+### 10. We almost had a smartphone in the 90s. Why did it fail?
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038
-```
-
-</details>
-
----
-
-### 8. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a
-```
-
-</details>
-
----
-
-### 9. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a
-```
-
-</details>
-
----
-
-### 10. 141 ✪ ☕️咖啡战争2026：机构化与本土化
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep141.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep141.mp3
 ```
 
 </details>

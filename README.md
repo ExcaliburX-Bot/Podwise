@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-06-28 19:18  
+> 📅 **更新时间**: 2026-06-29 03:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
+### 1. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6b3d1-97e6-46c6-b0fb-d79c5c0f0677.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
 
 **播客**: 无聊斋
 
@@ -21,7 +47,33 @@
 
 ---
 
-### 2. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
+### 4. 第3065期:Does planning the perfect summer cause problems?
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOFO4WAB2fPgSt5MR1.m4a?channel=rss&album_id=14812466&track_id=993082727&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/758f-audiofreehighqps/F2/42/GKwRIDoOFO4WAB2fPgSt5MR1.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 128: Four Corners
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
 
 **播客**: 十字路口Crossing
 
@@ -34,20 +86,7 @@
 
 ---
 
-### 3. 第3064期:US mothers lose money and jobs
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwODRyQAAlJogSrcDHU.m4a?channel=rss&album_id=14812466&track_id=991982576&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/31b3-audiofreehighqps/1B/6E/GKwRIRwODRyQAAlJogSrcDHU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
+### 7. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
+### 8. 唯一深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
 
 **播客**: 42章经
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 108.时间你慢点走，我还没准备好不再年轻
+### 9. 108.时间你慢点走，我还没准备好不再年轻
 
 **播客**: 喷嚏
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. We almost had a smartphone in the 90s. Why did it fail?
+### 10. We almost had a smartphone in the 90s. Why did it fail?
 
 **播客**: Planet Money
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1605&size=25692038)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. E240 和李井奎聊聊：那些大家都知道的事，怎么一说出口就变了？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a3e24889d2f5743683e3278/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgzPs2SL3X_At7YBAbQuWlWa2wvu.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 特番｜染料、合成氨与塑料：化工如何塑造20世纪人类历史
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a3e1fa82e335a35a809b669/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltjJSev5BDwk0SOFWjsWg_xW-DYp.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 141 ✪ ☕️咖啡战争2026：机构化与本土化
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep141.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
