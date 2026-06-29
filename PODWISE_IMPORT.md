@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-29 15:43:59
+> 📅 生成时间: 2026-06-29 19:56:01
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+### 1. vol.257能戒烟能戒酒，但这个坏习惯我必须有
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
+```
+
+</details>
+
+---
+
+### 2. World Model-世界模型也有Scaling Law吗？
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+```
+
+</details>
+
+---
+
+### 3. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,7 +100,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6
 
 ---
 
-### 2. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
+### 4. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,7 +127,7 @@ https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkx
 
 ---
 
-### 3. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
+### 5. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
 
 **播客名称**: 无聊斋
 
@@ -100,34 +154,7 @@ https://tk.wavpub.com/WPDL_URMegzefnHShzXnWXXzkXWDJCBxUpYGQPeWaKKZxPhtdEENcTuehw
 
 ---
 
-### 4. 第3065期:Does planning the perfect summer cause problems?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOFO4WAB2fPgSt5MR1.m4a?channel=rss&album_id=14812466&track_id=993082727&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/758f-audiofreehighqps/F2/42/GKwRIDoOFO4WAB2fPgSt5MR1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOFO4WAB2fPgSt5MR1.m4a?channel=rss&album_id=14812466&track_id=993082727&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/758f-audiofreehighqps/F2/42/GKwRIDoOFO4WAB2fPgSt5MR1.m4a
-```
-
-</details>
-
----
-
-### 5. 128: Four Corners
+### 6. 128: Four Corners
 
 **播客名称**: This American Life
 
@@ -154,7 +181,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
+### 7. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
 
 **播客名称**: 十字路口Crossing
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743683e81b2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lryDeLIzm0-hbk68u5CqE3TI-epB.m4a
-```
-
-</details>
-
----
-
-### 7. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35a80a3d82/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnFwf2GIU9mUWHgwqPuKSDiV_SOh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35a80a3d82/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnFwf2GIU9mUWHgwqPuKSDiV_SOh.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743
 
 ---
 
-### 10.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
+### 10. We almost had a smartphone in the 90s. Why did it fail?
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a2
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
 ```
 
 </details>
