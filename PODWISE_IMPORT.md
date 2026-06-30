@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-30 03:34:17
+> 📅 生成时间: 2026-06-30 09:33:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3066期:Primitive hunting life
+### 1. GUI已死！GLM 5.2+Codex实现Token自由！下一代人真的不会用电脑了？
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
 ```
 
 </details>
@@ -73,15 +73,15 @@ https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. World Model-世界模型也有Scaling Law吗？
+### 3. vol.257能戒烟能戒酒，但这个坏习惯我必须有
 
-**播客名称**: 屠龙之术
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. Ep200 未来生活指南｜恋爱、权谋、摇滚届少了几位无关紧要的人
+### 8. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35a80a3d82/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnFwf2GIU9mUWHgwqPuKSDiV_SOh.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743683e81b2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lryDeLIzm0-hbk68u5CqE3TI-epB.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +228,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a3fb2272e335a35a80a3d82/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnFwf2GIU9mUWHgwqPuKSDiV_SOh.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743683e81b2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lryDeLIzm0-hbk68u5CqE3TI-epB.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康
+### 9. 108.时间你慢点走，我还没准备好不再年轻
 
-**播客名称**: 42章经
+**播客名称**: 喷嚏
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
 ```
 
 </details>
 
 ---
 
-### 10.  1 人公司，扛 5 个人的活，还要管 50 个 Agents ？| S10E18
+### 10. We almost had a smartphone in the 90s. Why did it fail?
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a2
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/e3a21dde-0bba-4ec2-bf12-5043500ae5c6.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
 ```
 
 </details>
