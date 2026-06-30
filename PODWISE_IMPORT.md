@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-30 09:33:24
+> 📅 生成时间: 2026-06-30 14:16:13
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. GUI已死！GLM 5.2+Codex实现Token自由！下一代人真的不会用电脑了？
+### 1. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+```
+
+</details>
+
+---
+
+### 2. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+</details>
+
+---
+
+### 3. GUI已死！GLM 5.2+Codex实现Token自由！下一代人真的不会用电脑了？
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35
 
 ---
 
-### 2. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
+### 4. 第3066期:Primitive hunting life
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+```
+
+</details>
+
+---
+
+### 5. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
 
 **播客名称**: 文化有限
 
@@ -73,7 +154,7 @@ https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.257能戒烟能戒酒，但这个坏习惯我必须有
+### 6. vol.257能戒烟能戒酒，但这个坏习惯我必须有
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743
 
 ---
 
-### 4. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+### 7. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -127,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6
 
 ---
 
-### 5. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
+### 8. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +235,7 @@ https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkx
 
 ---
 
-### 6. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
+### 9. vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？
 
 **播客名称**: 无聊斋
 
@@ -181,7 +262,7 @@ https://tk.wavpub.com/WPDL_URMegzefnHShzXnWXXzkXWDJCBxUpYGQPeWaKKZxPhtdEENcTuehw
 
 ---
 
-### 7. 128: Four Corners
+### 10. 128: Four Corners
 
 **播客名称**: This American Life
 
@@ -202,87 +283,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/75f6e2c6-dc9e-465c-ab85-3182c331e056/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=75f6e2c6-dc9e-465c-ab85-3182c331e056&nocache
-```
-
-</details>
-
----
-
-### 8. 我遇到了第一个真正想买的陪伴机器人！｜对话世博：越伴动力创始人【公路播客】
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743683e81b2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lryDeLIzm0-hbk68u5CqE3TI-epB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a3f281f9d2f5743683e81b2/media.xyzcdn.net/60502e253c92d4f62c2a9577/lryDeLIzm0-hbk68u5CqE3TI-epB.m4a
-```
-
-</details>
-
----
-
-### 9. 108.时间你慢点走，我还没准备好不再年轻
-
-**播客名称**: 喷嚏
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a
-```
-
-</details>
-
----
-
-### 10. We almost had a smartphone in the 90s. Why did it fail?
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/02fbe49b-b2a1-482a-b9ed-71c5b2405bb3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=02fbe49b-b2a1-482a-b9ed-71c5b2405bb3&feed=hvWWWzRv&t=podcast&e=nx-s1-5872785&p=510289&d=1612&size=25804051
 ```
 
 </details>
