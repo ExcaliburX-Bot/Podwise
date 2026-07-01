@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-06-30 19:55:33
+> 📅 生成时间: 2026-07-01 03:43:33
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGseP
 
 ---
 
-### 2. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
+### 2. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
-**播客名称**: 三五环
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a
 ```
 
 </details>
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35
 
 ---
 
-### 4. 第3066期:Primitive hunting life
+### 4. GUI已死！GLM 5.2+Codex实现Token自由！下一代人真的不会用电脑了？
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,41 +120,14 @@ https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOFkbrAA6E2ASuUCbQ.m4a?channel=rss&album_id=14812466&track_id=993242931&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0255-audiofreehighqps/70/F6/GKwRIJIOFkbrAA6E2ASuUCbQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
 ```
 
 </details>
 
 ---
 
-### 5. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887212&track_id=993331260&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/01b0-audiofreehighqps/A3/2A/GKwRIRwOFttlA0g6AwSujzYD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887212&track_id=993331260&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/01b0-audiofreehighqps/A3/2A/GKwRIRwOFttlA0g6AwSujzYD.m4a
-```
-
-</details>
-
----
-
-### 6. vol.257能戒烟能戒酒，但这个坏习惯我必须有
+### 5. vol.257能戒烟能戒酒，但这个坏习惯我必须有
 
 **播客名称**: 正经叭叭
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
+```
+
+</details>
+
+---
+
+### 6. World Model-世界模型也有Scaling Law吗？
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
 ```
 
 </details>
