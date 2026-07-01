@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-01 14:32:50
+> 📅 生成时间: 2026-07-01 19:53:17
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
+### 1. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a
+```
+
+</details>
+
+---
+
+### 2. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
 
 **播客名称**: What's Next｜科技早知道
 
@@ -46,7 +73,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448
 
 ---
 
-### 2. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
+### 3. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35
 
 ---
 
-### 3. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
+### 4. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a
+```
+
+</details>
+
+---
+
+### 5. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
 **播客名称**: 贝望录
 
@@ -94,60 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a
-```
-
-</details>
-
----
-
-### 4. 第3067期:Ballet dancer's career
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAOFkmNAAsbawSuUSeS.m4a?channel=rss&album_id=14812466&track_id=993244353&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7e9-audiofreehighqps/8C/58/GKwRIMAOFkmNAAsbawSuUSeS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAOFkmNAAsbawSuUSeS.m4a?channel=rss&album_id=14812466&track_id=993244353&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7e9-audiofreehighqps/8C/58/GKwRIMAOFkmNAAsbawSuUSeS.m4a
-```
-
-</details>
-
----
-
-### 5. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. vol.257能戒烟能戒酒，但这个坏习惯我必须有
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743683fd9a1/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lpUiayp6haCIGrRAHNYNb-i_CgvA.m4a
-```
-
-</details>
-
----
-
-### 10. World Model-世界模型也有Scaling Law吗？
+### 9. World Model-世界模型也有Scaling Law吗？
 
 **播客名称**: 屠龙之术
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
+```
+
+</details>
+
+---
+
+### 10. 170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6b3d1-97e6-46c6-b0fb-d79c5c0f0677.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/9ee6b3d1-97e6-46c6-b0fb-d79c5c0f0677.mp3
 ```
 
 </details>
