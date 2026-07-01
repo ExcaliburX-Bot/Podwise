@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-01 09:43  
+> 📅 **更新时间**: 2026-07-01 14:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,33 +21,20 @@
 
 ---
 
-### 2. Can the Trump administration make college cheaper?
+### 2. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
 
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
-
-**播客**: 无聊斋
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
+### 3. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
 **播客**: 贝望录
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第3067期:Ballet dancer's career
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOFkmNAAsbawSuUSeS.m4a?channel=rss&album_id=14812466&track_id=993244353&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7e9-audiofreehighqps/8C/58/GKwRIMAOFkmNAAsbawSuUSeS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
+### 6. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
 
 **播客**: 人民公园说AI
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
+### 8. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
 
 **播客**: 文化有限
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. vol.257能戒烟能戒酒，但这个坏习惯我必须有
+### 9. vol.257能戒烟能戒酒，但这个坏习惯我必须有
 
 **播客**: 正经叭叭
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. World Model-世界模型也有Scaling Law吗？
+### 10. World Model-世界模型也有Scaling Law吗？
 
 **播客**: 屠龙之术
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-01 09:43:05
+> 📅 生成时间: 2026-07-01 14:32:50
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448
 
 ---
 
-### 2. Can the Trump administration make college cheaper?
+### 2. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
 
-**播客名称**: Planet Money
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +66,14 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
 ```
 
 </details>
 
 ---
 
-### 3. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a
-```
-
-</details>
-
----
-
-### 4. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
+### 3. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
 **播客名称**: 贝望录
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a
+```
+
+</details>
+
+---
+
+### 4. 第3067期:Ballet dancer's career
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOFkmNAAsbawSuUSeS.m4a?channel=rss&album_id=14812466&track_id=993244353&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7e9-audiofreehighqps/8C/58/GKwRIMAOFkmNAAsbawSuUSeS.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOFkmNAAsbawSuUSeS.m4a?channel=rss&album_id=14812466&track_id=993244353&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b7e9-audiofreehighqps/8C/58/GKwRIMAOFkmNAAsbawSuUSeS.m4a
 ```
 
 </details>
@@ -154,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35
 
 ---
 
-### 6. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
+### 6. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+</details>
+
+---
+
+### 7. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
 
 **播客名称**: 人民公园说AI
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35
 
 ---
 
-### 7. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
+### 8. Vol.341 像运动员一样思考：要告诉自己“我有多棒！”
 
 **播客名称**: 文化有限
 
@@ -208,7 +235,7 @@ https://jt.ximalaya.com//GKwRIRwOFttlA0g6AwSujzYD.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.257能戒烟能戒酒，但这个坏习惯我必须有
+### 9. vol.257能戒烟能戒酒，但这个坏习惯我必须有
 
 **播客名称**: 正经叭叭
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4288009d2f5743
 
 ---
 
-### 9. World Model-世界模型也有Scaling Law吗？
+### 10. World Model-世界模型也有Scaling Law吗？
 
 **播客名称**: 屠龙之术
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a
-```
-
-</details>
-
----
-
-### 10. 6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_tVfALyzgfmMNZSeazDhhSvAYBxfbVcxQTPyunmXPTUqTeJaABNkkxrgdaa-48.mp3
 ```
 
 </details>
