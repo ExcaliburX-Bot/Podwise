@@ -1,148 +1,34 @@
-# 🎙️ 小宇宙播客热榜 - AI 智能分析版
+# 🎙️ 我的播客订阅日报
 
-> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-02 13:57  
-> 📊 **分析进度**: 0/10 已完成
+每天自动抓取最新单集，方便导入 Podwise。
 
----
+| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
+| :---: | :--- | :--- | :--- |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [让宋冬野和《再想想》在空中再飘荡一会儿](#) | 周末变奏 Key Change | 2026-07-02 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3068期:Tasting food using virtual reality](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-02 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](#) | 晚点聊 LateTalk | 2026-07-01 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [从会跳舞到有感知，触觉是机器人通往智能的门票吗？- S10E19](#) | What's Next｜科技早知道 | 2026-07-01 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Can the Trump administration make college cheaper?](#) | Planet Money | 2026-07-01 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3067期:Ballet dancer's career](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-01 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（高级续）96-100](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-06-30 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！](#) | 无聊斋 | 2026-06-30 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3066期:Primitive hunting life](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-30 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.341 像运动员一样思考：要告诉自己“我有多棒！”](#) | 文化有限 | 2026-06-29 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [170: 【具身季报 26Q2】世界模型大风不停，和不想被贴标签的人](#) | 晚点聊 LateTalk | 2026-06-29 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3065期:Does planning the perfect summer cause problems?](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-29 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母O day160（1591-1600)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-06-28 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [128: Four Corners](#) | This American Life | 2026-06-28 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [6月新歌推荐丨A-Lin、马念先、娅娅、MONO… 本月超量推荐🥹！](#) | Vibration 歪波音室 | 2026-06-28 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.592 见天地｜ 2个月、7600公里，重走一条“不存在的线”？](#) | 无聊斋 | 2026-06-28 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3064期:US mothers lose money and jobs](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-28 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）14-2021年山东一卷](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-06-27 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3063期:David Hockney dies](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-27 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [We almost had a smartphone in the 90s. Why did it fail?](#) | Planet Money | 2026-06-26 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [1 人公司，扛 5 个人的活，还要管 50 个 Agents ？- S10E18](#) | What's Next｜科技早知道 | 2026-06-26 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [141 ✪ ☕️咖啡战争2026：机构化与本土化](#) | 疯投圈 | 2026-06-26 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3062期:AI models](#) | 英语每日一听 | 每天少于5分钟 | 2026-06-26 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E241｜跑鞋技术迭代史：马拉松跑进2小时，靠人还是靠鞋？](#) | 硅谷101 | 2026-06-26 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 柯南·道尔《福尔摩斯与赛马》part1](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-06-25 |
+| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.13 纷享销客罗旭：AI不会让SaaS消失，但会杀死工具型SaaS](#) | 创业内幕 Startup Insider | 2026-06-25 |
 
-## 🎯 Top 10 热门播客
-
-### 1. 让宋冬野的《再想想》在空中再飘荡一会儿
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第3068期:Tasting food using virtual reality
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOFkvDAAr2agSuUedx.m4a?channel=rss&album_id=14812466&track_id=993245780&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47f9-audiofreehighqps/77/C2/GKwRIDoOFkvDAAr2agSuUedx.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35a80ca215/media.xyzcdn.net/63d945ece725b5378a158d29/lhDT8iTdC4PK3RxrtVoceDt8BbnS.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
-
-**播客**: 此话当真
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Can the Trump administration make college cheaper?
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGsePTnTEq-b4.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-## 🛠️ 如何使用
-
-1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
-2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
-3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
-4. 提交代码，本报告将自动更新。
-
-*Powered by GitHub Actions & Podwise*
+_最后更新: 2026-07-02 16:03:30_
