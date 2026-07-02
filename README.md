@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-02 03:29  
+> 📅 **更新时间**: 2026-07-02 08:54  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3068期:Tasting food using virtual reality
+### 1. 让宋冬野的《再想想》在空中再飘荡一会儿
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3068期:Tasting food using virtual reality
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 3. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客**: 搞钱女孩
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+### 4. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
+### 5. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
 
 **播客**: 此话当真
 
@@ -60,33 +73,7 @@
 
 ---
 
-### 5. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Can the Trump administration make college cheaper?
+### 6. Can the Trump administration make college cheaper?
 
 **播客**: Planet Money
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
+### 7. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
 
 **播客**: 无聊斋
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
+### 8. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
 **播客**: 贝望录
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
+### 9. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
 
 **播客**: 三五环
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
