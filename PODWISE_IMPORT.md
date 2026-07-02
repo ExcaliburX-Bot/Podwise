@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-02 13:57:45
+> 📅 生成时间: 2026-07-02 19:22:47
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 让宋冬野的《再想想》在空中再飘荡一会儿
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
-```
-
-</details>
-
----
-
-### 2. 第3068期:Tasting food using virtual reality
+### 1. 第3068期:Tasting food using virtual reality
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +46,7 @@ https://jt.ximalaya.com//GKwRIDoOFkvDAAr2agSuUedx.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 2. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35
 
 ---
 
-### 4. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+### 3. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35
 
 ---
 
-### 5. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
+### 4. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
 
 **播客名称**: 此话当真
 
@@ -154,61 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f5743
 
 ---
 
-### 6. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3
-```
-
-</details>
-
----
-
-### 7. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
-```
-
-</details>
-
----
-
-### 8. Can the Trump administration make college cheaper?
+### 5. Can the Trump administration make college cheaper?
 
 **播客名称**: Planet Money
 
@@ -235,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
+### 6. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
 
 **播客名称**: 无聊斋
 
@@ -262,7 +181,7 @@ https://tk.wavpub.com/WPDL_TLEDgzwjjsXzasDpVysMMWQPEgyfHcmwseaGwDTyeduNEHzwVGseP
 
 ---
 
-### 10. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
+### 7. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
 
 **播客名称**: 贝望录
 
@@ -283,6 +202,87 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a
+```
+
+</details>
+
+---
+
+### 8. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a
+```
+
+</details>
+
+---
+
+### 9. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a
+```
+
+</details>
+
+---
+
+### 10. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a
 ```
 
 </details>
