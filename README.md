@@ -1,14 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-02 19:22  
+> 📅 **更新时间**: 2026-07-03 02:52  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3068期:Tasting food using virtual reality
+### 1. 第3069期:Tasting food using virtual reality
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -16,12 +16,51 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOFkvDAAr2agSuUedx.m4a?channel=rss&album_id=14812466&track_id=993245780&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/47f9-audiofreehighqps/77/C2/GKwRIDoOFkvDAAr2agSuUedx.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 2. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 让宋冬野和《再想想》在空中再飘荡一会儿
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客**: 搞钱女孩
 
@@ -34,20 +73,7 @@
 
 ---
 
-### 3. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
+### 6. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
 
 **播客**: 此话当真
 
@@ -60,7 +86,20 @@
 
 ---
 
-### 5. Can the Trump administration make college cheaper?
+### 7. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Can the Trump administration make college cheaper?
 
 **播客**: Planet Money
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
+### 9. vol.593 《魔方小姐》：人间一趟，拍得开心！玩得尽兴 ！爱得热烈！
 
 **播客**: 无聊斋
 
@@ -86,20 +125,7 @@
 
 ---
 
-### 7. 228. 英伦奇葩说丨为什么英国只有一个国家，却有四支世界杯国家队？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a3fd78c2e335a35a80a4b21/media.xyzcdn.net/5e285856418a84a04627b7be/lhQmDexgzkIK97KJ3aRCqUgUuI0l.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
+### 10. No.223 当单纯的投放逻辑已经失效，我们如何重新理解种草？
 
 **播客**: 三五环
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4335d22e335a35a80b900d/media.xyzcdn.net/5e280fab418a84a0461faa3c/llYfUaprrwyHHiMEWRW5l4EOwviY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 479 萧西之水谈日本自民党派阀兴亡：从「角福战争」、中日邦交正常化到金权丑闻
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a438a6f2e335a35a80bca6d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lihzCtl-0BLybEOIWPeQZk5MRv5B.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. GLM 5.2能代替Opus吗？GLM 5.2+Codex实现Token自由！下一代人真的不用电脑了？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a433d3e2e335a35a80b9624/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqGBJg9qwoZ_UdtMlc8sWHxM_iQ5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
