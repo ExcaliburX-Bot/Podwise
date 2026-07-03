@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-03 09:16:01
+> 📅 生成时间: 2026-07-03 14:01:12
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 1. 第3069期:Tasting food using virtual reality
 
-**播客名称**: 忽左忽右
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f57436841fe89/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljqUH7wlplf1aCuGgHxj02pUElSN.m4a
+https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f5743
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f57436841fe89/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljqUH7wlplf1aCuGgHxj02pUElSN.m4a
+https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
 ```
 
 </details>
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35
 
 ---
 
-### 4. 第3069期:Tasting food using virtual reality
+### 4. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
+https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +120,7 @@ https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
+https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
 ```
 
 </details>
@@ -154,61 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35
 
 ---
 
-### 6. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
-```
-
-</details>
-
----
-
-### 7. 让宋冬野和《再想想》在空中再飘荡一会儿
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
-```
-
-</details>
-
----
-
-### 8. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 6. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客名称**: 搞钱女孩
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35
 
 ---
 
-### 9. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+### 7. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 **播客名称**: 十字路口Crossing
 
@@ -262,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35
 
 ---
 
-### 10. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
+### 8. Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？
+
+**播客名称**: 此话当真
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a
+```
+
+</details>
+
+---
+
+### 9. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
 
 **播客名称**: What's Next｜科技早知道
 
@@ -283,6 +256,33 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3
+```
+
+</details>
+
+---
+
+### 10. Can the Trump administration make college cheaper?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/95999483-ef36-4387-be6a-ef88b29d13d3/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=95999483-ef36-4387-be6a-ef88b29d13d3&feed=hvWWWzRv&t=podcast&e=nx-s1-5876467&p=510289&d=1719&size=27517684
 ```
 
 </details>
