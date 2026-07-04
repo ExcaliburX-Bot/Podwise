@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-04 13:22:52
+> 📅 生成时间: 2026-07-04 19:10:32
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. How to win a penalty shootout (with game theory)
+### 1. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
 
-**播客名称**: Planet Money
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
 ```
 
 </details>
 
 ---
 
-### 2. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
+### 2. 第3070期:The secret to a good night's sleep every night.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OFlBrAA0l4wSuU_L0.m4a?channel=rss&album_id=14812466&track_id=993249047&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b403-audiofreehighqps/FF/11/GKwRIW4OFlBrAA0l4wSuU_L0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OFlBrAA0l4wSuU_L0.m4a?channel=rss&album_id=14812466&track_id=993249047&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b403-audiofreehighqps/FF/11/GKwRIW4OFlBrAA0l4wSuU_L0.m4a
+```
+
+</details>
+
+---
+
+### 3. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
 
 **播客名称**: 知行小酒馆
 
@@ -73,61 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35
 
 ---
 
-### 3. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f57436841fe89/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljqUH7wlplf1aCuGgHxj02pUElSN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f57436841fe89/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljqUH7wlplf1aCuGgHxj02pUElSN.m4a
-```
-
-</details>
-
----
-
-### 4. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
-```
-
-</details>
-
----
-
-### 5. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 4. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客名称**: 沈奕斐的播客
 
@@ -148,6 +121,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
+```
+
+</details>
+
+---
+
+### 5. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5B
 
 ---
 
-### 8. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 8. 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35a80ca215/media.xyzcdn.net/63d945ece725b5378a158d29/lhDT8iTdC4PK3RxrtVoceDt8BbnS.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63679176-fb2c-4a3b-9256-4a85d4f86211.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35a80ca215/media.xyzcdn.net/63d945ece725b5378a158d29/lhDT8iTdC4PK3RxrtVoceDt8BbnS.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63679176-fb2c-4a3b-9256-4a85d4f86211.mp3
 ```
 
 </details>
