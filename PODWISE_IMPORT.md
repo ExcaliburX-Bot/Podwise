@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-03 19:20:20
+> 📅 生成时间: 2026-07-04 02:48:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 1. 第3070期:The secret to a good night's sleep every night.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OFlBrAA0l4wSuU_L0.m4a?channel=rss&album_id=14812466&track_id=993249047&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b403-audiofreehighqps/FF/11/GKwRIW4OFlBrAA0l4wSuU_L0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OFlBrAA0l4wSuU_L0.m4a?channel=rss&album_id=14812466&track_id=993249047&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b403-audiofreehighqps/FF/11/GKwRIW4OFlBrAA0l4wSuU_L0.m4a
+```
+
+</details>
+
+---
+
+### 2. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35a80d789e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lu8xR6NKlpRwk1TAjX36MPzOBjAu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35a80d789e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lu8xR6NKlpRwk1TAjX36MPzOBjAu.m4a
+```
+
+</details>
+
+---
+
+### 3. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
 
 **播客名称**: 忽左忽右
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f5743
 
 ---
 
-### 2. 第3069期:Tasting food using virtual reality
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a
-```
-
-</details>
-
----
-
-### 3. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 4. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客名称**: 沈奕斐的播客
 
@@ -100,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35
 
 ---
 
-### 4. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
+### 5. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
+```
+
+</details>
+
+---
+
+### 6. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
 
 **播客名称**: 东亚观察局
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35
 
 ---
 
-### 5. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
+### 7. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -154,7 +208,7 @@ https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119
 
 ---
 
-### 6. 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
+### 8. 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +235,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/6367
 
 ---
 
-### 7. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 9. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客名称**: 搞钱女孩
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35
 
 ---
 
-### 8. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+### 10. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 **播客名称**: 十字路口Crossing
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a
-```
-
-</details>
-
----
-
-### 9. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3
-```
-
-</details>
-
----
-
-### 10. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a
 ```
 
 </details>

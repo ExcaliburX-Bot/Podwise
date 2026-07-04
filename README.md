@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-03 19:20  
+> 📅 **更新时间**: 2026-07-04 02:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 1. 第3070期:The secret to a good night's sleep every night.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OFlBrAA0l4wSuU_L0.m4a?channel=rss&album_id=14812466&track_id=993249047&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b403-audiofreehighqps/FF/11/GKwRIW4OFlBrAA0l4wSuU_L0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35a80d789e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lu8xR6NKlpRwk1TAjX36MPzOBjAu.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
 
 **播客**: 忽左忽右
 
@@ -21,20 +47,7 @@
 
 ---
 
-### 2. 第3069期:Tasting food using virtual reality
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOFk6OABp8AQSuUtQg.m4a?channel=rss&album_id=14812466&track_id=993247386&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e0aa-audiofreehighqps/0F/CA/GKwRIDoOFk6OABp8AQSuUtQg.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 4. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客**: 沈奕斐的播客
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
+### 5. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
 
 **播客**: 东亚观察局
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
+### 7. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
 
 **播客**: 创业内幕 Startup Insider
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
+### 8. 171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
+### 9. 大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划
 
 **播客**: 搞钱女孩
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
+### 10. Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？
 
 **播客**: 十字路口Crossing
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 从会跳舞到有感知，触觉是机器人通往智能的门票吗？| S10E19
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f448a656-3004-430b-a853-79d1e77dcb53.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.208 中国手机江湖·上：摩托罗拉、诺基亚和爱立信的诸神黄昏 | 中国互联网故事23
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a44a6bc2e335a35a80c3f53/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ll2cFm0twaYGHmKjx-O6hKV_m57F.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
