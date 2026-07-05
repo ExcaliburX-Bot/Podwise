@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T08:50:58.800991",
+  "generated_at": "2026-07-05T13:29:21.792100",
   "total_count": 10,
   "episodes": [
     {
@@ -14,6 +14,16 @@
     },
     {
       "rank": 2,
+      "title": "Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "How to win a penalty shootout (with game theory)",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线",
       "podcast": "知行小酒馆",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35a80d789e/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lu8xR6NKlpRwk1TAjX36MPzOBjAu.m4a",
@@ -33,20 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f57436841fe89/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljqUH7wlplf1aCuGgHxj02pUElSN.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律",
-      "podcast": "沈奕斐的播客",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -64,9 +64,9 @@
     },
     {
       "rank": 7,
-      "title": "289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”",
-      "podcast": "东亚观察局",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a",
+      "title": "260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律",
+      "podcast": "沈奕斐的播客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "大专生逆袭！突破搞钱卡点最快的方式就是换圈子 | 天财女友计划",
-      "podcast": "搞钱女孩",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4565062e335a35a80ca215/media.xyzcdn.net/63d945ece725b5378a158d29/lhDT8iTdC4PK3RxrtVoceDt8BbnS.m4a",
+      "title": "让宋冬野和《再想想》在空中再飘荡一会儿",
+      "podcast": "周末变奏 Key Change",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "Agent 元年第 500 天：什么在消失，什么在诞生——为什么我们不该再投资 GUI 思维的软件？",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a4511d92e335a35a80c8431/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhWDxFPKE3BMAmjK4E6KNk-5sN-b.m4a",
+      "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63679176-fb2c-4a3b-9256-4a85d4f86211.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
