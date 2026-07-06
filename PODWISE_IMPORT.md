@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-06 15:29:50
+> 📅 生成时间: 2026-07-06 19:54:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
+### 1. vol.258我的热情，好像一把火，烧ta个五到十年的
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35a80f11c9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqJ_wYL7A7upVcpijPdEfJLsOuG1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35a80f11c9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqJ_wYL7A7upVcpijPdEfJLsOuG1.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
 
 **播客名称**: 无聊斋
 
@@ -40,33 +67,6 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNmvjRDV-3b.m4a
-```
-
-</details>
-
----
-
-### 2. 第3072期:Why temperature records are being not only broken but smashed
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOHkOvAAaLKwSxQ61l.m4a?channel=rss&album_id=14812466&track_id=998564917&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/861f-audiofreehighqps/89/63/GKwRIJEOHkOvAAaLKwSxQ61l.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOHkOvAAaLKwSxQ61l.m4a?channel=rss&album_id=14812466&track_id=998564917&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/861f-audiofreehighqps/89/63/GKwRIJEOHkOvAAaLKwSxQ61l.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f5743
 
 ---
 
-### 8. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
+### 8. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
-**播客名称**: 贝望录
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f5743
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35
 
 ---
 
-### 10. 让宋冬野和《再想想》在空中再飘荡一会儿
+### 10. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
+https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5B
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
+https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
 ```
 
 </details>
