@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-05 19:16  
+> 📅 **更新时间**: 2026-07-06 03:26  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,7 @@
 
 ---
 
-### 2. 第3071期:Electric motorcycles increase the income of rural women in Zimbabwe.
+### 2. 第3072期:Why temperature records are being not only broken but smashed
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -29,12 +29,38 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OFlK8AAyaZASuVRWY.m4a?channel=rss&album_id=14812466&track_id=993250958&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f3b1-audiofreehighqps/3F/5D/GKwRIW4OFlK8AAyaZASuVRWY.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOHkOvAAaLKwSxQ61l.m4a?channel=rss&album_id=14812466&track_id=998564917&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/861f-audiofreehighqps/89/63/GKwRIJEOHkOvAAaLKwSxQ61l.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
+### 3. 890: Maximal Americanness
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. How to win a penalty shootout (with game theory)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 6. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
 
 **播客**: 忽左忽右
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 7. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客**: 沈奕斐的播客
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

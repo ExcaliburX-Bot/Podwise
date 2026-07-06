@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-05 19:16:17
+> 📅 生成时间: 2026-07-06 03:26:09
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,7 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 
 ---
 
-### 2. 第3071期:Electric motorcycles increase the income of rural women in Zimbabwe.
+### 2. 第3072期:Why temperature records are being not only broken but smashed
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -54,7 +54,7 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4OFlK8AAyaZASuVRWY.m4a?channel=rss&album_id=14812466&track_id=993250958&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f3b1-audiofreehighqps/3F/5D/GKwRIW4OFlK8AAyaZASuVRWY.m4a
+https://jt.ximalaya.com//GKwRIJEOHkOvAAaLKwSxQ61l.m4a?channel=rss&album_id=14812466&track_id=998564917&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/861f-audiofreehighqps/89/63/GKwRIJEOHkOvAAaLKwSxQ61l.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://jt.ximalaya.com//GKwRIW4OFlK8AAyaZASuVRWY.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4OFlK8AAyaZASuVRWY.m4a?channel=rss&album_id=14812466&track_id=993250958&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f3b1-audiofreehighqps/3F/5D/GKwRIW4OFlK8AAyaZASuVRWY.m4a
+https://jt.ximalaya.com//GKwRIJEOHkOvAAaLKwSxQ61l.m4a?channel=rss&album_id=14812466&track_id=998564917&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/861f-audiofreehighqps/89/63/GKwRIJEOHkOvAAaLKwSxQ61l.m4a
 ```
 
 </details>
 
 ---
 
-### 3. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
+### 3. 890: Maximal Americanness
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache
+```
+
+</details>
+
+---
+
+### 4. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3
+```
+
+</details>
+
+---
+
+### 5. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233c
 
 ---
 
-### 4. How to win a penalty shootout (with game theory)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
-```
-
-</details>
-
----
-
-### 5. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 6. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f5743
 
 ---
 
-### 6. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 7. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客名称**: 沈奕斐的播客
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
-```
-
-</details>
-
----
-
-### 7. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
 ```
 
 </details>
