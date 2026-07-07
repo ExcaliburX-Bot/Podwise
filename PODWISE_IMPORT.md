@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-07 09:38:36
+> 📅 生成时间: 2026-07-07 14:31:17
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3073期:Heat, humidity and the World Cup
+### 1. 纯 Vibe Coding 做大项目，一定会塌掉
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a
+```
+
+</details>
+
+---
+
+### 2. No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35a80f7725/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpLDzlsjXPregGtSm8wxmac6NFyO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35a80f7725/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpLDzlsjXPregGtSm8wxmac6NFyO.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3073期:Heat, humidity and the World Cup
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIDoOHkZJABEoUwSxRNhd.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
+### 4. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
 
 **播客名称**: 文化有限
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.258我的热情，好像一把火，烧ta个五到十年的
+### 5. vol.258我的热情，好像一把火，烧ta个五到十年的
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35
 
 ---
 
-### 4. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
+### 6. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
 
 **播客名称**: 无聊斋
 
@@ -127,7 +181,34 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 
 ---
 
-### 5. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+### 7. 890: Maximal Americanness
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5066d1f0-f8af-484d-a5a6-aea3a4966cf8/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5066d1f0-f8af-484d-a5a6-aea3a4966cf8&nocache
+```
+
+</details>
+
+---
+
+### 8. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
 
 **播客名称**: 硅谷101
 
@@ -154,7 +235,34 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f
 
 ---
 
-### 6. How to win a penalty shootout (with game theory)
+### 9. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
+```
+
+</details>
+
+---
+
+### 10. How to win a penalty shootout (with game theory)
 
 **播客名称**: Planet Money
 
@@ -175,114 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
-```
-
-</details>
-
----
-
-### 7. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
-```
-
-</details>
-
----
-
-### 8. 25. 找出路丨从联想到创业，她用十年证明：先走出来，再决定往哪里去
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4520019d2f574368410349/media.xyzcdn.net/FqOX38_gPg9gF8RBg6qmikGazllI.m4a
-```
-
-</details>
-
----
-
-### 9. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a
-```
-
-</details>
-
----
-
-### 10. 让宋冬野和《再想想》在空中再飘荡一会儿
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODAxNiwidCI6MX0.fmH16Nfko-fNtvmAZKMRx5BoSd4/keychangefm/8217019111_935271.mp3
 ```
 
 </details>
