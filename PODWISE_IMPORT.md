@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-06 19:54:41
+> 📅 生成时间: 2026-07-07 02:59:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.258我的热情，好像一把火，烧ta个五到十年的
+### 1. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887212&track_id=998915396&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5342-audiofreehighqps/4E/D1/GKwRIDoOIOFZAqyZ6gSyJsHH.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887212&track_id=998915396&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5342-audiofreehighqps/4E/D1/GKwRIDoOIOFZAqyZ6gSyJsHH.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.258我的热情，好像一把火，烧ta个五到十年的
 
 **播客名称**: 正经叭叭
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35
 
 ---
 
-### 2. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
+### 3. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
 
 **播客名称**: 无聊斋
 
@@ -73,7 +100,7 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 
 ---
 
-### 3. 890: Maximal Americanness
+### 4. 890: Maximal Americanness
 
 **播客名称**: This American Life
 
@@ -100,7 +127,34 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 4. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
+### 5. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3
+```
+
+</details>
+
+---
+
+### 6. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233c
 
 ---
 
-### 5. How to win a penalty shootout (with game theory)
+### 7. How to win a penalty shootout (with game theory)
 
 **播客名称**: Planet Money
 
@@ -154,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
+### 8. E241 这次真的不一样吗？在市场喧嚣里，找到不变的参照系｜SBBI China 2025 上线
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a4762cf2e335a35
 
 ---
 
-### 7. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
+### 9. 480 从「西印度毁灭述略」到冷战核危机：漫谈古巴与加勒比海五百年
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4779e19d2f5743
 
 ---
 
-### 8. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
+### 10. 260.AI说会赔偿10万，有法律效力吗？AI生成虚假内容，责任在谁？｜聊AI与法律
 
 **播客名称**: 沈奕斐的播客
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4628a12e335a35a80cfb65/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lleNjYiNXQ6YKbnn8FUdgMJjjB6x.m4a
-```
-
-</details>
-
----
-
-### 9. 289 亲撕反华假新闻、日韩亲善泼冷水：政治精算师李在明的“微操作”
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4678142e335a35a80d2408/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg6osKsTty4eAG5xB4r-B1K2pr5n.m4a
-```
-
-</details>
-
----
-
-### 10. S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOG5-TAO8vBwSwS8ZR.m4a?channel=rss&album_id=20119986&track_id=998190165&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/575f-audiofreehighqps/7C/D6/GKwRIJIOG5-TAO8vBwSwS8ZR.m4a
 ```
 
 </details>
