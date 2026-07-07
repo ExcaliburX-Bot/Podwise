@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-07 14:31:17
+> 📅 生成时间: 2026-07-07 19:53:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 纯 Vibe Coding 做大项目，一定会塌掉
+### 1. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lj_hOIPbqNWD0qSJq1dHvmgqFdCK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lj_hOIPbqNWD0qSJq1dHvmgqFdCK.m4a
+```
+
+</details>
+
+---
+
+### 2. 纯 Vibe Coding 做大项目，一定会塌掉
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
+### 3. No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
 
 **播客名称**: 三五环
 
@@ -73,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35
 
 ---
 
-### 3. 第3073期:Heat, humidity and the World Cup
+### 4. 481 与柏琳漫谈巴尔干千年史：从古南斯拉夫诸国到近代科索沃危机
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4cc0a72e335a35a80f79c8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmGRzM8MctxsZWtO2GxYkoQv-u9q.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4cc0a72e335a35a80f79c8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmGRzM8MctxsZWtO2GxYkoQv-u9q.m4a
+```
+
+</details>
+
+---
+
+### 5. 第3073期:Heat, humidity and the World Cup
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIDoOHkZJABEoUwSxRNhd.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
+### 6. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
 
 **播客名称**: 文化有限
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. vol.258我的热情，好像一把火，烧ta个五到十年的
+### 7. vol.258我的热情，好像一把火，烧ta个五到十年的
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35
 
 ---
 
-### 6. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
+### 8. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
 
 **播客名称**: 无聊斋
 
@@ -181,7 +235,7 @@ https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNm
 
 ---
 
-### 7. 890: Maximal Americanness
+### 9. 890: Maximal Americanness
 
 **播客名称**: This American Life
 
@@ -208,7 +262,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
+### 10. E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地
 
 **播客名称**: 硅谷101
 
@@ -229,60 +283,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/308f9278-dd48-44d3-a4ce-ee436968fc28.mp3
-```
-
-</details>
-
----
-
-### 9. Ep201 奥克兰生存手册：老想嫁给毛利人了（ You show 还钱！）
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a489c553fb7233cbf4382c9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqGo-QqFtV-OqsDirwn4irg3f7nP.m4a
-```
-
-</details>
-
----
-
-### 10. How to win a penalty shootout (with game theory)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2ad4a8bb-a39b-40f0-b138-a6e6887c5f6a&feed=hvWWWzRv&t=podcast&e=nx-s1-5879357&p=510289&d=1077&size=17233799
 ```
 
 </details>
