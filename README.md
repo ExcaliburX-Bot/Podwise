@@ -1,32 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-07-08 19:23  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [为什么硅谷开始重新定义「AI 记忆」- S10E20](#) | What's Next｜科技早知道 | 2026-07-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Our mission: Find the world’s best economic ideas (Summer School World Tour)](#) | Planet Money | 2026-07-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》](#) | 随机波动StochasticVolatility | 2026-07-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3074期:How American elementary school students view racial issues](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（高级续）101-105](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-07-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [65 如何和这个世界相处，我有一些绝妙的法术！](#) | 放学以后After school | 2026-07-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [纯 Vibe Coding 做大项目，一定会塌掉](#) | AI炼金术 | 2026-07-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3073期:Heat, humidity and the World Cup](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？](#) | 文化有限 | 2026-07-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E242｜最快半年AI跑通自进化？与陈天桥首席科学家聊聊硅谷模型必争之地](#) | 硅谷101 | 2026-07-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3072期:Why temperature records are being not only broken but smashed](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母O-P day161（1601-1610)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-07-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [890: Maximal Americanness](#) | This American Life | 2026-07-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊](#) | 无聊斋 | 2026-07-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3071期:Electric motorcycles increase the income of rural women in Zimbabwe.](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）15-2021年山东二卷](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-07-04 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3070期:The secret to a good night's sleep every night.](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-04 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [How to win a penalty shootout (with game theory)](#) | Planet Money | 2026-07-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3069期:Tasting food using virtual reality](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-03 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 柯南·道尔《福尔摩斯与赛马》part2](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-07-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.14 久违的Fellows坦白局：好久不见，聊点 AI 创业的大实话](#) | 创业内幕 Startup Insider | 2026-07-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [让宋冬野和《再想想》在空中再飘荡一会儿](#) | 周末变奏 Key Change | 2026-07-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3068期:Tasting food using virtual reality](#) | 英语每日一听 | 每天少于5分钟 | 2026-07-02 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？](#) | 晚点聊 LateTalk | 2026-07-01 |
+---
 
-_最后更新: 2026-07-08 16:00:24_
+## 🎯 Top 10 热门播客
+
+### 1. 为什么硅谷开始重新定义「AI 记忆」| S10E20
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. No.209 🐪 晋商往事：走西口到乔家大院然后煤了
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4b55162e335a35a80ecbdf/media.xyzcdn.net/5e285856418a84a04627b7be/lmM5Q0LDzTM6KwIlU0tytsKaPFi0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a4d1be23fb7233cbf45564f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/llcXdGSoCAL-LKoe3hqjRDaffkA5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+
+**播客**: 英美剧漫游指南KillingTV
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 65 如何和这个世界相处，我有一些绝妙的法术！
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 纯 Vibe Coding 做大项目，一定会塌掉
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35a80f7725/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpLDzlsjXPregGtSm8wxmac6NFyO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887212&track_id=998915396&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5342-audiofreehighqps/4E/D1/GKwRIDoOIOFZAqyZ6gSyJsHH.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*
