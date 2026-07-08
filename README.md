@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-08 08:25  
+> 📅 **更新时间**: 2026-07-08 14:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
+### 1. 为什么硅谷开始重新定义「AI 记忆」| S10E20
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
 
 **播客**: 随机波动StochasticVolatility
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+### 3. Our mission: Find the world’s best economic ideas (Summer School World Tour)
 
 **播客**: Planet Money
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
+### 4. 第3074期:How American elementary school students view racial issues
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOH3oEABQxIASxq5Dd.m4a?channel=rss&album_id=14812466&track_id=998723806&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f754-audiofreehighqps/83/49/GKwRIMAOH3oEABQxIASxq5Dd.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
 
 **播客**: 贝望录
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 水｜用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
+### 6. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
 
 **播客**: 人民公园说AI
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+### 7. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -69,32 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 65 如何和这个世界相处，我有一些绝妙的法术！
-
-**播客**: 放学以后After school
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 纯 Vibe Coding 做大项目，一定会塌掉
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
