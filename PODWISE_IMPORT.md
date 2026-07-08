@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-08 02:34:43
+> 📅 生成时间: 2026-07-08 08:25:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3074期:How American elementary school students view racial issues
+### 1. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMAOH3oEABQxIASxq5Dd.m4a?channel=rss&album_id=14812466&track_id=998723806&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f754-audiofreehighqps/83/49/GKwRIMAOH3oEABQxIASxq5Dd.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIMAOH3oEABQxIASxq5Dd.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMAOH3oEABQxIASxq5Dd.m4a?channel=rss&album_id=14812466&track_id=998723806&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f754-audiofreehighqps/83/49/GKwRIMAOH3oEABQxIASxq5Dd.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
+### 2. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5877869&p=510289&d=2232&size=35715535
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5877869&p=510289&d=2232&size=35715535
+```
+
+</details>
+
+---
+
+### 3. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
 
 **播客名称**: 贝望录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4b55162e335a35
 
 ---
 
-### 3. 水｜用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
+### 4. 水｜用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
 
 **播客名称**: 人民公园说AI
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a4d1be23fb7233c
 
 ---
 
-### 4. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+### 5. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -108,7 +135,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a4d1be23fb7233c
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lj_hOIPbqNWD0qSJq1dHvmgqFdCK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lj_hOIPbqNWD0qSJq1dHvmgqFdCK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 65 如何和这个世界相处，我有一些绝妙的法术！
+### 6. 65 如何和这个世界相处，我有一些绝妙的法术！
 
 **播客名称**: 放学以后After school
 
@@ -154,7 +181,7 @@ https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 6. 纯 Vibe Coding 做大项目，一定会塌掉
+### 7. 纯 Vibe Coding 做大项目，一定会塌掉
 
 **播客名称**: AI炼金术
 
@@ -181,7 +208,34 @@ https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 481 与柏琳漫谈巴尔干千年史：从古南斯拉夫诸国到近代科索沃危机
+### 8. No.224 用 AI「偷」明星声音和形象侵权卖货，直播间该怎么管？
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35a80f7725/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpLDzlsjXPregGtSm8wxmac6NFyO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a4cbd012e335a35a80f7725/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpLDzlsjXPregGtSm8wxmac6NFyO.m4a
+```
+
+</details>
+
+---
+
+### 9. 481 与柏琳漫谈巴尔干千年史：从古南斯拉夫诸国到近代科索沃危机
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4cc0a72e335a35
 
 ---
 
-### 8. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
+### 10. Vol.342 无名的裘德：从牛津到牛马，为什么我们总在讨好取悦、提心吊胆？
 
 **播客名称**: 文化有限
 
@@ -229,60 +283,6 @@ https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoOIOFZAqyZ6gSyJsHH.m4a?channel=rss&album_id=29887212&track_id=998915396&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/5342-audiofreehighqps/4E/D1/GKwRIDoOIOFZAqyZ6gSyJsHH.m4a
-```
-
-</details>
-
----
-
-### 9. vol.258我的热情，好像一把火，烧ta个五到十年的
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35a80f11c9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqJ_wYL7A7upVcpijPdEfJLsOuG1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a4bc9782e335a35a80f11c9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqJ_wYL7A7upVcpijPdEfJLsOuG1.m4a
-```
-
-</details>
-
----
-
-### 10. vol.594 首届喜剧播客雇佣兵吐槽大会！无聊斋？拿来吧你！｜见面聊聊
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNmvjRDV-c5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_yLRdxtBLWSKhmHqKBLQJhypRTqGQQvFSnUELfEQEfTrACsUQUutNmvjRDV-c5.m4a
 ```
 
 </details>
