@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-09 14:56:25
+> 📅 生成时间: 2026-07-09 19:44:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 269.真人短剧的下一战：与AI共生、工业化和好故事
+### 1. 142 ✪ 产品体验学日本、全球营销学韩国
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep142.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep142.mp3
+```
+
+</details>
+
+---
+
+### 2. 269.真人短剧的下一战：与AI共生、工业化和好故事
 
 **播客名称**: 乱翻书
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a4f777d1e32575f
 
 ---
 
-### 2. 佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒
+### 3. 第3075期:The Thinner Blue Line
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOH3zZABscEQSxrOwV.m4a?channel=rss&album_id=14812466&track_id=998725502&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3b70-audiofreehighqps/8C/CB/GKwRIJIOH3zZABscEQSxrOwV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOH3zZABscEQSxrOwV.m4a?channel=rss&album_id=14812466&track_id=998725502&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3b70-audiofreehighqps/8C/CB/GKwRIJIOH3zZABscEQSxrOwV.m4a
+```
+
+</details>
+
+---
+
+### 4. 佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4e74072e335a35
 
 ---
 
-### 3. 为什么硅谷开始重新定义「AI 记忆」| S10E20
+### 5. 为什么硅谷开始重新定义「AI 记忆」| S10E20
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a70c
 
 ---
 
-### 4. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
+### 6. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -127,34 +181,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217f
 
 ---
 
-### 5. No.209 🐪 晋商往事：走西口到乔家大院然后煤了
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a
-```
-
-</details>
-
----
-
-### 6. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+### 7. Our mission: Find the world’s best economic ideas (Summer School World Tour)
 
 **播客名称**: Planet Money
 
@@ -181,7 +208,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com
 
 ---
 
-### 7. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
+### 8. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
 
 **播客名称**: 贝望录
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4b55162e335a35
 
 ---
 
-### 8. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
+### 9. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
 
 **播客名称**: 人民公园说AI
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a4d1be23fb7233c
 
 ---
 
-### 9. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+### 10. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a
-```
-
-</details>
-
----
-
-### 10. 65 如何和这个世界相处，我有一些绝妙的法术！
-
-**播客名称**: 放学以后After school
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3
 ```
 
 </details>
