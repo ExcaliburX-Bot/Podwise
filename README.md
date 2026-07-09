@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-09 09:36  
+> 📅 **更新时间**: 2026-07-09 14:56  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒
+### 1. 269.真人短剧的下一战：与AI共生、工业化和好故事
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a4f777d1e32575f5eb3cbc1/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmwHgQD0rgE4mr0FWP5QPR2scWXt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒
 
 **播客**: 搞钱女孩
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 为什么硅谷开始重新定义「AI 记忆」| S10E20
+### 3. 为什么硅谷开始重新定义「AI 记忆」| S10E20
 
 **播客**: What's Next｜科技早知道
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. No.209 🐪 晋商往事：走西口到乔家大院然后煤了
+### 4. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. No.209 🐪 晋商往事：走西口到乔家大院然后煤了
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+### 6. Our mission: Find the world’s best economic ideas (Summer School World Tour)
 
 **播客**: Planet Money
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
+### 7. 229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路
 
 **播客**: 贝望录
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
+### 8. 用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？
 
 **播客**: 人民公园说AI
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
+### 9. 128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 65 如何和这个世界相处，我有一些绝妙的法术！
+### 10. 65 如何和这个世界相处，我有一些绝妙的法术！
 
 **播客**: 放学以后After school
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 纯 Vibe Coding 做大项目，一定会塌掉
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 481 与柏琳漫谈巴尔干千年史：从古南斯拉夫诸国到近代科索沃危机
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4cc0a72e335a35a80f79c8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmGRzM8MctxsZWtO2GxYkoQv-u9q.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

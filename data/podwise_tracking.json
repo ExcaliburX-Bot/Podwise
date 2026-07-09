@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-09T09:36:40.686442",
+  "generated_at": "2026-07-09T14:56:25.611094",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "269.真人短剧的下一战：与AI共生、工业化和好故事",
+      "podcast": "乱翻书",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a4f777d1e32575f5eb3cbc1/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmwHgQD0rgE4mr0FWP5QPR2scWXt.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4e74072e335a35a8104392/media.xyzcdn.net/63d945ece725b5378a158d29/lkzzc-Qtktta6L0cEXZNqDfpHgjv.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "为什么硅谷开始重新定义「AI 记忆」| S10E20",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.mp3",
@@ -23,7 +33,17 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》",
+      "podcast": "随机波动StochasticVolatility",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "No.209 🐪 晋商往事：走西口到乔家大院然后煤了",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a",
@@ -33,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
       "podcast": "Planet Money",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535",
@@ -43,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4b55162e335a35a80ecbdf/media.xyzcdn.net/5e285856418a84a04627b7be/lmM5Q0LDzTM6KwIlU0tytsKaPFi0.m4a",
@@ -53,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "用什么Fable 5？都给我去用国产模型！当顶级模型变奢侈品，普通人怎么用 AI？",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a4d1be23fb7233cbf45564f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/llcXdGSoCAL-LKoe3hqjRDaffkA5.m4a",
@@ -63,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑",
       "podcast": "英美剧漫游指南KillingTV",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a",
@@ -73,30 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
       "podcast": "放学以后After school",
       "audio_url": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "纯 Vibe Coding 做大项目，一定会塌掉",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOIoY4AgF9CgSyyk_o.m4a?channel=rss&album_id=74194808&track_id=999171985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5965-audiofreehighqps/B0/05/GKwRIRwOIoY4AgF9CgSyyk_o.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "481 与柏琳漫谈巴尔干千年史：从古南斯拉夫诸国到近代科索沃危机",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a4cc0a72e335a35a80f79c8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmGRzM8MctxsZWtO2GxYkoQv-u9q.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
