@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-10 02:55  
+> 📅 **更新时间**: 2026-07-10 09:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 再听 Adam Lambert：野性、骄傲和自我革命
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 142 ✪ 产品体验学日本、全球营销学韩国
+### 1. 142 ✪ 产品体验学日本、全球营销学韩国
 
 **播客**: 疯投圈
 
@@ -30,6 +17,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep142.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3076期:The special military bond between a Navy father and his daughter.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOH3_lAB0xGgSxro_9.m4a?channel=rss&album_id=14812466&track_id=998727873&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a7d3-audiofreehighqps/D0/DD/GKwRIRwOH3_lAB0xGgSxro_9.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,33 +47,7 @@
 
 ---
 
-### 4. 第3076期:The special military bond between a Navy father and his daughter.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOH3_lAB0xGgSxro_9.m4a?channel=rss&album_id=14812466&track_id=998727873&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a7d3-audiofreehighqps/D0/DD/GKwRIRwOH3_lAB0xGgSxro_9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119986&track_id=999569759&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cb60-audiofreehighqps/E0/7C/GKwRIJEOJUMeAVRv1QSz7VqM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 日本女生大啖麻辣烫 韩国吃播钟情糖葫芦：中国新餐饮做对了什么？
+### 4. 日本女生大啖麻辣烫 韩国吃播钟情糖葫芦：中国新餐饮做对了什么？
 
 **播客**: 东亚观察局
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛
+### 5. E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛
 
 **播客**: 硅谷101
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. 269.真人短剧的下一战：与AI共生、工业化和好故事
+### 6. 269. 内容工厂 VS 内容工匠：真人短剧的两种生存模式
 
 **播客**: 乱翻书
 
@@ -112,20 +86,7 @@
 
 ---
 
-### 9. 佟晨洁：炒股练心性，复利是底气！演艺圈“财女”入市22年的人间清醒
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a4e74072e335a35a8104392/media.xyzcdn.net/63d945ece725b5378a158d29/lkzzc-Qtktta6L0cEXZNqDfpHgjv.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 为什么硅谷开始重新定义「AI 记忆」| S10E20
+### 7. 为什么硅谷开始重新定义「AI 记忆」| S10E20
 
 **播客**: What's Next｜科技早知道
 
@@ -134,6 +95,45 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a70c41aa-41ae-488d-a6e2-63c3de5b9ec3.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. No.209 🐪 晋商往事：走西口到乔家大院然后煤了
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Our mission: Find the world’s best economic ideas (Summer School World Tour)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4586ba03-099f-4572-bec4-373256ae6223/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4586ba03-099f-4572-bec4-373256ae6223&feed=hvWWWzRv&t=podcast&e=nx-s1-5884062&p=510362&d=2232&size=35715535)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
