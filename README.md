@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-11 02:32  
+> 📅 **更新时间**: 2026-07-11 07:53  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3077期:The new generation of Americans is speaking up on TikTok and Twitter.
+### 1. 卫柏Neon：一歌一面，每一面都是自己
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3077期:The new generation of Americans is speaking up on TikTok and Twitter.
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 缝合怪GPT-5.6来了！OpenAI开始造AI超级App，中美AI正在交换剧本！
+### 3. 缝合怪GPT-5.6来了！OpenAI开始造AI超级App，中美AI正在交换剧本！
 
 **播客**: 人民公园说AI
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. Seven allegedly fake Chanel bags vs The RealReal
+### 4. Seven allegedly fake Chanel bags vs The RealReal
 
 **播客**: Planet Money
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
+### 5. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
 
 **播客**: 知行小酒馆
 
@@ -60,7 +73,33 @@
 
 ---
 
-### 5. 再听 Adam Lambert：野性、骄傲和自我革命
+### 6. 夏日广播电视报：世界杯与恐怖片，你真的吓到我啦
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f5eb4590e/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhXH8p70rlSFAuo8ftqx2QDVhM38.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 482 「推广国音」与「收听敌台」：王雨谈20世纪中国的广播技术政治史
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 再听 Adam Lambert：野性、骄傲和自我革命
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 142 ✪ 产品体验学日本、全球营销学韩国
+### 9. 142 ✪ 产品体验学日本、全球营销学韩国
 
 **播客**: 疯投圈
 
@@ -86,20 +125,7 @@
 
 ---
 
-### 7. 261.深陷密集母职，孩子退学边缘，夫妻关系紧张，如何力挽狂澜？｜学员对谈06
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4f72b94adef2b36561568b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/loCWdGfWP2rLX4Vf83tvvrwifDLf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？
+### 10. S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119986&track_id=999569759&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cb60-audiofreehighqps/E0/7C/GKwRIJEOJUMeAVRv1QSz7VqM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 日本女生大啖麻辣烫 韩国吃播钟情糖葫芦：中国新餐饮做对了什么？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4fce2a1e32575f5eb3f47d/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lm5XUP09TN0LB9wktaKYtC65fZZR.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛
-
-**播客**: 硅谷101
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d65f1b49-9e97-4892-bc64-55f5f0b39906.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
