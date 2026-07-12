@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-12 02:38:57
+> 📅 生成时间: 2026-07-12 08:14:36
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f
 
 ---
 
-### 3. 卫柏Neon：一歌一面，每一面都是自己
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
-```
-
-</details>
-
----
-
-### 4. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
+### 3. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
 
 **播客名称**: 人民公园说AI
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f
 
 ---
 
-### 5. Seven allegedly fake Chanel bags vs The RealReal
+### 4. Seven allegedly fake Chanel bags vs The RealReal
 
 **播客名称**: Planet Money
 
@@ -148,6 +121,33 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555
+```
+
+</details>
+
+---
+
+### 5. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3656194fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljzP7GszHFCbXaWTy-U8p7hpp9lE.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3656194fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljzP7GszHFCbXaWTy-U8p7hpp9lE.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://rio.xyzcdn.net/crazycapital/ep142.mp3
 
 ---
 
-### 9. S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？
+### 9. 261.深陷密集母职，孩子退学边缘，夫妻关系紧张，如何力挽狂澜？｜学员对谈06
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119986&track_id=999569759&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cb60-audiofreehighqps/E0/7C/GKwRIJEOJUMeAVRv1QSz7VqM.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4f72b94adef2b36561568b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/loCWdGfWP2rLX4Vf83tvvrwifDLf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119986&track_id=999569759&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cb60-audiofreehighqps/E0/7C/GKwRIJEOJUMeAVRv1QSz7VqM.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4f72b94adef2b36561568b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/loCWdGfWP2rLX4Vf83tvvrwifDLf.m4a
 ```
 
 </details>
