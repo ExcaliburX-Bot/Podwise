@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-13 09:23:51
+> 📅 生成时间: 2026-07-13 14:31:13
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f
 
 ---
 
-### 6. 卫柏Neon：一歌一面，每一面都是自己
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
-```
-
-</details>
-
----
-
-### 7. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
+### 6. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
 
 **播客名称**: 人民公园说AI
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f
 
 ---
 
-### 8. Seven allegedly fake Chanel bags vs The RealReal
+### 7. Seven allegedly fake Chanel bags vs The RealReal
 
 **播客名称**: Planet Money
 
@@ -235,7 +208,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
+### 8. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
 
 **播客名称**: 知行小酒馆
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3
 
 ---
 
-### 10. 夏日广播电视报：世界杯与恐怖片，你真的吓到我啦
+### 9. 夏日广播电视报：世界杯与恐怖片，你真的吓到我啦
 
 **播客名称**: 展开讲讲
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f5eb4590e/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhXH8p70rlSFAuo8ftqx2QDVhM38.m4a
+```
+
+</details>
+
+---
+
+### 10. 482 「推广国音」与「收听敌台」：王雨谈20世纪中国的广播技术政治史
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a
 ```
 
 </details>
