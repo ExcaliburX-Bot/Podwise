@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-07-13T14:31:13.337400",
+  "generated_at": "2026-07-13T19:21:30.776286",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
+      "podcast": "硬地骇客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec16c4026c5/media.xyzcdn.net/640ee2438be5d40013fe4a87/ltozkUtZ_GVff4xu-fEYzflHVZ2U.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "vol.259装忙、装懂、装热爱，装的尽头是无奈",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c44ae68b00/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lly9fq0cIWRLjz4j78wQuS_goihc.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈",
       "podcast": "无聊斋",
       "audio_url": "https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a",
@@ -13,17 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "第3079期:How high temperatures affect sleep",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEOJ3EUABFaQgS0tQtb.m4a?channel=rss&album_id=14812466&track_id=999882924&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8025-audiofreehighqps/FD/90/GKwRIUEOJ3EUABFaQgS0tQtb.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "891: The Test Case",
       "podcast": "This American Life",
       "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
@@ -33,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f5eb48ce4/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhcEYiP6DQoMRwk38uVqJWOoMxyZ.m4a",
@@ -43,20 +53,10 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "Ep202 奥克兰生存手册：新西兰aka小笨鸟之家（不是贬义，没有说鸟不好的意思",
-      "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 6,
-      "title": "缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a",
+      "title": "卫柏Neon：一歌一面，每一面都是自己",
+      "podcast": "周末变奏 Key Change",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "夏日广播电视报：世界杯与恐怖片，你真的吓到我啦",
-      "podcast": "展开讲讲",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f5eb4590e/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhXH8p70rlSFAuo8ftqx2QDVhM38.m4a",
+      "title": "482 「推广国音」与「收听敌台」：王雨谈20世纪中国的广播技术政治史",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "482 「推广国音」与「收听敌台」：王雨谈20世纪中国的广播技术政治史",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a",
+      "title": "再听 Adam Lambert：野性、骄傲和自我革命",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
