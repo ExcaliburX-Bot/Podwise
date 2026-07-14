@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-13 19:21:30
+> 📅 生成时间: 2026-07-14 02:24:17
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬
+### 1. 第3080期:What happens when octopuses take over
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a
+```
+
+</details>
+
+---
+
+### 2. Vol.343 滚动的车轮：为什么越“自由”越停不下来？
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
+```
+
+</details>
+
+---
+
+### 3. EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬
 
 **播客名称**: 硬地骇客
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec1
 
 ---
 
-### 2. vol.259装忙、装懂、装热爱，装的尽头是无奈
+### 4. vol.259装忙、装懂、装热爱，装的尽头是无奈
 
 **播客名称**: 正经叭叭
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c4
 
 ---
 
-### 3. vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈
+### 5. vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -100,7 +154,7 @@ https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHN
 
 ---
 
-### 4. 891: The Test Case
+### 6. 891: The Test Case
 
 **播客名称**: This American Life
 
@@ -127,15 +181,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
+### 7. Ep202 奥克兰生存手册：新西兰aka小笨鸟之家（不是贬义，没有说鸟不好的意思
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f5eb48ce4/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhcEYiP6DQoMRwk38uVqJWOoMxyZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f5eb48ce4/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhcEYiP6DQoMRwk38uVqJWOoMxyZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 卫柏Neon：一歌一面，每一面都是自己
+### 8. 卫柏Neon：一歌一面，每一面都是自己
 
 **播客名称**: 周末变奏 Key Change
 
@@ -181,7 +235,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI
 
 ---
 
-### 7. Seven allegedly fake Chanel bags vs The RealReal
+### 9. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a
+```
+
+</details>
+
+---
+
+### 10. Seven allegedly fake Chanel bags vs The RealReal
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555
-```
-
-</details>
-
----
-
-### 8. E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3656194fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljzP7GszHFCbXaWTy-U8p7hpp9lE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3656194fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljzP7GszHFCbXaWTy-U8p7hpp9lE.m4a
-```
-
-</details>
-
----
-
-### 9. 482 「推广国音」与「收听敌台」：王雨谈20世纪中国的广播技术政治史
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a50b52d4adef2b36561d95e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh-WZOE2CHEz5YghfNbvIPmjN3n2.m4a
-```
-
-</details>
-
----
-
-### 10. 再听 Adam Lambert：野性、骄傲和自我革命
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3
 ```
 
 </details>
