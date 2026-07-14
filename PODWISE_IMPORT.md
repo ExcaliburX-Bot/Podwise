@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-14 13:40:10
+> 📅 生成时间: 2026-07-14 19:17:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
+### 1. 如何「兜住」一颗火箭？| S10E21
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+```
+
+</details>
+
+---
+
+### 2. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
+### 3. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
 
 **播客名称**: 三五环
 
@@ -73,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f
 
 ---
 
-### 3. 483 郦菁、赵鼎新谈《大转型》与「波兰尼时刻」
+### 4. 第3080期:What happens when octopuses take over
 
-**播客名称**: 忽左忽右
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a
+https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,34 +120,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a
-```
-
-</details>
-
----
-
-### 4. Vol.343 滚动的车轮：为什么越“自由”越停不下来？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
+https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c4
 
 ---
 
-### 7. 891: The Test Case
+### 7. vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a
+```
+
+</details>
+
+---
+
+### 8. 891: The Test Case
 
 **播客名称**: This American Life
 
@@ -208,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
+### 9. AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
 
 **播客名称**: 十字路口Crossing
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f
 
 ---
 
-### 9. Ep202 奥克兰生存手册：新西兰aka小笨鸟之家（不是贬义，没有说鸟不好的意思
+### 10. 卫柏Neon：一歌一面，每一面都是自己
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a522b361e32575f5eb4c4f6/media.xyzcdn.net/5eae66d1418a84a046472b4d/lo6BtogQsAn_vDO48xz_rixLrs9M.m4a
-```
-
-</details>
-
----
-
-### 10. 缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3
 ```
 
 </details>

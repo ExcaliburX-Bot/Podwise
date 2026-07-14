@@ -1,210 +1,302 @@
 [
   {
+    "eid": "0c7581132d0.mp3",
     "title": "如何「兜住」一颗火箭？| S10E21",
     "podcast": {
       "title": "What's Next｜科技早知道"
     },
-    "link": "https://guiguzaozhidao.fireside.fm/20240435",
-    "pubDate": "2026-07-14 13:30:00"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3",
+    "pubDate": "2026-07-14T21:30:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
   },
   {
+    "eid": "qxsZQS2FS0v.m4a",
     "title": "王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁",
     "podcast": {
       "title": "AI炼金术"
     },
-    "link": "https://www.ximalaya.com/sound/1000425999",
-    "pubDate": "2026-07-14 12:30:00"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a",
+    "pubDate": "2026-07-14T12:30:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
+    "eid": "mpUYS0LbQDM.m4a",
+    "title": "No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a",
+    "pubDate": "2026-07-14T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "ARayAS0tchX.m4a",
     "title": "第3080期:What happens when octopuses take over",
     "podcast": {
       "title": "英语每日一听 | 每天少于5分钟"
     },
-    "link": "https://www.ximalaya.com/sound/999883978",
-    "pubDate": "2026-07-14 00:00:00"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a",
+    "pubDate": "2026-07-14T00:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
-    "title": "Vol.343 滚动的车轮：为什么越“自由”越停不下来？",
+    "eid": "fEYzflHVZ2U.m4a",
+    "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "podcast": {
-      "title": "文化有限"
+      "title": "硬地骇客"
     },
-    "link": "https://www.ximalaya.com/sound/1000300022",
-    "pubDate": "2026-07-13 23:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec16c4026c5/media.xyzcdn.net/640ee2438be5d40013fe4a87/ltozkUtZ_GVff4xu-fEYzflHVZ2U.m4a",
+    "pubDate": "2026-07-13T17:51:42+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
-    "title": "第3079期:How high temperatures affect sleep",
+    "eid": "8wQuS_goihc.m4a",
+    "title": "vol.259装忙、装懂、装热爱，装的尽头是无奈",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "正经叭叭"
     },
-    "link": "https://www.ximalaya.com/sound/999882924",
-    "pubDate": "2026-07-13 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c44ae68b00/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lly9fq0cIWRLjz4j78wQuS_goihc.m4a",
+    "pubDate": "2026-07-13T15:59:43+00:00",
+    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
-    "title": "单词造句磨耳朵 首字母P day162（1611-1620)",
-    "podcast": {
-      "title": "高效磨耳朵 | 最好的英语听力资源"
-    },
-    "link": "https://www.ximalaya.com/sound/997990441",
-    "pubDate": "2026-07-12 23:00:00"
-  },
-  {
-    "title": "891: The Test Case",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "link": "https://www.thisamericanlife.org/891/the-test-case",
-    "pubDate": "2026-07-12 22:00:00"
-  },
-  {
+    "eid": "qHNpUsUV-3f.m4a",
     "title": "vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈",
     "podcast": {
       "title": "无聊斋"
     },
-    "link": "https://www.xiaoyuzhoufm.com/episode/6a5378921e32575f5eb52fbf?utm_source=rss",
-    "pubDate": "2026-07-12 16:00:00"
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a",
+    "pubDate": "2026-07-13T00:00:00+08:00",
+    "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
-    "title": "第3078期:New Yorkers seek to remove discriminatory statue",
+    "eid": "0106fab&nocache",
+    "title": "891: The Test Case",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "This American Life"
     },
-    "link": "https://www.ximalaya.com/sound/998730563",
-    "pubDate": "2026-07-12 00:00:00"
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
+    "pubDate": "2026-07-12T18:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
-    "title": "考试英语听力材料（高考真题模拟）16-2021年新高考一二卷&浙江卷",
+    "eid": "uVqJWOoMxyZ.m4a",
+    "title": "AI4S 需要狂人与野心家｜对话英灵殿 Odin：\"如果神存在，我怎能容忍自己不是神？\"【公路播客】",
     "podcast": {
-      "title": "高效磨耳朵 | 最好的英语听力资源"
+      "title": "十字路口Crossing"
     },
-    "link": "https://www.ximalaya.com/sound/992939553",
-    "pubDate": "2026-07-11 23:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f5eb48ce4/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhcEYiP6DQoMRwk38uVqJWOoMxyZ.m4a",
+    "pubDate": "2026-07-12T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
   },
   {
+    "eid": "3470_364867.mp3",
     "title": "卫柏Neon：一歌一面，每一面都是自己",
     "podcast": {
       "title": "周末变奏 Key Change"
     },
-    "link": "http://keychange.xyz/episodes/neon-meme-collection-interview",
-    "pubDate": "2026-07-11 05:10:00"
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3",
+    "pubDate": "2026-07-11T05:10:00+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
-    "title": "第3077期:The new generation of Americans is speaking up on TikTok and Twitter.",
+    "eid": "NRAQbTe6puv.m4a",
+    "title": "缝合怪GPT-5.6来了！OpenAI开始造超级App，中美AI正在交换剧本！",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "人民公园说AI"
     },
-    "link": "https://www.ximalaya.com/sound/998729183",
-    "pubDate": "2026-07-11 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a5113451e32575f5eb47a42/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lpfWbcTImU_sB3MA5NRAQbTe6puv.m4a",
+    "pubDate": "2026-07-10T23:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
+    "eid": "8&size=24619555",
     "title": "Seven allegedly fake Chanel bags vs The RealReal",
     "podcast": {
       "title": "Planet Money"
     },
-    "link": "https://www.npr.org/2026/07/10/nx-s1-5879253/chanel-realreal-secondhand-luxury-market",
-    "pubDate": "2026-07-10 21:00:00"
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/a5a22e7a-4cac-46c1-b29b-d5dbebba9027/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=a5a22e7a-4cac-46c1-b29b-d5dbebba9027&feed=hvWWWzRv&t=podcast&e=nx-s1-5879253&p=510289&d=1538&size=24619555",
+    "pubDate": "2026-07-10T21:00:00+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
-    "title": "第3076期:The special military bond between a Navy father and his daughter.",
+    "eid": "-U8p7hpp9lE.m4a",
+    "title": "E242 我和我想要的家：5 个普通人的安家故事｜小酒馆故事会 🍻",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "知行小酒馆"
     },
-    "link": "https://www.ximalaya.com/sound/998727873",
-    "pubDate": "2026-07-10 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a504a954adef2b3656194fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljzP7GszHFCbXaWTy-U8p7hpp9lE.m4a",
+    "pubDate": "2026-07-10T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+    "eid": "tqx2QDVhM38.m4a",
+    "title": "夏日广播电视报：世界杯与恐怖片，你真的吓到我啦",
     "podcast": {
-      "title": "硅谷101"
+      "title": "展开讲讲"
     },
-    "link": "https://sv101.fireside.fm/256",
-    "pubDate": "2026-07-10 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f5eb4590e/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhXH8p70rlSFAuo8ftqx2QDVhM38.m4a",
+    "pubDate": "2026-07-10T10:44:09+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
-    "title": "142 ✪ 产品体验学日本、全球营销学韩国",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "link": "https://crazy.capital/142",
-    "pubDate": "2026-07-10 00:00:00"
-  },
-  {
-    "title": "英文名著分集阅读 柯南·道尔《福尔摩斯与赛马》part3",
-    "podcast": {
-      "title": "高效磨耳朵 | 最好的英语听力资源"
-    },
-    "link": "https://www.ximalaya.com/sound/983034671",
-    "pubDate": "2026-07-09 23:00:00"
-  },
-  {
-    "title": "S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "link": "https://www.ximalaya.com/sound/999569759",
-    "pubDate": "2026-07-09 22:00:00"
-  },
-  {
+    "eid": "GWxvkmBX-9a.mp3",
     "title": "再听 Adam Lambert：野性、骄傲和自我革命",
     "podcast": {
       "title": "Vibration 歪波音室"
     },
-    "link": "https://hosting.wavpub.cn/vibration/2026/07/10/%e5%86%8d%e5%90%ac-adam-lambert%ef%bc%9a%e9%87%8e%e6%80%a7%e3%80%81%e9%aa%84%e5%82%b2%e5%92%8c%e8%87%aa%e6%88%91%e9%9d%a9%e5%91%bd/",
-    "pubDate": "2026-07-09 21:45:00"
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3",
+    "pubDate": "2026-07-10T05:45:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
-    "title": "第3075期:The Thinner Blue Line",
+    "eid": "3tvvrwifDLf.m4a",
+    "title": "261.深陷密集母职，孩子退学边缘，夫妻关系紧张，如何力挽狂澜？｜学员对谈06",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "沈奕斐的播客"
     },
-    "link": "https://www.ximalaya.com/sound/998725502",
-    "pubDate": "2026-07-09 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a4f72b94adef2b36561568b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/loCWdGfWP2rLX4Vf83tvvrwifDLf.m4a",
+    "pubDate": "2026-07-10T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "title": "为什么硅谷开始重新定义「AI 记忆」| S10E20",
+    "eid": "aKYtC65fZZR.m4a",
+    "title": "日本女生大啖麻辣烫 韩国吃播钟情糖葫芦：中国新餐饮做对了什么？",
     "podcast": {
-      "title": "What's Next｜科技早知道"
+      "title": "东亚观察局"
     },
-    "link": "https://guiguzaozhidao.fireside.fm/20240434",
-    "pubDate": "2026-07-08 09:45:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a4fce2a1e32575f5eb3f47d/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lm5XUP09TN0LB9wktaKYtC65fZZR.m4a",
+    "pubDate": "2026-07-09T22:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
-    "title": "Our mission: Find the world’s best economic ideas (Summer School World Tour)",
+    "eid": "VRv1QSz7VqM.m4a",
+    "title": "S8 Vol.15 iMin胡爱民：放弃2亿美金的代工生意，我为什么选择归零重来？",
     "podcast": {
-      "title": "Planet Money"
+      "title": "创业内幕 Startup Insider"
     },
-    "link": "https://www.npr.org/2026/07/08/nx-s1-5877869/summer-school-australia-new-zealand-inflation-speculators",
-    "pubDate": "2026-07-08 07:30:00"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOJUMeAVRv1QSz7VqM.m4a?channel=rss&album_id=20119986&track_id=999569759&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cb60-audiofreehighqps/E0/7C/GKwRIJEOJUMeAVRv1QSz7VqM.m4a",
+    "pubDate": "2026-07-09T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
+    "eid": "5f5f0b39906.mp3",
+    "title": "E243｜特朗普“缓刑”红牌之外，美国资本如何硬控全球足坛",
+    "podcast": {
+      "title": "硅谷101"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/d65f1b49-9e97-4892-bc64-55f5f0b39906.mp3",
+    "pubDate": "2026-07-09T17:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
+  },
+  {
+    "eid": "P5QPR2scWXt.m4a",
+    "title": "269. 卷规模 VS 卷创作：真人短剧的两种生存模式",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a4f777d1e32575f5eb3cbc1/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmwHgQD0rgE4mr0FWP5QPR2scWXt.m4a",
+    "pubDate": "2026-07-09T10:32:06+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "81bbadafabf.mp3",
     "title": "【随机波动171】友谊断裂后：和周嘉宁谈《永结无情游》",
     "podcast": {
       "title": "随机波动StochasticVolatility"
     },
-    "link": "https://www.stovol.com/171",
-    "pubDate": "2026-07-08 04:00:00"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/217fa8ed-1bed-4be4-bc97-d81bbadafabf.mp3",
+    "pubDate": "2026-07-08T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
-    "title": "第3074期:How American elementary school students view racial issues",
+    "eid": "6EYYpWjbgh_.m4a",
+    "title": "No.209 🐪 晋商往事：走西口到乔家大院然后煤了",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "半拿铁 | 商业沉浮录"
     },
-    "link": "https://www.ximalaya.com/sound/998723806",
-    "pubDate": "2026-07-08 00:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a4d12732e335a35a80fa7da/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqw3wmbCofwaBeRb46EYYpWjbgh_.m4a",
+    "pubDate": "2026-07-08T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
-    "title": "句子反复磨耳朵（高级续）101-105",
+    "eid": "0tytsKaPFi0.m4a",
+    "title": "229. 奶茶里的“奶”，到底是什么？从奶精、鲜奶到高蛋白基底乳，一杯奶茶看懂中国乳业40年的升级之路",
     "podcast": {
-      "title": "高效磨耳朵 | 最好的英语听力资源"
+      "title": "贝望录"
     },
-    "link": "https://www.ximalaya.com/sound/992754843",
-    "pubDate": "2026-07-07 23:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a4b55162e335a35a80ecbdf/media.xyzcdn.net/5e285856418a84a04627b7be/lmM5Q0LDzTM6KwIlU0tytsKaPFi0.m4a",
+    "pubDate": "2026-07-08T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
-    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
+    "eid": "ZzgE13iNb6p.m4a",
+    "title": "128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑",
     "podcast": {
-      "title": "放学以后After school"
+      "title": "英美剧漫游指南KillingTV"
     },
-    "link": "https://podcasters.spotify.com/pod/show/afterschool2021/episodes/65-e3lp110",
-    "pubDate": "2026-07-07 16:00:00"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a",
+    "pubDate": "2026-07-07T16:30:30+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
+  },
+  {
+    "eid": "a85d4f86211.mp3",
+    "title": "171: 【AI季报 26Q2】从 coding 到 RSI，强者愈强的未来？",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63679176-fb2c-4a3b-9256-4a85d4f86211.mp3",
+    "pubDate": "2026-07-02T07:45:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
+    "eid": "rMRSkVAggt2.m4a",
+    "title": "Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a",
+    "pubDate": "2026-07-01T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
+  },
+  {
+    "eid": "_ifP5aoXPSt.m4a",
+    "title": "World Model-世界模型也有Scaling Law吗？",
+    "podcast": {
+      "title": "屠龙之术"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a40c46d9d2f5743683f00a8/media.xyzcdn.net/6507bc165c88d2412626b401/ls25cMyIpBSAq3EZ2_ifP5aoXPSt.m4a",
+    "pubDate": "2026-06-29T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
+  },
+  {
+    "eid": "XQrt9krAiUD.m4a",
+    "title": "少有的深度参与过字节、美团组织建设的人｜对谈 AI 创业者魏小康",
+    "podcast": {
+      "title": "42章经"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a",
+    "pubDate": "2026-06-27T13:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
+  },
+  {
+    "eid": "Cm52XFS8NJA.m4a",
+    "title": "108.时间你慢点走，我还没准备好不再年轻",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a",
+    "pubDate": "2026-06-27T05:48:23+00:00",
+    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+  },
+  {
+    "eid": "dBgTgSqJ6pI.m4a",
+    "title": "351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a",
+    "pubDate": "2026-06-18T06:39:08+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   }
 ]
