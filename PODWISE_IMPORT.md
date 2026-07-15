@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-15 08:07:20
+> 📅 生成时间: 2026-07-15 13:40:54
 > 📊 总计: 10 个播客
 
 ---
@@ -154,7 +154,34 @@ https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
+### 6. 如何「兜住」一颗火箭？| S10E21
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+```
+
+</details>
+
+---
+
+### 7. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
 
 **播客名称**: 脑放电波
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec1
 
 ---
 
-### 7. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
+### 8. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
 
 **播客名称**: AI炼金术
 
@@ -208,15 +235,15 @@ https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194
 
 ---
 
-### 8. 483 郦菁、赵鼎新谈《大转型》与「波兰尼时刻」
+### 9. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
 
-**播客名称**: 忽左忽右
+**播客名称**: 三五环
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,34 +255,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec1
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a
-```
-
-</details>
-
----
-
-### 9. vol.259装忙、装懂、装热爱，装的尽头是无奈
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c44ae68b00/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lly9fq0cIWRLjz4j78wQuS_goihc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c44ae68b00/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lly9fq0cIWRLjz4j78wQuS_goihc.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
 ```
 
 </details>
