@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-14 19:17  
+> 📅 **更新时间**: 2026-07-15 02:22  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 如何「兜住」一颗火箭？| S10E21
+### 1. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bdcde3-ba07-41d3-af81-61edbf4444a8.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3081期:Why gun ownership is necessary
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812466&track_id=999886692&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a6a8-audiofreehighqps/A5/04/GKwRIJIOJ3dUABSdzQS0t3aL.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 230. 一场好市集不只是摆摊，过家家如何把线下活动做成品牌、社群与商业？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a55c331ca0de6c44ae6c9e6/media.xyzcdn.net/5e285856418a84a04627b7be/lkjiM-TAnDn50m6Wd-_OPhdr2UAi.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 如何「兜住」一颗火箭？| S10E21
 
 **播客**: What's Next｜科技早知道
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
+### 5. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
 
 **播客**: AI炼金术
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
+### 6. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
 
 **播客**: 三五环
 
@@ -47,33 +86,33 @@
 
 ---
 
-### 4. 第3080期:What happens when octopuses take over
+### 7. 483 郦菁、赵鼎新谈《大转型》与「波兰尼时刻」
 
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOJ3MGAARayAS0tchX.m4a?channel=rss&album_id=14812466&track_id=999883978&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/832b-audiofreehighqps/6A/AE/GKwRIUEOJ3MGAARayAS0tchX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬
-
-**播客**: 硬地骇客
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec16c4026c5/media.xyzcdn.net/640ee2438be5d40013fe4a87/ltozkUtZ_GVff4xu-fEYzflHVZ2U.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. vol.259装忙、装懂、装热爱，装的尽头是无奈
+### 8. Vol.343 滚动的车轮：为什么越“自由”越停不下来？
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. vol.259装忙、装懂、装热爱，装的尽头是无奈
 
 **播客**: 正经叭叭
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈
+### 10. vol.595 2026悄悄过半，再不总结真记不住啦！｜老友闲谈
 
 **播客**: 无聊斋
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 891: The Test Case
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. AI4S 需要狂人与野心家｜对话英灵殿 Odin："如果神存在，我怎能容忍自己不是神？"【公路播客】
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a5199381e32575f5eb48ce4/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhcEYiP6DQoMRwk38uVqJWOoMxyZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 卫柏Neon：一歌一面，每一面都是自己
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
