@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-15 02:22:15
+> 📅 生成时间: 2026-07-15 08:07:20
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
+### 1. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108e106-9e26-40b3-b1eb-3c226ba4611a.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108e106-9e26-40b3-b1eb-3c226ba4611a.mp3
+```
+
+</details>
+
+---
+
+### 2. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,15 +73,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bd
 
 ---
 
-### 2. 第3081期:Why gun ownership is necessary
+### 3. Building things and breaking things in China (Summer School World Tour)
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812466&track_id=999886692&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a6a8-audiofreehighqps/A5/04/GKwRIJIOJ3dUABSdzQS0t3aL.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5879536&p=510362&d=2321&size=37148718
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +93,14 @@ https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812466&track_id=999886692&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a6a8-audiofreehighqps/A5/04/GKwRIJIOJ3dUABSdzQS0t3aL.m4a
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5879536&p=510362&d=2321&size=37148718
 ```
 
 </details>
 
 ---
 
-### 3. 230. 一场好市集不只是摆摊，过家家如何把线下活动做成品牌、社群与商业？
+### 4. 230. 一场好市集不只是摆摊，过家家如何把线下活动做成品牌、社群与商业？
 
 **播客名称**: 贝望录
 
@@ -100,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a55c331ca0de6c4
 
 ---
 
-### 4. 如何「兜住」一颗火箭？| S10E21
+### 5. 第3081期:Why gun ownership is necessary
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812466&track_id=999886692&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a6a8-audiofreehighqps/A5/04/GKwRIJIOJ3dUABSdzQS0t3aL.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,41 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66f
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
+https://jt.ximalaya.com//GKwRIJIOJ3dUABSdzQS0t3aL.m4a?channel=rss&album_id=14812466&track_id=999886692&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a6a8-audiofreehighqps/A5/04/GKwRIJIOJ3dUABSdzQS0t3aL.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
+### 6. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a
+```
+
+</details>
+
+---
+
+### 7. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
 
 **播客名称**: AI炼金术
 
@@ -154,34 +208,7 @@ https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
-```
-
-</details>
-
----
-
-### 7. 483 郦菁、赵鼎新谈《大转型》与「波兰尼时刻」
+### 8. 483 郦菁、赵鼎新谈《大转型》与「波兰尼时刻」
 
 **播客名称**: 忽左忽右
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec1
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a56091127a4eec16c4088da/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqTTxXMZd_s6kgG1XrBjrG8txu-w.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.343 滚动的车轮：为什么越“自由”越停不下来？
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOKiyDAsDd4wS1v_a4.m4a?channel=rss&album_id=29887212&track_id=1000300022&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ca83-audiofreehighqps/62/04/GKwRIJIOKiyDAsDd4wS1v_a4.m4a
 ```
 
 </details>
