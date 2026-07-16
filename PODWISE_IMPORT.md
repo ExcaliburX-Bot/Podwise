@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-16 02:30:14
+> 📅 生成时间: 2026-07-16 08:10:30
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIMAOJ3p-ABfPtQS0uNEv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 毕业季特辑：没有更好的人生，尽情去经历、去爱、去拥有那个过程
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a57cae5a4972c496dfc74de/media.xyzcdn.net/63d945ece725b5378a158d29/loRRL5ivXJBWLVs7MmILZYSslP63.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a57cae5a4972c496dfc74de/media.xyzcdn.net/63d945ece725b5378a158d29/loRRL5ivXJBWLVs7MmILZYSslP63.m4a
-```
-
-</details>
-
----
-
-### 4. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
+### 3. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -127,7 +100,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108
 
 ---
 
-### 5. No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
+### 4. No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -135,7 +108,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljvMWfx6SQ8neGsT8xtXTFrzqPFV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpIj_tPbdu1nWaER9zH6ybB9N9H8.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +120,14 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ljvMWfx6SQ8neGsT8xtXTFrzqPFV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpIj_tPbdu1nWaER9zH6ybB9N9H8.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
+### 5. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -175,6 +148,33 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bd
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bdcde3-ba07-41d3-af81-61edbf4444a8.mp3
+```
+
+</details>
+
+---
+
+### 6. Building things and breaking things in China (Summer School World Tour)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
 ```
 
 </details>
@@ -235,7 +235,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66f
 
 ---
 
-### 9. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
+### 9. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a
+```
+
+</details>
+
+---
+
+### 10. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
 
 **播客名称**: AI炼金术
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a
-```
-
-</details>
-
----
-
-### 10. No.225 对话 Yuri 尤栗打造者汗青：AI 虚拟偶像，越像真人越容易塌房？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a547b7e1e32575f5eb5951d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lkFNAdCXFiiOthzsNmpUYS0LbQDM.m4a
 ```
 
 </details>
