@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-17 02:32:16
+> 📅 生成时间: 2026-07-17 08:07:47
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3083期:It was the first splashdown by US astronauts in 45 years
+### 1. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOJ3zGAA5UZAS0uaUY.m4a?channel=rss&album_id=14812466&track_id=999889818&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e2f5-audiofreehighqps/7D/D5/GKwRIUEOJ3zGAA5UZAS0uaUY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIUEOJ3zGAA5UZAS0uaUY.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOJ3zGAA5UZAS0uaUY.m4a?channel=rss&album_id=14812466&track_id=999889818&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e2f5-audiofreehighqps/7D/D5/GKwRIUEOJ3zGAA5UZAS0uaUY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a
 ```
 
 </details>
@@ -100,7 +100,34 @@ https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
+### 4. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+```
+
+</details>
+
+---
+
+### 5. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -127,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a57a05da4972c49
 
 ---
 
-### 5. No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
+### 6. E244｜端到端vs上下分层：机器人路径之争，正在转向？
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3
+```
+
+</details>
+
+---
+
+### 7. No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c4
 
 ---
 
-### 6. 172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI
+### 8. Building things and breaking things in China (Summer School World Tour)
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bdcde3-ba07-41d3-af81-61edbf4444a8.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +228,14 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bd
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bdcde3-ba07-41d3-af81-61edbf4444a8.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/1de32e6d-70dd-45f6-818e-6a6bcf11f827/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=1de32e6d-70dd-45f6-818e-6a6bcf11f827&feed=1e5vv9pg&t=podcast&e=nx-s1-5889516&p=510289&d=2321&size=37148718
 ```
 
 </details>
 
 ---
 
-### 7. 230. 一场好市集不只是摆摊，过家家如何把线下活动做成品牌、社群与商业？
+### 9. 230. 一场好市集不只是摆摊，过家家如何把线下活动做成品牌、社群与商业？
 
 **播客名称**: 贝望录
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a55c331ca0de6c4
 
 ---
 
-### 8. 如何「兜住」一颗火箭？| S10E21
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3
-```
-
-</details>
-
----
-
-### 9. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
+### 10. 失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102
 
 **播客名称**: 脑放电波
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec1
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a
-```
-
-</details>
-
----
-
-### 10. 王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a
 ```
 
 </details>
