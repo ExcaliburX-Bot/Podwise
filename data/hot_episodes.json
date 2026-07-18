@@ -10,6 +10,16 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
+    "eid": "7&size=25084743",
+    "title": "Can World Cup mania grow MLS in the U.S.?",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
+    "pubDate": "2026-07-17T22:43:18+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "8GOx5IkHRjM.m4a",
     "title": "重估一切，文艺复兴---2026H1 AI行业观察",
     "podcast": {
@@ -20,14 +30,14 @@
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
-    "eid": "64ojGdD3vJH.m4a",
-    "title": "484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲",
+    "eid": "3ElEc20s6yb.m4a",
+    "title": "E243 对话杨雨坤：大脑会记得，我们是怎样长大的",
     "podcast": {
-      "title": "忽左忽右"
+      "title": "知行小酒馆"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a",
-    "pubDate": "2026-07-17T08:58:46+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a",
+    "pubDate": "2026-07-17T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "S_LgMNWDpSX.m4a",
@@ -50,16 +60,6 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "PZ6nWouqEA8.m4a",
-    "title": "291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史",
-    "podcast": {
-      "title": "东亚观察局"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a",
-    "pubDate": "2026-07-16T22:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
     "eid": "SjyKgS3gKfH.m4a",
     "title": "S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？",
     "podcast": {
@@ -70,14 +70,24 @@
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
-    "eid": "mILZYSslP63.m4a",
-    "title": "对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程",
+    "eid": "PZ6nWouqEA8.m4a",
+    "title": "291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史",
     "podcast": {
-      "title": "搞钱女孩"
+      "title": "东亚观察局"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a57cae5a4972c496dfc74de/media.xyzcdn.net/63d945ece725b5378a158d29/loRRL5ivXJBWLVs7MmILZYSslP63.m4a",
-    "pubDate": "2026-07-15T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a",
+    "pubDate": "2026-07-16T22:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "uiompd6_1NV.m4a",
+    "title": "146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a57a05da4972c496dfc67f1/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljmazvdvAd7O5mD-Nuiompd6_1NV.m4a",
+    "pubDate": "2026-07-16T00:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "30c77df836e.mp3",
@@ -98,6 +108,26 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108e106-9e26-40b3-b1eb-3c226ba4611a.mp3",
     "pubDate": "2026-07-15T12:00:00+08:00",
     "source_rss": "https://feeds.fireside.fm/stovol/rss"
+  },
+  {
+    "eid": "zH6ybB9N9H8.m4a",
+    "title": "No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24",
+    "podcast": {
+      "title": "半拿铁 | 商业沉浮录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpIj_tPbdu1nWaER9zH6ybB9N9H8.m4a",
+    "pubDate": "2026-07-15T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+  },
+  {
+    "eid": "1edbf4444a8.mp3",
+    "title": "172: Momenta IPO后再访曹旭东：就是想做没有尽头的AI",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/88bdcde3-ba07-41d3-af81-61edbf4444a8.mp3",
+    "pubDate": "2026-07-15T08:15:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "-_OPhdr2UAi.m4a",
@@ -160,14 +190,14 @@
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
-    "eid": "8wQuS_goihc.m4a",
-    "title": "vol.259装忙、装懂、装热爱，装的尽头是无奈",
+    "eid": "fEYzflHVZ2U.m4a",
+    "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
     "podcast": {
-      "title": "正经叭叭"
+      "title": "硬地骇客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a54fd91ca0de6c44ae68b00/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lly9fq0cIWRLjz4j78wQuS_goihc.m4a",
-    "pubDate": "2026-07-13T15:59:43+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec16c4026c5/media.xyzcdn.net/640ee2438be5d40013fe4a87/ltozkUtZ_GVff4xu-fEYzflHVZ2U.m4a",
+    "pubDate": "2026-07-13T17:51:42+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "qHNpUsUV-3f.m4a",
@@ -220,14 +250,14 @@
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
-    "eid": "pital/ep142.mp3",
-    "title": "142 ✪ 产品体验学日本、全球营销学韩国",
+    "eid": "GWxvkmBX-9a.mp3",
+    "title": "再听 Adam Lambert：野性、骄傲和自我革命",
     "podcast": {
-      "title": "疯投圈"
+      "title": "Vibration 歪波音室"
     },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep142.mp3",
-    "pubDate": "2026-07-10T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
+    "enclosureUrl": "https://tk.wavpub.com/WPDL_pEHznfSRTYHsJjJXLUMAZJNBqVmqjdUycDQmWsWJmRgZzrZQcUGWxvkmBX-9a.mp3",
+    "pubDate": "2026-07-10T05:45:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "P5QPR2scWXt.m4a",
@@ -240,14 +270,14 @@
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
-    "eid": "d57b5bf0194.mp3",
-    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
+    "eid": "ZzgE13iNb6p.m4a",
+    "title": "128. 美剧·恐怖·故事，不止《寡妇湾》｜消暑特辑",
     "podcast": {
-      "title": "放学以后After school"
+      "title": "英美剧漫游指南KillingTV"
     },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
-    "pubDate": "2026-07-07T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a",
+    "pubDate": "2026-07-07T16:30:30+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
     "eid": "rMRSkVAggt2.m4a",
@@ -268,35 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a3e50142e335a35a809d5b4/media.xyzcdn.net/648b0b641c48983391a63f98/loF0mb7U5BUzEC1qTXQrt9krAiUD.m4a",
     "pubDate": "2026-06-27T13:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
-  },
-  {
-    "eid": "Cm52XFS8NJA.m4a",
-    "title": "108.时间你慢点走，我还没准备好不再年轻",
-    "podcast": {
-      "title": "喷嚏"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a3f63189d2f5743683e9911/media.xyzcdn.net/605b0d5d64b27cf2f137f131/luZf_c_MzaKb6xuqoCm52XFS8NJA.m4a",
-    "pubDate": "2026-06-27T05:48:23+00:00",
-    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
-  },
-  {
-    "eid": "2930_348547.mp3",
-    "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-    "podcast": {
-      "title": "少数派播客 SSPAI Podcast"
-    },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3",
-    "pubDate": "2026-06-16T03:09:31+00:00",
-    "source_rss": "https://sspai.typlog.io/episodes/feed.xml"
-  },
-  {
-    "eid": "_UnwXMcGWG3.m4a",
-    "title": "16 为什么很多人，亲密越来越像上班？两位性咨询师的坦白局",
-    "podcast": {
-      "title": "鸟鸟快乐实验室"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/64f77ec4d9b1cb5b8cad0dc9/6a16b795ac7bdb080c318cf8/media.xyzcdn.net/64f77ec4d9b1cb5b8cad0dc9/lsVZSTCykR611lQRv_UnwXMcGWG3.m4a",
-    "pubDate": "2026-05-27T10:08:01+00:00",
-    "source_rss": "https://feed.xyzfm.space/uuumubpgwqgx"
   }
 ]
