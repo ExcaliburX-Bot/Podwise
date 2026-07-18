@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-18 13:12:08
+> 📅 生成时间: 2026-07-18 19:02:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,61 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3084期:How to treat tuberculosis, malaria, and AIDS?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOJ3-JABdbswS0upp-.m4a?channel=rss&album_id=14812466&track_id=999891201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/55ee-audiofreehighqps/F4/90/GKwRIJIOJ3-JABdbswS0upp-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOJ3-JABdbswS0upp-.m4a?channel=rss&album_id=14812466&track_id=999891201&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/55ee-audiofreehighqps/F4/90/GKwRIJIOJ3-JABdbswS0upp-.m4a
-```
-
-</details>
-
----
-
-### 2. Can World Cup mania grow MLS in the U.S.?
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743
-```
-
-</details>
-
----
-
-### 3. 重估一切，文艺复兴---2026H1 AI行业观察
+### 1. 重估一切，文艺复兴---2026H1 AI行业观察
 
 **播客名称**: 屠龙之术
 
@@ -100,7 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5a91e1a3fec224
 
 ---
 
-### 4. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
+### 2. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224
 
 ---
 
-### 5. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
+### 3. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224
 
 ---
 
-### 6. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
+### 4. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c49
 
 ---
 
-### 7. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
+### 5. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -202,6 +148,60 @@ https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119986&track_id=1001092929&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/04d1-audiofreehighqps/FC/C4/GKwRIUEOLjFyASjyKgS3gKfH.m4a
+```
+
+</details>
+
+---
+
+### 6. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+```
+
+</details>
+
+---
+
+### 7. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a57a05da4972c496dfc67f1/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljmazvdvAd7O5mD-Nuiompd6_1NV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a57a05da4972c496dfc67f1/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljmazvdvAd7O5mD-Nuiompd6_1NV.m4a
 ```
 
 </details>
