@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-18 19:02  
+> 📅 **更新时间**: 2026-07-19 02:35  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 重估一切，文艺复兴---2026H1 AI行业观察
+### 1. 第3085期:Melting glaciers threaten a sharp rise in water levels
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOJ4JOABAYrAS0u5mK.m4a?channel=rss&album_id=14812466&track_id=999892835&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a0ab-audiofreehighqps/E5/0F/GKwRIMAOJ4JOABAYrAS0u5mK.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Can World Cup mania grow MLS in the U.S.?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 重估一切，文艺复兴---2026H1 AI行业观察
 
 **播客**: 屠龙之术
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
+### 4. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
 
 **播客**: 知行小酒馆
 
@@ -34,20 +60,7 @@
 
 ---
 
-### 3. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
+### 5. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
 
 **播客**: 沈奕斐的播客
 
@@ -60,20 +73,20 @@
 
 ---
 
-### 5. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
+### 6. 谁是上半年最佳AI？美国造超跑，中国造街车！中美AI格局变了！
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119986&track_id=1001092929&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/04d1-audiofreehighqps/FC/C4/GKwRIUEOLjFyASjyKgS3gKfH.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a58af48016dcc7e05432f6f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqv15u9BEZnAeMu03qV287XwF-jU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+### 7. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
 
 **播客**: 东亚观察局
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
+### 8. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程
+### 9. 对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程
 
 **播客**: 搞钱女孩
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛
+### 10. E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛
 
 **播客**: 硅谷101
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108e106-9e26-40b3-b1eb-3c226ba4611a.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
