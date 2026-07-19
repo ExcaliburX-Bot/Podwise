@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-19 08:14  
+> 📅 **更新时间**: 2026-07-19 13:15  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 重估一切，文艺复兴---2026H1 AI行业观察
+### 2. Can World Cup mania grow MLS in the U.S.?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 重估一切，文艺复兴---2026H1 AI行业观察
 
 **播客**: 屠龙之术
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
+### 4. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
 
 **播客**: 知行小酒馆
 
@@ -47,33 +60,7 @@
 
 ---
 
-### 4. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+### 5. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
 
 **播客**: 东亚观察局
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
+### 6. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
+### 7. 146. 对Physical Intelligence柯丽一鸣4小时访谈：Pi的开源模型研究，机器人的江湖、族谱与主角
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -112,7 +99,33 @@
 
 ---
 
-### 9. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
+### 8. 对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a57cae5a4972c496dfc74de/media.xyzcdn.net/63d945ece725b5378a158d29/loRRL5ivXJBWLVs7MmILZYSslP63.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 【随机波动172】和阿猎聊ADHD：公共话语大浪淘沙，有价值的科普会留下来
 
 **播客**: 随机波动StochasticVolatility
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/e108e106-9e26-40b3-b1eb-3c226ba4611a.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.210 📱 中国手机江湖·下：从魅族小米锤子，到 OV 华为的新十年 | 中国互联网故事24
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a56fcf2ca0de6c44ae74c8d/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lpIj_tPbdu1nWaER9zH6ybB9N9H8.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

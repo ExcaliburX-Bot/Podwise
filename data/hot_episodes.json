@@ -10,6 +10,16 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
+    "eid": "7&size=25084743",
+    "title": "Can World Cup mania grow MLS in the U.S.?",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743",
+    "pubDate": "2026-07-17T22:43:18+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "8GOx5IkHRjM.m4a",
     "title": "重估一切，文艺复兴---2026H1 AI行业观察",
     "podcast": {
@@ -28,26 +38,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a",
     "pubDate": "2026-07-17T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
-    "eid": "64ojGdD3vJH.m4a",
-    "title": "484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a",
-    "pubDate": "2026-07-17T08:58:46+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "S_LgMNWDpSX.m4a",
-    "title": "262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a",
-    "pubDate": "2026-07-17T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "PZ6nWouqEA8.m4a",
@@ -78,6 +68,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a57a05da4972c496dfc67f1/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ljmazvdvAd7O5mD-Nuiompd6_1NV.m4a",
     "pubDate": "2026-07-16T00:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
+    "eid": "mILZYSslP63.m4a",
+    "title": "对话梁永安：没有更好的人生，尽情去经历、去爱、去拥有那个过程",
+    "podcast": {
+      "title": "搞钱女孩"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a57cae5a4972c496dfc74de/media.xyzcdn.net/63d945ece725b5378a158d29/loRRL5ivXJBWLVs7MmILZYSslP63.m4a",
+    "pubDate": "2026-07-15T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "30c77df836e.mp3",
+    "title": "E244｜机器人走错路了？与苏度韩铮聊聊具身智能的3D数据、路径分野与硅谷竞赛",
+    "podcast": {
+      "title": "硅谷101"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/fc9a3737-81a9-49cf-a7d6-530c77df836e.mp3",
+    "pubDate": "2026-07-15T17:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "c226ba4611a.mp3",
@@ -128,6 +138,16 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b66fdf0f-d428-4f0c-8412-b0c7581132d0.mp3",
     "pubDate": "2026-07-14T21:30:00+08:00",
     "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
+  },
+  {
+    "eid": "45N4Qj7oBG-.m4a",
+    "title": "失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a",
+    "pubDate": "2026-07-14T14:11:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
     "eid": "qxsZQS2FS0v.m4a",
@@ -188,16 +208,6 @@
     "enclosureUrl": "https://tk.wavpub.com/WPDL_HTtRKfRzLvvATAsnHAzXDqjjGpzaZJdQPHufDzmXHCCKnGNWMJqHNpUsUV-3f.m4a",
     "pubDate": "2026-07-13T00:00:00+08:00",
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
-  },
-  {
-    "eid": "0106fab&nocache",
-    "title": "891: The Test Case",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/54b46113-a17b-4f3e-ac3f-d525e0106fab/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=54b46113-a17b-4f3e-ac3f-d525e0106fab&nocache",
-    "pubDate": "2026-07-12T18:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
     "eid": "uVqJWOoMxyZ.m4a",
@@ -268,16 +278,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a4d21de2e335a35a80fafd7/media.xyzcdn.net/5e7c9577418a84a04606b797/lhesKKiQjMaah3gK_ZzgE13iNb6p.m4a",
     "pubDate": "2026-07-07T16:30:30+00:00",
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
-  },
-  {
-    "eid": "d57b5bf0194.mp3",
-    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
-    "pubDate": "2026-07-07T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "rMRSkVAggt2.m4a",
