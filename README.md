@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-19 19:03  
+> 📅 **更新时间**: 2026-07-20 02:50  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 130. 艾美奖提名小讨论与奖项预测
+### 2. 892: Trapped on a Bus
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 129. 艾美奖提名小讨论与奖项预测
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -29,12 +42,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/lkZTf0nlmyJkSb4tjVByDs15GECw.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频
+### 4. 快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
+### 5. AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
 
 **播客**: 42章经
 
@@ -56,19 +69,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a5b98a66356eb2d9be4ad2c/media.xyzcdn.net/648b0b641c48983391a63f98/lgTuy-EszlCI5YaGUocYNdIgwmLX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第3085期:Melting glaciers threaten a sharp rise in water levels
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOJ4JOABAYrAS0u5mK.m4a?channel=rss&album_id=14812466&track_id=999892835&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a0ab-audiofreehighqps/E5/0F/GKwRIMAOJ4JOABAYrAS0u5mK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,7 +112,20 @@
 
 ---
 
-### 9. 谁是上半年最佳AI？美国造超跑，中国造街车！中美AI格局变了！
+### 9. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 谁是上半年最佳AI？美国造超跑，中国造街车！中美AI格局变了！
 
 **播客**: 人民公园说AI
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a58af48016dcc7e05432f6f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqv15u9BEZnAeMu03qV287XwF-jU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
