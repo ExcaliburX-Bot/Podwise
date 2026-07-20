@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-20 08:55  
+> 📅 **更新时间**: 2026-07-20 14:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 第3086期:Birdwatching boom
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOMOK9ABaqBQS4x28a.m4a?channel=rss&album_id=14812466&track_id=1001560335&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae98-audiofreehighqps/7D/39/GKwRIJIOMOK9ABaqBQS4x28a.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 892: Trapped on a Bus
+### 2. 892: Trapped on a Bus
 
 **播客**: This American Life
 
@@ -43,6 +30,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 129. 艾美奖提名小讨论与奖项预测
+
+**播客**: 英美剧漫游指南KillingTV
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,15 +99,15 @@
 
 ---
 
-### 8. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
+### 8. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
 
-**播客**: 忽左忽右
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+### 10. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
 
-**播客**: 东亚观察局
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119986&track_id=1001092929&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/04d1-audiofreehighqps/FC/C4/GKwRIUEOLjFyASjyKgS3gKfH.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

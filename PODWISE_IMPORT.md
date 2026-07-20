@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-20 08:55:23
+> 📅 生成时间: 2026-07-20 14:03:09
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://tk.wavpub.com/WPDL_LUUyFGwfSRBJNXxEKpujnmPmJsKHUmHBgpCeqFTXPUnvqqjRbtksC
 
 ---
 
-### 2. 第3086期:Birdwatching boom
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOMOK9ABaqBQS4x28a.m4a?channel=rss&album_id=14812466&track_id=1001560335&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae98-audiofreehighqps/7D/39/GKwRIJIOMOK9ABaqBQS4x28a.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOMOK9ABaqBQS4x28a.m4a?channel=rss&album_id=14812466&track_id=1001560335&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae98-audiofreehighqps/7D/39/GKwRIJIOMOK9ABaqBQS4x28a.m4a
-```
-
-</details>
-
----
-
-### 3. 892: Trapped on a Bus
+### 2. 892: Trapped on a Bus
 
 **播客名称**: This American Life
 
@@ -94,6 +67,33 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 音频链接（点击复制）:
 ```
 https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache
+```
+
+</details>
+
+---
+
+### 3. 129. 艾美奖提名小讨论与奖项预测
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5a91e1a3fec224
 
 ---
 
-### 8. 484 与许子东漫谈世界杯：四十年观赛史里的中国、美国与欧洲
+### 8. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
 
-**播客名称**: 忽左忽右
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a59ed61a3fec224d59f16f2/media.xyzcdn.net/5e4ee557418a84a0466737b7/lq1OATA6iT2vpEqOM64ojGdD3vJH.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c49
 
 ---
 
-### 10. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
+### 10. S8 Vol.16 元仓龙良玉：东南亚最大的海外仓是如何建成的？
 
-**播客名称**: 东亚观察局
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119986&track_id=1001092929&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/04d1-audiofreehighqps/FC/C4/GKwRIUEOLjFyASjyKgS3gKfH.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a
+https://jt.ximalaya.com//GKwRIUEOLjFyASjyKgS3gKfH.m4a?channel=rss&album_id=20119986&track_id=1001092929&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/04d1-audiofreehighqps/FC/C4/GKwRIUEOLjFyASjyKgS3gKfH.m4a
 ```
 
 </details>
