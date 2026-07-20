@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-20 02:50  
+> 📅 **更新时间**: 2026-07-20 08:55  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 892: Trapped on a Bus
+### 2. 第3086期:Birdwatching boom
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOMOK9ABaqBQS4x28a.m4a?channel=rss&album_id=14812466&track_id=1001560335&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ae98-audiofreehighqps/7D/39/GKwRIJIOMOK9ABaqBQS4x28a.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 892: Trapped on a Bus
 
 **播客**: This American Life
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 129. 艾美奖提名小讨论与奖项预测
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 重估一切，文艺复兴---2026H1 AI行业观察
+### 6. Can World Cup mania grow MLS in the U.S.?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 重估一切，文艺复兴---2026H1 AI行业观察
 
 **播客**: 屠龙之术
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5a91e1a3fec224d59f4ddd/media.xyzcdn.net/6507bc165c88d2412626b401/lktedYhilkrrdQ1v58GOx5IkHRjM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 谁是上半年最佳AI？美国造超跑，中国造街车！中美AI格局变了！
+### 10. 291 不变的江河，变化的边境：从“划界”视角回看东北亚近代史
 
-**播客**: 人民公园说AI
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a58af48016dcc7e05432f6f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqv15u9BEZnAeMu03qV287XwF-jU.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a590a8a016dcc7e05435abc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnqruXKhwwP1NpOHKPZ6nWouqEA8.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
