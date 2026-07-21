@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-20 19:42  
+> 📅 **更新时间**: 2026-07-21 02:33  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.260呐，花钱呢，最重要的就是开心
+### 1. 第3087期:Simpler version of Stonehenge discovered
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOMORIAARvZQS4yBW1.m4a?channel=rss&album_id=14812466&track_id=1001561085&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f0cb-audiofreehighqps/2F/D4/GKwRIRwOMORIAARvZQS4yBW1.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.260呐，花钱呢，最重要的就是开心
 
 **播客**: 正经叭叭
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 485 世界杯政治学：刘怡谈战后各洲思潮与三代FIFA主席如何塑造现代足球
+### 3. 485 世界杯政治学：刘怡谈战后各洲思潮与三代FIFA主席如何塑造现代足球
 
 **播客**: 忽左忽右
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. vol.596 和欧阳夏丹聊聊27年新闻记忆：“但我也爱看那失误集锦呀！太好笑了！”｜浮世绘
+### 4. vol.596 和欧阳夏丹聊聊27年新闻记忆：“但我也爱看那失误集锦呀！太好笑了！”｜浮世绘
 
 **播客**: 无聊斋
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 892: Trapped on a Bus
+### 5. 892: Trapped on a Bus
 
 **播客**: This American Life
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 129. 艾美奖提名小讨论与奖项预测
+### 6. 129. 艾美奖提名小讨论与奖项预测
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频
+### 7. 快一点！再快一点！快到世界能实时生成｜和生数科技张金涛聊：Vidu S1、推理加速、实时交互视频
 
 **播客**: 十字路口Crossing
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
+### 8. AI 发展了 4 年，把应用发展没了？｜AI 年中复盘
 
 **播客**: 42章经
 
@@ -99,41 +112,28 @@
 
 ---
 
-### 8. E243 对话杨雨坤：大脑会记得，我们是怎样长大的
+### 9. Can World Cup mania grow MLS in the U.S.?
 
-**播客**: 知行小酒馆
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a59d6f4a3fec224d59f07fe/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lr-C-AWcFhEtOgn6f3ElEc20s6yb.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/197d9648-88cf-4d8e-a0ab-7934704fc364/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=197d9648-88cf-4d8e-a0ab-7934704fc364&feed=hvWWWzRv&t=podcast&e=nx-s1-5897877&p=510289&d=1567&size=25084743)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. 262.高中语文老师：看到孩子、看到学生、也看到自己｜对谈学员07
+### 10. 重估一切，文艺复兴---2026H1 AI行业观察
 
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a58b87ba4972c496dfcd8d3/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ljZ9qQ9lGpc5_ELtaS_LgMNWDpSX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 谁是上半年最佳AI？美国造超跑，中国造街车！中美AI格局变了！
-
-**播客**: 人民公园说AI
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a58af48016dcc7e05432f6f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqv15u9BEZnAeMu03qV287XwF-jU.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5a91e1a3fec224d59f4ddd/media.xyzcdn.net/6507bc165c88d2412626b401/lktedYhilkrrdQ1v58GOx5IkHRjM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
