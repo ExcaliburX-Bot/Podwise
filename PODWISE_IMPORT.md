@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-21 08:25:46
+> 📅 生成时间: 2026-07-21 13:46:27
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 2026AI狂飙、资本抽水与我们的“恩格斯暂停”---串台进击波财经
+### 1. No.226 AI 越强，创业者越要回到用户现场
 
-**播客名称**: 屠龙之术
+**播客名称**: 三五环
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5ee6f76356eb2d9be5d600/media.xyzcdn.net/6507bc165c88d2412626b401/llgbzyL7u_JPwMNkSRukXuiVNExC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a5f2d186356eb2d9be604e6/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpquoVwg3QMktvr75vsNgJdcA7PQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5ee6f76356eb2d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5ee6f76356eb2d9be5d600/media.xyzcdn.net/6507bc165c88d2412626b401/llgbzyL7u_JPwMNkSRukXuiVNExC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a5f2d186356eb2d9be604e6/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpquoVwg3QMktvr75vsNgJdcA7PQ.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://tk.wavpub.com/WPDL_LUUyFGwfSRBJNXxEKpujnmPmJsKHUmHBgpCeqFTXPUnvqqjRbtksC
 
 ---
 
-### 8. 892: Trapped on a Bus
+### 8. 129. 艾美奖提名小讨论与奖项预测
 
-**播客名称**: This American Life
+**播客名称**: 英美剧漫游指南KillingTV
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a
 ```
 
 </details>
