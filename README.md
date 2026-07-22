@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-22 02:32  
+> 📅 **更新时间**: 2026-07-22 08:26  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
+### 1. 【随机波动173】日常选择构成我们自身：气候变化时代的吐槽与可能 
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/62c2042a-33bf-4c08-ad10-cdbe13d9b8f1.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
 
 **播客**: 晚点聊 LateTalk
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8cbbc05f-922d-49f2-9c3c-aef3b27cf18a.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 231. 英国为什么总爱给消费者"制造麻烦"？聊聊背后那套"制造摩擦"的治理哲学
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a5dafac6356eb2d9be54f80/media.xyzcdn.net/5e285856418a84a04627b7be/ll1O0x8gmctfvKhD5sSEJvGa0Oiu.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,7 +47,20 @@
 
 ---
 
-### 4. New NPR Series: "We Keep Us Safe" from the Embedded podcast
+### 4. 第3088期:Birdwatching is good for your mental and physical health
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOMObaABnqoQS4yYfR.m4a?channel=rss&album_id=14812466&track_id=1001562840&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/36d1-audiofreehighqps/B1/27/GKwRIJEOMObaABnqoQS4yYfR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. New NPR Series: "We Keep Us Safe" from the Embedded podcast
 
 **播客**: Planet Money
 
@@ -60,33 +73,7 @@
 
 ---
 
-### 5. No.226 AI 越强，创业者越要回到用户现场
-
-**播客**: 三五环
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a5f2d186356eb2d9be604e6/media.xyzcdn.net/5e280fab418a84a0461faa3c/lpquoVwg3QMktvr75vsNgJdcA7PQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 2026AI狂飙、资本抽水与我们的“恩格斯暂停”---串台进击波财经
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5ee6f76356eb2d9be5d600/media.xyzcdn.net/6507bc165c88d2412626b401/llgbzyL7u_JPwMNkSRukXuiVNExC.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. #28 从3D空间相机到世界模型——对话竹马创新创始人张吉
+### 6. #28 从3D空间相机到世界模型——对话竹马创新创始人张吉
 
 **播客**: 出海相对论
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. Vol.344 了不起的我：不再自责，容纳矛盾，重启人生！
+### 7. Vol.344 了不起的我：不再自责，容纳矛盾，重启人生！
 
 **播客**: 文化有限
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. vol.260呐，花钱呢，最重要的就是开心
+### 8. vol.260呐，花钱呢，最重要的就是开心
 
 **播客**: 正经叭叭
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 485 世界杯政治学：刘怡谈战后各洲思潮与三代FIFA主席如何塑造现代足球
+### 9. 485 世界杯政治学：刘怡谈战后各洲思潮与三代FIFA主席如何塑造现代足球
 
 **播客**: 忽左忽右
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a5df13ba3fec224d5a07344/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhPxT8iHrxFgdOSIcBu7V2bR0rx8.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 892: Trapped on a Bus
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/8e5b0ae5-8cc7-4178-a41a-46b344dc784e/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=8e5b0ae5-8cc7-4178-a41a-46b344dc784e&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
