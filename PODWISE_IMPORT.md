@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-23 13:54:48
+> 📅 生成时间: 2026-07-23 19:14:36
 > 📊 总计: 10 个播客
 
 ---
@@ -73,61 +73,7 @@ https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZ
 
 ---
 
-### 3. 第3089期:She has removed more than 300 fishing hooks from sharks
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOMOnVABjz7QS4zHW6.m4a?channel=rss&album_id=14812466&track_id=1001564819&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f78a-audiofreehighqps/05/CB/GKwRIUEOMOnVABjz7QS4zHW6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOMOnVABjz7QS4zHW6.m4a?channel=rss&album_id=14812466&track_id=1001564819&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f78a-audiofreehighqps/05/CB/GKwRIUEOMOnVABjz7QS4zHW6.m4a
-```
-
-</details>
-
----
-
-### 4. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
-```
-
-</details>
-
----
-
-### 5. Big Lettuce meets Small Intestine
+### 3. Big Lettuce meets Small Intestine
 
 **播客名称**: Planet Money
 
@@ -154,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 可以给你的 Agent 发一点零花钱了 | S10E22
+### 4. 可以给你的 Agent 发一点零花钱了 | S10E22
 
 **播客名称**: What's Next｜科技早知道
 
@@ -181,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a65
 
 ---
 
-### 7. AI抢走内存，K型消费下我们还要做硬件吗？---串台开始连接 LinkStart
+### 5. AI抢走内存，K型消费下我们还要做硬件吗？---串台开始连接 LinkStart
 
 **播客名称**: 屠龙之术
 
@@ -208,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a5f100a6356eb2d
 
 ---
 
-### 8. 【随机波动173】日常选择构成我们自身：气候变化时代的吐槽与可能 
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/62c2042a-33bf-4c08-ad10-cdbe13d9b8f1.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/62c2042a-33bf-4c08-ad10-cdbe13d9b8f1.mp3
-```
-
-</details>
-
----
-
-### 9. No.211 🧂 徽商往事：从前世不修到最牛风投
+### 6. No.211 🧂 徽商往事：从前世不修到最牛风投
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -262,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a603d4aa3fec224
 
 ---
 
-### 10. 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
+### 7. 173: 对话姚颂：深鉴、东方空间、再出发，「天才少年」十年后
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -283,6 +202,87 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8cbb
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/8cbbc05f-922d-49f2-9c3c-aef3b27cf18a.mp3
+```
+
+</details>
+
+---
+
+### 8. 147. 和蚂蚁灵波沈宇军聊：机器人原生基础模型、大脑和本体的关系、预训练与数据scale up、老师汤晓鸥
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a5f79b3a3fec224d5a128cd/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luXTyuAfi_2ONiM15fW6Lpypo2GA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a5f79b3a3fec224d5a128cd/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luXTyuAfi_2ONiM15fW6Lpypo2GA.m4a
+```
+
+</details>
+
+---
+
+### 9. 231. 英伦奇葩说 | 英国为什么总爱给消费者"制造麻烦"？聊聊背后那套"制造摩擦"的治理哲学
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a5dafac6356eb2d9be54f80/media.xyzcdn.net/5e285856418a84a04627b7be/ll1O0x8gmctfvKhD5sSEJvGa0Oiu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a5dafac6356eb2d9be54f80/media.xyzcdn.net/5e285856418a84a04627b7be/ll1O0x8gmctfvKhD5sSEJvGa0Oiu.m4a
+```
+
+</details>
+
+---
+
+### 10. #28 从3D空间相机到世界模型——对话竹马创新创始人张吉
+
+**播客名称**: 出海相对论
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6a5ed569a3fec224d5a0bf25/media.xyzcdn.net/63b7dd49289d2739647d9587/loDezKSD3g3EPSrg0csd7iNY_cjV.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6a5ed569a3fec224d5a0bf25/media.xyzcdn.net/63b7dd49289d2739647d9587/loDezKSD3g3EPSrg0csd7iNY_cjV.m4a
 ```
 
 </details>
