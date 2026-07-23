@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-23 02:37  
+> 📅 **更新时间**: 2026-07-23 08:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,33 +21,20 @@
 
 ---
 
-### 2. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
+### 2. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3089期:She has removed more than 300 fishing hooks from sharks
-
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOMOnVABjz7QS4zHW6.m4a?channel=rss&album_id=14812466&track_id=1001564819&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f78a-audiofreehighqps/05/CB/GKwRIUEOMOnVABjz7QS4zHW6.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lmfuZ2OwqNxmGThvJNEQv38iiBo8.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. Big Lettuce meets Small Intestine
+### 3. Big Lettuce meets Small Intestine
 
 **播客**: Planet Money
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 可以给你的 Agent 发一点零花钱了 | S10E22
+### 4. 可以给你的 Agent 发一点零花钱了 | S10E22
 
 **播客**: What's Next｜科技早知道
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. AI抢走内存，K型消费下我们还要做硬件吗？---串台开始连接 LinkStart
+### 5. AI抢走内存，K型消费下我们还要做硬件吗？---串台开始连接 LinkStart
 
 **播客**: 屠龙之术
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 【随机波动173】日常选择构成我们自身：气候变化时代的吐槽与可能 
+### 6. 【随机波动173】日常选择构成我们自身：气候变化时代的吐槽与可能 
 
 **播客**: 随机波动StochasticVolatility
 
@@ -95,6 +82,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/62c2042a-33bf-4c08-ad10-cdbe13d9b8f1.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. No.211 🧂 徽商往事：从前世不修到最牛风投
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a603d4aa3fec224d5a16805/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ln60e4rKR_GSdLuNE9PVZJHTjE9M.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
