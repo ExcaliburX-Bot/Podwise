@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-24 13:42:16
+> 📅 生成时间: 2026-07-24 19:23:20
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224
 
 ---
 
-### 3. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
-```
-
-</details>
-
----
-
-### 4. 第3090期:The birthplace of takeaway coffee culture
+### 3. 第3090期:The birthplace of takeaway coffee culture
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -121,6 +94,33 @@ https://jt.ximalaya.com//GKwRIaIOMOxOABkRTAS4zZWE.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIaIOMOxOABkRTAS4zZWE.m4a?channel=rss&album_id=14812466&track_id=1001566045&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa07-audiofreehighqps/AA/A9/GKwRIaIOMOxOABkRTAS4zZWE.m4a
+```
+
+</details>
+
+---
+
+### 4. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 292 三十岁留日从零开始学设计 前媒体人小董的未来预想？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a
-```
-
-</details>
-
----
-
-### 8. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
+### 7. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
 
 **播客名称**: 硅谷101
 
@@ -235,15 +208,15 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aea
 
 ---
 
-### 9. 消失的B面 The Vanishing B-Side
+### 8. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +228,22 @@ https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDD
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
+### 9. Big Lettuce meets Small Intestine
 
-**播客名称**: 无聊斋
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZ
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
+```
+
+</details>
+
+---
+
+### 10. 可以给你的 Agent 发一点零花钱了 | S10E22
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3
 ```
 
 </details>

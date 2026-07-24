@@ -4,11 +4,11 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d
 # 2. 486 沙青青谈台北与莫斯科的冷战秘密交往
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhoBev1C5lBEU9fw1I55WQgG6ptz.m4a
 
-# 3. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
-
-# 4. 第3090期:The birthplace of takeaway coffee culture
+# 3. 第3090期:The birthplace of takeaway coffee culture
 https://jt.ximalaya.com//GKwRIaIOMOxOABkRTAS4zZWE.m4a?channel=rss&album_id=14812466&track_id=1001566045&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa07-audiofreehighqps/AA/A9/GKwRIaIOMOxOABkRTAS4zZWE.m4a
+
+# 4. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
 
 # 5. WAIC独家｜智驾的终局是物理AI，L4可能比L3更快？｜对话千里智驾CTO杨沐
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a
@@ -16,15 +16,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224
 # 6. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
 https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a
 
-# 7. 292 三十岁留日从零开始学设计 前媒体人小董的未来预想？
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a
-
-# 8. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
+# 7. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aeaeb64-9165-4271-9884-23329b511e11.mp3
 
-# 9. 消失的B面 The Vanishing B-Side
-https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3
+# 8. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
 
-# 10. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
-https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a
+# 9. Big Lettuce meets Small Intestine
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
+
+# 10. 可以给你的 Agent 发一点零花钱了 | S10E22
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3
 
