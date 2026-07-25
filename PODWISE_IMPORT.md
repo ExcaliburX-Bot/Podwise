@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-24 19:23:20
+> 📅 生成时间: 2026-07-25 02:32:34
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
+### 1. 第3091期:Indonesian villagers build mini learning center
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OMO6tABTUHwS4zpVC.m4a?channel=rss&album_id=14812466&track_id=1001567272&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8f03-audiofreehighqps/7D/7F/GKwRIW4OMO6tABTUHwS4zpVC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OMO6tABTUHwS4zpVC.m4a?channel=rss&album_id=14812466&track_id=1001567272&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8f03-audiofreehighqps/7D/7F/GKwRIW4OMO6tABTUHwS4zpVC.m4a
+```
+
+</details>
+
+---
+
+### 2. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894831&p=510362&d=2318&size=37096473
+```
+
+</details>
+
+---
+
+### 3. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
 
 **播客名称**: 知行小酒馆
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d
 
 ---
 
-### 2. 486 沙青青谈台北与莫斯科的冷战秘密交往
+### 4. 486 沙青青谈台北与莫斯科的冷战秘密交往
 
 **播客名称**: 忽左忽右
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224
 
 ---
 
-### 3. 第3090期:The birthplace of takeaway coffee culture
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOMOxOABkRTAS4zZWE.m4a?channel=rss&album_id=14812466&track_id=1001566045&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa07-audiofreehighqps/AA/A9/GKwRIaIOMOxOABkRTAS4zZWE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOMOxOABkRTAS4zZWE.m4a?channel=rss&album_id=14812466&track_id=1001566045&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/aa07-audiofreehighqps/AA/A9/GKwRIaIOMOxOABkRTAS4zZWE.m4a
-```
-
-</details>
-
----
-
-### 4. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
+### 5. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
 
 **播客名称**: 沈奕斐的播客
 
@@ -127,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224
 
 ---
 
-### 5. WAIC独家｜智驾的终局是物理AI，L4可能比L3更快？｜对话千里智驾CTO杨沐
+### 6. 292 三十岁留日从零开始学设计 前媒体人小董的未来预想？
 
-**播客名称**: 人民公园说AI
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,34 +174,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a
-```
-
-</details>
-
----
-
-### 6. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a
 ```
 
 </details>
@@ -208,7 +208,61 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aea
 
 ---
 
-### 8. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
+### 8. 消失的B面 The Vanishing B-Side
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3
+```
+
+</details>
+
+---
+
+### 9. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_TxTXzTXczFusmZJRzVYZFuwkFxtqnfDPpNUuuCMzkpBBaekAMHvYZwydTM-bf.m4a
+```
+
+</details>
+
+---
+
+### 10. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
 
 **播客名称**: 搞钱女孩
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a
-```
-
-</details>
-
----
-
-### 9. Big Lettuce meets Small Intestine
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/91e1835e-0332-40a2-8de2-c80ea0e07a80/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=91e1835e-0332-40a2-8de2-c80ea0e07a80&feed=hvWWWzRv&t=podcast&e=nx-s1-5903288&p=510289&d=1536&size=24586953
-```
-
-</details>
-
----
-
-### 10. 可以给你的 Agent 发一点零花钱了 | S10E22
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3
 ```
 
 </details>
