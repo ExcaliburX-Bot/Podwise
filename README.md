@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-26 02:39  
+> 📅 **更新时间**: 2026-07-26 08:24  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. WAIC独家｜智驾的终局是物理AI，L4可能比L3更快？｜对话千里智驾CTO杨沐
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
+### 6. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
 
 **播客**: 创业内幕 Startup Insider
 
@@ -99,20 +86,20 @@
 
 ---
 
-### 8. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
+### 7. 消失的B面 The Vanishing B-Side
 
-**播客**: 硅谷101
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aeaeb64-9165-4271-9884-23329b511e11.mp3)
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
+### 8. 最直白、最不绕弯子的征稿！无聊斋诚邀各位来做嘉宾啦！
 
 **播客**: 无聊斋
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
+### 9. 00后摆脱搞钱羞耻：做明星应援扇月入过万，摆摊穿戴甲日入五百
 
 **播客**: 搞钱女孩
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a61128aa3fec224d5a1d164/media.xyzcdn.net/63d945ece725b5378a158d29/lrwnH5XxQQnRWLRcQpz8sIQV7dOe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 可以给你的 Agent 发一点零花钱了 | S10E22
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/9a652c19-ceb3-46c2-87b4-bca36e684311.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
