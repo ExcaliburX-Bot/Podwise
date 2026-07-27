@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-27 09:49:41
+> 📅 生成时间: 2026-07-27 14:30:38
 > 📊 总计: 10 个播客
 
 ---
@@ -100,34 +100,7 @@ https://rio.xyzcdn.net/crazycapital/ep143.mp3
 
 ---
 
-### 4. 第3093期:Jiuzhaigou Valley
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOMf8qABg8YQS5QmpR.m4a?channel=rss&album_id=14812466&track_id=1001692401&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fd68-audiofreehighqps/E6/DE/GKwRIDoOMf8qABg8YQS5QmpR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOMf8qABg8YQS5QmpR.m4a?channel=rss&album_id=14812466&track_id=1001692401&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fd68-audiofreehighqps/E6/DE/GKwRIDoOMf8qABg8YQS5QmpR.m4a
-```
-
-</details>
-
----
-
-### 5. 893: Testosterone
+### 4. 893: Testosterone
 
 **播客名称**: This American Life
 
@@ -154,34 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6320d16356eb2d9be7bd07/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr4TVDrq25bY7FUGoqkqoJW6VWDk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6320d16356eb2d9be7bd07/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr4TVDrq25bY7FUGoqkqoJW6VWDk.m4a
-```
-
-</details>
-
----
-
-### 7. 109.这个夏天，有人偶遇旧爱，有人爱上新人
+### 5. 109.这个夏天，有人偶遇旧爱，有人爱上新人
 
 **播客名称**: 喷嚏
 
@@ -208,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224
 
 ---
 
-### 8. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+### 6. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
 **播客名称**: Planet Money
 
@@ -235,7 +181,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. 486 沙青青谈台北与莫斯科的冷战秘密交往
+### 7. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a
+```
+
+</details>
+
+---
+
+### 8. 486 沙青青谈台北与莫斯科的冷战秘密交往
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224
 
 ---
 
-### 10. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
+### 9. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
 
 **播客名称**: 沈奕斐的播客
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a
+```
+
+</details>
+
+---
+
+### 10. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a
 ```
 
 </details>
