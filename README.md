@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-26 19:08  
+> 📅 **更新时间**: 2026-07-27 02:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,46 @@
 
 ---
 
-### 2. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
+### 2. 143 ✪ 🚗「蔚小理」的高端探索
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep143.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3093期:Jiuzhaigou Valley
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOMf8qABg8YQS5QmpR.m4a?channel=rss&album_id=14812466&track_id=1001692401&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fd68-audiofreehighqps/E6/DE/GKwRIDoOMf8qABg8YQS5QmpR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 893: Testosterone
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
 
 **播客**: 十字路口Crossing
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 109.这个夏天，有人偶遇旧爱，有人爱上新人
+### 6. 109.这个夏天，有人偶遇旧爱，有人爱上新人
 
 **播客**: 喷嚏
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+### 7. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
 **播客**: Planet Money
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
+### 8. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
 
 **播客**: 知行小酒馆
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 486 沙青青谈台北与莫斯科的冷战秘密交往
+### 9. 486 沙青青谈台北与莫斯科的冷战秘密交往
 
 **播客**: 忽左忽右
 
@@ -86,54 +125,15 @@
 
 ---
 
-### 7. WAIC独家｜智驾的终局是物理AI，L4可能比L3更快？｜对话千里智驾CTO杨沐
+### 10. 263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？
 
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.17 Interlace Michael Wu： 从义乌到硅谷，数百亿美金背后的支付基础设施
-
-**播客**: 创业内幕 Startup Insider
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4ONiqyAUeiSgS7JZKn.m4a?channel=rss&album_id=20119986&track_id=1002269073&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/b561-audiofreehighqps/17/8E/GKwRIW4ONiqyAUeiSgS7JZKn.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的
-
-**播客**: 硅谷101
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aeaeb64-9165-4271-9884-23329b511e11.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 消失的B面 The Vanishing B-Side
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_WMatNzcUerXxQLKGwLQnmBsQLVSvtRpUPSrZkmLJQVDEsNgCuJrDDQPQur-92.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
