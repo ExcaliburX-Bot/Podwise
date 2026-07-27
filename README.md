@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-27 02:48  
+> 📅 **更新时间**: 2026-07-27 09:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
+### 1. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
 
 **播客**: 无聊斋
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 143 ✪ 🚗「蔚小理」的高端探索
+### 3. 143 ✪ 🚗「蔚小理」的高端探索
 
 **播客**: 疯投圈
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 第3093期:Jiuzhaigou Valley
+### 4. 第3093期:Jiuzhaigou Valley
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 893: Testosterone
+### 5. 893: Testosterone
 
 **播客**: This American Life
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
+### 6. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 109.这个夏天，有人偶遇旧爱，有人爱上新人
+### 7. 109.这个夏天，有人偶遇旧爱，有人爱上新人
 
 **播客**: 喷嚏
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+### 8. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
 **播客**: Planet Money
 
@@ -99,19 +112,6 @@
 
 ---
 
-### 8. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
 ### 9. 486 沙青青谈台北与莫斯科的冷战秘密交往
 
 **播客**: 忽左忽右
@@ -120,7 +120,7 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhoBev1C5lBEU9fw1I55WQgG6ptz.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrRcTIxvFjUkQkGlaVvwKS5u9RXf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

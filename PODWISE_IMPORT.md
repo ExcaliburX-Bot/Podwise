@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-27 02:48:41
+> 📅 生成时间: 2026-07-27 09:49:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
+### 1. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3
+```
+
+</details>
+
+---
+
+### 2. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_SEbstqCtrEUwJUxWnXVTMNLsGtevTxqecTEeYjakALLcfazDeqfuZ
 
 ---
 
-### 2. 143 ✪ 🚗「蔚小理」的高端探索
+### 3. 143 ✪ 🚗「蔚小理」的高端探索
 
 **播客名称**: 疯投圈
 
@@ -73,7 +100,7 @@ https://rio.xyzcdn.net/crazycapital/ep143.mp3
 
 ---
 
-### 3. 第3093期:Jiuzhaigou Valley
+### 4. 第3093期:Jiuzhaigou Valley
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoOMf8qABg8YQS5QmpR.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 893: Testosterone
+### 5. 893: Testosterone
 
 **播客名称**: This American Life
 
@@ -127,7 +154,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
+### 6. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6320d16356eb2d
 
 ---
 
-### 6. 109.这个夏天，有人偶遇旧爱，有人爱上新人
+### 7. 109.这个夏天，有人偶遇旧爱，有人爱上新人
 
 **播客名称**: 喷嚏
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224
 
 ---
 
-### 7. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
+### 8. Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)
 
 **播客名称**: Planet Money
 
@@ -208,33 +235,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. E244 对话李筱懿：站在人生中场，我为我自己鼓掌
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a
-```
-
-</details>
-
----
-
 ### 9. 486 沙青青谈台北与莫斯科的冷战秘密交往
 
 **播客名称**: 忽左忽右
@@ -243,7 +243,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhoBev1C5lBEU9fw1I55WQgG6ptz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrRcTIxvFjUkQkGlaVvwKS5u9RXf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhoBev1C5lBEU9fw1I55WQgG6ptz.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a632389a3fec224d5a2b4b8/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrRcTIxvFjUkQkGlaVvwKS5u9RXf.m4a
 ```
 
 </details>
