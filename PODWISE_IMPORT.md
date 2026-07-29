@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-29 14:07:04
+> 📅 生成时间: 2026-07-29 19:13:32
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com
 
 ---
 
-### 3. 第3095期:Famous 11th century tapestry to be housed at the British museum
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a
-```
-
-</details>
-
----
-
-### 4. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
+### 3. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
 
 **播客名称**: 贝望录
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f349
 
 ---
 
-### 5. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
+### 4. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
 
 **播客名称**: 三五环
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d
 
 ---
 
-### 6. 487 从战象政治到部落民：南亚的帝国生态五百年
+### 5. 487 从战象政治到部落民：南亚的帝国生态五百年
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f349
 
 ---
 
-### 7. 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
+### 6. 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -202,6 +175,33 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e0
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e00501-28e2-47a2-9489-32bc7b788267.mp3
+```
+
+</details>
+
+---
+
+### 7. 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
 ```
 
 </details>

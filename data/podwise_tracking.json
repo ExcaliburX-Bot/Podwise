@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T14:07:04.047556",
+  "generated_at": "2026-07-29T19:13:32.684619",
   "total_count": 10,
   "episodes": [
     {
@@ -24,16 +24,6 @@
     },
     {
       "rank": 3,
-      "title": "第3095期:Famous 11th century tapestry to be housed at the British museum",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
       "title": "东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f3491ba67f4b/media.xyzcdn.net/5e285856418a84a04627b7be/lg94YVUlNo-a77knB-2DaDfSdQ5i.m4a",
@@ -43,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
       "podcast": "三五环",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a",
@@ -53,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "487 从战象政治到部落民：南亚的帝国生态五百年",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f3491ba6571f/media.xyzcdn.net/5e4ee557418a84a0466737b7/ln9XFiqQ9DjGFQbvi7uDR7JYoREA.m4a",
@@ -63,10 +53,20 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e00501-28e2-47a2-9489-32bc7b788267.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 7,
+      "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+      "podcast": "张小珺Jùn｜商业访谈录",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
