@@ -1,5 +1,15 @@
 [
   {
+    "eid": "5&size=37367727",
+    "title": "How to beat the resource curse in Norway (Summer School)",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909324&p=510362&d=2335&size=37367727",
+    "pubDate": "2026-07-29T07:30:00+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "-2DaDfSdQ5i.m4a",
     "title": "东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会",
     "podcast": {
@@ -8,26 +18,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f3491ba67f4b/media.xyzcdn.net/5e285856418a84a04627b7be/lg94YVUlNo-a77knB-2DaDfSdQ5i.m4a",
     "pubDate": "2026-07-29T00:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
-  },
-  {
-    "eid": "APAmgS8r493.m4a",
-    "title": "第3095期:Famous 11th century tapestry to be housed at the British museum",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a",
-    "pubDate": "2026-07-29T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
-    "eid": "XYfxR4wBvYy.m4a",
-    "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
-    "podcast": {
-      "title": "三五环"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a",
-    "pubDate": "2026-07-28T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
     "eid": "7uDR7JYoREA.m4a",
@@ -40,14 +30,14 @@
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
-    "eid": "_YRimxgkIms.m4a",
-    "title": "148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”",
+    "eid": "2bc7b788267.mp3",
+    "title": "174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界",
     "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
+      "title": "晚点聊 LateTalk"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a",
-    "pubDate": "2026-07-28T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e00501-28e2-47a2-9489-32bc7b788267.mp3",
+    "pubDate": "2026-07-28T07:00:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "tdRWgS9a3fN.m4a",
@@ -90,16 +80,6 @@
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
-    "eid": "pital/ep143.mp3",
-    "title": "143 ✪ 🚗「蔚小理」的高端探索",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep143.mp3",
-    "pubDate": "2026-07-27T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
-  },
-  {
     "eid": "0d9b98f&nocache",
     "title": "893: Testosterone",
     "podcast": {
@@ -130,24 +110,24 @@
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
   },
   {
-    "eid": "8&size=37096473",
-    "title": "Piles of cash and a town of solutions in Kenya, Nigeria (Summer School)",
+    "eid": "4KgLut3kQfk.m4a",
+    "title": "E244 对话李筱懿：站在人生中场，我为我自己鼓掌",
     "podcast": {
-      "title": "Planet Money"
+      "title": "知行小酒馆"
     },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=bbf7b35a-7b93-48b7-a34b-ab4db08ffcd9&feed=1e5vv9pg&t=podcast&e=nx-s1-5894830&p=510289&d=2318&size=37096473",
-    "pubDate": "2026-07-24T20:00:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a62ce226356eb2d9be786e0/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ligzOvnFT4IMxsv144KgLut3kQfk.m4a",
+    "pubDate": "2026-07-24T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "eid": "0vS9kLKVAjK.m4a",
-    "title": "WAIC独家｜智驾的终局是物理AI，L4可能比L3更快？｜对话千里智驾CTO杨沐",
+    "eid": "0SJsBhT_I5k.m4a",
+    "title": "263.韩红“走个面儿”是请求还是命令？“人情”在现代社会为什么这么引发反感？",
     "podcast": {
-      "title": "人民公园说AI"
+      "title": "沈奕斐的播客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a61e88ea3fec224d5a23342/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lirsAhH6t0Rxzion10vS9kLKVAjK.m4a",
-    "pubDate": "2026-07-23T23:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a620108a3fec224d5a23f98/media.xyzcdn.net/5f4e170c9504bbdb77566a19/liaGFkUJuduNeor4B0SJsBhT_I5k.m4a",
+    "pubDate": "2026-07-24T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "UeiSgS7JZKn.m4a",
@@ -168,16 +148,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a60f5d0a3fec224d5a1cd70/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lnvp8pozlGtpByUxtbxbSAO2CDrp.m4a",
     "pubDate": "2026-07-23T21:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
-    "eid": "3329b511e11.mp3",
-    "title": "E245｜藏在大模型背后的新闻人：GPT们的回复是这样写出来的",
-    "podcast": {
-      "title": "硅谷101"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5aeaeb64-9165-4271-9884-23329b511e11.mp3",
-    "pubDate": "2026-07-23T17:00:00-07:00",
-    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "rDDQPQur-92.mp3",
@@ -250,6 +220,16 @@
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
+    "eid": "45N4Qj7oBG-.m4a",
+    "title": "失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a",
+    "pubDate": "2026-07-14T14:11:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
     "eid": "qxsZQS2FS0v.m4a",
     "title": "王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁",
     "podcast": {
@@ -258,16 +238,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a",
     "pubDate": "2026-07-14T12:30:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
-    "eid": "fEYzflHVZ2U.m4a",
-    "title": "EP128 从 Palantir 到 OpenAI：FDE 会成为 AI 时代最重要的新岗位？ 🧬",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a55209c27a4eec16c4026c5/media.xyzcdn.net/640ee2438be5d40013fe4a87/ltozkUtZ_GVff4xu-fEYzflHVZ2U.m4a",
-    "pubDate": "2026-07-13T17:51:42+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "xz_rixLrs9M.m4a",
@@ -280,16 +250,6 @@
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
-    "eid": "3470_364867.mp3",
-    "title": "卫柏Neon：一歌一面，每一面都是自己",
-    "podcast": {
-      "title": "周末变奏 Key Change"
-    },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4NzI4MSwidCI6MX0.fcVE_qHofyBo87PaxoFZRRI73Mg/keychangefm/8216253470_364867.mp3",
-    "pubDate": "2026-07-11T05:10:00+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
     "eid": "tqx2QDVhM38.m4a",
     "title": "夏日广播电视报：世界杯与恐怖片，你真的吓到我啦",
     "podcast": {
@@ -298,5 +258,45 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a50c8fa1e32575f5eb4590e/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhXH8p70rlSFAuo8ftqx2QDVhM38.m4a",
     "pubDate": "2026-07-10T10:44:09+00:00",
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
+    "eid": "P5QPR2scWXt.m4a",
+    "title": "269. 卷规模 VS 卷创作：真人短剧的两种生存模式",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a4f777d1e32575f5eb3cbc1/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmwHgQD0rgE4mr0FWP5QPR2scWXt.m4a",
+    "pubDate": "2026-07-09T10:32:06+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "d57b5bf0194.mp3",
+    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
+    "pubDate": "2026-07-07T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
+  },
+  {
+    "eid": "rMRSkVAggt2.m4a",
+    "title": "Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a",
+    "pubDate": "2026-07-01T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
+  },
+  {
+    "eid": "dBgTgSqJ6pI.m4a",
+    "title": "351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a",
+    "pubDate": "2026-06-18T06:39:08+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   }
 ]

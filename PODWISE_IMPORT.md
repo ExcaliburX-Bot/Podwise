@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-29 02:31:19
+> 📅 生成时间: 2026-07-29 08:38:32
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
+### 1. How to beat the resource curse in Norway (Summer School)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909324&p=510362&d=2335&size=37367727
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909324&p=510362&d=2335&size=37367727
+```
+
+</details>
+
+---
+
+### 2. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
 
 **播客名称**: 贝望录
 
@@ -46,61 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f349
 
 ---
 
-### 2. 第3095期:Famous 11th century tapestry to be housed at the British museum
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4OOe_qAAPAmgS8r493.m4a?channel=rss&album_id=14812466&track_id=1002762426&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2b-audiofreehighqps/DE/F2/GKwRIW4OOe_qAAPAmgS8r493.m4a
-```
-
-</details>
-
----
-
-### 3. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a
-```
-
-</details>
-
----
-
-### 4. 487 从战象政治到部落民：南亚的帝国生态五百年
+### 3. 487 从战象政治到部落民：南亚的帝国生态五百年
 
 **播客名称**: 忽左忽右
 
@@ -127,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f349
 
 ---
 
-### 5. 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
+### 4. 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e00501-28e2-47a2-9489-32bc7b788267.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +120,14 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e00501-28e2-47a2-9489-32bc7b788267.mp3
 ```
 
 </details>
 
 ---
 
-### 6. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
+### 5. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
 
 **播客名称**: 文化有限
 
@@ -181,7 +154,7 @@ https://jt.ximalaya.com//GKwRIDoOO8xlAtdRWgS9a3fN.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
+### 6. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
 
 **播客名称**: What's Next｜科技早知道
 
@@ -208,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6
 
 ---
 
-### 8. vol.261原来孤独，是想哭却又不想瞩目
+### 7. vol.261原来孤独，是想哭却又不想瞩目
 
 **播客名称**: 正经叭叭
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a677132b581962c
 
 ---
 
-### 9. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
+### 8. vol.597 真·生活小工具达人：幸福感up up神器清单｜老友闲谈
 
 **播客名称**: 无聊斋
 
@@ -262,15 +235,15 @@ https://tk.wavpub.com/WPDL_SEbstqCtrEUwJUxWnXVTMNLsGtevTxqecTEeYjakALLcfazDeqfuZ
 
 ---
 
-### 10. 143 ✪ 🚗「蔚小理」的高端探索
+### 9. 893: Testosterone
 
-**播客名称**: 疯投圈
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep143.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://rio.xyzcdn.net/crazycapital/ep143.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep143.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache
+```
+
+</details>
+
+---
+
+### 10. 11 年，110 亿美金，然后呢？｜对话 Airwallex 吴恺：AI 时代，下一站 1000 亿
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6320d16356eb2d9be7bd07/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr4TVDrq25bY7FUGoqkqoJW6VWDk.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6320d16356eb2d9be7bd07/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr4TVDrq25bY7FUGoqkqoJW6VWDk.m4a
 ```
 
 </details>
