@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-29 19:13:32
+> 📅 生成时间: 2026-07-30 02:12:55
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.212 🫂 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25
+### 1. 第3096期:Cover up racist tattoos
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOOfQDABwTGAS8sZDR.m4a?channel=rss&album_id=14812466&track_id=1002764283&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6369-audiofreehighqps/97/C2/GKwRIDoOOfQDABwTGAS8sZDR.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOOfQDABwTGAS8sZDR.m4a?channel=rss&album_id=14812466&track_id=1002764283&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6369-audiofreehighqps/97/C2/GKwRIDoOOfQDABwTGAS8sZDR.m4a
+```
+
+</details>
+
+---
+
+### 2. 上半年美股复盘：存储芯片半导体，K线虐我如蝼蚁
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a6a433356a3f3491ba71cf4/media.xyzcdn.net/63d945ece725b5378a158d29/lm8fS3-_i1q3ClYMFRToVfpN-UcT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a6a433356a3f3491ba71cf4/media.xyzcdn.net/63d945ece725b5378a158d29/lm8fS3-_i1q3ClYMFRToVfpN-UcT.m4a
+```
+
+</details>
+
+---
+
+### 3. No.212 🫂 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a69796ab581962c
 
 ---
 
-### 2. How to beat the resource curse in Norway (Summer School)
+### 4. How to beat the resource curse in Norway (Summer School)
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,7 @@ https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com
 
 ---
 
-### 3. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
+### 5. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
 
 **播客名称**: 贝望录
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f349
 
 ---
 
-### 4. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a
-```
-
-</details>
-
----
-
-### 5. 487 从战象政治到部落民：南亚的帝国生态五百年
+### 6. 487 从战象政治到部落民：南亚的帝国生态五百年
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f349
 
 ---
 
-### 6. 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
+### 7. 174: AI冲击企业软件巨头？与SAP原欣聊大模型to B的颠覆与边界
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/36e0
 
 ---
 
-### 7. 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
+### 8. 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224
 
 ---
 
-### 8. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
+### 9. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
 
 **播客名称**: 文化有限
 
@@ -235,7 +262,7 @@ https://jt.ximalaya.com//GKwRIDoOO8xlAtdRWgS9a3fN.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
+### 10. 国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23
 
 **播客名称**: What's Next｜科技早知道
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3
-```
-
-</details>
-
----
-
-### 10. vol.261原来孤独，是想哭却又不想瞩目
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a677132b581962ce2bc5868/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lk2uWkMPvtvfhKfzoU1P9ylUAB79.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a677132b581962ce2bc5868/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lk2uWkMPvtvfhKfzoU1P9ylUAB79.m4a
 ```
 
 </details>
