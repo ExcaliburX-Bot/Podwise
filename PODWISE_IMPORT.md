@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-30 13:57:25
+> 📅 生成时间: 2026-07-30 19:23:43
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a69796ab581962c
 
 ---
 
-### 6. How to beat the resource curse in Norway (Summer School)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/fda39dfe-a1eb-40f3-ab73-8b6a189001f1/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=fda39dfe-a1eb-40f3-ab73-8b6a189001f1&feed=1e5vv9pg&t=podcast&e=nx-s1-5909323&p=510289&d=2335&size=37367727
-```
-
-</details>
-
----
-
-### 7. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
+### 6. 东观西望丨12. 从日本的长寿社会到英国的灰色英镑，聊聊银发经济如何成为下一个商业机会
 
 **播客名称**: 贝望录
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a68ca8b56a3f349
 
 ---
 
-### 8. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
+### 7. No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？
 
 **播客名称**: 三五环
 
@@ -235,7 +208,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d
 
 ---
 
-### 9. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
+### 8. 487 从战象政治到部落民：南亚的帝国生态五百年
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f3491ba6571f/media.xyzcdn.net/5e4ee557418a84a0466737b7/ln9XFiqQ9DjGFQbvi7uDR7JYoREA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a68817056a3f3491ba6571f/media.xyzcdn.net/5e4ee557418a84a0466737b7/ln9XFiqQ9DjGFQbvi7uDR7JYoREA.m4a
+```
+
+</details>
+
+---
+
+### 9. 148. 对游凯超3小时访谈：开源Infra、和模型Co-design 、“如果vLLM失败，我们会后悔一辈子”
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a66ed17a3fec224d5a3f744/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lg-fhgPMq4r-8L_-5_YRimxgkIms.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？
 
 **播客名称**: 文化有限
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIDoOO8xlAtdRWgS9a3fN.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoOO8xlAtdRWgS9a3fN.m4a?channel=rss&album_id=29887212&track_id=1003006853&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/46c4-audiofreehighqps/71/DA/GKwRIDoOO8xlAtdRWgS9a3fN.m4a
-```
-
-</details>
-
----
-
-### 10. vol.261原来孤独，是想哭却又不想瞩目
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a677132b581962ce2bc5868/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lk2uWkMPvtvfhKfzoU1P9ylUAB79.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a677132b581962ce2bc5868/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lk2uWkMPvtvfhKfzoU1P9ylUAB79.m4a
 ```
 
 </details>
