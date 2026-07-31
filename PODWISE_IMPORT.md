@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-07-31 14:02:41
+> 📅 生成时间: 2026-07-31 19:22:41
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
+### 1. 176: 姚顺雨，来到腾讯300天
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+```
+
+</details>
+
+---
+
+### 2. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
 
 **播客名称**: 知行小酒馆
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962c
 
 ---
 
-### 2. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
+### 3. 488 俄乌考察2026：无人机如何改变战争前线与后方
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a
+```
+
+</details>
+
+---
+
+### 4. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
 
 **播客名称**: 沈奕斐的播客
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f349
 
 ---
 
-### 3. 第3097期:Drive-thru Drama
+### 5. 第3097期:Drive-thru Drama
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIRwOOfdfABdS5gS8s2Ol.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
+### 6. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a69b07eb581962c
 
 ---
 
-### 5. 293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！
+### 7. 293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！
 
 **播客名称**: 东亚观察局
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962c
 
 ---
 
-### 6. 梁文锋：最顶级的精明，看起来往往像理想主义！｜DeepSeek梁文锋会议解读：
+### 8. 梁文锋：最顶级的精明，看起来往往像理想主义！｜DeepSeek梁文锋会议解读：
 
 **播客名称**: 人民公园说AI
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a6b2b0956a3f349
 
 ---
 
-### 7. S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识
+### 9. S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -208,7 +262,7 @@ https://jt.ximalaya.com//GKwRIDoOP5gXAWJr4QS-70VK.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 7月新歌推荐丨麦当娜、Steve Lacy、许钧、浅堤… 不要错过🎉
+### 10. 7月新歌推荐丨麦当娜、Steve Lacy、许钧、浅堤… 不要错过🎉
 
 **播客名称**: Vibration 歪波音室
 
@@ -229,60 +283,6 @@ https://tk.wavpub.com/WPDL_NDwVAHJtdUaJmzdgDtWncxLBpAKNRykjCLQaVYGhfJQXLwuAWKsQq
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPDL_NDwVAHJtdUaJmzdgDtWncxLBpAKNRykjCLQaVYGhfJQXLwuAWKsQqGCWGa-f1.mp3
-```
-
-</details>
-
----
-
-### 9. 上半年美股复盘：存储芯片半导体，K线虐我如蝼蚁
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a6a433356a3f3491ba71cf4/media.xyzcdn.net/63d945ece725b5378a158d29/lm8fS3-_i1q3ClYMFRToVfpN-UcT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a6a433356a3f3491ba71cf4/media.xyzcdn.net/63d945ece725b5378a158d29/lm8fS3-_i1q3ClYMFRToVfpN-UcT.m4a
-```
-
-</details>
-
----
-
-### 10. No.212 🫂 曾经的精神角落：豆瓣、知乎、贴吧、虎扑 | 中国互联网故事25
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a69796ab581962ce2bd2aeb/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llLjZDW98-1S3jOQYBlkQCBcPCjG.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a69796ab581962ce2bd2aeb/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llLjZDW98-1S3jOQYBlkQCBcPCjG.m4a
 ```
 
 </details>
