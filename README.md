@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-01 02:40  
+> 📅 **更新时间**: 2026-08-01 08:18  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 176: 姚顺雨，来到腾讯300天
+### 1. 270.大厂押注AI办公，飞书和钉钉却先成了配角
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 176: 姚顺雨，来到腾讯300天
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 第3098期:A Female Photographer Looks Back on Her Career
+### 3. 第3098期:A Female Photographer Looks Back on Her Career
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOOfoTAB2JNQS8tOI7.m4a?channel=rss&album_id=14812466&track_id=1002767712&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e13-audiofreehighqps/55/F5/GKwRIUEOOfoTAB2JNQS8tOI7.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. What makes a toy go viral
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
+### 5. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrHR3IE/keychangefm/8214489215_336045.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
 
 **播客**: 知行小酒馆
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 488 俄乌考察2026：无人机如何改变战争前线与后方
+### 7. 488 俄乌考察2026：无人机如何改变战争前线与后方
 
 **播客**: 忽左忽右
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
+### 8. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
 
 **播客**: 沈奕斐的播客
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
+### 9. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. 293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！
+### 10. 梁文锋：最顶级的精明，看起来往往像理想主义！｜DeepSeek梁文锋会议解读：
 
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962ce2be2d44/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg4mpcITlckTLNCshtvn83CRx7zL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 7月新歌推荐丨麦当娜、Steve Lacy、许钧、浅堤… 不要错过🎉
-
-**播客**: Vibration 歪波音室
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_NDwVAHJtdUaJmzdgDtWncxLBpAKNRykjCLQaVYGhfJQXLwuAWKsQqGCWGa-f1.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a6b2b0956a3f3491ba7871c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrLl6fZlOSRBlmWr7UsOoS2uTk0Y.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
