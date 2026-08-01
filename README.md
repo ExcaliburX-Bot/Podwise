@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-07-31 19:22  
+> 📅 **更新时间**: 2026-08-01 02:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,46 @@
 
 ---
 
-### 2. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
+### 2. 第3098期:A Female Photographer Looks Back on Her Career
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOOfoTAB2JNQS8tOI7.m4a?channel=rss&album_id=14812466&track_id=1002767712&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e13-audiofreehighqps/55/F5/GKwRIUEOOfoTAB2JNQS8tOI7.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. What makes a toy go viral
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
 
 **播客**: 知行小酒馆
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 488 俄乌考察2026：无人机如何改变战争前线与后方
+### 6. 488 俄乌考察2026：无人机如何改变战争前线与后方
 
 **播客**: 忽左忽右
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
+### 7. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
 
 **播客**: 沈奕斐的播客
 
@@ -60,20 +99,7 @@
 
 ---
 
-### 5. 第3097期:Drive-thru Drama
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOOfdfABdS5gS8s2Ol.m4a?channel=rss&album_id=14812466&track_id=1002765940&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fec1-audiofreehighqps/FB/75/GKwRIRwOOfdfABdS5gS8s2Ol.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
+### 8. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！
+### 9. 293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！
 
 **播客**: 东亚观察局
 
@@ -95,32 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962ce2be2d44/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg4mpcITlckTLNCshtvn83CRx7zL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 梁文锋：最顶级的精明，看起来往往像理想主义！｜DeepSeek梁文锋会议解读：
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a6b2b0956a3f3491ba7871c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lrLl6fZlOSRBlmWr7UsOoS2uTk0Y.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOP5gXAWJr4QS-70VK.m4a?channel=rss&album_id=20119986&track_id=1003526715&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/c1c7-audiofreehighqps/C3/CD/GKwRIDoOP5gXAWJr4QS-70VK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
