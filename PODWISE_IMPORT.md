@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-02 08:22:14
+> 📅 生成时间: 2026-08-02 13:17:23
 > 📊 总计: 10 个播客
 
 ---
@@ -127,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f349
 
 ---
 
-### 5. 176: 姚顺雨，来到腾讯300天
+### 5. 270.大厂押注AI办公，飞书和钉钉却先成了配角
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,41 +147,14 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a
 ```
 
 </details>
 
 ---
 
-### 6. What makes a toy go viral
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
-```
-
-</details>
-
----
-
-### 7. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+### 6. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
 
 **播客名称**: 硅谷101
 
@@ -208,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd2
 
 ---
 
-### 8. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
+### 7. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +208,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrH
 
 ---
 
-### 9. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
+### 8. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
 
 **播客名称**: 知行小酒馆
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962c
 
 ---
 
-### 10. 488 俄乌考察2026：无人机如何改变战争前线与后方
+### 9. 488 俄乌考察2026：无人机如何改变战争前线与后方
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a
+```
+
+</details>
+
+---
+
+### 10. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f3491ba77d22/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsowSHYX1FnrZJToEZNCjc5NiBY7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f3491ba77d22/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsowSHYX1FnrZJToEZNCjc5NiBY7.m4a
 ```
 
 </details>
