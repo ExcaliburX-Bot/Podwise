@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-02 13:17:23
+> 📅 生成时间: 2026-08-02 19:07:34
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3099期:Virtual reality cloud vacationing
+### 1. vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a
+```
+
+</details>
+
+---
+
+### 2. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e24969ce77ab5/media.xyzcdn.net/60502e253c92d4f62c2a9577/lu98AA1ByafbBlJyJrn8oqUIeZk_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e24969ce77ab5/media.xyzcdn.net/60502e253c92d4f62c2a9577/lu98AA1ByafbBlJyJrn8oqUIeZk_.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3099期:Virtual reality cloud vacationing
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIDoOOhyQAA2udgS8w_qe.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 你真的信WorkBuddy有2000万月活？
+### 4. 你真的信WorkBuddy有2000万月活？
 
 **播客名称**: 屠龙之术
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e2496
 
 ---
 
-### 3. Ep203 未来生活指南｜简直是上海青年女房东团建
+### 5. Ep203 未来生活指南｜简直是上海青年女房东团建
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c2
 
 ---
 
-### 4. 99.对话行烟烟：“她不满足任何人的期待”
+### 6. 99.对话行烟烟：“她不满足任何人的期待”
 
 **播客名称**: 展开讲讲
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f349
 
 ---
 
-### 5. 270.大厂押注AI办公，飞书和钉钉却先成了配角
+### 7. 270.大厂押注AI办公，飞书和钉钉却先成了配角
 
 **播客名称**: 乱翻书
 
@@ -154,7 +208,61 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e2496
 
 ---
 
-### 6. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+### 8. 176: 姚顺雨，来到腾讯300天
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
+```
+
+</details>
+
+---
+
+### 9. What makes a toy go viral
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563
+```
+
+</details>
+
+---
+
+### 10. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
 
 **播客名称**: 硅谷101
 
@@ -175,114 +283,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd2
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3
-```
-
-</details>
-
----
-
-### 7. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrHR3IE/keychangefm/8214400914_434769.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrHR3IE/keychangefm/8214400914_434769.mp3
-```
-
-</details>
-
----
-
-### 8. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962ce2bdd80f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt3kRTtigg6jqerNTXv2imskmzaU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962ce2bdd80f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt3kRTtigg6jqerNTXv2imskmzaU.m4a
-```
-
-</details>
-
----
-
-### 9. 488 俄乌考察2026：无人机如何改变战争前线与后方
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a
-```
-
-</details>
-
----
-
-### 10. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f3491ba77d22/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsowSHYX1FnrZJToEZNCjc5NiBY7.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f3491ba77d22/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsowSHYX1FnrZJToEZNCjc5NiBY7.m4a
 ```
 
 </details>
