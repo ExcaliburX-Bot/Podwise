@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-02 02:39  
+> 📅 **更新时间**: 2026-08-02 08:22  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep203 未来生活指南｜简直是上海青年女房东团建
+### 1. 第3099期:Virtual reality cloud vacationing
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOOhyQAA2udgS8w_qe.m4a?channel=rss&album_id=14812466&track_id=1002785947&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a4a4-audiofreehighqps/55/7E/GKwRIDoOOhyQAA2udgS8w_qe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 你真的信WorkBuddy有2000万月活？
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Ep203 未来生活指南｜简直是上海青年女房东团建
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 99.对话行烟烟：“她不满足任何人的期待”
+### 4. 99.对话行烟烟：“她不满足任何人的期待”
 
 **播客**: 展开讲讲
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 176: 姚顺雨，来到腾讯300天
+### 5. 176: 姚顺雨，来到腾讯300天
 
 **播客**: 晚点聊 LateTalk
 
@@ -47,7 +73,33 @@
 
 ---
 
-### 4. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
+### 6. What makes a toy go viral
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
 
 **播客**: 周末变奏 Key Change
 
@@ -60,7 +112,7 @@
 
 ---
 
-### 5. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
+### 9. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
 
 **播客**: 知行小酒馆
 
@@ -73,7 +125,7 @@
 
 ---
 
-### 6. 488 俄乌考察2026：无人机如何改变战争前线与后方
+### 10. 488 俄乌考察2026：无人机如何改变战争前线与后方
 
 **播客**: 忽左忽右
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a6c6160b581962ce2be819d/media.xyzcdn.net/Fim-swGolIN_XDscqIKdHk83CrlR.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 264.如何改变全方面内耗的人生？坦诚自己的“嫉妒”，有多重要？｜学员对谈08
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a6b192256a3f3491ba77d22/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lsowSHYX1FnrZJToEZNCjc5NiBY7.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 149. 亲历中美neo labs资本狂潮，和清华刘子鸣聊：AI for AI、机制可解释性和Max Tegmark
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a69b07eb581962ce2bd4d97/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lm33Q4N6w8TZcd2fXDBUK9UnC2xv.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOP5gXAWJr4QS-70VK.m4a?channel=rss&album_id=20119986&track_id=1003526715&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/c1c7-audiofreehighqps/C3/CD/GKwRIDoOP5gXAWJr4QS-70VK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 7月新歌推荐丨麦当娜、Steve Lacy、许钧、浅堤… 不要错过🎉
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_NDwVAHJtdUaJmzdgDtWncxLBpAKNRykjCLQaVYGhfJQXLwuAWKsQqGCWGa-f1.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
