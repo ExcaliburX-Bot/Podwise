@@ -10,6 +10,26 @@
     "source_rss": "https://feeds.wlz.danlirencomedy.com/wuliaozhai.xml"
   },
   {
+    "eid": "PAAjTFfsBLx.m4a",
+    "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
+    "pubDate": "2026-08-02T19:39:44+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+  },
+  {
+    "eid": "bfda0e9&nocache",
+    "title": "894: I Couldn't Help but Notice",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache",
+    "pubDate": "2026-08-02T18:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
     "eid": "rn8oqUIeZk_.m4a",
     "title": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
     "podcast": {
@@ -18,16 +38,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e24969ce77ab5/media.xyzcdn.net/60502e253c92d4f62c2a9577/lu98AA1ByafbBlJyJrn8oqUIeZk_.m4a",
     "pubDate": "2026-08-02T16:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
-  },
-  {
-    "eid": "A2udgS8w_qe.m4a",
-    "title": "第3099期:Virtual reality cloud vacationing",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOOhyQAA2udgS8w_qe.m4a?channel=rss&album_id=14812466&track_id=1002785947&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a4a4-audiofreehighqps/55/7E/GKwRIDoOOhyQAA2udgS8w_qe.m4a",
-    "pubDate": "2026-08-02T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
     "eid": "g87WLVkt2hI.m4a",
@@ -40,16 +50,6 @@
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
-    "eid": "lYZCxD2XM6N.m4a",
-    "title": "Ep203 未来生活指南｜简直是上海青年女房东团建",
-    "podcast": {
-      "title": "基本无害 Mostly Harmless"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c24a0e26df/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqU43VdMVoS5oeARHlYZCxD2XM6N.m4a",
-    "pubDate": "2026-08-01T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
-  },
-  {
     "eid": "BYwtC-Ggzdw.m4a",
     "title": "99.对话行烟烟：“她不满足任何人的期待”",
     "podcast": {
@@ -60,16 +60,6 @@
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
   },
   {
-    "eid": "ciKBgHpfrO4.m4a",
-    "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a",
-    "pubDate": "2026-08-01T07:44:43+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
     "eid": "35cb9c6c111.mp3",
     "title": "176: 姚顺雨，来到腾讯300天",
     "podcast": {
@@ -78,16 +68,6 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3",
     "pubDate": "2026-08-01T00:00:00+08:00",
     "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
-    "eid": "5&size=24568563",
-    "title": "What makes a toy go viral",
-    "podcast": {
-      "title": "Planet Money"
-    },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563",
-    "pubDate": "2026-07-31T21:00:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
     "eid": "83ceadd1b41.mp3",
@@ -108,6 +88,16 @@
     "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrHR3IE/keychangefm/8214400914_434769.mp3",
     "pubDate": "2026-07-31T15:58:50+00:00",
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
+  },
+  {
+    "eid": "Xv2imskmzaU.m4a",
+    "title": "E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？",
+    "podcast": {
+      "title": "知行小酒馆"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962ce2bdd80f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt3kRTtigg6jqerNTXv2imskmzaU.m4a",
+    "pubDate": "2026-07-31T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
     "eid": "IKdHk83CrlR.m4a",
@@ -140,16 +130,6 @@
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
-    "eid": "tvn83CRx7zL.m4a",
-    "title": "293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！",
-    "podcast": {
-      "title": "东亚观察局"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962ce2be2d44/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg4mpcITlckTLNCshtvn83CRx7zL.m4a",
-    "pubDate": "2026-07-30T23:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
     "eid": "UsOoS2uTk0Y.m4a",
     "title": "梁文锋：最顶级的精明，看起来往往像理想主义！｜DeepSeek梁文锋会议解读",
     "podcast": {
@@ -160,14 +140,14 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "WJr4QS-70VK.m4a",
-    "title": "S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识",
+    "eid": "tvn83CRx7zL.m4a",
+    "title": "293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！",
     "podcast": {
-      "title": "创业内幕 Startup Insider"
+      "title": "东亚观察局"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOP5gXAWJr4QS-70VK.m4a?channel=rss&album_id=20119986&track_id=1003526715&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/c1c7-audiofreehighqps/C3/CD/GKwRIDoOP5gXAWJr4QS-70VK.m4a",
-    "pubDate": "2026-07-30T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962ce2be2d44/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg4mpcITlckTLNCshtvn83CRx7zL.m4a",
+    "pubDate": "2026-07-30T23:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
     "eid": "sQqGCWGa-f1.mp3",
@@ -178,16 +158,6 @@
     "enclosureUrl": "https://tk.wavpub.com/WPDL_NDwVAHJtdUaJmzdgDtWncxLBpAKNRykjCLQaVYGhfJQXLwuAWKsQqGCWGa-f1.mp3",
     "pubDate": "2026-07-30T06:00:00+08:00",
     "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
-  },
-  {
-    "eid": "RToVfpN-UcT.m4a",
-    "title": "上半年美股复盘：存储芯片半导体，K线虐我如蝼蚁",
-    "podcast": {
-      "title": "搞钱女孩"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a6a433356a3f3491ba71cf4/media.xyzcdn.net/63d945ece725b5378a158d29/lm8fS3-_i1q3ClYMFRToVfpN-UcT.m4a",
-    "pubDate": "2026-07-29T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
     "eid": "BlkQCBcPCjG.m4a",
@@ -210,6 +180,26 @@
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
+    "eid": "XYfxR4wBvYy.m4a",
+    "title": "No.227 对话叫兽易小星&粉墨：人人都能用 AI 拍电影了？",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a63814f6356eb2d9be7eafe/media.xyzcdn.net/5e280fab418a84a0461faa3c/lji0R40dYFsyiQe6SXYfxR4wBvYy.m4a",
+    "pubDate": "2026-07-28T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "tdRWgS9a3fN.m4a",
+    "title": "Vol.345 正常人：高度互联又深度孤独，当代人为什么越来越难在一起？",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOO8xlAtdRWgS9a3fN.m4a?channel=rss&album_id=29887212&track_id=1003006853&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/46c4-audiofreehighqps/71/DA/GKwRIDoOO8xlAtdRWgS9a3fN.m4a",
+    "pubDate": "2026-07-27T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+  },
+  {
     "eid": "U1P9ylUAB79.m4a",
     "title": "vol.261原来孤独，是想哭却又不想瞩目",
     "podcast": {
@@ -220,24 +210,34 @@
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
-    "eid": "pital/ep143.mp3",
-    "title": "143 ✪ 🚗「蔚小理」的高端探索",
+    "eid": "dbe13d9b8f1.mp3",
+    "title": "【随机波动173】日常选择构成我们自身：气候变化时代的吐槽与可能 ",
     "podcast": {
-      "title": "疯投圈"
+      "title": "随机波动StochasticVolatility"
     },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep143.mp3",
-    "pubDate": "2026-07-27T00:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/62c2042a-33bf-4c08-ad10-cdbe13d9b8f1.mp3",
+    "pubDate": "2026-07-22T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
-    "eid": "0d9b98f&nocache",
-    "title": "893: Testosterone",
+    "eid": "csd7iNY_cjV.m4a",
+    "title": "#28 从3D空间相机到世界模型——对话竹马创新创始人张吉",
     "podcast": {
-      "title": "This American Life"
+      "title": "出海相对论"
     },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/2e938939-638b-4300-8602-68b010d9b98f/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=2e938939-638b-4300-8602-68b010d9b98f&nocache",
-    "pubDate": "2026-07-26T18:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6a5ed569a3fec224d5a0bf25/media.xyzcdn.net/63b7dd49289d2739647d9587/loDezKSD3g3EPSrg0csd7iNY_cjV.m4a",
+    "pubDate": "2026-07-21T02:36:17+00:00",
+    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
+  },
+  {
+    "eid": "nJRZDzK9Wi0.m4a",
+    "title": "129. 艾美奖提名小讨论与奖项预测",
+    "podcast": {
+      "title": "英美剧漫游指南KillingTV"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a5cd9036356eb2d9be5079f/media.xyzcdn.net/5e7c9577418a84a04606b797/likjdm9YSU7dD0PR6nJRZDzK9Wi0.m4a",
+    "pubDate": "2026-07-19T16:01:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
     "eid": "ocYNdIgwmLX.m4a",
@@ -270,26 +270,6 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "d57b5bf0194.mp3",
-    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
-    "pubDate": "2026-07-07T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
-  },
-  {
-    "eid": "rMRSkVAggt2.m4a",
-    "title": "Agent 元年第 500 天：什么在消失，什么在诞生，为什么我们不该再投资 GUI 思维的软件？",
-    "podcast": {
-      "title": "此话当真"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a44e5169d2f57436840e641/media.xyzcdn.net/646f194853a5e5ea1408d97c/lmde-ljj0t-3CliIErMRSkVAggt2.m4a",
-    "pubDate": "2026-07-01T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
     "eid": "dBgTgSqJ6pI.m4a",
     "title": "351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？",
     "podcast": {
@@ -298,5 +278,25 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a",
     "pubDate": "2026-06-18T06:39:08+00:00",
     "source_rss": "https://www.ximalaya.com/album/6990384.xml"
+  },
+  {
+    "eid": "2930_348547.mp3",
+    "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+    "podcast": {
+      "title": "少数派播客 SSPAI Podcast"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3",
+    "pubDate": "2026-06-16T03:09:31+00:00",
+    "source_rss": "https://sspai.typlog.io/episodes/feed.xml"
+  },
+  {
+    "eid": "616d2/media.mp3",
+    "title": "神探霍克尼：真实世界的观看之道",
+    "podcast": {
+      "title": "艺术有读"
+    },
+    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3",
+    "pubDate": "2026-06-12T14:14:57+00:00",
+    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
   }
 ]
