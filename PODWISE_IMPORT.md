@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-03 09:41:18
+> 📅 生成时间: 2026-08-03 14:35:31
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIJEOOh6jAAt30wS8xO3P.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 894: I Couldn't Help but Notice
+### 3. EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛
+
+**播客名称**: 硬地骇客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a
+```
+
+</details>
+
+---
+
+### 4. 894: I Couldn't Help but Notice
 
 **播客名称**: This American Life
 
@@ -100,7 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 4. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
+### 5. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e2496
 
 ---
 
-### 5. 你真的信WorkBuddy有2000万月活？
+### 6. 你真的信WorkBuddy有2000万月活？
 
 **播客名称**: 屠龙之术
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e2496
 
 ---
 
-### 6. Ep203 未来生活指南｜简直是上海青年女房东团建
+### 7. Ep203 未来生活指南｜简直是上海青年女房东团建
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c2
 
 ---
 
-### 7. 99.对话行烟烟：“她不满足任何人的期待”
+### 8. 99.对话行烟烟：“她不满足任何人的期待”
 
 **播客名称**: 展开讲讲
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f349
 
 ---
 
-### 8. 270.大厂押注AI办公，飞书和钉钉却先成了配角
+### 9. 270.大厂押注AI办公，飞书和钉钉却先成了配角
 
 **播客名称**: 乱翻书
 
@@ -229,33 +256,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e2496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a
-```
-
-</details>
-
----
-
-### 9. 176: 姚顺雨，来到腾讯300天
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3
 ```
 
 </details>
