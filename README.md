@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-03 02:41  
+> 📅 **更新时间**: 2026-08-03 09:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,15 +21,15 @@
 
 ---
 
-### 2. EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛
+### 2. 第3100期:The appearance and taste of food
 
-**播客**: 硬地骇客
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOOh6jAAt30wS8xO3P.m4a?channel=rss&album_id=14812466&track_id=1002786805&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/de07-audiofreehighqps/84/6E/GKwRIJEOOh6jAAt30wS8xO3P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. 99.对话行烟烟：“她不满足任何人的期待”
+### 6. Ep203 未来生活指南｜简直是上海青年女房东团建
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c24a0e26df/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqU43VdMVoS5oeARHlYZCxD2XM6N.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 99.对话行烟烟：“她不满足任何人的期待”
 
 **播客**: 展开讲讲
 
@@ -86,7 +99,20 @@
 
 ---
 
-### 7. 176: 姚顺雨，来到腾讯300天
+### 8. 270.大厂押注AI办公，飞书和钉钉却先成了配角
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 176: 姚顺雨，来到腾讯300天
 
 **播客**: 晚点聊 LateTalk
 
@@ -99,41 +125,15 @@
 
 ---
 
-### 8. E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿
+### 10. What makes a toy go viral
 
-**播客**: 硅谷101
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 糖水消夏录：那些炎热的、怀旧的、甜味的时光
-
-**播客**: 周末变奏 Key Change
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4ODk4NCwidCI6MX0.q46HiCmaXefnL5Db9LfbhrHR3IE/keychangefm/8214400914_434769.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E245 对话经济学家朱宁：1929之后，我们学会避免下一场经济危机了吗？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a6af251b581962ce2bdd80f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lt3kRTtigg6jqerNTXv2imskmzaU.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
