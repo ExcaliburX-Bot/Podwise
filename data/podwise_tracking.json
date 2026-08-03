@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-03T14:35:31.795741",
+  "generated_at": "2026-08-03T19:30:12.846519",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议",
-      "podcast": "无聊斋",
-      "audio_url": "https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a",
+      "title": "vol.262真正合群的人，从来不聊合群",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -14,9 +14,9 @@
     },
     {
       "rank": 2,
-      "title": "第3100期:The appearance and taste of food",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJEOOh6jAAt30wS8xO3P.m4a?channel=rss&album_id=14812466&track_id=1002786805&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/de07-audiofreehighqps/84/6E/GKwRIJEOOh6jAAt30wS8xO3P.m4a",
+      "title": "vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议",
+      "podcast": "无聊斋",
+      "audio_url": "https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -54,16 +54,6 @@
     },
     {
       "rank": 6,
-      "title": "你真的信WorkBuddy有2000万月活？",
-      "podcast": "屠龙之术",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "Ep203 未来生活指南｜简直是上海青年女房东团建",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c24a0e26df/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqU43VdMVoS5oeARHlYZCxD2XM6N.m4a",
@@ -73,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "99.对话行烟烟：“她不满足任何人的期待”",
       "podcast": "展开讲讲",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f3491ba83d2c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lnv9KpuTvIvIn3nlGBYwtC-Ggzdw.m4a",
@@ -83,10 +73,20 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
       "podcast": "乱翻书",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "176: 姚顺雨，来到腾讯300天",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/227e4d79-d5b7-4a39-a525-135cb9c6c111.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
