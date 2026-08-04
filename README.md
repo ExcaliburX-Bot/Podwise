@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-04 02:24  
+> 📅 **更新时间**: 2026-08-04 08:34  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
+### 1. 489 失意者与淘金客：陈婉婧谈当代老挝华商的迁徙与陷阱
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a719e7aab3a91c24a0f98a0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkGPtJXSpyD-ws4w-zrOtpyZBQbH.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,20 +34,20 @@
 
 ---
 
-### 2. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
+### 3. 第3101期:Water pollution-induced health crisis
 
-**播客**: 文化有限
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwORa1UAv7rawTBJTQF.m4a?channel=rss&album_id=29887212&track_id=1004308625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/4bbe-audiofreehighqps/D2/1E/GKwRIRwORa1UAv7rawTBJTQF.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOOiDBAA7VnQS8xbUN.m4a?channel=rss&album_id=14812466&track_id=1002787616&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9e53-audiofreehighqps/23/D4/GKwRIUEOOiDBAA7VnQS8xbUN.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. vol.262真正合群的人，从来不聊合群
+### 4. vol.262真正合群的人，从来不聊合群
 
 **播客**: 正经叭叭
 
@@ -47,33 +60,7 @@
 
 ---
 
-### 4. vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛
-
-**播客**: 硬地骇客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 894: I Couldn't Help but Notice
+### 5. 894: I Couldn't Help but Notice
 
 **播客**: This American Life
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
+### 6. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
 
 **播客**: 十字路口Crossing
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 你真的信WorkBuddy有2000万月活？
+### 7. 你真的信WorkBuddy有2000万月活？
 
 **播客**: 屠龙之术
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Ep203 未来生活指南｜简直是上海青年女房东团建
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c24a0e26df/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqU43VdMVoS5oeARHlYZCxD2XM6N.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
