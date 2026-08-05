@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-04 19:35  
+> 📅 **更新时间**: 2026-08-05 02:24  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
+### 1. 第3102期:The Art of Upcycling
 
-**播客**: 三五环
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. 第3101期:Water pollution-induced health crisis
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOOiDBAA7VnQS8xbUN.m4a?channel=rss&album_id=14812466&track_id=1002787616&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9e53-audiofreehighqps/23/D4/GKwRIUEOOiDBAA7VnQS8xbUN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
+### 4. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
 
 **播客**: 文化有限
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. vol.262真正合群的人，从来不聊合群
+### 5. vol.262真正合群的人，从来不聊合群
 
 **播客**: 正经叭叭
 
@@ -82,6 +69,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 你真的信WorkBuddy有2000万月活？
+### 10. 99.对话行烟烟：“她不满足任何人的期待”
 
-**播客**: 屠龙之术
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f3491ba83d2c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lnv9KpuTvIvIn3nlGBYwtC-Ggzdw.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

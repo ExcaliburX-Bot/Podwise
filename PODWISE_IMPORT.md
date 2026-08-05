@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-04 19:35:43
+> 📅 生成时间: 2026-08-05 02:24:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
+### 1. 第3102期:The Art of Upcycling
 
-**播客名称**: 三五环
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a
+https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c2
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a
+https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460c
 
 ---
 
-### 4. 第3101期:Water pollution-induced health crisis
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOOiDBAA7VnQS8xbUN.m4a?channel=rss&album_id=14812466&track_id=1002787616&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9e53-audiofreehighqps/23/D4/GKwRIUEOOiDBAA7VnQS8xbUN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOOiDBAA7VnQS8xbUN.m4a?channel=rss&album_id=14812466&track_id=1002787616&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9e53-audiofreehighqps/23/D4/GKwRIUEOOiDBAA7VnQS8xbUN.m4a
-```
-
-</details>
-
----
-
-### 5. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
+### 4. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
 
 **播客名称**: 文化有限
 
@@ -154,7 +127,7 @@ https://jt.ximalaya.com//GKwRIRwORa1UAv7rawTBJTQF.m4a?channel=rss&album_id=29887
 
 ---
 
-### 6. vol.262真正合群的人，从来不聊合群
+### 5. vol.262真正合群的人，从来不聊合群
 
 **播客名称**: 正经叭叭
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c2
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a
+```
+
+</details>
+
+---
+
+### 6. vol.598 聊喜剧｜关于喜剧播客、线下演员、段子“套路”、表演风格、入行建议
+
+**播客名称**: 无聊斋
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPDL_rceDjMmUPPzHWJWTNnrThDanPLWvcKrhaXhCwbBMCBwxYKWBErEVZBzfzY-8e.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e2496
 
 ---
 
-### 10. 你真的信WorkBuddy有2000万月活？
+### 10. 99.对话行烟烟：“她不满足任何人的期待”
 
-**播客名称**: 屠龙之术
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f3491ba83d2c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lnv9KpuTvIvIn3nlGBYwtC-Ggzdw.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e2496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a6e285e1b5e24969ce760fa/media.xyzcdn.net/6507bc165c88d2412626b401/lr9m3-fC86KnHmCnRg87WLVkt2hI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a6cd5ab56a3f3491ba83d2c/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lnv9KpuTvIvIn3nlGBYwtC-Ggzdw.m4a
 ```
 
 </details>
