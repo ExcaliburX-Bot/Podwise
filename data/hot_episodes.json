@@ -1,5 +1,25 @@
 [
   {
+    "eid": "6&size=38671342",
+    "title": "Sand heists and property rights in the Caribbean (Summer School)",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342",
+    "pubDate": "2026-08-05T07:30:00+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "esYrrtv-aLb.m4a",
+    "title": "232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a",
+    "pubDate": "2026-08-05T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+  },
+  {
     "eid": "A_AkAS8xn9q.m4a",
     "title": "第3102期:The Art of Upcycling",
     "podcast": {
@@ -10,6 +30,16 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
+    "eid": "FR2T68O-gVu.m4a",
+    "title": "No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a",
+    "pubDate": "2026-08-04T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
     "eid": "zrOtpyZBQbH.m4a",
     "title": "489 失意者与淘金客：陈婉婧谈当代老挝华商的迁徙与陷阱",
     "podcast": {
@@ -18,16 +48,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a719e7aab3a91c24a0f98a0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkGPtJXSpyD-ws4w-zrOtpyZBQbH.m4a",
     "pubDate": "2026-08-04T08:25:52+00:00",
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "3372ece1eb2.mp3",
-    "title": "177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？",
-    "podcast": {
-      "title": "晚点聊 LateTalk"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460cc55b-c0f2-4898-95cf-f3372ece1eb2.mp3",
-    "pubDate": "2026-08-04T07:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "v7rawTBJTQF.m4a",
@@ -70,16 +90,6 @@
     "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
-    "eid": "PAAjTFfsBLx.m4a",
-    "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
-    "pubDate": "2026-08-02T19:39:44+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
-  },
-  {
     "eid": "rn8oqUIeZk_.m4a",
     "title": "「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】",
     "podcast": {
@@ -88,6 +98,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e24969ce77ab5/media.xyzcdn.net/60502e253c92d4f62c2a9577/lu98AA1ByafbBlJyJrn8oqUIeZk_.m4a",
     "pubDate": "2026-08-02T16:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+  },
+  {
+    "eid": "lYZCxD2XM6N.m4a",
+    "title": "Ep203 未来生活指南｜简直是上海青年女房东团建",
+    "podcast": {
+      "title": "基本无害 Mostly Harmless"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a6dddb3ab3a91c24a0e26df/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqU43VdMVoS5oeARHlYZCxD2XM6N.m4a",
+    "pubDate": "2026-08-01T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
     "eid": "BYwtC-Ggzdw.m4a",
@@ -108,26 +128,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a",
     "pubDate": "2026-08-01T07:44:43+00:00",
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
-    "eid": "5&size=24568563",
-    "title": "What makes a toy go viral",
-    "podcast": {
-      "title": "Planet Money"
-    },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b6460919-2391-4ec2-9e6e-b645a97d1655/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b6460919-2391-4ec2-9e6e-b645a97d1655&feed=hvWWWzRv&t=podcast&e=nx-s1-5913719&p=510289&d=1535&size=24568563",
-    "pubDate": "2026-07-31T21:00:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
-  },
-  {
-    "eid": "83ceadd1b41.mp3",
-    "title": "E246｜何谓蒸馏？聊聊硅谷如何看中国开放模型逼近前沿",
-    "podcast": {
-      "title": "硅谷101"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/5fd236d7-9a72-4b15-9e84-e83ceadd1b41.mp3",
-    "pubDate": "2026-07-31T17:00:00-07:00",
-    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "0914_434769.mp3",
@@ -180,16 +180,6 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
-    "eid": "tvn83CRx7zL.m4a",
-    "title": "293 安倍晋三遇刺4年，是时候拆解这位最复杂的首相了！",
-    "podcast": {
-      "title": "东亚观察局"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a6b97d6b581962ce2be2d44/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lg4mpcITlckTLNCshtvn83CRx7zL.m4a",
-    "pubDate": "2026-07-30T23:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
     "eid": "WJr4QS-70VK.m4a",
     "title": "S8 Vol.18 元理智能张帆：AI不是许愿池，行业需要非共识",
     "podcast": {
@@ -218,16 +208,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a69796ab581962ce2bd2aeb/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llLjZDW98-1S3jOQYBlkQCBcPCjG.m4a",
     "pubDate": "2026-07-29T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
-    "eid": "4b19679d37f.mp3",
-    "title": "国产 AI 算力能凭「超节点」弯道超车吗? | WAIC 深度观察 S10E23",
-    "podcast": {
-      "title": "What's Next｜科技早知道"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6c6ab3e-72b2-470b-aefd-04b19679d37f.mp3",
-    "pubDate": "2026-07-27T16:45:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
   },
   {
     "eid": "pital/ep143.mp3",
@@ -280,6 +260,16 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
+    "eid": "ocYNdIgwmLX.m4a",
+    "title": "AI 发展了 4 年，把应用发展没了？｜AI 年中复盘",
+    "podcast": {
+      "title": "42章经"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a5b98a66356eb2d9be4ad2c/media.xyzcdn.net/648b0b641c48983391a63f98/lgTuy-EszlCI5YaGUocYNdIgwmLX.m4a",
+    "pubDate": "2026-07-19T13:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
+  },
+  {
     "eid": "45N4Qj7oBG-.m4a",
     "title": "失眠、焦虑、抑郁：同一张神经网如何影响我的情绪与睡眠？对谈睡眠疼痛罗博士-Vol102",
     "podcast": {
@@ -288,6 +278,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a",
     "pubDate": "2026-07-14T14:11:35+00:00",
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
+    "eid": "qxsZQS2FS0v.m4a",
+    "title": "王建硕×徐文浩吵架局：看代码是浪费时间，还是人机唯一的桥梁",
+    "podcast": {
+      "title": "AI炼金术"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOKry1AqxsZQS2FS0v.m4a?channel=rss&album_id=74194808&track_id=1000425999&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/db7d-audiofreehighqps/AB/64/GKwRIJIOKry1AqxsZQS2FS0v.m4a",
+    "pubDate": "2026-07-14T12:30:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
     "eid": "d57b5bf0194.mp3",
