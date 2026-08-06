@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-06 02:27:22
+> 📅 生成时间: 2026-08-06 08:33:42
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3103期:Healthy snack bars are replacing unhealthy habits.
+### 1. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
+https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
+https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a
 ```
 
 </details>
@@ -54,7 +54,7 @@ https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/luoxflE2IiMXWLBSSggLr3VF904l.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c2
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/luoxflE2IiMXWLBSSggLr3VF904l.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
 ```
 
 </details>
@@ -81,7 +81,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c2
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e24969ce92783/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lm-gK7j35NUayso8Fxt_1pr2jWKC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e24969ce92783/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lkkWZGlUYdsYqhsCKufBahEIbYGa.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e2496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e24969ce92783/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lm-gK7j35NUayso8Fxt_1pr2jWKC.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e24969ce92783/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lkkWZGlUYdsYqhsCKufBahEIbYGa.m4a
 ```
 
 </details>
@@ -235,34 +235,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460c
 
 ---
 
-### 9. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwORa1UAv7rawTBJTQF.m4a?channel=rss&album_id=29887212&track_id=1004308625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/4bbe-audiofreehighqps/D2/1E/GKwRIRwORa1UAv7rawTBJTQF.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwORa1UAv7rawTBJTQF.m4a?channel=rss&album_id=29887212&track_id=1004308625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/4bbe-audiofreehighqps/D2/1E/GKwRIRwORa1UAv7rawTBJTQF.m4a
-```
-
-</details>
-
----
-
-### 10. vol.262真正合群的人，从来不聊合群
+### 9. vol.262真正合群的人，从来不聊合群
 
 **播客名称**: 正经叭叭
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c2
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a
+```
+
+</details>
+
+---
+
+### 10. 894: I Couldn't Help but Notice
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache
 ```
 
 </details>
