@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-06 08:33  
+> 📅 **更新时间**: 2026-08-06 14:04  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
-
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
+### 1. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
 
 **播客**: 搞钱女孩
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
+### 2. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. Sand heists and property rights in the Caribbean (Summer School)
+### 3. Sand heists and property rights in the Caribbean (Summer School)
 
 **播客**: Planet Money
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
+### 4. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
 
 **播客**: 贝望录
 
@@ -69,6 +56,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 489 失意者与淘金客：陈婉婧谈当代老挝华商的迁徙与陷阱
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a719e7aab3a91c24a0f98a0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lkGPtJXSpyD-ws4w-zrOtpyZBQbH.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
+### 7. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. vol.262真正合群的人，从来不聊合群
+### 8. vol.262真正合群的人，从来不聊合群
 
 **播客**: 正经叭叭
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 894: I Couldn't Help but Notice
+### 9. EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛
 
-**播客**: This American Life
+**播客**: 硬地骇客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 「热爱一个行业15年的理由是什么？」｜对谈汪天凡：我要投真正的快乐、投最纯的愿景、投人性的光辉【公路播客】
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a6eb9e71b5e24969ce77ab5/media.xyzcdn.net/60502e253c92d4f62c2a9577/lu98AA1ByafbBlJyJrn8oqUIeZk_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
