@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-05 19:27:21
+> 📅 生成时间: 2026-08-06 02:27:22
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
+### 1. 第3103期:Healthy snack bars are replacing unhealthy habits.
 
-**播客名称**: 无聊斋
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a
+https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwA
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a
+https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
 ```
 
 </details>
 
 ---
 
-### 2. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
+### 2. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/luoxflE2IiMXWLBSSggLr3VF904l.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/luoxflE2IiMXWLBSSggLr3VF904l.m4a
+```
+
+</details>
+
+---
+
+### 3. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e2496
 
 ---
 
-### 3. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
+### 4. Sand heists and property rights in the Caribbean (Summer School)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342
+```
+
+</details>
+
+---
+
+### 5. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
 
 **播客名称**: 贝望录
 
@@ -94,60 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e2496
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a
-```
-
-</details>
-
----
-
-### 4. 第3102期:The Art of Upcycling
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a
-```
-
-</details>
-
----
-
-### 5. E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a719e7aab3a91c2
 
 ---
 
-### 8. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
+### 8. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460cc55b-c0f2-4898-95cf-f3372ece1eb2.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460cc55b-c0f2-4898-95cf-f3372ece1eb2.mp3
+```
+
+</details>
+
+---
+
+### 9. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
 
 **播客名称**: 文化有限
 
@@ -235,7 +262,7 @@ https://jt.ximalaya.com//GKwRIRwORa1UAv7rawTBJTQF.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. vol.262真正合群的人，从来不聊合群
+### 10. vol.262真正合群的人，从来不聊合群
 
 **播客名称**: 正经叭叭
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c2
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a
-```
-
-</details>
-
----
-
-### 10. 894: I Couldn't Help but Notice
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache
 ```
 
 </details>

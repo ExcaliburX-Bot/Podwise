@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-05 19:27  
+> 📅 **更新时间**: 2026-08-06 02:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
+### 1. 第3103期:Healthy snack bars are replacing unhealthy habits.
 
-**播客**: 无聊斋
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
+### 2. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/luoxflE2IiMXWLBSSggLr3VF904l.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,7 +47,20 @@
 
 ---
 
-### 3. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
+### 4. Sand heists and property rights in the Caribbean (Summer School)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
 
 **播客**: 贝望录
 
@@ -43,32 +69,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第3102期:The Art of Upcycling
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOOiK9AA_AkAS8xn9q.m4a?channel=rss&album_id=14812466&track_id=1002788626&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9066-audiofreehighqps/48/E8/GKwRIRwOOiK9AA_AkAS8xn9q.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
-
-**播客**: 硅谷101
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
+### 8. 177: 详解Kimi K3：强到冲击Anthropic估值的模型什么样？
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/460cc55b-c0f2-4898-95cf-f3372ece1eb2.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. Vol.346 油炸绿番茄：超越时间的女性情谊什么样
 
 **播客**: 文化有限
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. vol.262真正合群的人，从来不聊合群
+### 10. vol.262真正合群的人，从来不聊合群
 
 **播客**: 正经叭叭
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a70addbab3a91c24a0f39d4/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lqObaoWUSznADRy7QOKCzvIlO1Fp.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 894: I Couldn't Help but Notice
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=0e3cd2c7-87b9-4122-a3fd-38d95bfda0e9&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
