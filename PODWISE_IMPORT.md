@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-07 12:59:43
+> 📅 生成时间: 2026-08-07 18:53:52
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
+### 1. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
+```
+
+</details>
+
+---
+
+### 2. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
 
 **播客名称**: 东亚观察局
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9
 
 ---
 
-### 2. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+### 3. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62
 
 ---
 
-### 3. 178: 与田渊栋聊 RSI：模型自进化如何到来？
+### 4. 178: 与田渊栋聊 RSI：模型自进化如何到来？
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb
 
 ---
 
-### 4. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+### 5. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
 
 **播客名称**: 沈奕斐的播客
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e2496
 
 ---
 
-### 5. 第3104期:Robotic police help reduce policing burdens
+### 6. 第3104期:Robotic police help reduce policing burdens
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIW4OOzKEABEvrAS9I3_b.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
+### 7. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
 
 **播客名称**: 人民公园说AI
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62
 
 ---
 
-### 7. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
+### 8. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -208,7 +235,7 @@ https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+### 9. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 **播客名称**: What's Next｜科技早知道
 
@@ -235,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a388
 
 ---
 
-### 9. 杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
+### 10. 昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
 
 **播客名称**: AI炼金术
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a
-```
-
-</details>
-
----
-
-### 10. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
 ```
 
 </details>
