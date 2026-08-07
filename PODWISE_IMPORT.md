@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-06 23:57:25
+> 📅 生成时间: 2026-08-07 02:47:34
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
+### 1. 第3104期:Robotic police help reduce policing burdens
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OOzKEABEvrAS9I3_b.m4a?channel=rss&album_id=14812466&track_id=1002915463&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b95b-audiofreehighqps/1F/61/GKwRIW4OOzKEABEvrAS9I3_b.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OOzKEABEvrAS9I3_b.m4a?channel=rss&album_id=14812466&track_id=1002915463&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b95b-audiofreehighqps/1F/61/GKwRIW4OOzKEABEvrAS9I3_b.m4a
+```
+
+</details>
+
+---
+
+### 2. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
+```
+
+</details>
+
+---
+
+### 3. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62
 
 ---
 
-### 2. 294 韩牛、普拉提和相亲评级：从小镇嬗变看韩国半导体热
+### 4. 294 韩牛、普拉提和相亲评级：从小镇嬗变看韩国半导体热
 
 **播客名称**: 东亚观察局
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74c5e0c4079d62
 
 ---
 
-### 3. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
+### 5. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+### 6. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 **播客名称**: What's Next｜科技早知道
 
@@ -127,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a388
 
 ---
 
-### 5. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
+### 7. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
 
 **播客名称**: 无聊斋
 
@@ -154,15 +208,15 @@ https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwA
 
 ---
 
-### 6. 第3103期:Healthy snack bars are replacing unhealthy habits.
+### 8. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +228,14 @@ https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwOOy-3AA9AzgS9IlUh.m4a?channel=rss&album_id=14812466&track_id=1002913590&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ceee-audiofreehighqps/06/18/GKwRIRwOOy-3AA9AzgS9IlUh.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a
 ```
 
 </details>
 
 ---
 
-### 7. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
+### 9. No.213 🏺景德镇往事：千年“世界瓷都”的前世今生
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -208,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a72b5e01b5e2496
 
 ---
 
-### 8. 232. Between线上与线下，彼屯如何打造AI时代的社区型商业空间？
+### 10. Sand heists and property rights in the Caribbean (Summer School)
 
-**播客名称**: 贝望录
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e2496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a709d801b5e24969ce84dda/media.xyzcdn.net/5e285856418a84a04627b7be/lh9xWDUw2C7cUwZRdesYrrtv-aLb.m4a
-```
-
-</details>
-
----
-
-### 9. E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6c9d13b1-ac9a-4a7a-a35b-99bfb8374668.mp3
-```
-
-</details>
-
----
-
-### 10. No.228 对话滴滴曲晓楠：怕你觉得我们不安全，更怕你觉得我们绝对安全
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7179fbab3a91c24a0f7fa3/media.xyzcdn.net/5e280fab418a84a0461faa3c/liOSYYqULnhGl7-iAFR2T68O-gVu.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/6866492a-d919-4dbe-8eda-5d0189e80a62/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=6866492a-d919-4dbe-8eda-5d0189e80a62&feed=1e5vv9pg&t=podcast&e=nx-s1-5913981&p=510289&d=2416&size=38671342
 ```
 
 </details>
