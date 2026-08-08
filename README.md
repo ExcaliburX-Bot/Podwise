@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-07 18:53  
+> 📅 **更新时间**: 2026-08-08 01:26  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
+### 1. 【随机波动174】日常的，惊悚的，近在身边的
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
 
 **播客**: 知行小酒馆
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
+### 3. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
 
 **播客**: 东亚观察局
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+### 4. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
 
 **播客**: 忽左忽右
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 178: 与田渊栋聊 RSI：模型自进化如何到来？
+### 5. 178: 与田渊栋聊 RSI：模型自进化如何到来？
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+### 6. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
 
 **播客**: 沈奕斐的播客
 
@@ -73,33 +86,7 @@
 
 ---
 
-### 6. 第3104期:Robotic police help reduce policing burdens
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OOzKEABEvrAS9I3_b.m4a?channel=rss&album_id=14812466&track_id=1002915463&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b95b-audiofreehighqps/1F/61/GKwRIW4OOzKEABEvrAS9I3_b.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
+### 7. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
 
 **播客**: 创业内幕 Startup Insider
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+### 8. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 **播客**: What's Next｜科技早知道
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
+### 9. 昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
 
 **播客**: AI炼金术
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
