@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-08 12:44:06
+> 📅 生成时间: 2026-08-08 18:34:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3105期:How to cope with disappointment
+### 1. Ep204 未来生活指南｜刘德华给我发微信
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqHiGDvWgs2I9pkEgIt6gg-XGmlp.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqHiGDvWgs2I9pkEgIt6gg-XGmlp.m4a
+```
+
+</details>
+
+---
+
+### 2. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3105期:How to cope with disappointment
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIW4OQjZsABF2KQS_5qsC.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Older workers aren’t retiring. Should they be forced to?
+### 4. Older workers aren’t retiring. Should they be forced to?
 
 **播客名称**: Planet Money
 
@@ -73,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 【随机波动174】日常的，惊悚的，近在身边的
+### 5. 【随机波动174】日常的，惊悚的，近在身边的
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -100,15 +154,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c8
 
 ---
 
-### 4. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
+### 6. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
 
-**播客名称**: 知行小酒馆
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,41 +174,14 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a
-```
-
-</details>
-
----
-
-### 6. 178: 与田渊栋聊 RSI：模型自进化如何到来？
+### 7. 178: 与田渊栋聊 RSI：模型自进化如何到来？
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,15 +208,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb
 
 ---
 
-### 7. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+### 8. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e2496
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a
 ```
 
 </details>
 
 ---
 
-### 8. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
+### 9. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +262,7 @@ https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+### 10. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
 
 **播客名称**: What's Next｜科技早知道
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a388
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a3884ade-4669-4d5c-ab2e-f98aa580f429.mp3
-```
-
-</details>
-
----
-
-### 10. 昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a
 ```
 
 </details>

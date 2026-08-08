@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-08-08T12:44:06.086976",
+  "generated_at": "2026-08-08T18:34:56.536555",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "Ep204 未来生活指南｜刘德华给我发微信",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lqHiGDvWgs2I9pkEgIt6gg-XGmlp.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "第3105期:How to cope with disappointment",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIW4OQjZsABF2KQS_5qsC.m4a?channel=rss&album_id=14812466&track_id=1003884984&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/adcc-audiofreehighqps/C4/77/GKwRIW4OQjZsABF2KQS_5qsC.m4a",
@@ -13,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "Older workers aren’t retiring. Should they be forced to?",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467",
@@ -23,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "【随机波动174】日常的，惊悚的，近在身边的",
       "podcast": "随机波动StochasticVolatility",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3",
@@ -33,27 +53,17 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 6,
+      "title": "高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】",
+      "podcast": "东亚观察局",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 7,
       "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb4a6b-3eab-4c3e-b93c-7176ef17c668.mp3",
@@ -63,17 +73,17 @@
       "notes": ""
     },
     {
-      "rank": 7,
-      "title": "265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？",
-      "podcast": "沈奕斐的播客",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a",
+      "rank": 8,
+      "title": "DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？",
+      "podcast": "人民公园说AI",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」",
       "podcast": "创业内幕 Startup Insider",
       "audio_url": "https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119986&track_id=1004968601&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ebc3-audiofreehighqps/17/01/GKwRIUEOSjMDAXKTAATC6YgA.m4a",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a3884ade-4669-4d5c-ab2e-f98aa580f429.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
