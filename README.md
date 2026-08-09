@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-09 01:38  
+> 📅 **更新时间**: 2026-08-09 06:53  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+### 2. Ep204 未来生活指南｜刘德华给我发微信
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lggxVCOof6D1oN21KMoWtqFcHlZs.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
 
 **播客**: 42章经
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. Older workers aren’t retiring. Should they be forced to?
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,33 @@
 
 ---
 
-### 6. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+### 6. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 178: 与田渊栋聊 RSI：模型自进化如何到来？
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb4a6b-3eab-4c3e-b93c-7176ef17c668.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
 
 **播客**: 沈奕斐的播客
 
@@ -86,54 +112,28 @@
 
 ---
 
-### 7. 贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24
+### 9. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
 
-**播客**: What's Next｜科技早知道
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a3884ade-4669-4d5c-ab2e-f98aa580f429.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了
+### 10. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
 
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OSllwArovLATC_YS5.m4a?channel=rss&album_id=74194808&track_id=1004994622&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3ce6-audiofreehighqps/23/69/GKwRIW4OSllwArovLATC_YS5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》
-
-**播客**: 无聊斋
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_tjhFqEcJJCDkqCnYBtcwrPWBgNRCxsCFHRCjYFWnYEqEkWsBfgHwANkjJR-7f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 女生怎么练出搞钱脑？跳出消费端，扎进生产端！ | 深圳听友会
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a738491ab3a91c24a1077f1/media.xyzcdn.net/63d945ece725b5378a158d29/lrv_ZQDrirch88LES2hi0D4ugMIU.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119986&track_id=1004968601&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ebc3-audiofreehighqps/17/01/GKwRIUEOSjMDAXKTAATC6YgA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
