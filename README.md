@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-09 06:53  
+> 📅 **更新时间**: 2026-08-09 12:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3106期:First dinosaur bone from Antarctica found in a drawer
+### 1. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep144.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3106期:First dinosaur bone from Antarctica found in a drawer
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOQjf8AAUN7QS_54Ff.m4a?channel=rss&album_id=14812466&track_id=1003885865&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a80-audiofreehighqps/58/DD/GKwRIJIOQjf8AAUN7QS_54Ff.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. Ep204 未来生活指南｜刘德华给我发微信
-
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62c57f3b74/media.xyzcdn.net/5eae66d1418a84a046472b4d/lggxVCOof6D1oN21KMoWtqFcHlZs.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,7 +47,20 @@
 
 ---
 
-### 4. 【随机波动174】日常的，惊悚的，近在身边的
+### 4. Older workers aren’t retiring. Should they be forced to?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 【随机波动174】日常的，惊悚的，近在身边的
 
 **播客**: 随机波动StochasticVolatility
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
+### 6. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
 
 **播客**: 知行小酒馆
 
@@ -73,7 +86,20 @@
 
 ---
 
-### 6. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+### 7. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
 
 **播客**: 忽左忽右
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 178: 与田渊栋聊 RSI：模型自进化如何到来？
+### 9. 178: 与田渊栋聊 RSI：模型自进化如何到来？
 
 **播客**: 晚点聊 LateTalk
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
+### 10. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
 
 **播客**: 人民公园说AI
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOSjMDAXKTAATC6YgA.m4a?channel=rss&album_id=20119986&track_id=1004968601&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ebc3-audiofreehighqps/17/01/GKwRIUEOSjMDAXKTAATC6YgA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
