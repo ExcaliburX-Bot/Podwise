@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-10 13:04:06
+> 📅 生成时间: 2026-08-10 18:55:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
+### 1. vol.263我的热情就是把油给我加满
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351c56fceb7/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnXvXfWprkeVwQwbggZHsAV0SXZA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351c56fceb7/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnXvXfWprkeVwQwbggZHsAV0SXZA.m4a
+```
+
+</details>
+
+---
+
+### 2. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
 
 **播客名称**: 无聊斋
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRF
 
 ---
 
-### 2. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+### 3. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
 
 **播客名称**: 十字路口Crossing
 
@@ -73,7 +100,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62
 
 ---
 
-### 3. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+### 4. AI by the numbers-23页PPT solo
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a
+```
+
+</details>
+
+---
+
+### 5. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
 
 **播客名称**: 疯投圈
 
@@ -100,7 +154,7 @@ https://rio.xyzcdn.net/crazycapital/ep144.mp3
 
 ---
 
-### 4. Ep204 未来生活指南｜刘德华给我发微信
+### 6. Ep204 未来生活指南｜刘德华给我发微信
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a76ebabc4079d62
 
 ---
 
-### 5. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+### 7. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
 
 **播客名称**: 42章经
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9
 
 ---
 
-### 6. Older workers aren’t retiring. Should they be forced to?
+### 8. Older workers aren’t retiring. Should they be forced to?
 
 **播客名称**: Planet Money
 
@@ -181,15 +235,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
+### 9. 【随机波动174】日常的，惊悚的，近在身边的
 
-**播客名称**: 东亚观察局
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3
 ```
 
 </details>
 
 ---
 
-### 8. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+### 10. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
 
-**播客名称**: 忽左忽右
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a
-```
-
-</details>
-
----
-
-### 9. 178: 与田渊栋聊 RSI：模型自进化如何到来？
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb4a6b-3eab-4c3e-b93c-7176ef17c668.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb4a6b-3eab-4c3e-b93c-7176ef17c668.mp3
-```
-
-</details>
-
----
-
-### 10. DeepSeek V4 Flash斩杀线逼疯硅谷，Google高层先地震了？其他模型还能活多久？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7478dbc4079d62c57e62e6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsU3seSJZkaTXSOgBqOshEWwzupD.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
 ```
 
 </details>
