@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-09 18:37:53
+> 📅 生成时间: 2026-08-10 01:41:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
+### 1. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
-**播客名称**: 无聊斋
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRFUaWYQ-6d.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62c57f6f87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lvt6Xmaq03zQuFLsGEL30rBAhZf0.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRF
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRFUaWYQ-6d.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62c57f6f87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lvt6Xmaq03zQuFLsGEL30rBAhZf0.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 🛋惬意宅家 Mixtape：松散漫游
+### 2. 443: Amusement Park
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPDL_qsLrBSJkKNaSHTWdPNBVPrreAUsjuFkFahDACMgUwFWHAHGHMuYfpTHFNv-2b.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,41 @@ https://tk.wavpub.com/WPDL_qsLrBSJkKNaSHTWdPNBVPrreAUsjuFkFahDACMgUwFWHAHGHMuYfp
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPDL_qsLrBSJkKNaSHTWdPNBVPrreAUsjuFkFahDACMgUwFWHAHGHMuYfpTHFNv-2b.mp3
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
 ```
 
 </details>
 
 ---
 
-### 3. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+### 3. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62c57f5802/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmJsNPP7D75YHqH7boVJ1bV6YHBk.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62c57f5802/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmJsNPP7D75YHqH7boVJ1bV6YHBk.m4a
+```
+
+</details>
+
+---
+
+### 4. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
 
 **播客名称**: 疯投圈
 
@@ -94,33 +121,6 @@ https://rio.xyzcdn.net/crazycapital/ep144.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep144.mp3
-```
-
-</details>
-
----
-
-### 4. 第3106期:First dinosaur bone from Antarctica found in a drawer
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOQjf8AAUN7QS_54Ff.m4a?channel=rss&album_id=14812466&track_id=1003885865&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a80-audiofreehighqps/58/DD/GKwRIJIOQjf8AAUN7QS_54Ff.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOQjf8AAUN7QS_54Ff.m4a?channel=rss&album_id=14812466&track_id=1003885865&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a80-audiofreehighqps/58/DD/GKwRIJIOQjf8AAUN7QS_54Ff.m4a
 ```
 
 </details>
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9
 
 ---
 
-### 7. 【随机波动174】日常的，惊悚的，近在身边的
+### 7. Older workers aren’t retiring. Should they be forced to?
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,41 +201,14 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c8
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/21c898cd-d30b-464c-881a-4b11c05bb031.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/ffc1d0fa-183e-4d3d-9382-ce07ac9c1755/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=ffc1d0fa-183e-4d3d-9382-ce07ac9c1755&feed=hvWWWzRv&t=podcast&e=nx-s1-5918646&p=510289&d=2043&size=32702467
 ```
 
 </details>
 
 ---
 
-### 8. E246 对话「餐饮收尸人」狗哥：都说餐厅不好做，为什么还总有人开？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a75724dc4079d62c57eb972/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgOZpD58t2GfkDv6LEX4QQG3QBaU.m4a
-```
-
-</details>
-
----
-
-### 9. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
+### 8. 高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】
 
 **播客名称**: 东亚观察局
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9
 
 ---
 
-### 10. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
+### 9. 490 上海滩早期电影娱乐史：外侨、罪案与审查制度的出台
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a759678c4079d62c57ed4c6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnuYUnH0jgvmx1HQZ1g_SOWy8H0A.m4a
+```
+
+</details>
+
+---
+
+### 10. 265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a74558a1b5e24969ce9f3ee/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lgIhVx_s8YepNq46vQVeau16i9d9.m4a
 ```
 
 </details>
