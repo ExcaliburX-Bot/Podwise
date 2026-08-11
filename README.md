@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-11 01:38  
+> 📅 **更新时间**: 2026-08-11 07:04  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 扭扭爵士 New Nu-Jazz 2026 年第二辑
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. vol.263我的热情就是把油给我加满
+### 3. vol.263我的热情就是把油给我加满
 
 **播客**: 正经叭叭
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
+### 4. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
 
 **播客**: 无聊斋
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 100.心声特辑：只要你学得足够慢，你就可以不用学
+### 5. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
 **播客**: 展开讲讲
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 443: Amusement Park
+### 6. 443: Amusement Park
 
 **播客**: This American Life
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 🛋惬意宅家 Mixtape：松散漫游
+### 7. 🛋惬意宅家 Mixtape：松散漫游
 
 **播客**: Vibration 歪波音室
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+### 8. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
 
 **播客**: 十字路口Crossing
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. AI by the numbers-23页PPT solo
+### 9. AI by the numbers-23页PPT solo
 
 **播客**: 屠龙之术
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep144.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

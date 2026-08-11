@@ -20,16 +20,6 @@
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
-    "eid": "9776_596039.mp3",
-    "title": "扭扭爵士 New Nu-Jazz 2026 年第二辑",
-    "podcast": {
-      "title": "周末变奏 Key Change"
-    },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3",
-    "pubDate": "2026-08-10T22:48:33+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
     "eid": "gZHsAV0SXZA.m4a",
     "title": "vol.263我的热情就是把油给我加满",
     "podcast": {
@@ -150,6 +140,26 @@
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
+    "eid": "uf9fbMgo5rk.m4a",
+    "title": "高开低走的第一次安倍政权到底栽在哪？【安倍晋三“大研究”②】",
+    "podcast": {
+      "title": "东亚观察局"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a74d37a000a55a9bb040d76/media.xyzcdn.net/Flhvwp7UgOvOmj6Pauf9fbMgo5rk.m4a",
+    "pubDate": "2026-08-07T09:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "176ef17c668.mp3",
+    "title": "178: 与田渊栋聊 RSI：模型自进化如何到来？",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/38fb4a6b-3eab-4c3e-b93c-7176ef17c668.mp3",
+    "pubDate": "2026-08-07T08:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
     "eid": "QVeau16i9d9.m4a",
     "title": "265.婚外胚胎案：妻子患癌，丈夫与第三者办假结婚证做试管婴儿，胚胎可以被销毁吗？",
     "podcast": {
@@ -230,14 +240,14 @@
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
-    "eid": "ciKBgHpfrO4.m4a",
-    "title": "270.大厂押注AI办公，飞书和钉钉却先成了配角",
+    "eid": "PAAjTFfsBLx.m4a",
+    "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
     "podcast": {
-      "title": "乱翻书"
+      "title": "硬地骇客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a6da28d1b5e24969ce72d4c/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lmb4DgcgOv3mR4CN7ciKBgHpfrO4.m4a",
-    "pubDate": "2026-08-01T07:44:43+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
+    "pubDate": "2026-08-02T19:39:44+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   },
   {
     "eid": "DBUK9UnC2xv.m4a",
@@ -288,15 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a56425227a4eec16c40a480/media.xyzcdn.net/636669d51064cb55f31505fc/lujyKKrRMs27Pw4hq45N4Qj7oBG-.m4a",
     "pubDate": "2026-07-14T14:11:35+00:00",
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
-  },
-  {
-    "eid": "d57b5bf0194.mp3",
-    "title": "65 如何和这个世界相处，我有一些绝妙的法术！",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/122503648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-7%2F10290c2a-ca72-e9cf-542d-ed57b5bf0194.mp3",
-    "pubDate": "2026-07-07T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   }
 ]
