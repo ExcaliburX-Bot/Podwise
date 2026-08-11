@@ -1,37 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-08-11 18:59  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [艾语智能张天乐：赚钱的 AI 产品，原生的 AI 组织](#) | AI炼金术 | 2026-08-11 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE](#) | 硅谷101 | 2026-08-11 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3108期:The impact of Hurricane Katrina on New Orleans](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-11 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.347 白夜行：不迷茫，才可以那么坚强](#) | 文化有限 | 2026-08-10 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [扭扭爵士 New Nu-Jazz 2026 年第二辑](#) | 周末变奏 Key Change | 2026-08-10 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [443: Amusement Park](#) | This American Life | 2026-08-10 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3107期:Refugees from Turkey expelled in Greek waters](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-10 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母P day166（1651-1660)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-08-09 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！](#) | 无聊斋 | 2026-08-09 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [144 ✪ 国货出海新趋势：山下有松、观夏、PANE](#) | 疯投圈 | 2026-08-09 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [🛋惬意宅家 Mixtape：松散漫游](#) | Vibration 歪波音室 | 2026-08-09 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3106期:First dinosaur bone from Antarctica found in a drawer](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-09 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）20-2021年1月浙江首考](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-08-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3105期:How to cope with disappointment](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-08 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Older workers aren’t retiring. Should they be forced to?](#) | Planet Money | 2026-08-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [【随机波动174】日常的，惊悚的，近在身边的](#) | 随机波动StochasticVolatility | 2026-08-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [178: 与田渊栋聊 RSI：模型自进化如何到来？](#) | 晚点聊 LateTalk | 2026-08-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3104期:Robotic police help reduce policing burdens](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-07 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 维克多·雨果《悲惨世界》part1](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-08-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.19 Potentia白宇利：具身智能真正稀缺的，可能并不是「数据」](#) | 创业内幕 Startup Insider | 2026-08-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [昆山杜克大学周忆粟：AI 来了，年轻人的梯子被抽掉了](#) | AI炼金术 | 2026-08-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [贾扬清：我所经历的「人工智能已死」到「AI 颠覆世界」的数年巨变丨串台「声东击西」S10E24](#) | What's Next｜科技早知道 | 2026-08-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3103期:Healthy snack bars are replacing unhealthy habits.](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-06 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Should the wreckage of the Titanic be salvaged?](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [vol.599 林黛玉能讲脱口秀、王熙凤本体是刘旸，这解读真怪啊这解读！｜趣聊名著之《红楼梦》](#) | 无聊斋 | 2026-08-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Sand heists and property rights in the Caribbean (Summer School)](#) | Planet Money | 2026-08-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E247｜对话盛颖：xAI，Infra的浪漫，SGLang，开源，平权与“甄嬛传”](#) | 硅谷101 | 2026-08-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3102期:The Art of Upcycling](#) | 英语每日一听 | 每天少于5分钟 | 2026-08-05 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（高级续）121-125](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-08-04 |
+---
 
-_最后更新: 2026-08-11 14:54:01_
+## 🎯 Top 10 热门播客
+
+### 1. vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 艾语智能张天乐：赚钱的 AI 产品，原生的 AI 组织
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 491 埃德蒙·伯克的保守主义与渐进改革思想：从北美、法国到英属印度
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7adf9c36641f136d8687c5/media.xyzcdn.net/5e4ee557418a84a0466737b7/loaluSmJ9ApGlWZ5ZvO1h_p6OIj9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第3108期:The impact of Hurricane Katrina on New Orleans
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOQx-sABr-sgTAMDHp.m4a?channel=rss&album_id=14812466&track_id=1003998774&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0103-audiofreehighqps/41/25/GKwRIRwOQx-sABr-sgTAMDHp.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 扭扭爵士 New Nu-Jazz 2026 年第二辑
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.263我的热情就是把油给我加满
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351c56fceb7/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lnXvXfWprkeVwQwbggZHsAV0SXZA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 100.心声特辑：只要你学得足够慢，你就可以不用学
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62c57f6f87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lvt6Xmaq03zQuFLsGEL30rBAhZf0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 443: Amusement Park
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep144.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*

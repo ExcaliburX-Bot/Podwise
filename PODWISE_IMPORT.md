@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-11 13:00:31
+> 📅 生成时间: 2026-08-11 18:59:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派
+### 1. vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀
 
-**播客名称**: 三五环
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62c57f5185/media.xyzcdn.net/5e280fab418a84a0461faa3c/luf34bdBuAypd09__G30J1XhwWCW.m4a
+https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62c57f5185/media.xyzcdn.net/5e280fab418a84a0461faa3c/luf34bdBuAypd09__G30J1XhwWCW.m4a
+https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第3108期:The impact of Hurricane Katrina on New Orleans
+### 2. 艾语智能张天乐：赚钱的 AI 产品，原生的 AI 组织
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a
+```
+
+</details>
+
+---
+
+### 3. 491 埃德蒙·伯克的保守主义与渐进改革思想：从北美、法国到英属印度
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7adf9c36641f136d8687c5/media.xyzcdn.net/5e4ee557418a84a0466737b7/loaluSmJ9ApGlWZ5ZvO1h_p6OIj9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7adf9c36641f136d8687c5/media.xyzcdn.net/5e4ee557418a84a0466737b7/loaluSmJ9ApGlWZ5ZvO1h_p6OIj9.m4a
+```
+
+</details>
+
+---
+
+### 4. 第3108期:The impact of Hurricane Katrina on New Orleans
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,34 +127,7 @@ https://jt.ximalaya.com//GKwRIRwOQx-sABr-sgTAMDHp.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Vol.347 白夜行：不迷茫，才可以那么坚强
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOSwIcAvG0JwTDIjb1.m4a?channel=rss&album_id=29887212&track_id=1005063009&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/2a6d-audiofreehighqps/48/6C/GKwRIRwOSwIcAvG0JwTDIjb1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOSwIcAvG0JwTDIjb1.m4a?channel=rss&album_id=29887212&track_id=1005063009&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/2a6d-audiofreehighqps/48/6C/GKwRIRwOSwIcAvG0JwTDIjb1.m4a
-```
-
-</details>
-
----
-
-### 4. 扭扭爵士 New Nu-Jazz 2026 年第二辑
+### 5. 扭扭爵士 New Nu-Jazz 2026 年第二辑
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4
 
 ---
 
-### 5. vol.263我的热情就是把油给我加满
+### 6. vol.263我的热情就是把油给我加满
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351
 
 ---
 
-### 6. 100.心声特辑：只要你学得足够慢，你就可以不用学
+### 7. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
 **播客名称**: 展开讲讲
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62
 
 ---
 
-### 7. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+### 8. 443: Amusement Park
 
-**播客名称**: 十字路口Crossing
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62c57f5802/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmJsNPP7D75YHqH7boVJ1bV6YHBk.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,34 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62c57f5802/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmJsNPP7D75YHqH7boVJ1bV6YHBk.m4a
-```
-
-</details>
-
----
-
-### 8. AI by the numbers-23页PPT solo
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
 ```
 
 </details>
