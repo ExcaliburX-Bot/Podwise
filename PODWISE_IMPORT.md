@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-11 07:04:27
+> 📅 生成时间: 2026-08-11 13:00:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3108期:The impact of Hurricane Katrina on New Orleans
+### 1. No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62c57f5185/media.xyzcdn.net/5e280fab418a84a0461faa3c/luf34bdBuAypd09__G30J1XhwWCW.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62c57f5185/media.xyzcdn.net/5e280fab418a84a0461faa3c/luf34bdBuAypd09__G30J1XhwWCW.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3108期:The impact of Hurricane Katrina on New Orleans
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIRwOQx-sABr-sgTAMDHp.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Vol.347 白夜行：不迷茫，才可以那么坚强
+### 3. Vol.347 白夜行：不迷茫，才可以那么坚强
 
 **播客名称**: 文化有限
 
@@ -73,7 +100,34 @@ https://jt.ximalaya.com//GKwRIRwOSwIcAvG0JwTDIjb1.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. vol.263我的热情就是把油给我加满
+### 4. 扭扭爵士 New Nu-Jazz 2026 年第二辑
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3
+```
+
+</details>
+
+---
+
+### 5. vol.263我的热情就是把油给我加满
 
 **播客名称**: 正经叭叭
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351
 
 ---
 
-### 4. vol.600 见面聊聊｜深耕线下喜剧那些年：兼职、救场、堂会、演出，处处都是笑话！
-
-**播客名称**: 无聊斋
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRFUaWYQ-6d.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_yXmNFnTxTfCJJSufDvHcHArmbstVzSRDZdVUtJMvVtSQtPjEtDQRFUaWYQ-6d.m4a
-```
-
-</details>
-
----
-
-### 5. 100.心声特辑：只要你学得足够慢，你就可以不用学
+### 6. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
 **播客名称**: 展开讲讲
 
@@ -154,61 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62
 
 ---
 
-### 6. 443: Amusement Park
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
-```
-
-</details>
-
----
-
-### 7. 🛋惬意宅家 Mixtape：松散漫游
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPDL_qsLrBSJkKNaSHTWdPNBVPrreAUsjuFkFahDACMgUwFWHAHGHMuYfpTHFNv-2b.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPDL_qsLrBSJkKNaSHTWdPNBVPrreAUsjuFkFahDACMgUwFWHAHGHMuYfpTHFNv-2b.mp3
-```
-
-</details>
-
----
-
-### 8. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
+### 7. 「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人
 
 **播客名称**: 十字路口Crossing
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62
 
 ---
 
-### 9. AI by the numbers-23页PPT solo
+### 8. AI by the numbers-23页PPT solo
 
 **播客名称**: 屠龙之术
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62
 
 ---
 
-### 10. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
+### 9. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
 
 **播客名称**: 疯投圈
 
@@ -283,6 +256,33 @@ https://rio.xyzcdn.net/crazycapital/ep144.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep144.mp3
+```
+
+</details>
+
+---
+
+### 10. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a
 ```
 
 </details>
