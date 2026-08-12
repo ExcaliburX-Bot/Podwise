@@ -1,40 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-11 18:59  
+> 📅 **更新时间**: 2026-08-12 01:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀
+### 1. 233. 我们为什么开始害怕米饭了？聊聊碳水焦虑之下，大米产业的农业升级与消费迭代
 
-**播客**: 无聊斋
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 艾语智能张天乐：赚钱的 AI 产品，原生的 AI 组织
-
-**播客**: AI炼金术
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7b2af117676351c5705cf3/media.xyzcdn.net/5e285856418a84a04627b7be/lhS-ImaDK6mspbTqDhFkjnoxt4jJ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. 491 埃德蒙·伯克的保守主义与渐进改革思想：从北美、法国到英属印度
+### 2. 第3109期:Move the statue
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOQyK1ABvYBwTAMTY3.m4a?channel=rss&album_id=14812466&track_id=1004000384&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5f52-audiofreehighqps/DC/98/GKwRIJEOQyK1ABvYBwTAMTY3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 66 谁能看见城市和自然，谁就能创造生活久违的浪漫
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/123897746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-7%2F8d188adc-ad27-c2e1-97d5-6c07e1c3950b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. No.229 对话少数派老麦：从 Palm、WebOS 到 AI 硬件，依然不想成为多数派
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a7726aac4079d62c57f5185/media.xyzcdn.net/5e280fab418a84a0461faa3c/luf34bdBuAypd09__G30J1XhwWCW.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 491 埃德蒙·伯克的保守主义与渐进改革思想：从北美、法国到英属印度
 
 **播客**: 忽左忽右
 
@@ -47,20 +73,20 @@
 
 ---
 
-### 4. 第3108期:The impact of Hurricane Katrina on New Orleans
+### 6. Vol.347 白夜行：不迷茫，才可以那么坚强
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 文化有限
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOQx-sABr-sgTAMDHp.m4a?channel=rss&album_id=14812466&track_id=1003998774&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0103-audiofreehighqps/41/25/GKwRIRwOQx-sABr-sgTAMDHp.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOSwIcAvG0JwTDIjb1.m4a?channel=rss&album_id=29887212&track_id=1005063009&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/2a6d-audiofreehighqps/48/6C/GKwRIRwOSwIcAvG0JwTDIjb1.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 扭扭爵士 New Nu-Jazz 2026 年第二辑
+### 7. 扭扭爵士 New Nu-Jazz 2026 年第二辑
 
 **播客**: 周末变奏 Key Change
 
@@ -73,7 +99,20 @@
 
 ---
 
-### 6. vol.263我的热情就是把油给我加满
+### 8. E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e923c4c-1c87-499b-90a4-9a21cc83e4b1.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. vol.263我的热情就是把油给我加满
 
 **播客**: 正经叭叭
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 100.心声特辑：只要你学得足够慢，你就可以不用学
+### 10. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
 **播客**: 展开讲讲
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62c57f6f87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lvt6Xmaq03zQuFLsGEL30rBAhZf0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 443: Amusement Park
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 144 ✪ 国货出海新趋势：山下有松、观夏、PANE
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep144.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 从蒸馏到合成数据到 RSI，模型竞争的下一个焦点是什么？｜对谈 Evolvent AI 联创孟繁青
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
