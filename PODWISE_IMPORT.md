@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-12 01:49:21
+> 📅 生成时间: 2026-08-12 07:22:09
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 233. 我们为什么开始害怕米饭了？聊聊碳水焦虑之下，大米产业的农业升级与消费迭代
+### 1. vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀
 
-**播客名称**: 贝望录
+**播客名称**: 无聊斋
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7b2af117676351c5705cf3/media.xyzcdn.net/5e285856418a84a04627b7be/lhS-ImaDK6mspbTqDhFkjnoxt4jJ.m4a
+https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,41 +39,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7b2af117676351
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7b2af117676351c5705cf3/media.xyzcdn.net/5e285856418a84a04627b7be/lhS-ImaDK6mspbTqDhFkjnoxt4jJ.m4a
+https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第3109期:Move the statue
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOQyK1ABvYBwTAMTY3.m4a?channel=rss&album_id=14812466&track_id=1004000384&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5f52-audiofreehighqps/DC/98/GKwRIJEOQyK1ABvYBwTAMTY3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOQyK1ABvYBwTAMTY3.m4a?channel=rss&album_id=14812466&track_id=1004000384&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5f52-audiofreehighqps/DC/98/GKwRIJEOQyK1ABvYBwTAMTY3.m4a
-```
-
-</details>
-
----
-
-### 3. 66 谁能看见城市和自然，谁就能创造生活久违的浪漫
+### 2. 66 谁能看见城市和自然，谁就能创造生活久违的浪漫
 
 **播客名称**: 放学以后After school
 
@@ -94,6 +67,33 @@ https://anchor.fm/s/81d05f80/podcast/play/123897746/https%3A%2F%2Fd3ctxlq1ktw2nl
 音频链接（点击复制）:
 ```
 https://anchor.fm/s/81d05f80/podcast/play/123897746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-7%2F8d188adc-ad27-c2e1-97d5-6c07e1c3950b.mp3
+```
+
+</details>
+
+---
+
+### 3. 艾语智能张天乐：赚钱的 AI 产品，原生的 AI 组织
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEOUO7hApcYwATFTr1c.m4a?channel=rss&album_id=74194808&track_id=1005865777&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7719-audiofreehighqps/17/36/GKwRIJEOUO7hApcYwATFTr1c.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://jt.ximalaya.com//GKwRIRwOSwIcAvG0JwTDIjb1.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. 扭扭爵士 New Nu-Jazz 2026 年第二辑
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3
-```
-
-</details>
-
----
-
-### 8. E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE
+### 7. E248｜一个“催发货”AI要跑通260步，和阿里瓴羊朋新宇聊聊中国式FDE
 
 **播客名称**: 硅谷101
 
@@ -235,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e92
 
 ---
 
-### 9. vol.263我的热情就是把油给我加满
+### 8. vol.263我的热情就是把油给我加满
 
 **播客名称**: 正经叭叭
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a79ec6917676351
 
 ---
 
-### 10. 100.心声特辑：只要你学得足够慢，你就可以不用学
+### 9. 100.心声特辑：只要你学得足够慢，你就可以不用学
 
 **播客名称**: 展开讲讲
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a77ca3fc4079d62c57f6f87/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lvt6Xmaq03zQuFLsGEL30rBAhZf0.m4a
+```
+
+</details>
+
+---
+
+### 10. 443: Amusement Park
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/474e1929-1ad3-4904-9f3c-aea8a463fc9c/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=474e1929-1ad3-4904-9f3c-aea8a463fc9c&nocache
 ```
 
 </details>
