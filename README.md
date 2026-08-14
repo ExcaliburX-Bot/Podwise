@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-14 01:49  
+> 📅 **更新时间**: 2026-08-14 07:22  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会
+### 1. 第3111期:Adaptive fashion products
 
-**播客**: 沈奕斐的播客
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOQyg1ABJm-gTAM2eK.m4a?channel=rss&album_id=14812466&track_id=1004004049&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1630-audiofreehighqps/E8/73/GKwRIRwOQyg1ABJm-gTAM2eK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,15 +34,15 @@
 
 ---
 
-### 3. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
+### 3. 266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,20 @@
 
 ---
 
-### 5. Ouraca 张栖铭 & 吴俊东：只要你还在开会，你们公司用了 AI 也快不起来
+### 5. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
 
-**播客**: AI炼金术
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OU4y1AgVt3ATGR4G4.m4a?channel=rss&album_id=74194808&track_id=1006261506&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/293f-audiofreehighqps/26/F7/GKwRIW4OU4y1AgVt3ATGR4G4.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 苹果：深耕市集 17 年，带火全国面包节，线下市集如何又爆又赚？
+### 6. 苹果：让面包节火遍全国，17年市集人教你打造又爆又赚的市集
 
 **播客**: 搞钱女孩
 
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a7cbeb017676351c5710266/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lghqbPI7EHExAvJv1gjRFV_24k8Y.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 用 AI 让我们变笨了吗？| S10E25
+### 7. 用 AI 让我们变笨了吗？| S10E25
 
 **播客**: What's Next｜科技早知道
 
@@ -112,20 +99,20 @@
 
 ---
 
-### 9. 【随机波动】和谁不是跨越山海来相见
+### 8. No.214 📕 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26
 
-**播客**: 随机波动StochasticVolatility
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/de549d1c-56a6-4132-a740-207a1fc2bbbb.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a7ab5ac17676351c570146a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsTvTHv_nkFweRyoOvgvC2RXulxR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. Currency Chaos in Argentina (Summer School)
+### 9. Currency Chaos in Argentina (Summer School)
 
 **播客**: Planet Money
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://prfx.byspotify.com/e/play.podtrac.com/npr-510362/npr.simplecastaudio.com/7dda0db1-b7e8-490c-b09a-f22fdeb30a87/episodes/59d292a1-d2f3-4d36-b366-a20574716c4e/audio/128/default.mp3?awCollectionId=7dda0db1-b7e8-490c-b09a-f22fdeb30a87&awEpisodeId=59d292a1-d2f3-4d36-b366-a20574716c4e&feed=1e5vv9pg&t=podcast&e=nx-s1-5914842&p=510362&d=2364&size=37828318)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.601 《年会2》：职场只有我们不敢写的，没有不敢发生的 feat.董润年 应萝佳 张若昀
+
+**播客**: 无聊斋
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPDL_cTsLXWkSWQBkuhTrJANppajmGHnDkkGqzSvEusRyXJZwdCsxPByrmwLPKv-88.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
