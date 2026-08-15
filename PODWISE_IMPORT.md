@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-15 01:08:09
+> 📅 生成时间: 2026-08-15 06:35:05
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. You bet your life insurance
+### 1. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
 
-**播客名称**: Planet Money
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e643843c-4f2c-43dc-89fc-64f70e7ff656/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e643843c-4f2c-43dc-89fc-64f70e7ff656&feed=hvWWWzRv&t=podcast&e=nx-s1-5885879&p=510289&d=2323&size=37172958
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a
 ```
 
 </details>
 
 ---
 
-### 2. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
+### 2. 第3112期:From Farm to Table: Blockchain Technology Will Bring Transformation
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOQypVAA2ENQTANHyr.m4a?channel=rss&album_id=14812466&track_id=1004005457&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84cf-audiofreehighqps/6D/69/GKwRIJIOQypVAA2ENQTANHyr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOQypVAA2ENQTANHyr.m4a?channel=rss&album_id=14812466&track_id=1004005457&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/84cf-audiofreehighqps/6D/69/GKwRIJIOQypVAA2ENQTANHyr.m4a
+```
+
+</details>
+
+---
+
+### 3. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
 
 **播客名称**: 知行小酒馆
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f13
 
 ---
 
-### 3. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+### 4. AI办公这个“垃圾赛道”，大厂到底在抢什么？
 
 **播客名称**: 人民公园说AI
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351
 
 ---
 
-### 4. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
+### 5. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
 
 **播客名称**: 忽左忽右
 
@@ -127,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351
 
 ---
 
-### 5. 26. 找出路丨放弃稳定高薪，夫妻搭档十年把农场咖啡成功打造成烟台在地IP
+### 6. 266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会
 
-**播客名称**: 贝望录
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,68 +174,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a
 ```
 
 </details>
 
 ---
 
-### 6. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a
-```
-
-</details>
-
----
-
-### 7. 295 发推文和视频都被嘲 高市早苗过了最佳赏味期？
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7df88436641f136d87de38/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lrgK00Xmb61hZx9aNX_HUuAMs7Y5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7df88436641f136d87de38/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lrgK00Xmb61hZx9aNX_HUuAMs7Y5.m4a
-```
-
-</details>
-
----
-
-### 8. Ouraca 张栖铭 & 吴俊东：只要你还在开会，你们公司用了 AI 也快不起来
+### 7. Ouraca 张栖铭 & 吴俊东：只要你还在开会，你们公司用了 AI 也快不起来
 
 **播客名称**: AI炼金术
 
@@ -235,7 +208,7 @@ https://jt.ximalaya.com//GKwRIW4OU4y1AgVt3ATGR4G4.m4a?channel=rss&album_id=74194
 
 ---
 
-### 9. 苹果：让面包节火遍全国，17年市集人教你打造又爆又赚的市集
+### 8. 苹果：让面包节火遍全国，17年市集人教你打造又爆又赚的市集
 
 **播客名称**: 搞钱女孩
 
@@ -256,6 +229,33 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a7cc17736641f13
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a7cc17736641f136d875a43/media.xyzcdn.net/63d945ece725b5378a158d29/ltBe-EzHbUtmS6kTQ_jfHn-NLTEf.m4a
+```
+
+</details>
+
+---
+
+### 9. 150. 对英伟达研究副总裁刘洺堉的4小时访谈：功夫、Cosmos 3、开源世界模型、黄仁勋、你不需要击败所有对手
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a7cbeb017676351c5710266/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lghqbPI7EHExAvJv1gjRFV_24k8Y.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a7cbeb017676351c5710266/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lghqbPI7EHExAvJv1gjRFV_24k8Y.m4a
 ```
 
 </details>
