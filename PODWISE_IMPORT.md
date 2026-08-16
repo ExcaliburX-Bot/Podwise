@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-16 06:36:56
+> 📅 生成时间: 2026-08-16 12:35:36
 > 📊 总计: 10 个播客
 
 ---
@@ -181,7 +181,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351
 
 ---
 
-### 7. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
+### 7. 266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a
+```
+
+</details>
+
+---
+
+### 8. 26. 找出路丨放弃稳定高薪，夫妻搭档十年把农场咖啡成功打造成烟台在地IP
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
+```
+
+</details>
+
+---
+
+### 9. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -208,15 +262,15 @@ https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 用 AI 让我们变笨了吗？| S10E25
+### 10. Ouraca 张栖铭 & 吴俊东：只要你还在开会，你们公司用了 AI 也快不起来
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6b360da-07f7-4d9e-ab1b-64a7130e9254.mp3
+https://jt.ximalaya.com//GKwRIW4OU4y1AgVt3ATGR4G4.m4a?channel=rss&album_id=74194808&track_id=1006261506&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/293f-audiofreehighqps/26/F7/GKwRIW4OU4y1AgVt3ATGR4G4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6b3
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/a6b360da-07f7-4d9e-ab1b-64a7130e9254.mp3
-```
-
-</details>
-
----
-
-### 9. 【随机波动】和谁不是跨越山海来相见
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/de549d1c-56a6-4132-a740-207a1fc2bbbb.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/de549d1c-56a6-4132-a740-207a1fc2bbbb.mp3
-```
-
-</details>
-
----
-
-### 10. No.214 📕 寻找同类：小红书、bilibili，以及五花八门的那些社区 | 中国互联网故事 26
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a7ab5ac17676351c570146a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsTvTHv_nkFweRyoOvgvC2RXulxR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a7ab5ac17676351c570146a/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsTvTHv_nkFweRyoOvgvC2RXulxR.m4a
+https://jt.ximalaya.com//GKwRIW4OU4y1AgVt3ATGR4G4.m4a?channel=rss&album_id=74194808&track_id=1006261506&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/293f-audiofreehighqps/26/F7/GKwRIW4OU4y1AgVt3ATGR4G4.m4a
 ```
 
 </details>
