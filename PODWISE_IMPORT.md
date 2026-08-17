@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-17 12:40:08
+> 📅 生成时间: 2026-08-17 18:36:26
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
+### 1. vol.264暑假不能没有凉席，天津不能没有迪士尼
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
+```
+
+</details>
+
+---
+
+### 2. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
+
+**播客名称**: 此话当真
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a
+```
+
+</details>
+
+---
+
+### 3. 80、90老板要刻板印象，00后老板要抽象：科技猎头Damon眼中的 AI人才热-Vol103
+
+**播客名称**: 脑放电波
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a
+```
+
+</details>
+
+---
+
+### 4. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
 
 **播客名称**: 展开讲讲
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a57
 
 ---
 
-### 2. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
+### 5. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -73,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/da70
 
 ---
 
-### 3. 艾薇儿：回忆里真正的酷女孩
+### 6. 艾薇儿：回忆里真正的酷女孩
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +181,7 @@ https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
 
 ---
 
-### 4. 第3114期:A major art exhibition exploring the achievement
+### 7. 第3114期:A major art exhibition exploring the achievement
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +208,7 @@ https://jt.ximalaya.com//GKwRIRwORGqCABUwpQTArdoA.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 895: Label Maker!
+### 8. 895: Label Maker!
 
 **播客名称**: This American Life
 
@@ -154,15 +235,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
+### 9. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
 
-**播客名称**: 知行小酒馆
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a820e4236641f136d892ae7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lpyXz1lbrHpEy8yy7WbAQnybpSe-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f13
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a820e4236641f136d892ae7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lpyXz1lbrHpEy8yy7WbAQnybpSe-.m4a
 ```
 
 </details>
 
 ---
 
-### 7. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+### 10. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
 
-**播客名称**: 人民公园说AI
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,88 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a
-```
-
-</details>
-
----
-
-### 8. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351c571e363/media.xyzcdn.net/5e4ee557418a84a0466737b7/loZLc-yR9H2Rs6bsb4uaAm32u2Ij.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351c571e363/media.xyzcdn.net/5e4ee557418a84a0466737b7/loZLc-yR9H2Rs6bsb4uaAm32u2Ij.m4a
-```
-
-</details>
-
----
-
-### 9. 26. 找出路丨放弃稳定高薪，夫妻搭档十年把农场咖啡成功打造成烟台在地IP
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a7dbbf017676351c5716d9e/media.xyzcdn.net/FqKEWnmAgol5Ybow3c3gjUUy7ptG.m4a
-```
-
-</details>
-
----
-
-### 10. S8 Vol.20 深海智人马亦鸣&纪源资本吕一然：具身智能的「海底两万里」
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAOU1L4AUscKwTGK88j.m4a?channel=rss&album_id=20119986&track_id=1006221318&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0897-audiofreehighqps/E8/96/GKwRIMAOU1L4AUscKwTGK88j.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a
 ```
 
 </details>
