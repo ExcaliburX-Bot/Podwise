@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-17 01:10  
+> 📅 **更新时间**: 2026-08-17 06:51  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 第3114期:A major art exhibition exploring the achievement
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwORGqCABUwpQTArdoA.m4a?channel=rss&album_id=14812466&track_id=1004155529&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c0fc-audiofreehighqps/61/B3/GKwRIRwORGqCABUwpQTArdoA.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 895: Label Maker!
+### 3. 895: Label Maker!
 
 **播客**: This American Life
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
+### 4. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
+### 5. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
 
 **播客**: 东亚观察局
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. You bet your life insurance
+### 6. You bet your life insurance
 
 **播客**: Planet Money
 
@@ -99,20 +86,7 @@
 
 ---
 
-### 8. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+### 7. AI办公这个“垃圾赛道”，大厂到底在抢什么？
 
 **播客**: 人民公园说AI
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
+### 8. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
 
 **播客**: 忽左忽右
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351c571e363/media.xyzcdn.net/5e4ee557418a84a0466737b7/loZLc-yR9H2Rs6bsb4uaAm32u2Ij.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Ouraca 张栖铭 & 吴俊东：只要你还在开会，你们公司用了 AI 也快不起来
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OU4y1AgVt3ATGR4G4.m4a?channel=rss&album_id=74194808&track_id=1006261506&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/293f-audiofreehighqps/26/F7/GKwRIW4OU4y1AgVt3ATGR4G4.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
