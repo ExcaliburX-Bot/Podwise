@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-18 01:08  
+> 📅 **更新时间**: 2026-08-18 06:39  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,33 @@
 
 ---
 
-### 2. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
+### 2. Vol.348 一天：我很爱你，但已经不喜欢你了
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.264暑假不能没有凉席，天津不能没有迪士尼
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
 
 **播客**: 此话当真
 
@@ -34,20 +60,20 @@
 
 ---
 
-### 3. 80、90老板要刻板印象，00后老板要抽象：科技猎头Damon眼中的 AI人才热-Vol103
+### 5. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
 
-**播客**: 脑放电波
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
+### 6. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
 
 **播客**: 晚点聊 LateTalk
 
@@ -56,32 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/da707393-af0f-4607-9712-93f469508667.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 艾薇儿：回忆里真正的酷女孩
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 895: Label Maker!
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,20 +99,7 @@
 
 ---
 
-### 8. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
+### 8. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
 
 **播客**: 知行小酒馆
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+### 9. AI办公这个“垃圾赛道”，大厂到底在抢什么？
 
 **播客**: 人民公园说AI
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 492 刘怡、于杰谈保罗·沃尔克与现代美联储制度的形成
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a7ee43b17676351c571e363/media.xyzcdn.net/5e4ee557418a84a0466737b7/loZLc-yR9H2Rs6bsb4uaAm32u2Ij.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
