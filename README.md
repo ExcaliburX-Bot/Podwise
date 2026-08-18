@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-17 18:36  
+> 📅 **更新时间**: 2026-08-18 01:08  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.264暑假不能没有凉席，天津不能没有迪士尼
+### 1. 第3115期:Gen Z's love of the past
 
-**播客**: 正经叭叭
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OTERIABW2RQTDk4XH.m4a?channel=rss&album_id=14812466&track_id=1005224982&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/636e-audiofreehighqps/DA/E2/GKwRIW4OTERIABW2RQTDk4XH.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,20 +47,7 @@
 
 ---
 
-### 4. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
+### 4. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
 
 **播客**: 晚点聊 LateTalk
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 艾薇儿：回忆里真正的酷女孩
+### 5. 艾薇儿：回忆里真正的酷女孩
 
 **播客**: Vibration 歪波音室
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. 第3114期:A major art exhibition exploring the achievement
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwORGqCABUwpQTArdoA.m4a?channel=rss&album_id=14812466&track_id=1004155529&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c0fc-audiofreehighqps/61/B3/GKwRIRwORGqCABUwpQTArdoA.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 895: Label Maker!
+### 6. 895: Label Maker!
 
 **播客**: This American Life
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
+### 7. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
+### 8. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
 
 **播客**: 东亚观察局
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

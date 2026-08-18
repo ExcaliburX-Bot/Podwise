@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-17 18:36:26
+> 📅 生成时间: 2026-08-18 01:08:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.264暑假不能没有凉席，天津不能没有迪士尼
+### 1. 第3115期:Gen Z's love of the past
 
-**播客名称**: 正经叭叭
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
+https://jt.ximalaya.com//GKwRIW4OTERIABW2RQTDk4XH.m4a?channel=rss&album_id=14812466&track_id=1005224982&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/636e-audiofreehighqps/DA/E2/GKwRIW4OTERIABW2RQTDk4XH.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf33
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
+https://jt.ximalaya.com//GKwRIW4OTERIABW2RQTDk4XH.m4a?channel=rss&album_id=14812466&track_id=1005224982&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/636e-audiofreehighqps/DA/E2/GKwRIW4OTERIABW2RQTDk4XH.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a57
 
 ---
 
-### 4. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
-```
-
-</details>
-
----
-
-### 5. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
+### 4. 179: 蒸馏风暴：一场无人公开谈论的技术竞赛
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -154,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/da70
 
 ---
 
-### 6. 艾薇儿：回忆里真正的酷女孩
+### 5. 艾薇儿：回忆里真正的酷女孩
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,34 +154,7 @@ https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
 
 ---
 
-### 7. 第3114期:A major art exhibition exploring the achievement
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwORGqCABUwpQTArdoA.m4a?channel=rss&album_id=14812466&track_id=1004155529&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c0fc-audiofreehighqps/61/B3/GKwRIRwORGqCABUwpQTArdoA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwORGqCABUwpQTArdoA.m4a?channel=rss&album_id=14812466&track_id=1004155529&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c0fc-audiofreehighqps/61/B3/GKwRIRwORGqCABUwpQTArdoA.m4a
-```
-
-</details>
-
----
-
-### 8. 895: Label Maker!
+### 6. 895: Label Maker!
 
 **播客名称**: This American Life
 
@@ -235,7 +181,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 9. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
+### 7. Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -262,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a820e4236641f13
 
 ---
 
-### 10. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
+### 8. 二进宫祭出“安倍三支箭” 七年长期政权明与暗【安倍晋三“大研究”③】
 
 **播客名称**: 东亚观察局
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a7f4a3a17676351c5720be3/media.xyzcdn.net/FjeBDbQCw_nidfVfMiaEgUJqUyWf.m4a
+```
+
+</details>
+
+---
+
+### 9. E247 和爱的人谈钱，但不只是钱｜小酒馆故事会七夕特辑 💝
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a7e91ff36641f136d8807ab/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ljZuS4JLPwRWDixP5iOqUVD0iMWO.m4a
+```
+
+</details>
+
+---
+
+### 10. AI办公这个“垃圾赛道”，大厂到底在抢什么？
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a7eea1317676351c571e68e/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lsjJVMVnjOr-ZwKtEhwl8uNo3of_.m4a
 ```
 
 </details>
