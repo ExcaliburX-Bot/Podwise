@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-19 01:08  
+> 📅 **更新时间**: 2026-08-19 06:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,33 +34,7 @@
 
 ---
 
-### 3. 第3116期:The art of farts
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
-
-**播客**: 英美剧漫游指南KillingTV
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
+### 3. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
 
 **播客**: 三五环
 
@@ -73,7 +47,7 @@
 
 ---
 
-### 6. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
+### 4. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
 
 **播客**: 忽左忽右
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. Vol.348 一天：我很爱你，但已经不喜欢你了
+### 5. Vol.348 一天：我很爱你，但已经不喜欢你了
 
 **播客**: 文化有限
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. vol.264暑假不能没有凉席，天津不能没有迪士尼
+### 6. vol.264暑假不能没有凉席，天津不能没有迪士尼
 
 **播客**: 正经叭叭
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
+### 7. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
 
 **播客**: 此话当真
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. 盘点AI人才热：最火的岗位是伪需求？招人要靠“刻板印象”？对谈科技猎头Damon-Vol 103
+### 8. 盘点AI人才热：最火的岗位是伪需求？招人要靠“刻板印象”？对谈科技猎头Damon-Vol 103
 
 **播客**: 脑放电波
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 艾薇儿：回忆里真正的酷女孩
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

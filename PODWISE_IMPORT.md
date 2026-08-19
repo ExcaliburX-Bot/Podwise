@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-19 01:08:59
+> 📅 生成时间: 2026-08-19 06:40:26
 > 📊 总计: 10 个播客
 
 ---
@@ -73,61 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a57
 
 ---
 
-### 3. 第3116期:The art of farts
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a
-```
-
-</details>
-
----
-
-### 4. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
-
-**播客名称**: 英美剧漫游指南KillingTV
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
-```
-
-</details>
-
----
-
-### 5. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
+### 3. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
 
 **播客名称**: 三五环
 
@@ -154,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8336318156bf33
 
 ---
 
-### 6. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
+### 4. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33
 
 ---
 
-### 7. Vol.348 一天：我很爱你，但已经不喜欢你了
+### 5. Vol.348 一天：我很爱你，但已经不喜欢你了
 
 **播客名称**: 文化有限
 
@@ -208,7 +154,7 @@ https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.264暑假不能没有凉席，天津不能没有迪士尼
+### 6. vol.264暑假不能没有凉席，天津不能没有迪士尼
 
 **播客名称**: 正经叭叭
 
@@ -235,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf33
 
 ---
 
-### 9. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
+### 7. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
 
 **播客名称**: 此话当真
 
@@ -262,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a57
 
 ---
 
-### 10. 盘点AI人才热：最火的岗位是伪需求？招人要靠“刻板印象”？对谈科技猎头Damon-Vol 103
+### 8. 盘点AI人才热：最火的岗位是伪需求？招人要靠“刻板印象”？对谈科技猎头Damon-Vol 103
 
 **播客名称**: 脑放电波
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a57
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a
+```
+
+</details>
+
+---
+
+### 9. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
+```
+
+</details>
+
+---
+
+### 10. 艾薇儿：回忆里真正的酷女孩
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
 ```
 
 </details>
