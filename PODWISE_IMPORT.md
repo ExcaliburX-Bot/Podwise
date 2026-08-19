@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-19 06:40:26
+> 📅 生成时间: 2026-08-19 12:42:20
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
+### 1. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3
+```
+
+</details>
+
+---
+
+### 2. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+
+**播客名称**: 温柔人类 GentleHuman
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252df2ec71ca/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljvzKxHRhJ8x_dmiY5dyNs-d3TX3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252df2ec71ca/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljvzKxHRhJ8x_dmiY5dyNs-d3TX3.m4a
+```
+
+</details>
+
+---
+
+### 3. Getting entrepreneurial in Korea (Summer School)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
+```
+
+</details>
+
+---
+
+### 4. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
 **播客名称**: 贝望录
 
@@ -46,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33
 
 ---
 
-### 2. 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
+### 5. 第3116期:The art of farts
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a
+```
+
+</details>
+
+---
+
+### 6. 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -73,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a57
 
 ---
 
-### 3. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
+### 7. Skill 是 Agent 时代的 App
+
+**播客名称**: AI产品经理 Global
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
+```
+
+</details>
+
+---
+
+### 8. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
 
 **播客名称**: 三五环
 
@@ -100,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8336318156bf33
 
 ---
 
-### 4. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
+### 9. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
 
 **播客名称**: 忽左忽右
 
@@ -127,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33
 
 ---
 
-### 5. Vol.348 一天：我很爱你，但已经不喜欢你了
+### 10. Vol.348 一天：我很爱你，但已经不喜欢你了
 
 **播客名称**: 文化有限
 
@@ -148,141 +283,6 @@ https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a
-```
-
-</details>
-
----
-
-### 6. vol.264暑假不能没有凉席，天津不能没有迪士尼
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a
-```
-
-</details>
-
----
-
-### 7. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
-
-**播客名称**: 此话当真
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a
-```
-
-</details>
-
----
-
-### 8. 盘点AI人才热：最火的岗位是伪需求？招人要靠“刻板印象”？对谈科技猎头Damon-Vol 103
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a832acd5aeb2a5712e84bc8/media.xyzcdn.net/636669d51064cb55f31505fc/lhsJgP5wx3WLmd0KdH32WP5tMfmA.m4a
-```
-
-</details>
-
----
-
-### 9. 101.和麻赢心&鸟鸟一起聊天：创造性女性友谊，创造作品，也创造生活
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a82e8825aeb2a5712e82753/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lhCXsyO6kjrAXqaUPN1TCqC95jI9.m4a
-```
-
-</details>
-
----
-
-### 10. 艾薇儿：回忆里真正的酷女孩
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPTK_35BLS2mfYHMRxx4C-c36eca2d7660.mp3
 ```
 
 </details>
