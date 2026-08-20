@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-19 18:32  
+> 📅 **更新时间**: 2026-08-20 01:08  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
+### 1. 第3117期:World's most expensive dinosaur
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOTEhJAAQS0wTDlVKf.m4a?channel=rss&album_id=14812466&track_id=1005226702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c7a1-audiofreehighqps/EC/7A/GKwRIDoOTEhJAAQS0wTDlVKf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252df2ec9b77/media.xyzcdn.net/63d945ece725b5378a158d29/lh0G50OYzdgiwsYcw37YDVmLDJSf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
 
 **播客**: What's Next｜科技早知道
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+### 4. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
 
 **播客**: 温柔人类 GentleHuman
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. Getting entrepreneurial in Korea (Summer School)
+### 5. Getting entrepreneurial in Korea (Summer School)
 
 **播客**: Planet Money
 
@@ -47,33 +73,33 @@
 
 ---
 
-### 4. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
+### 6. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
 
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第3116期:The art of farts
-
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 英美剧漫游指南KillingTV
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOTEa9ABQMbATDlLRK.m4a?channel=rss&album_id=14812466&track_id=1005225989&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/3c95-audiofreehighqps/DF/F1/GKwRIJEOTEa9ABQMbATDlLRK.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
+### 7. Skill 是 Agent 时代的 App
+
+**播客**: AI产品经理 Global
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
 
 **播客**: 三五环
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
+### 9. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
 
 **播客**: 忽左忽右
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Vol.348 一天：我很爱你，但已经不喜欢你了
+### 10. Vol.348 一天：我很爱你，但已经不喜欢你了
 
 **播客**: 文化有限
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.264暑假不能没有凉席，天津不能没有迪士尼
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 从「同事.skill」到「人生系统」，你害怕被蒸馏吗？
-
-**播客**: 此话当真
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
