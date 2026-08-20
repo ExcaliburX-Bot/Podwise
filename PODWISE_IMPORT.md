@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-20 01:08:04
+> 📅 生成时间: 2026-08-20 06:42:07
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252d
 
 ---
 
-### 3. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
+### 3. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242033d-a14a-44e3-a622-cbfc7d3c3817.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242033d-a14a-44e3-a622-cbfc7d3c3817.mp3
+```
+
+</details>
+
+---
+
+### 4. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e1
 
 ---
 
-### 4. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+### 5. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252d
 
 ---
 
-### 5. Getting entrepreneurial in Korea (Summer School)
+### 6. Getting entrepreneurial in Korea (Summer School)
 
 **播客名称**: Planet Money
 
@@ -154,15 +181,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
+### 7. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
-**播客名称**: 英美剧漫游指南KillingTV
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a57
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 </details>
 
 ---
 
-### 7. Skill 是 Agent 时代的 App
+### 8. Skill 是 Agent 时代的 App
 
 **播客名称**: AI产品经理 Global
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
-```
-
-</details>
-
----
-
-### 8. No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8336318156bf336219d647/media.xyzcdn.net/5e280fab418a84a0461faa3c/loL_AeK3bLUgcZCYyvyu6fPSwDl_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8336318156bf336219d647/media.xyzcdn.net/5e280fab418a84a0461faa3c/loL_AeK3bLUgcZCYyvyu6fPSwDl_.m4a
 ```
 
 </details>
