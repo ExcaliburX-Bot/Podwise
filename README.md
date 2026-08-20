@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-20 06:42  
+> 📅 **更新时间**: 2026-08-20 12:45  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -86,7 +86,20 @@
 
 ---
 
-### 7. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
+### 7. 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
 **播客**: 贝望录
 
@@ -99,7 +112,20 @@
 
 ---
 
-### 8. Skill 是 Agent 时代的 App
+### 9. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
+
+**播客**: 英美剧漫游指南KillingTV
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Skill 是 Agent 时代的 App
 
 **播客**: AI产品经理 Global
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33621a3055/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqVHK3EOXSQR-n07H4dNhAr87IP0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.348 一天：我很爱你，但已经不喜欢你了
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

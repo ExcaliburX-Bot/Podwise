@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-20 06:42:07
+> 📅 生成时间: 2026-08-20 12:45:40
 > 📊 总计: 10 个播客
 
 ---
@@ -181,7 +181,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
+### 7. 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a
+```
+
+</details>
+
+---
+
+### 8. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
 **播客名称**: 贝望录
 
@@ -208,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33
 
 ---
 
-### 8. Skill 是 Agent 时代的 App
+### 9. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+```
+
+</details>
+
+---
+
+### 10. Skill 是 Agent 时代的 App
 
 **播客名称**: AI产品经理 Global
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
-```
-
-</details>
-
----
-
-### 9. 493 追忆历史学家亚当·麦基翁：华人移民与现代边境制度的形成
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33621a3055/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqVHK3EOXSQR-n07H4dNhAr87IP0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8418e88156bf33621a3055/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqVHK3EOXSQR-n07H4dNhAr87IP0.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.348 一天：我很爱你，但已经不喜欢你了
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a
 ```
 
 </details>
