@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-20 18:36:06
+> 📅 生成时间: 2026-08-21 01:11:50
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 1. 第3118期:Chimpanzees build trust through touch
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a
+```
+
+</details>
+
+---
+
+### 2. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客名称**: 人民公园说AI
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a
-```
-
-</details>
-
----
-
-### 2. 第3117期:World's most expensive dinosaur
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOTEhJAAQS0wTDlVKf.m4a?channel=rss&album_id=14812466&track_id=1005226702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c7a1-audiofreehighqps/EC/7A/GKwRIDoOTEhJAAQS0wTDlVKf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOTEhJAAQS0wTDlVKf.m4a?channel=rss&album_id=14812466&track_id=1005226702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c7a1-audiofreehighqps/EC/7A/GKwRIDoOTEhJAAQS0wTDlVKf.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a57
 
 ---
 
-### 10. Skill 是 Agent 时代的 App
+### 10. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
 
-**播客名称**: AI产品经理 Global
+**播客名称**: 英美剧漫游指南KillingTV
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
 ```
 
 </details>

@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-20 18:36  
+> 📅 **更新时间**: 2026-08-21 01:11  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 1. 第3118期:Chimpanzees build trust through touch
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客**: 人民公园说AI
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第3117期:World's most expensive dinosaur
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOTEhJAAQS0wTDlVKf.m4a?channel=rss&album_id=14812466&track_id=1005226702&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c7a1-audiofreehighqps/EC/7A/GKwRIDoOTEhJAAQS0wTDlVKf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. Skill 是 Agent 时代的 App
+### 10. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
 
-**播客**: AI产品经理 Global
+**播客**: 英美剧漫游指南KillingTV
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a847b5d8156bf33621a6854/media.xyzcdn.net/665dbd0694977a26efeb7a75/licRko8TTK_osmZdAf9P1SFuxQCJ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
