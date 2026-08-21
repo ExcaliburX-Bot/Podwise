@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-21 01:11:50
+> 📅 生成时间: 2026-08-21 06:42:38
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,61 @@ https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 2. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+```
+
+</details>
+
+---
+
+### 3. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
+```
+
+</details>
+
+---
+
+### 4. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客名称**: 人民公园说AI
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56
 
 ---
 
-### 3. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
+### 5. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252d
 
 ---
 
-### 4. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
+### 6. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
 
 **播客名称**: 硅谷101
 
@@ -127,34 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242
 
 ---
 
-### 5. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3
-```
-
-</details>
-
----
-
-### 6. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+### 7. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252d
 
 ---
 
-### 7. Getting entrepreneurial in Korea (Summer School)
+### 8. Getting entrepreneurial in Korea (Summer School)
 
 **播客名称**: Planet Money
 
@@ -202,33 +229,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
-```
-
-</details>
-
----
-
-### 8. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a57
 
 ---
 
-### 10. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
+### 10. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
-**播客名称**: 英美剧漫游指南KillingTV
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a57
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 </details>

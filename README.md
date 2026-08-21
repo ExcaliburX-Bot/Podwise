@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-21 01:11  
+> 📅 **更新时间**: 2026-08-21 06:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,33 @@
 
 ---
 
-### 2. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 2. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客**: 人民公园说AI
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
+### 5. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
 
 **播客**: 搞钱女孩
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
+### 6. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
 
 **播客**: 硅谷101
 
@@ -60,20 +86,7 @@
 
 ---
 
-### 5. 【重听】朱雀三号副总师：火箭回收只有成与败，没有中间态| S9E41
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/d9e11e3b-7c7e-4beb-b19f-6f90fff38714.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+### 7. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
 
 **播客**: 温柔人类 GentleHuman
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Getting entrepreneurial in Korea (Summer School)
+### 8. Getting entrepreneurial in Korea (Summer School)
 
 **播客**: Planet Money
 
@@ -95,19 +108,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二
+### 10. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
 
-**播客**: 英美剧漫游指南KillingTV
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
