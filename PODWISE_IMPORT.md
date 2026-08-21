@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-21 06:42:38
+> 📅 生成时间: 2026-08-21 12:42:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3118期:Chimpanzees build trust through touch
+### 1. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+### 2. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
 
-**播客名称**: 东亚观察局
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
 ```
 
 </details>
 
 ---
 
-### 3. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+### 3. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56ff398ff8/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsKzkBR6O8TbV72kQMabFOqWh1A4.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56ff398ff8/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsKzkBR6O8TbV72kQMabFOqWh1A4.m4a
+```
+
+</details>
+
+---
+
+### 4. 494 张诗坪谈战争史视角下的秦末汉初混战
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a
+```
+
+</details>
+
+---
+
+### 5. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -100,7 +154,34 @@ https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 6. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+```
+
+</details>
+
+---
+
+### 7. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客名称**: 人民公园说AI
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56
 
 ---
 
-### 5. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
+### 8. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
 
 **播客名称**: 搞钱女孩
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252d
 
 ---
 
-### 6. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
+### 9. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
 
 **播客名称**: 硅谷101
 
@@ -181,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242
 
 ---
 
-### 7. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
+### 10. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252df2ec71ca/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljvzKxHRhJ8x_dmiY5dyNs-d3TX3.m4a
-```
-
-</details>
-
----
-
-### 8. Getting entrepreneurial in Korea (Summer School)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655
-```
-
-</details>
-
----
-
-### 9. 151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a
-```
-
-</details>
-
----
-
-### 10. 234. 当AI开始抢走年轻人的第一份工作，年轻人的未来在哪里？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a83d24d8156bf33621a013d/media.xyzcdn.net/5e285856418a84a04627b7be/lnIShFnaCo3ibJEOXhyE7v7JnDOM.m4a
 ```
 
 </details>
