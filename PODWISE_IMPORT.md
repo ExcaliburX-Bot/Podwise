@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-22 12:35:21
+> 📅 生成时间: 2026-08-22 18:27:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 145 ✪ 改嫁中资的餐饮洋品牌
+### 1. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOX3ZAAly1jQTK0bQw.m4a?channel=rss&album_id=74194808&track_id=1007960985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/cf00-audiofreehighqps/20/69/GKwRIRwOX3ZAAly1jQTK0bQw.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOX3ZAAly1jQTK0bQw.m4a?channel=rss&album_id=74194808&track_id=1007960985&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/cf00-audiofreehighqps/20/69/GKwRIRwOX3ZAAly1jQTK0bQw.m4a
+```
+
+</details>
+
+---
+
+### 2. 145 ✪ 改嫁中资的餐饮洋品牌
 
 **播客名称**: 疯投圈
 
@@ -46,7 +73,7 @@ https://rio.xyzcdn.net/crazycapital/ep145.mp3
 
 ---
 
-### 2. Who decides what big box sells? Our GAME got us answers
+### 3. Who decides what big box sells? Our GAME got us answers
 
 **播客名称**: Planet Money
 
@@ -67,33 +94,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592
-```
-
-</details>
-
----
-
-### 3. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3
 ```
 
 </details>
