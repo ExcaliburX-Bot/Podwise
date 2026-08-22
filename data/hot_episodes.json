@@ -1,5 +1,25 @@
 [
   {
+    "eid": "0400_720023.mp3",
+    "title": "肖骏：请在《22:22》进入我的生活与幻想",
+    "podcast": {
+      "title": "周末变奏 Key Change"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3",
+    "pubDate": "2026-08-22T06:28:26+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
+  },
+  {
+    "eid": "pital/ep145.mp3",
+    "title": "145 ✪ 改嫁中资的餐饮洋品牌",
+    "podcast": {
+      "title": "疯投圈"
+    },
+    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep145.mp3",
+    "pubDate": "2026-08-22T03:00:00+00:00",
+    "source_rss": "https://crazy.capital/feed"
+  },
+  {
     "eid": "BUn1ATDzneX.m4a",
     "title": "第3119期:Life on Venus",
     "podcast": {
@@ -110,18 +130,18 @@
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
-    "eid": "5dyNs-d3TX3.m4a",
-    "title": "从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41",
+    "eid": "NSPhG4I5h5U.m4a",
+    "title": "151. 17岁被2026年ICML收录论文的小少年：我bet开心！开心！开心！",
     "podcast": {
-      "title": "温柔人类 GentleHuman"
+      "title": "张小珺Jùn｜商业访谈录"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252df2ec71ca/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljvzKxHRhJ8x_dmiY5dyNs-d3TX3.m4a",
-    "pubDate": "2026-08-19T11:13:41+00:00",
-    "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8472b95aeb2a5712e8de78/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lgS-qEdm2hDrXRFKGNSPhG4I5h5U.m4a",
+    "pubDate": "2026-08-19T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "Q_8yZxDISBj.m4a",
-    "title": "130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、伊藤润二",
+    "title": "130. 双峰、暗黑、聪明镇，恐怖、灵异、克苏鲁，瑞恩墨菲、吉尔托罗、斯蒂芬金",
     "podcast": {
       "title": "英美剧漫游指南KillingTV"
     },
@@ -140,26 +160,6 @@
     "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
   },
   {
-    "eid": "vyu6fPSwDl_.m4a",
-    "title": "No.230 串台万物生长｜咖啡续命、酒精助眠，当代人的睡眠失控与管理",
-    "podcast": {
-      "title": "三五环"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8336318156bf336219d647/media.xyzcdn.net/5e280fab418a84a0461faa3c/loL_AeK3bLUgcZCYyvyu6fPSwDl_.m4a",
-    "pubDate": "2026-08-18T10:53:18+00:00",
-    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
-  },
-  {
-    "eid": "2bG5wTIAyqM.m4a",
-    "title": "Vol.348 一天：我很爱你，但已经不喜欢你了",
-    "podcast": {
-      "title": "文化有限"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIOWJS8A2bG5wTIAyqM.m4a?channel=rss&album_id=29887212&track_id=1006890350&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/8238-audiofreehighqps/D4/93/GKwRIaIOWJS8A2bG5wTIAyqM.m4a",
-    "pubDate": "2026-08-17T23:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
-  },
-  {
     "eid": "5HqGwq65ALB.m4a",
     "title": "vol.264暑假不能没有凉席，天津不能没有迪士尼",
     "podcast": {
@@ -168,6 +168,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a831c128156bf336219ca01/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ljzrbbdRS-Lt9FhRK5HqGwq65ALB.m4a",
     "pubDate": "2026-08-17T16:00:13+00:00",
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
+  },
+  {
+    "eid": "WPX6jGSQqO3.m4a",
+    "title": "从「同事.skill」到「人生系统」，你害怕被蒸馏吗？",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a",
+    "pubDate": "2026-08-17T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
     "eid": "H32WP5tMfmA.m4a",
@@ -210,16 +220,6 @@
     "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
-    "eid": "fb2f403&nocache",
-    "title": "895: Label Maker!",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/15103000-90c9-465f-8a0d-0dff5fb2f403/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=15103000-90c9-465f-8a0d-0dff5fb2f403&nocache",
-    "pubDate": "2026-08-16T20:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
-  },
-  {
     "eid": "WbAQnybpSe-.m4a",
     "title": "Ep205 学习机、暑假作业和低学历总统山 ft.刘仁铖&王继业",
     "podcast": {
@@ -228,6 +228,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a820e4236641f136d892ae7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lpyXz1lbrHpEy8yy7WbAQnybpSe-.m4a",
     "pubDate": "2026-08-16T19:31:23+00:00",
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+  },
+  {
+    "eid": "Myb4ohNizUv.m4a",
+    "title": "266.迷恋二次元是为了逃避生活？追星和谈恋爱水火不容？｜西安粉丝线下见面会",
+    "podcast": {
+      "title": "沈奕斐的播客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a7dc71636641f136d87c958/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqPga_8qC37tmyuGBMyb4ohNizUv.m4a",
+    "pubDate": "2026-08-14T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "gVt3ATGR4G4.m4a",
@@ -260,34 +270,14 @@
     "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
-    "eid": "9776_596039.mp3",
-    "title": "扭扭爵士 New Nu-Jazz 2026 年第二辑",
+    "eid": "p3bhS0iqVzt.m4a",
+    "title": "AI by the numbers-23页PPT solo",
     "podcast": {
-      "title": "周末变奏 Key Change"
+      "title": "屠龙之术"
     },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MCwidCI6MX0.UYx3l4wa2HvSUu4l-pAfoz4iDKw/keychangefm/8213619776_596039.mp3",
-    "pubDate": "2026-08-10T22:48:33+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
-  },
-  {
-    "eid": "ix6U2vFvxDa.m4a",
-    "title": "「模型能力已经够了，要卷就卷 infra」｜对谈戴冠兰：Runta 创始人",
-    "podcast": {
-      "title": "十字路口Crossing"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a773808c4079d62c57f5802/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkfUT_bmlrVelVLOwix6U2vFvxDa.m4a",
-    "pubDate": "2026-08-09T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
-  },
-  {
-    "eid": "pital/ep144.mp3",
-    "title": "144 ✪ 国货出海新趋势：山下有松、观夏、PANE",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep144.mp3",
-    "pubDate": "2026-08-09T10:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a789a5ac4079d62c57fca54/media.xyzcdn.net/6507bc165c88d2412626b401/lqXnaDLi8MXozJ8Mvp3bhS0iqVzt.m4a",
+    "pubDate": "2026-08-09T15:25:36+00:00",
+    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
   },
   {
     "eid": "hVd0Ul77QmI.m4a",
@@ -298,5 +288,15 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a75424b000a55a9bb042560/media.xyzcdn.net/648b0b641c48983391a63f98/lq1xnhp4MuC3iViDqhVd0Ul77QmI.m4a",
     "pubDate": "2026-08-08T13:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
+  },
+  {
+    "eid": "PAAjTFfsBLx.m4a",
+    "title": "EP119 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
+    "pubDate": "2026-08-02T19:39:44+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   }
 ]

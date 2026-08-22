@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-22 01:07  
+> 📅 **更新时间**: 2026-08-22 06:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3119期:Life on Venus
+### 1. 肖骏：请在《22:22》进入我的生活与幻想
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 145 ✪ 改嫁中资的餐饮洋品牌
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep145.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3119期:Life on Venus
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
+### 4. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
 
 **播客**: What's Next｜科技早知道
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+### 5. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
 
 **播客**: 知行小酒馆
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
+### 6. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
 **播客**: 乱翻书
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
+### 7. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 494 张诗坪谈战争史视角下的秦末汉初混战
+### 8. 494 张诗坪谈战争史视角下的秦末汉初混战
 
 **播客**: 忽左忽右
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+### 9. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
 
 **播客**: 东亚观察局
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+### 10. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252df2ec9b77/media.xyzcdn.net/63d945ece725b5378a158d29/lh0G50OYzdgiwsYcw37YDVmLDJSf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
