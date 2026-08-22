@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-21 18:33  
+> 📅 **更新时间**: 2026-08-22 01:07  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
+### 1. 第3119期:Life on Venus
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOTMUgABUn1ATDzneX.m4a?channel=rss&album_id=14812466&track_id=1005295974&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/70e7-audiofreehighqps/34/42/GKwRIJIOTMUgABUn1ATDzneX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
 **播客**: 乱翻书
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
+### 5. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. 494 张诗坪谈战争史视角下的秦末汉初混战
+### 6. 494 张诗坪谈战争史视角下的秦末汉初混战
 
 **播客**: 忽左忽右
 
@@ -47,20 +86,7 @@
 
 ---
 
-### 4. 第3118期:Chimpanzees build trust through touch
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOTEnLAAX44ATDldod.m4a?channel=rss&album_id=14812466&track_id=1005227336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1e2a-audiofreehighqps/C0/2B/GKwRIRwOTEnLAAX44ATDldod.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+### 7. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
 
 **播客**: 东亚观察局
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+### 8. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
+### 9. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
 
 **播客**: 人民公园说AI
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
+### 10. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
 
 **播客**: 搞钱女孩
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252df2ec9b77/media.xyzcdn.net/63d945ece725b5378a158d29/lh0G50OYzdgiwsYcw37YDVmLDJSf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 从奥德赛到哪吒：我的人生，到底谁说了算？| 温柔人类EP.41
-
-**播客**: 温柔人类 GentleHuman
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a858e8dfb87252df2ec71ca/media.xyzcdn.net/5e280fac418a84a0461fafc9/ljvzKxHRhJ8x_dmiY5dyNs-d3TX3.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Getting entrepreneurial in Korea (Summer School)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f085e3ff-805b-4306-b491-d936938e5d17/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f085e3ff-805b-4306-b491-d936938e5d17&feed=hvWWWzRv&t=podcast&e=nx-s1-5936481&p=510289&d=2408&size=38529655)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
