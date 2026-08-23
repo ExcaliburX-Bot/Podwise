@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-23 12:36:16
+> 📅 生成时间: 2026-08-23 18:26:30
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
+### 1. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljW_dMOCRyibLF0k3Rkz8EoNKQOx.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljW_dMOCRyibLF0k3Rkz8EoNKQOx.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3120期:Americans pay tribute to Ruth Bader Ginsburg.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOTMkVABJIJATD0C3B.m4a?channel=rss&album_id=14812466&track_id=1005298210&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/39fb-audiofreehighqps/CD/CC/GKwRIJIOTMkVABJIJATD0C3B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOTMkVABJIJATD0C3B.m4a?channel=rss&album_id=14812466&track_id=1005298210&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/39fb-audiofreehighqps/CD/CC/GKwRIJIOTMkVABJIJATD0C3B.m4a
+```
+
+</details>
+
+---
+
+### 3. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
 
 **播客名称**: AI炼金术
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIRwOX3ZAAly1jQTK0bQw.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. 肖骏：请在《22:22》进入我的生活与幻想
+### 4. 肖骏：请在《22:22》进入我的生活与幻想
 
 **播客名称**: 周末变奏 Key Change
 
@@ -73,7 +127,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1u
 
 ---
 
-### 3. 145 ✪ 改嫁中资的餐饮洋品牌
+### 5. 145 ✪ 改嫁中资的餐饮洋品牌
 
 **播客名称**: 疯投圈
 
@@ -100,7 +154,7 @@ https://rio.xyzcdn.net/crazycapital/ep145.mp3
 
 ---
 
-### 4. Who decides what big box sells? Our GAME got us answers
+### 6. Who decides what big box sells? Our GAME got us answers
 
 **播客名称**: Planet Money
 
@@ -127,15 +181,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
+### 7. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
 
-**播客名称**: 乱翻书
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
 ```
 
 </details>
 
 ---
 
-### 6. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
+### 8. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56
 
 ---
 
-### 7. 494 张诗坪谈战争史视角下的秦末汉初混战
+### 9. 494 张诗坪谈战争史视角下的秦末汉初混战
 
 **播客名称**: 忽左忽右
 
@@ -208,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145d
 
 ---
 
-### 8. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+### 10. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
 
-**播客名称**: 东亚观察局
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
-```
-
-</details>
-
----
-
-### 9. 安妮：AI视频带货月入2W，爸妈长辈爱看的视频号原来这么赚钱！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252df2ec9b77/media.xyzcdn.net/63d945ece725b5378a158d29/lh0G50OYzdgiwsYcw37YDVmLDJSf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a85f8b8fb87252df2ec9b77/media.xyzcdn.net/63d945ece725b5378a158d29/lh0G50OYzdgiwsYcw37YDVmLDJSf.m4a
-```
-
-</details>
-
----
-
-### 10. E249｜Token经济转点：OpenClaw、Hermes到本地自研的Agent进化之路
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242033d-a14a-44e3-a622-cbfc7d3c3817.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/6242033d-a14a-44e3-a622-cbfc7d3c3817.mp3
+https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
 ```
 
 </details>
