@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-23 01:13:35
+> 📅 生成时间: 2026-08-23 06:38:00
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://jt.ximalaya.com//GKwRIRwOX3ZAAly1jQTK0bQw.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. 145 ✪ 改嫁中资的餐饮洋品牌
+### 3. 肖骏：请在《22:22》进入我的生活与幻想
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3
+```
+
+</details>
+
+---
+
+### 4. 145 ✪ 改嫁中资的餐饮洋品牌
 
 **播客名称**: 疯投圈
 
@@ -100,7 +127,7 @@ https://rio.xyzcdn.net/crazycapital/ep145.mp3
 
 ---
 
-### 4. Who decides what big box sells? Our GAME got us answers
+### 5. Who decides what big box sells? Our GAME got us answers
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
+### 6. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
 
 **播客名称**: What's Next｜科技早知道
 
@@ -154,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50
 
 ---
 
-### 6. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+### 7. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56
 
 ---
 
-### 7. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
+### 8. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
 **播客名称**: 乱翻书
 
@@ -208,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56
 
 ---
 
-### 8. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
+### 9. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56ff398ff8/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsKzkBR6O8TbV72kQMabFOqWh1A4.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,22 +255,22 @@ https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56ff398ff8/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsKzkBR6O8TbV72kQMabFOqWh1A4.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 296 韩国医美体验记：不管医美水有多深 这片产业海是真蓝
+### 10. 494 张诗坪谈战争史视角下的秦末汉初混战
 
-**播客名称**: 东亚观察局
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8728361352af56ff397213/media.xyzcdn.net/5e9a4e25418a84a046bc6156/luWDpJX-gygyUJQwnzEYyEZgKcFg.m4a
-```
-
-</details>
-
----
-
-### 10. DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a
 ```
 
 </details>
