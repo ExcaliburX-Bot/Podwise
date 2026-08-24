@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-24 01:11  
+> 📅 **更新时间**: 2026-08-24 06:55  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 206: Somewhere in the Arabian Sea
+### 2. 第3121期:The 200th anniversary of the U.S. Botanic Garden
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOTdxsAA5EPQTEHgnY.m4a?channel=rss&album_id=14812466&track_id=1005412983&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b8de-audiofreehighqps/FF/EE/GKwRIJIOTdxsAA5EPQTEHgnY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 206: Somewhere in the Arabian Sea
 
 **播客**: This American Life
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+### 4. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -42,12 +55,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljW_dMOCRyibLF0k3Rkz8EoNKQOx.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsOm1TJWT72P9pWiRYCS0-V833Nt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
+### 5. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
 
 **播客**: AI炼金术
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 肖骏：请在《22:22》进入我的生活与幻想
+### 6. 肖骏：请在《22:22》进入我的生活与幻想
 
 **播客**: 周末变奏 Key Change
 
@@ -69,19 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 145 ✪ 改嫁中资的餐饮洋品牌
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep145.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,15 +112,15 @@
 
 ---
 
-### 9. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+### 9. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
-**播客**: 知行小酒馆
+**播客**: 乱翻书
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-24 01:11:37
+> 📅 生成时间: 2026-08-24 06:55:04
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8af37aef65145d
 
 ---
 
-### 2. 206: Somewhere in the Arabian Sea
+### 2. 第3121期:The 200th anniversary of the U.S. Botanic Garden
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOTdxsAA5EPQTEHgnY.m4a?channel=rss&album_id=14812466&track_id=1005412983&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b8de-audiofreehighqps/FF/EE/GKwRIJIOTdxsAA5EPQTEHgnY.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOTdxsAA5EPQTEHgnY.m4a?channel=rss&album_id=14812466&track_id=1005412983&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b8de-audiofreehighqps/FF/EE/GKwRIJIOTdxsAA5EPQTEHgnY.m4a
+```
+
+</details>
+
+---
+
+### 3. 206: Somewhere in the Arabian Sea
 
 **播客名称**: This American Life
 
@@ -73,7 +100,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 3. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+### 4. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -81,7 +108,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljW_dMOCRyibLF0k3Rkz8EoNKQOx.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsOm1TJWT72P9pWiRYCS0-V833Nt.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +120,14 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/ljW_dMOCRyibLF0k3Rkz8EoNKQOx.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsOm1TJWT72P9pWiRYCS0-V833Nt.m4a
 ```
 
 </details>
 
 ---
 
-### 4. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
+### 5. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
 
 **播客名称**: AI炼金术
 
@@ -127,7 +154,7 @@ https://jt.ximalaya.com//GKwRIRwOX3ZAAly1jQTK0bQw.m4a?channel=rss&album_id=74194
 
 ---
 
-### 5. 肖骏：请在《22:22》进入我的生活与幻想
+### 6. 肖骏：请在《22:22》进入我的生活与幻想
 
 **播客名称**: 周末变奏 Key Change
 
@@ -148,33 +175,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1u
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3
-```
-
-</details>
-
----
-
-### 6. 145 ✪ 改嫁中资的餐饮洋品牌
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep145.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep145.mp3
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50
 
 ---
 
-### 9. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+### 9. 271.唐朝都要不存在了？为什么伪史论会在今年大爆发？
 
-**播客名称**: 知行小酒馆
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +255,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a87c3f51352af56ff3999b8/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/ll7Uv6PJHRMqjf5ZXUg5g1x43aNc.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a
 ```
 
 </details>
