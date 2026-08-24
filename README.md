@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-23 18:26  
+> 📅 **更新时间**: 2026-08-24 01:11  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+### 1. 未竟的花道、骤然的离去与日本战后政治的坐标【安倍晋三“大研究”④】
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8af37aef65145dfcc4098f/media.xyzcdn.net/FoWfJrBe2oovP08mLUoHI07g5xVF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 206: Somewhere in the Arabian Sea
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -21,20 +47,7 @@
 
 ---
 
-### 2. 第3120期:Americans pay tribute to Ruth Bader Ginsburg.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOTMkVABJIJATD0C3B.m4a?channel=rss&album_id=14812466&track_id=1005298210&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/39fb-audiofreehighqps/CD/CC/GKwRIJIOTMkVABJIJATD0C3B.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
+### 4. AI 原生组织转型 01：用 AI 对齐事实、对齐打法
 
 **播客**: AI炼金术
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 肖骏：请在《22:22》进入我的生活与幻想
+### 5. 肖骏：请在《22:22》进入我的生活与幻想
 
 **播客**: 周末变奏 Key Change
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 145 ✪ 改嫁中资的餐饮洋品牌
+### 6. 145 ✪ 改嫁中资的餐饮洋品牌
 
 **播客**: 疯投圈
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Who decides what big box sells? Our GAME got us answers
+### 7. Who decides what big box sells? Our GAME got us answers
 
 **播客**: Planet Money
 
@@ -86,7 +99,20 @@
 
 ---
 
-### 7. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
+### 8. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. E248 从 QQ 空间到苹果设计大奖：一个非典型设计师的成长之路
 
 **播客**: 知行小酒馆
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. No.215 🚘 华为不造车，鸿蒙智行到底是什么？
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a87b8021352af56ff398ff8/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsKzkBR6O8TbV72kQMabFOqWh1A4.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 494 张诗坪谈战争史视角下的秦末汉初混战
+### 10. 494 张诗坪谈战争史视角下的秦末汉初混战
 
 **播客**: 忽左忽右
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a881352ef65145dfcc323d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrc9hn-yRw9lKWUJL65UMmq_QYkJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. S8 Vol.21 快音李岩：谁在决定你听到的新歌？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OXCr8ASkGuATJXnYZ.m4a?channel=rss&album_id=20119986&track_id=1007402368&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/d7d6-audiofreehighqps/89/AA/GKwRIW4OXCr8ASkGuATJXnYZ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
