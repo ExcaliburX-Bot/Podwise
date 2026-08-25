@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-24 18:37  
+> 📅 **更新时间**: 2026-08-25 01:10  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
+### 1. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887212&track_id=1008247757&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cdff-audiofreehighqps/89/4A/GKwRIMAOYWPmAycMmATLdgrV.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
+### 3. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
 
 **播客**: 屠龙之术
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. vol.265别人的幸运是中彩票，我的幸运是没迟到
+### 4. vol.265别人的幸运是中彩票，我的幸运是没迟到
 
 **播客**: 正经叭叭
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
+### 5. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -55,12 +68,25 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145dfcc4b886/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsMnofyVvDeJE9pqBZmtH9bo0SkI.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145dfcc4b886/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnkEFuz4yrdfC5FYDe-P3JPcziJa.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 未竟的花道、骤然的离去与日本战后政治的坐标【安倍晋三“大研究”④】
+### 6. XMind Mango：分活，分圈，分钱，搞 AI
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOYcmIAl2AMwTLt_PQ.m4a?channel=rss&album_id=74194808&track_id=1008316536&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/b685-audiofreehighqps/AA/03/GKwRIJIOYcmIAl2AMwTLt_PQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 未竟的花道、骤然的离去与日本战后政治的坐标【安倍晋三“大研究”④】
 
 **播客**: 东亚观察局
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 206: Somewhere in the Arabian Sea
+### 8. 206: Somewhere in the Arabian Sea
 
 **播客**: This American Life
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+### 9. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 肖骏：请在《22:22》进入我的生活与幻想
+### 10. 肖骏：请在《22:22》进入我的生活与幻想
 
 **播客**: 周末变奏 Key Change
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Who decides what big box sells? Our GAME got us answers
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/9130f48d-4fd4-444e-b120-02f86c0e2cf5/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=9130f48d-4fd4-444e-b120-02f86c0e2cf5&feed=hvWWWzRv&t=podcast&e=nx-s1-5940897&p=510289&d=2278&size=36461592)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 宇树上市震荡，机器人商业化还需要更大的想象力｜S10E26
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/4a50d4a3-a6ff-4c89-b754-367b73ce924b.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
