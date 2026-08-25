@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-25 01:10:12
+> 📅 生成时间: 2026-08-25 06:43:01
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+### 1. 第3122期:Starmer pressures Putin for peace
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIOTd1uAAtXVgTEHoe7.m4a?channel=rss&album_id=14812466&track_id=1005413514&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d64c-audiofreehighqps/57/80/GKwRIaIOTd1uAAtXVgTEHoe7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIOTd1uAAtXVgTEHoe7.m4a?channel=rss&album_id=14812466&track_id=1005413514&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d64c-audiofreehighqps/57/80/GKwRIaIOTd1uAAtXVgTEHoe7.m4a
+```
+
+</details>
+
+---
+
+### 2. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
 
 **播客名称**: 文化有限
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887
 
 ---
 
-### 2. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
+### 3. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
 
 **播客名称**: Vibration 歪波音室
 
@@ -73,7 +100,7 @@ https://tk.wavpub.com/WPTK_AGpzv2Gb8LMWuXQW-dd9bb39415e5.mp3
 
 ---
 
-### 3. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
+### 4. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
 
 **播客名称**: 屠龙之术
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a89cfbe1352af56
 
 ---
 
-### 4. vol.265别人的幸运是中彩票，我的幸运是没迟到
+### 5. vol.265别人的幸运是中彩票，我的幸运是没迟到
 
 **播客名称**: 正经叭叭
 
@@ -108,7 +135,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a89cfbe1352af56
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56ff3b5b1e/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhc-WBbKfRf_-_dumMV4yZ5X-gPY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56ff3b5b1e/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr_1rH3ttlvK-SfFMDMTOR0_5s15.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56ff3b5b1e/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lhc-WBbKfRf_-_dumMV4yZ5X-gPY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56ff3b5b1e/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr_1rH3ttlvK-SfFMDMTOR0_5s15.m4a
 ```
 
 </details>
 
 ---
 
-### 5. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
+### 6. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145dfcc4b886/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnkEFuz4yrdfC5FYDe-P3JPcziJa.m4a
-```
-
-</details>
-
----
-
-### 6. XMind Mango：分活，分圈，分钱，搞 AI
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOYcmIAl2AMwTLt_PQ.m4a?channel=rss&album_id=74194808&track_id=1008316536&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/b685-audiofreehighqps/AA/03/GKwRIJIOYcmIAl2AMwTLt_PQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOYcmIAl2AMwTLt_PQ.m4a?channel=rss&album_id=74194808&track_id=1008316536&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/b685-audiofreehighqps/AA/03/GKwRIJIOYcmIAl2AMwTLt_PQ.m4a
 ```
 
 </details>
