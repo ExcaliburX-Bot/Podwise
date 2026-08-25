@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-25 06:43:01
+> 📅 生成时间: 2026-08-25 12:43:17
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3122期:Starmer pressures Putin for peace
+### 1. 102.对话曲家瑞：出门前我告诉自己，It's showtime
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
+```
+
+</details>
+
+---
+
+### 2. 495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3122期:Starmer pressures Putin for peace
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +100,7 @@ https://jt.ximalaya.com//GKwRIaIOTd1uAAtXVgTEHoe7.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+### 4. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
 
 **播客名称**: 文化有限
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887
 
 ---
 
-### 3. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
+### 5. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +154,7 @@ https://tk.wavpub.com/WPTK_AGpzv2Gb8LMWuXQW-dd9bb39415e5.mp3
 
 ---
 
-### 4. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
+### 6. 中国一级半市场的水下江湖（5年-183期-5032条交易线索）
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a89cfbe1352af56
 
 ---
 
-### 5. vol.265别人的幸运是中彩票，我的幸运是没迟到
+### 7. vol.265别人的幸运是中彩票，我的幸运是没迟到
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a8c5eb01352af56
 
 ---
 
-### 6. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
+### 8. Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145d
 
 ---
 
-### 7. 未竟的花道、骤然的离去与日本战后政治的坐标【安倍晋三“大研究”④】
+### 9. 未竟的花道、骤然的离去与日本战后政治的坐标【安倍晋三“大研究”④】
 
 **播客名称**: 东亚观察局
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a8af37aef65145d
 
 ---
 
-### 8. 206: Somewhere in the Arabian Sea
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/dcc04146-548e-4a57-826b-d653088ec4e2/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=dcc04146-548e-4a57-826b-d653088ec4e2&nocache
-```
-
-</details>
-
----
-
-### 9. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
+### 10. 22 岁的具身 CEO、5 轮融资、过亿美元、“不知天有多高”、“一年吃了十年的苦”｜对谈黄一：萝博派对创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145d
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a8aab34ef65145dfcc3ea11/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsOm1TJWT72P9pWiRYCS0-V833Nt.m4a
-```
-
-</details>
-
----
-
-### 10. 肖骏：请在《22:22》进入我的生活与幻想
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA2MSwidCI6MX0.LhBlkudLwQ43QP0b9VmTk1uN8EE/keychangefm/8212620400_720023.mp3
 ```
 
 </details>
