@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-26 12:49:04
+> 📅 生成时间: 2026-08-26 19:45:44
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/5876
 
 ---
 
-### 2. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
+### 2. 当战争不再是反常，当胜利不再被想象 | 随机波动175
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/d5a4767d-0c97-4f52-aad3-bc8a0da3166a.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/d5a4767d-0c97-4f52-aad3-bc8a0da3166a.mp3
+```
+
+</details>
+
+---
+
+### 3. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a8e56df1352af56
 
 ---
 
-### 3. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
+### 4. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8eadd61352af56
 
 ---
 
-### 4. The continent nobody owns & everyone benefits from (Summer School)
+### 5. The continent nobody owns & everyone benefits from (Summer School)
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 235. 对话爱丁堡艺穗节CEO Tony，一个“不控制内容”的商业奇迹，如何连接全球艺术生态？
+### 6. 235. 对话爱丁堡艺穗节CEO Tony，一个“不控制内容”的商业奇迹，如何连接全球艺术生态？
 
 **播客名称**: 贝望录
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d41301352af56
 
 ---
 
-### 6. 第3123期:US astronauts stranded for 9 months set to return to Earth
+### 7. 第3123期:US astronauts stranded for 9 months set to return to Earth
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -175,33 +202,6 @@ https://jt.ximalaya.com//GKwRIRwOTd6lABSoEQTEHyXh.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwOTd6lABSoEQTEHyXh.m4a?channel=rss&album_id=14812466&track_id=1005414325&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d19c-audiofreehighqps/A0/E4/GKwRIRwOTd6lABSoEQTEHyXh.m4a
-```
-
-</details>
-
----
-
-### 7. 具身智能的“山寨机时代”：亲历2026世界机器人大会，我们的48个观察-Vol 104
-
-**播客名称**: 脑放电波
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a8db6191352af56ff3bf58a/media.xyzcdn.net/636669d51064cb55f31505fc/lgdPAeI5fKMXpT8v5vB8setaraJZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a8db6191352af56ff3bf58a/media.xyzcdn.net/636669d51064cb55f31505fc/lgdPAeI5fKMXpT8v5vB8setaraJZ.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8db32d1352af56
 
 ---
 
-### 9. Vol.349 也许你该找个人聊聊：说出痛苦，获得勇气
+### 9. 102.对话曲家瑞：出门前我告诉自己，It's showtime
 
-**播客名称**: 文化有限
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887212&track_id=1008247757&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cdff-audiofreehighqps/89/4A/GKwRIMAOYWPmAycMmATLdgrV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIMAOYWPmAycMmATLdgrV.m4a?channel=rss&album_id=29887212&track_id=1008247757&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cdff-audiofreehighqps/89/4A/GKwRIMAOYWPmAycMmATLdgrV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 神专系列丨Lauryn Hill：谁给了我们这场「错误教育」？
+### 10. 495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPTK_AGpzv2Gb8LMWuXQW-dd9bb39415e5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://tk.wavpub.com/WPTK_AGpzv2Gb8LMWuXQW-dd9bb39415e5.mp3
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPTK_AGpzv2Gb8LMWuXQW-dd9bb39415e5.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
 ```
 
 </details>
