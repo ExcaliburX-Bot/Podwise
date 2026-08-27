@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-27T07:25:46.370479",
+  "generated_at": "2026-08-27T21:48:14.717503",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "AI 原生组织转型 02：用 AI 推进流程、闭环迭代",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 2,
       "title": "第3124期:Which English accent is the oldest?",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwOVZSPABQ58QTG6fO3.m4a?channel=rss&album_id=14812466&track_id=1006525634&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2756-audiofreehighqps/A6/51/GKwRIRwOVZSPABQ58QTG6fO3.m4a",
@@ -23,7 +13,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a",
@@ -33,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！",
       "podcast": "搞钱女孩",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a",
@@ -43,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "一个中国 FDE 的光环、落差与「救火」日常 | S10E27",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/587619bb-62c2-485d-9f27-f0be0115a986.mp3",
@@ -53,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "当战争不再是反常，当胜利不再被想象 | 随机波动175",
       "podcast": "随机波动StochasticVolatility",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/d5a4767d-0c97-4f52-aad3-bc8a0da3166a.mp3",
@@ -63,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a8e56df1352af56ff3c1fe6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lkoq98I3tlkiERJHtVvwcn396Bgg.m4a",
@@ -73,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
       "podcast": "张小珺Jùn｜商业访谈录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8eadd61352af56ff3c6017/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lrVnGxoafcZ7vzH8HywULkwNb6n6.m4a",
@@ -83,10 +73,20 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "The continent nobody owns & everyone benefits from (Summer School)",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
+      "title": "具身智能的“山寨机时代”：亲历2026世界机器人大会，我们的48个观察-Vol 104",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a8db6191352af56ff3bf58a/media.xyzcdn.net/636669d51064cb55f31505fc/lgdPAeI5fKMXpT8v5vB8setaraJZ.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

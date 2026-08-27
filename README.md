@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-27 07:25  
+> 📅 **更新时间**: 2026-08-27 21:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI 原生组织转型 02：用 AI 推进流程、闭环迭代
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第3124期:Which English accent is the oldest?
+### 1. 第3124期:Which English accent is the oldest?
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+### 2. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
 
 **播客**: 贝望录
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
+### 3. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
 
 **播客**: 搞钱女孩
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 一个中国 FDE 的光环、落差与「救火」日常 | S10E27
+### 4. 一个中国 FDE 的光环、落差与「救火」日常 | S10E27
 
 **播客**: What's Next｜科技早知道
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 当战争不再是反常，当胜利不再被想象 | 随机波动175
+### 5. 当战争不再是反常，当胜利不再被想象 | 随机波动175
 
 **播客**: 随机波动StochasticVolatility
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
+### 6. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
+### 7. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. The continent nobody owns & everyone benefits from (Summer School)
+### 8. The continent nobody owns & everyone benefits from (Summer School)
 
 **播客**: Planet Money
 
@@ -121,6 +108,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13c82386-c3fe-4d77-ada1-b2fd72596278/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13c82386-c3fe-4d77-ada1-b2fd72596278&feed=hvWWWzRv&t=podcast&e=nx-s1-5943609&p=510289&d=2444&size=39106438)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 具身智能的“山寨机时代”：亲历2026世界机器人大会，我们的48个观察-Vol 104
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a8db6191352af56ff3bf58a/media.xyzcdn.net/636669d51064cb55f31505fc/lgdPAeI5fKMXpT8v5vB8setaraJZ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
