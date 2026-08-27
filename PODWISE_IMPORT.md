@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-26 19:45:44
+> 📅 生成时间: 2026-08-27 07:25:46
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,115 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 一个中国 FDE 的光环、落差与「救火」日常 | S10E27
+### 1. AI 原生组织转型 02：用 AI 推进流程、闭环迭代
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3124期:Which English accent is the oldest?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOVZSPABQ58QTG6fO3.m4a?channel=rss&album_id=14812466&track_id=1006525634&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2756-audiofreehighqps/A6/51/GKwRIRwOVZSPABQ58QTG6fO3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOVZSPABQ58QTG6fO3.m4a?channel=rss&album_id=14812466&track_id=1006525634&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2756-audiofreehighqps/A6/51/GKwRIRwOVZSPABQ58QTG6fO3.m4a
+```
+
+</details>
+
+---
+
+### 3. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
+```
+
+</details>
+
+---
+
+### 4. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a
+```
+
+</details>
+
+---
+
+### 5. 一个中国 FDE 的光环、落差与「救火」日常 | S10E27
 
 **播客名称**: What's Next｜科技早知道
 
@@ -46,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/5876
 
 ---
 
-### 2. 当战争不再是反常，当胜利不再被想象 | 随机波动175
+### 6. 当战争不再是反常，当胜利不再被想象 | 随机波动175
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -73,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/d5a4
 
 ---
 
-### 3. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
+### 7. No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a8e56df1352af56
 
 ---
 
-### 4. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
+### 8. 152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -127,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8eadd61352af56
 
 ---
 
-### 5. The continent nobody owns & everyone benefits from (Summer School)
+### 9. The continent nobody owns & everyone benefits from (Summer School)
 
 **播客名称**: Planet Money
 
@@ -154,61 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 235. 对话爱丁堡艺穗节CEO Tony，一个“不控制内容”的商业奇迹，如何连接全球艺术生态？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d41301352af56ff3bb19f/media.xyzcdn.net/5e285856418a84a04627b7be/lj6jwSxfF6DRnqHW4Hj7gcAfwUdX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d41301352af56ff3bb19f/media.xyzcdn.net/5e285856418a84a04627b7be/lj6jwSxfF6DRnqHW4Hj7gcAfwUdX.m4a
-```
-
-</details>
-
----
-
-### 7. 第3123期:US astronauts stranded for 9 months set to return to Earth
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOTd6lABSoEQTEHyXh.m4a?channel=rss&album_id=14812466&track_id=1005414325&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d19c-audiofreehighqps/A0/E4/GKwRIRwOTd6lABSoEQTEHyXh.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOTd6lABSoEQTEHyXh.m4a?channel=rss&album_id=14812466&track_id=1005414325&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/d19c-audiofreehighqps/A0/E4/GKwRIRwOTd6lABSoEQTEHyXh.m4a
-```
-
-</details>
-
----
-
-### 8. No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
+### 10. No.231 抽象仔：从《航拍中国》到《新鸳鸯蝴蝶梦》，重新用 AI 学习互联网表达
 
 **播客名称**: 三五环
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8db32d1352af56
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a8db32d1352af56ff3bf384/media.xyzcdn.net/5e280fab418a84a0461faa3c/ltwaQVOBk5IkTHx42p4Ij0OB1gRA.m4a
-```
-
-</details>
-
----
-
-### 9. 102.对话曲家瑞：出门前我告诉自己，It's showtime
-
-**播客名称**: 展开讲讲
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a8d72051352af56ff3bd280/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lkpVUvSXF0ZHyvdS2KWCqmh9vhXw.m4a
-```
-
-</details>
-
----
-
-### 10. 495 陆大鹏谈莎士比亚戏剧与英国历史的互相影响
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a8d2078ef65145dfcc4f6d5/media.xyzcdn.net/5e4ee557418a84a0466737b7/lthQTLI5T6jSfN38mjTITZpOq3Oo.m4a
 ```
 
 </details>
