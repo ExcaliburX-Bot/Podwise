@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-29 12:19:51
+> 📅 生成时间: 2026-08-29 20:26:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 草间弥生：精神病院、波点和AI | 温柔人类EP.42
+### 1. OPC 已经凉了，FDE 会有光明的未来么？
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a
+```
+
+</details>
+
+---
+
+### 2. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a
+```
+
+</details>
+
+---
+
+### 3. 草间弥生：精神病院、波点和AI | 温柔人类EP.42
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -46,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a91e647a0210c19
 
 ---
 
-### 2. 第3126期:All-Black towns in Oklahoma
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOVZtkAB6XZQTG7HNe.m4a?channel=rss&album_id=14812466&track_id=1006529318&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4b32-audiofreehighqps/F9/4A/GKwRIJEOVZtkAB6XZQTG7HNe.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOVZtkAB6XZQTG7HNe.m4a?channel=rss&album_id=14812466&track_id=1006529318&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4b32-audiofreehighqps/F9/4A/GKwRIJEOVZtkAB6XZQTG7HNe.m4a
-```
-
-</details>
-
----
-
-### 3. Branded fruit: How produce got “Honeycrisp-ified"
+### 4. Branded fruit: How produce got “Honeycrisp-ified"
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. E249 对话叶檀：我不再是人生的过道人
+### 5. E249 对话叶檀：我不再是人生的过道人
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c19
 
 ---
 
-### 5. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 6. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客名称**: 忽左忽右
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee6b013d4a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lu8PaWNKiSeLmmrgubrEy4pq-4fw.m4a
-```
-
-</details>
-
----
-
-### 6. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56ff3cfc08/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lhOQ4Yn647067krdkrYSu6M4ZeQl.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56ff3cfc08/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lhOQ4Yn647067krdkrYSu6M4ZeQl.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. AI 原生组织转型 02：用 AI 推进流程、闭环迭代
+### 9. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
-**播客名称**: AI炼金术
+**播客名称**: 硅谷101
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4OZXQRAVR6HgTNTKOe.m4a?channel=rss&album_id=74194808&track_id=1009009150&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/5327-audiofreehighqps/C4/DA/GKwRIW4OZXQRAVR6HgTNTKOe.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3
 ```
 
 </details>
 
 ---
 
-### 10. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+### 10. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
 
-**播客名称**: 贝望录
+**播客名称**: 搞钱女孩
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145d
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a
 ```
 
 </details>
