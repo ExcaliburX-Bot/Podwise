@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-29 05:44  
+> 📅 **更新时间**: 2026-08-29 12:19  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,7 +34,20 @@
 
 ---
 
-### 3. E249 对话叶檀：我不再是人生的过道人
+### 3. Branded fruit: How produce got “Honeycrisp-ified"
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fff38693-3604-44da-8dc9-ab7e184d7b6e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fff38693-3604-44da-8dc9-ab7e184d7b6e&feed=hvWWWzRv&t=podcast&e=nx-s1-5947931&p=510289&d=2023&size=32371025)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E249 对话叶檀：我不再是人生的过道人
 
 **播客**: 知行小酒馆
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 5. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客**: 忽左忽右
 
@@ -60,20 +73,20 @@
 
 ---
 
-### 5. S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？
+### 6. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56ff3cfc08/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lhOQ4Yn647067krdkrYSu6M4ZeQl.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
+### 7. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
 
 **播客**: 东亚观察局
 
@@ -86,7 +99,20 @@
 
 ---
 
-### 7. AI 原生组织转型 02：用 AI 推进流程、闭环迭代
+### 8. S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. AI 原生组织转型 02：用 AI 推进流程、闭环迭代
 
 **播客**: AI炼金术
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+### 10. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
 
 **播客**: 贝望录
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 一个中国 FDE 的光环、落差与「救火」日常 | S10E27
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/587619bb-62c2-485d-9f27-f0be0115a986.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
