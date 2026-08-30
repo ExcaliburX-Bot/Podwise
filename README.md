@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-29 20:26  
+> 📅 **更新时间**: 2026-08-30 03:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. OPC 已经凉了，FDE 会有光明的未来么？
+### 1. 第3127期:Self-sufficiency in the garden
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOVZ54ABWhtATG7Z48.m4a?channel=rss&album_id=14812466&track_id=1006530757&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2549-audiofreehighqps/69/51/GKwRIJEOVZ54ABWhtATG7Z48.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. OPC 已经凉了，FDE 会有光明的未来么？
 
 **播客**: AI炼金术
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
+### 3. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
 
 **播客**: 42章经
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 草间弥生：精神病院、波点和AI | 温柔人类EP.42
+### 4. 草间弥生：精神病院、波点和AI | 温柔人类EP.42
 
 **播客**: 温柔人类 GentleHuman
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. Branded fruit: How produce got “Honeycrisp-ified"
+### 5. Branded fruit: How produce got “Honeycrisp-ified"
 
 **播客**: Planet Money
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. E249 对话叶檀：我不再是人生的过道人
+### 6. E249 对话叶檀：我不再是人生的过道人
 
 **播客**: 知行小酒馆
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 7. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客**: 忽左忽右
 
@@ -86,7 +99,20 @@
 
 ---
 
-### 7. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
+### 8. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56ff3cfc08/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lhOQ4Yn647067krdkrYSu6M4ZeQl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
 
 **播客**: 东亚观察局
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
+### 10. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
 **播客**: 硅谷101
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
