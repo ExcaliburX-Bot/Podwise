@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-30 11:18  
+> 📅 **更新时间**: 2026-08-30 16:05  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+### 1. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 
 **播客**: Planet Money
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
+### 3. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
 
 **播客**: 温柔人类 GentleHuman
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee6b01ff82/media.xyzcdn.net/5e280fac418a84a0461fafc9/lmOHBuSnjcLxf2oJy9F8Lg7bfxrL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3127期:Self-sufficiency in the garden
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOVZ54ABWhtATG7Z48.m4a?channel=rss&album_id=14812466&track_id=1006530757&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2549-audiofreehighqps/69/51/GKwRIJEOVZ54ABWhtATG7Z48.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,20 +60,7 @@
 
 ---
 
-### 5. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. E249 对话叶檀：我不再是人生的过道人
+### 5. E249 对话叶檀：我不再是人生的过道人
 
 **播客**: 知行小酒馆
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 6. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客**: 忽左忽右
 
@@ -95,6 +82,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee6b013d4a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lu8PaWNKiSeLmmrgubrEy4pq-4fw.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56ff3cfc08/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lhOQ4Yn647067krdkrYSu6M4ZeQl.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+### 10. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
-**播客**: 贝望录
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
