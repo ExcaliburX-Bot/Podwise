@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-30 20:36  
+> 📅 **更新时间**: 2026-08-31 03:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+### 1. 第3128期:Former Philippine President Duterte detained
 
-**播客**: Vibration 歪波音室
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOVugfABEK9ATHWSIR.m4a?channel=rss&album_id=14812466&track_id=1006672128&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a84-audiofreehighqps/2E/45/GKwRIRwOVugfABEK9ATHWSIR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
+### 2. 896: I Know What You Need
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
+### 4. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
 
 **播客**: Planet Money
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
+### 5. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
 
 **播客**: 温柔人类 GentleHuman
 
@@ -60,33 +73,7 @@
 
 ---
 
-### 5. 第3127期:Self-sufficiency in the garden
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOVZ54ABWhtATG7Z48.m4a?channel=rss&album_id=14812466&track_id=1006530757&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2549-audiofreehighqps/69/51/GKwRIJEOVZ54ABWhtATG7Z48.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. OPC 已经凉了，FDE 会有光明的未来么？
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
+### 6. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
 
 **播客**: 42章经
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. E249 对话叶檀：我不再是人生的过道人
+### 7. E249 对话叶檀：我不再是人生的过道人
 
 **播客**: 知行小酒馆
 
@@ -108,6 +95,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c197dc98747/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/li8lFK6AYG48zk63bPnH4QtKmn9X.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee6b013d4a/media.xyzcdn.net/5e4ee557418a84a0466737b7/lu8PaWNKiSeLmmrgubrEy4pq-4fw.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
+### 10. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
-**播客**: 东亚观察局
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a9055bbef65145dfcc67b1c/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvVD9uRn0jj19nJ-IL8KTGxXZYEH.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
