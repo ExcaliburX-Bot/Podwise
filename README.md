@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-08-31 03:48  
+> 📅 **更新时间**: 2026-08-31 12:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3128期:Former Philippine President Duterte detained
+### 1. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3128期:Former Philippine President Duterte detained
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. 896: I Know What You Need
+### 3. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 896: I Know What You Need
 
 **播客**: This American Life
 
@@ -30,32 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56ff3d48af/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,33 +73,20 @@
 
 ---
 
-### 6. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
+### 6. OPC 已经凉了，FDE 会有光明的未来么？
 
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. E249 对话叶檀：我不再是人生的过道人
-
-**播客**: 知行小酒馆
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c197dc98747/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/li8lFK6AYG48zk63bPnH4QtKmn9X.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 7. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客**: 忽左忽右
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
+### 8. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
 
 **播客**: 沈奕斐的播客
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
+### 9. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
 **播客**: 硅谷101
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
