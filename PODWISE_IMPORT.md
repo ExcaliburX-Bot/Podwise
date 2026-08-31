@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-08-31 12:46:21
+> 📅 生成时间: 2026-08-31 22:29:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,61 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a
-```
-
-</details>
-
----
-
-### 2. 第3128期:Former Philippine President Duterte detained
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOVugfABEK9ATHWSIR.m4a?channel=rss&album_id=14812466&track_id=1006672128&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a84-audiofreehighqps/2E/45/GKwRIRwOVugfABEK9ATHWSIR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOVugfABEK9ATHWSIR.m4a?channel=rss&album_id=14812466&track_id=1006672128&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1a84-audiofreehighqps/2E/45/GKwRIRwOVugfABEK9ATHWSIR.m4a
-```
-
-</details>
-
----
-
-### 3. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+### 1. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,15 +46,15 @@ https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3
 
 ---
 
-### 4. 896: I Know What You Need
+### 2. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
 
-**播客名称**: This American Life
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56ff3d48af/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +66,14 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/caceec36-6b90-47bf-82f3-0913de8f51ee/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=caceec36-6b90-47bf-82f3-0913de8f51ee&nocache
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56ff3d48af/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
+### 3. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -154,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee
 
 ---
 
-### 6. OPC 已经凉了，FDE 会有光明的未来么？
+### 4. OPC 已经凉了，FDE 会有光明的未来么？
 
 **播客名称**: AI炼金术
 
@@ -181,7 +127,34 @@ https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
+### 5. E249 对话叶檀：我不再是人生的过道人
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c197dc98747/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/li8lFK6AYG48zk63bPnH4QtKmn9X.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9128d7a0210c197dc98747/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/li8lFK6AYG48zk63bPnH4QtKmn9X.m4a
+```
+
+</details>
+
+---
+
+### 6. 496 移民潮背后的休达：从古典时代蛮族渡海、伊比利亚「收复失地运动」到葡萄牙大航海
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a914f40f03e74ee
 
 ---
 
-### 8. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
+### 7. 267.火车“两人三座”争议：公共场合拍摄有边界吗？未成年人隐私如何保护？
 
 **播客名称**: 沈奕斐的播客
 
@@ -235,7 +208,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a9011501352af56
 
 ---
 
-### 9. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
+### 8. 297 东观变身罪案播客：从两起命案看韩国社会是否还安全
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a9055bbef65145dfcc67b1c/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvVD9uRn0jj19nJ-IL8KTGxXZYEH.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a9055bbef65145dfcc67b1c/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvVD9uRn0jj19nJ-IL8KTGxXZYEH.m4a
+```
+
+</details>
+
+---
+
+### 9. S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a
+```
+
+</details>
+
+---
+
+### 10. E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破
 
 **播客名称**: 硅谷101
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a6
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3
-```
-
-</details>
-
----
-
-### 10. 236. 一个中国舞团第一次“出海”爱丁堡，如何在4600多场演出中被看见？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a8d8efcef65145dfcc53adc/media.xyzcdn.net/5e285856418a84a04627b7be/lvAq4OfCMJCDWVlXCLDdU1_SL_IB.m4a
 ```
 
 </details>
