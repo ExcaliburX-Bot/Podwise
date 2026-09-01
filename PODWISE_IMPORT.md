@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-01 11:08:49
+> 📅 生成时间: 2026-09-01 16:06:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
+### 1. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee6b02d5bf/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljPrsLmnwZmJWaF73MHJbqJXuFy2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee6b02d5bf/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljPrsLmnwZmJWaF73MHJbqJXuFy2.m4a
+```
+
+</details>
+
+---
+
+### 2. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a
+```
+
+</details>
+
+---
+
+### 3. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
 
 **播客名称**: AI产品经理 Global
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a9691a0a0210c19
 
 ---
 
-### 2. 第3129期:South Korean President Yoon Suk-yeol was released.
+### 4. 第3129期:South Korean President Yoon Suk-yeol was released.
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +127,61 @@ https://jt.ximalaya.com//GKwRIJEOVusOAA5tWwTHWn5E.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. vol.266 八月走了，牛来了
+### 5. 八月广播电视报：怎么所有人的青铜时代都在崩溃
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a95779cf03e74ee6b02c0fe/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lgtTlRo6UbYBSVl97iwh95u-F3U5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a95779cf03e74ee6b02c0fe/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lgtTlRo6UbYBSVl97iwh95u-F3U5.m4a
+```
+
+</details>
+
+---
+
+### 6. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOapxPAz2h0wTPhrfr.m4a?channel=rss&album_id=29887212&track_id=1009890178&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/9374-audiofreehighqps/A4/FD/GKwRIDoOapxPAz2h0wTPhrfr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOapxPAz2h0wTPhrfr.m4a?channel=rss&album_id=29887212&track_id=1009890178&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/9374-audiofreehighqps/A4/FD/GKwRIDoOapxPAz2h0wTPhrfr.m4a
+```
+
+</details>
+
+---
+
+### 7. vol.266 八月走了，牛来了
 
 **播客名称**: 正经叭叭
 
@@ -100,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a958c88a0210c19
 
 ---
 
-### 4. 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
+### 8. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
 
-**播客名称**: 疯投圈
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep146.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +228,14 @@ https://rio.xyzcdn.net/crazycapital/ep146.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep146.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+### 9. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
 
 **播客名称**: Vibration 歪波音室
 
@@ -154,7 +262,7 @@ https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3
 
 ---
 
-### 6. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
+### 10. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
 
 **播客名称**: 十字路口Crossing
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56ff3d48af/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a
-```
-
-</details>
-
----
-
-### 7. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860
-```
-
-</details>
-
----
-
-### 8. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee6b01ff82/media.xyzcdn.net/5e280fac418a84a0461fafc9/lmOHBuSnjcLxf2oJy9F8Lg7bfxrL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee6b01ff82/media.xyzcdn.net/5e280fac418a84a0461fafc9/lmOHBuSnjcLxf2oJy9F8Lg7bfxrL.m4a
-```
-
-</details>
-
----
-
-### 9. OPC 已经凉了，FDE 会有光明的未来么？
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a
-```
-
-</details>
-
----
-
-### 10. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a
 ```
 
 </details>

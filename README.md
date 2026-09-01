@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-01 11:08  
+> 📅 **更新时间**: 2026-09-01 16:06  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
+### 1. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee6b02d5bf/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljPrsLmnwZmJWaF73MHJbqJXuFy2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
 
 **播客**: AI产品经理 Global
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 第3129期:South Korean President Yoon Suk-yeol was released.
+### 4. 第3129期:South Korean President Yoon Suk-yeol was released.
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +60,33 @@
 
 ---
 
-### 3. vol.266 八月走了，牛来了
+### 5. 八月广播电视报：怎么所有人的青铜时代都在崩溃
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a95779cf03e74ee6b02c0fe/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lgtTlRo6UbYBSVl97iwh95u-F3U5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOapxPAz2h0wTPhrfr.m4a?channel=rss&album_id=29887212&track_id=1009890178&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/9374-audiofreehighqps/A4/FD/GKwRIDoOapxPAz2h0wTPhrfr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. vol.266 八月走了，牛来了
 
 **播客**: 正经叭叭
 
@@ -47,20 +99,20 @@
 
 ---
 
-### 4. 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
+### 8. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
 
-**播客**: 疯投圈
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep146.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
+### 9. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +125,7 @@
 
 ---
 
-### 6. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
+### 10. AI 下半场，不会只剩一个超级模型｜对谈 Kevin Ding：Pyromind 创始人/CEO
 
 **播客**: 十字路口Crossing
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a90fc5e1352af56ff3d48af/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsQ-rKE8nfRBI5xaLGst3A8uncfD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Dolly Parton’s “9 to 5,” the true story behind the anthem (bonus)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/15c8254d-eae7-4f9a-af7a-88c5b68b596e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=15c8254d-eae7-4f9a-af7a-88c5b68b596e&feed=hvWWWzRv&t=podcast&e=nx-s1-5948176&p=510289&d=1374&size=21996860)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43
-
-**播客**: 温柔人类 GentleHuman
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee6b01ff82/media.xyzcdn.net/5e280fac418a84a0461fafc9/lmOHBuSnjcLxf2oJy9F8Lg7bfxrL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. OPC 已经凉了，FDE 会有光明的未来么？
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫
-
-**播客**: 42章经
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
