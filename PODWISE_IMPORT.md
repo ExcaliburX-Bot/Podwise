@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-01 20:35:29
+> 📅 生成时间: 2026-09-02 03:00:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
+### 1. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3
+```
+
+</details>
+
+---
+
+### 2. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3130期:The Pope joins the Vatican spiritual retreat remotely.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOVuz3ABNzsgTHW10F.m4a?channel=rss&album_id=14812466&track_id=1006675379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5039-audiofreehighqps/CF/CC/GKwRIJIOVuz3ABNzsgTHW10F.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOVuz3ABNzsgTHW10F.m4a?channel=rss&album_id=14812466&track_id=1006675379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5039-audiofreehighqps/CF/CC/GKwRIJIOVuz3ABNzsgTHW10F.m4a
+```
+
+</details>
+
+---
+
+### 4. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
 
 **播客名称**: 三五环
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee
 
 ---
 
-### 2. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+### 5. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
 
 **播客名称**: 忽左忽右
 
@@ -73,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c19
 
 ---
 
-### 3. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
-
-**播客名称**: AI产品经理 Global
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a9691a0a0210c197dcba639/media.xyzcdn.net/665dbd0694977a26efeb7a75/ljlscIkZQAGLwIb-cS1AW1y7SWs9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a9691a0a0210c197dcba639/media.xyzcdn.net/665dbd0694977a26efeb7a75/ljlscIkZQAGLwIb-cS1AW1y7SWs9.m4a
-```
-
-</details>
-
----
-
-### 4. 八月广播电视报：怎么所有人的青铜时代都在崩溃
+### 6. 八月广播电视报：怎么所有人的青铜时代都在崩溃
 
 **播客名称**: 展开讲讲
 
@@ -127,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a95779cf03e74ee
 
 ---
 
-### 5. 第3129期:South Korean President Yoon Suk-yeol was released.
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOVusOAA5tWwTHWn5E.m4a?channel=rss&album_id=14812466&track_id=1006674052&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/40ad-audiofreehighqps/30/EF/GKwRIJEOVusOAA5tWwTHWn5E.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOVusOAA5tWwTHWn5E.m4a?channel=rss&album_id=14812466&track_id=1006674052&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/40ad-audiofreehighqps/30/EF/GKwRIJEOVusOAA5tWwTHWn5E.m4a
-```
-
-</details>
-
----
-
-### 6. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
+### 7. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
 
 **播客名称**: 文化有限
 
@@ -181,7 +208,7 @@ https://jt.ximalaya.com//GKwRIDoOapxPAz2h0wTPhrfr.m4a?channel=rss&album_id=29887
 
 ---
 
-### 7. vol.266 八月走了，牛来了
+### 8. vol.266 八月走了，牛来了
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a958c88a0210c19
 
 ---
 
-### 8. 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
+### 9. 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
 
 **播客名称**: 疯投圈
 
@@ -235,7 +262,7 @@ https://rio.xyzcdn.net/crazycapital/ep146.mp3
 
 ---
 
-### 9. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
+### 10. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
 
 **播客名称**: 屠龙之术
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a
-```
-
-</details>
-
----
-
-### 10. 8月新歌推荐丨邹序、陈洁仪、Prince、Sam Smith…都走心了😭
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPTK_lSNyCooRX8yuY4Xb-c6f570252043.mp3
 ```
 
 </details>
