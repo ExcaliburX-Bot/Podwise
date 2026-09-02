@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-02 03:00  
+> 📅 **更新时间**: 2026-09-02 10:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
+### 1. 【随机波动176】人，休想摆脱虫！
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a4b99-d4b4-4030-91e7-65f697316818.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. AI李时珍带你“尝百草”---小宇宙先声活动演讲---91页PPT solo
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a97d6a8f03e74ee6b03d6a6/media.xyzcdn.net/6507bc165c88d2412626b401/lkrkHCmmJuj6B5P5j9wiWwtVmWHL.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,7 +47,20 @@
 
 ---
 
-### 2. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
+### 4. Love in the time of Palantir
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
 
 **播客**: 贝望录
 
@@ -34,20 +73,7 @@
 
 ---
 
-### 3. 第3130期:The Pope joins the Vatican spiritual retreat remotely.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOVuz3ABNzsgTHW10F.m4a?channel=rss&album_id=14812466&track_id=1006675379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5039-audiofreehighqps/CF/CC/GKwRIJIOVuz3ABNzsgTHW10F.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
+### 6. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
 
 **播客**: 三五环
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
+### 7. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
 
 **播客**: 忽左忽右
 
@@ -73,7 +99,20 @@
 
 ---
 
-### 6. 八月广播电视报：怎么所有人的青铜时代都在崩溃
+### 8. 30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白
+
+**播客**: AI产品经理 Global
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6a9691a0a0210c197dcba639/media.xyzcdn.net/665dbd0694977a26efeb7a75/ljlscIkZQAGLwIb-cS1AW1y7SWs9.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 八月广播电视报：怎么所有人的青铜时代都在崩溃
 
 **播客**: 展开讲讲
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
+### 10. Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”
 
 **播客**: 文化有限
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOapxPAz2h0wTPhrfr.m4a?channel=rss&album_id=29887212&track_id=1009890178&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/9374-audiofreehighqps/A4/FD/GKwRIDoOapxPAz2h0wTPhrfr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. vol.266 八月走了，牛来了
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a958c88a0210c197dcb3165/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lknGRiVul_Z_EaiyjKQctyccI3YG.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep146.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 模型到底吃不吃应用？--从 Canva、Figma 到美图， 看 AI 应用公司的两种命运
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a9281bea0210c197dca0307/media.xyzcdn.net/6507bc165c88d2412626b401/lvWVNUcVKtw5sjMhLL2hcpjcHlrR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
