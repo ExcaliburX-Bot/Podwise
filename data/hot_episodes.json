@@ -1,5 +1,15 @@
 [
   {
+    "eid": "cb8d7632cb6.mp3",
+    "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28",
+    "podcast": {
+      "title": "What's Next｜科技早知道"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3",
+    "pubDate": "2026-09-02T16:45:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
+  },
+  {
     "eid": "5f697316818.mp3",
     "title": "【随机波动176】人，休想摆脱虫！",
     "podcast": {
@@ -8,6 +18,16 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a4b99-d4b4-4030-91e7-65f697316818.mp3",
     "pubDate": "2026-09-02T12:00:00+08:00",
     "source_rss": "https://feeds.fireside.fm/stovol/rss"
+  },
+  {
+    "eid": "4BvJm8q5usm.m4a",
+    "title": "No.217 🧲 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头",
+    "podcast": {
+      "title": "半拿铁 | 商业沉浮录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a9661cca0210c197dcb8152/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgnN7sTMFaA5px4_J4BvJm8q5usm.m4a",
+    "pubDate": "2026-09-02T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
     "eid": "9wiWwtVmWHL.m4a",
@@ -40,14 +60,14 @@
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
-    "eid": "dU6a_VL5EqK.m4a",
-    "title": "东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？",
+    "eid": "BNzsgTHW10F.m4a",
+    "title": "第3130期:The Pope joins the Vatican spiritual retreat remotely.",
     "podcast": {
-      "title": "贝望录"
+      "title": "英语每日一听 | 每天少于5分钟"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a",
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOVuz3ABNzsgTHW10F.m4a?channel=rss&album_id=14812466&track_id=1006675379&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5039-audiofreehighqps/CF/CC/GKwRIJIOVuz3ABNzsgTHW10F.m4a",
     "pubDate": "2026-09-02T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
     "eid": "MHJbqJXuFy2.m4a",
@@ -160,24 +180,14 @@
     "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
   },
   {
-    "eid": "ggrxgTO5WPd.m4a",
+    "eid": "eyZAQTRC7NF.m4a",
     "title": "OPC 已经凉了，FDE 会有光明的未来么？",
     "podcast": {
       "title": "AI炼金术"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOaJ0PAggrxgTO5WPd.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ec3e-audiofreehighqps/FC/51/GKwRIUEOaJ0PAggrxgTO5WPd.m4a",
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIObd4vAeyZAQTRC7NF.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/9046-audiofreehighqps/B7/2B/GKwRIaIObd4vAeyZAQTRC7NF.m4a",
     "pubDate": "2026-08-29T13:06:52+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
-    "eid": "rfrv5t1lOjT.m4a",
-    "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
-    "podcast": {
-      "title": "42章经"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a",
-    "pubDate": "2026-08-29T13:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
     "eid": "PnH4QtKmn9X.m4a",
@@ -200,16 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "Yu6FATNYj7_.m4a",
-    "title": "S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a",
-    "pubDate": "2026-08-27T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "L8KTGxXZYEH.m4a",
     "title": "297 东观变身罪案播客：从两起命案看韩国社会是否还安全",
     "podcast": {
@@ -220,6 +220,16 @@
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
+    "eid": "Yu6FATNYj7_.m4a",
+    "title": "S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a",
+    "pubDate": "2026-08-27T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
     "eid": "e7c93012dd9.mp3",
     "title": "E250｜mRNA的第二战场：对话英博，拆解Moderna人类首个肿瘤疫苗三期突破",
     "podcast": {
@@ -228,36 +238,6 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/73a69583-98ee-43d6-a892-3e7c93012dd9.mp3",
     "pubDate": "2026-08-27T17:45:00-07:00",
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
-  },
-  {
-    "eid": "bCBg1XYyAVm.m4a",
-    "title": "对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！",
-    "podcast": {
-      "title": "搞钱女孩"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a",
-    "pubDate": "2026-08-26T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
-  },
-  {
-    "eid": "Vvwcn396Bgg.m4a",
-    "title": "No.216 ⚔️ 「十步杀一人」：红衣大炮周鸿祎的三十年全面战争史 | 中国互联网故事 27",
-    "podcast": {
-      "title": "半拿铁 | 商业沉浮录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a8e56df1352af56ff3c1fe6/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lkoq98I3tlkiERJHtVvwcn396Bgg.m4a",
-    "pubDate": "2026-08-26T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
-  },
-  {
-    "eid": "ywULkwNb6n6.m4a",
-    "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8eadd61352af56ff3c6017/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lrVnGxoafcZ7vzH8HywULkwNb6n6.m4a",
-    "pubDate": "2026-08-26T09:33:46+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "vB8setaraJZ.m4a",
@@ -290,13 +270,33 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
-    "eid": "4VWKvMyb4Un.m4a",
-    "title": "271.唐朝都要不存在了？为什么伪史论会在今年大爆发？",
+    "eid": "EA3MEVzPX2A.m4a",
+    "title": "DeepSeek Harness：Agent工厂来了，但老板你真的配用吗？",
     "podcast": {
-      "title": "乱翻书"
+      "title": "人民公园说AI"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a8813df1352af56ff39cc0e/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lg7_wdrDW1B9h7LwA4VWKvMyb4Un.m4a",
-    "pubDate": "2026-08-21T09:37:27+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a",
+    "pubDate": "2026-08-20T15:35:58+00:00",
+    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "Q_8yZxDISBj.m4a",
+    "title": "130. 宿命、神秘、克苏鲁，恐怖的多样性｜消暑特辑 B",
+    "podcast": {
+      "title": "英美剧漫游指南KillingTV"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a8484b55aeb2a5712e8e7ba/media.xyzcdn.net/5e7c9577418a84a04606b797/lj-_EF91oQ-p8KtK5Q_8yZxDISBj.m4a",
+    "pubDate": "2026-08-18T16:44:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
+  },
+  {
+    "eid": "WPX6jGSQqO3.m4a",
+    "title": "从「同事.skill」到「人生系统」，你害怕被蒸馏吗？",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a",
+    "pubDate": "2026-08-17T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   }
 ]
