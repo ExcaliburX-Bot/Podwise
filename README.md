@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-03 10:42  
+> 📅 **更新时间**: 2026-09-03 15:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3131期:Near-extinct snails rescued from rock
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+### 1. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -34,7 +21,33 @@
 
 ---
 
-### 3. 131. 今年最好看的罪案剧出现了？
+### 2. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 131. 今年最好看的罪案剧出现了？
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
+### 5. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
 
 **播客**: 十字路口Crossing
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
+### 6. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
 
 **播客**: 乱翻书
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 【随机波动176】人，休想摆脱虫！
+### 7. 【随机波动176】人，休想摆脱虫！
 
 **播客**: 随机波动StochasticVolatility
 
@@ -82,19 +95,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a4b99-d4b4-4030-91e7-65f697316818.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. No.217 🧲 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a9661cca0210c197dcb8152/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgnN7sTMFaA5px4_J4BvJm8q5usm.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,20 +112,7 @@
 
 ---
 
-### 9. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Love in the time of Palantir
+### 9. Love in the time of Palantir
 
 **播客**: Planet Money
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
