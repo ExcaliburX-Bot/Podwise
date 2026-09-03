@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-03 15:49:23
+> 📅 生成时间: 2026-09-03 20:32:09
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee
 
 ---
 
-### 2. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+### 2. 第3131期:Near-extinct snails rescued from rock
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a
+```
+
+</details>
+
+---
+
+### 3. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee
 
 ---
 
-### 3. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
+### 4. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8
 
 ---
 
-### 4. 131. 今年最好看的罪案剧出现了？
+### 5. 131. 今年最好看的罪案剧出现了？
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a984497a0210c19
 
 ---
 
-### 5. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
+### 6. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a97a9daa0210c19
 
 ---
 
-### 6. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
+### 7. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
 
 **播客名称**: 乱翻书
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a981121a0210c19
 
 ---
 
-### 7. 【随机波动176】人，休想摆脱虫！
+### 8. No.217 🧲 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a4b99-d4b4-4030-91e7-65f697316818.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a9661cca0210c197dcb8152/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgnN7sTMFaA5px4_J4BvJm8q5usm.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,22 +228,22 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a4b99-d4b4-4030-91e7-65f697316818.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a9661cca0210c197dcb8152/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgnN7sTMFaA5px4_J4BvJm8q5usm.m4a
 ```
 
 </details>
 
 ---
 
-### 8. AI李时珍带你“尝百草”---小宇宙先声活动演讲---91页PPT solo
+### 9. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
 
-**播客名称**: 屠龙之术
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a97d6a8f03e74ee6b03d6a6/media.xyzcdn.net/6507bc165c88d2412626b401/lkrkHCmmJuj6B5P5j9wiWwtVmWHL.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a97d6a8f03e74ee
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a97d6a8f03e74ee6b03d6a6/media.xyzcdn.net/6507bc165c88d2412626b401/lkrkHCmmJuj6B5P5j9wiWwtVmWHL.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3
 ```
 
 </details>
 
 ---
 
-### 9. Love in the time of Palantir
+### 10. Love in the time of Palantir
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318
-```
-
-</details>
-
----
-
-### 10. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
 ```
 
 </details>
