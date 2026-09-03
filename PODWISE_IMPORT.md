@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-02 20:31:31
+> 📅 生成时间: 2026-09-03 03:02:16
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
+### 1. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3131期:Near-extinct snails rescued from rock
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a
+```
+
+</details>
+
+---
+
+### 3. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3
+```
+
+</details>
+
+---
+
+### 4. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
 
 **播客名称**: 十字路口Crossing
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a97a9daa0210c19
 
 ---
 
-### 2. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
+### 5. 272. 从飞书基座到Agent优先，豆包工作All in one紧追WorkBuddy
 
 **播客名称**: 乱翻书
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6a981121a0210c19
 
 ---
 
-### 3. 【随机波动176】人，休想摆脱虫！
+### 6. 【随机波动176】人，休想摆脱虫！
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -100,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/8a3a
 
 ---
 
-### 4. No.217 🧲 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头
+### 7. No.217 🧲 宁波往事：从方太到申洲，从油烟机到中国最大服装代工巨头
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6a9661cca0210c19
 
 ---
 
-### 5. AI李时珍带你“尝百草”---小宇宙先声活动演讲---91页PPT solo
+### 8. AI李时珍带你“尝百草”---小宇宙先声活动演讲---91页PPT solo
 
 **播客名称**: 屠龙之术
 
@@ -154,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a97d6a8f03e74ee
 
 ---
 
-### 6. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
+### 9. 180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e2
 
 ---
 
-### 7. Love in the time of Palantir
+### 10. Love in the time of Palantir
 
 **播客名称**: Planet Money
 
@@ -202,87 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b8cf0fa3-7712-414c-aa58-0aa77d1ee465/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b8cf0fa3-7712-414c-aa58-0aa77d1ee465&feed=hvWWWzRv&t=podcast&e=nx-s1-5953112&p=510289&d=1547&size=24758318
-```
-
-</details>
-
----
-
-### 8. 东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a
-```
-
-</details>
-
----
-
-### 9. No.232 吴汉坤：AI 时代，演员第一个丢饭碗？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee6b02d5bf/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljPrsLmnwZmJWaF73MHJbqJXuFy2.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6a959a88f03e74ee6b02d5bf/media.xyzcdn.net/5e280fab418a84a0461faa3c/ljPrsLmnwZmJWaF73MHJbqJXuFy2.m4a
-```
-
-</details>
-
----
-
-### 10. 497 信天翁档案：解密1965年新加坡独立与「新马分家」的台前幕后
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a96a621a0210c197dcbb58d/media.xyzcdn.net/5e4ee557418a84a0466737b7/lo9kCfDQpzMJSavquvejRxSGoUy3.m4a
 ```
 
 </details>

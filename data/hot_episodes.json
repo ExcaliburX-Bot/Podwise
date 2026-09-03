@@ -1,5 +1,35 @@
 [
   {
+    "eid": "HFRKVVUiM2P.m4a",
+    "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a",
+    "pubDate": "2026-09-03T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
+    "eid": "ARPBwTKe5SX.m4a",
+    "title": "第3131期:Near-extinct snails rescued from rock",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIRwOXs88AARPBwTKe5SX.m4a?channel=rss&album_id=14812466&track_id=1007873120&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9065-audiofreehighqps/A5/41/GKwRIRwOXs88AARPBwTKe5SX.m4a",
+    "pubDate": "2026-09-03T00:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
+  },
+  {
+    "eid": "cb8d7632cb6.mp3",
+    "title": "Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28",
+    "podcast": {
+      "title": "What's Next｜科技早知道"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3",
+    "pubDate": "2026-09-02T16:45:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
+  },
+  {
     "eid": "GQrbIQ-psOP.m4a",
     "title": "对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！",
     "podcast": {
@@ -70,16 +100,6 @@
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
-    "eid": "dU6a_VL5EqK.m4a",
-    "title": "东观西望丨13. 从福尔摩斯到宝可梦，英国和日本是怎么把IP做成全球生意的？",
-    "podcast": {
-      "title": "贝望录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a95ae4fa0210c197dcb4196/media.xyzcdn.net/5e285856418a84a04627b7be/lhlh6MfvIpIAqLBZ3dU6a_VL5EqK.m4a",
-    "pubDate": "2026-09-02T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
-  },
-  {
     "eid": "MHJbqJXuFy2.m4a",
     "title": "No.232 吴汉坤：AI 时代，演员第一个丢饭碗？",
     "podcast": {
@@ -110,6 +130,16 @@
     "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
   },
   {
+    "eid": "iwh95u-F3U5.m4a",
+    "title": "八月广播电视报：怎么所有人的青铜时代都在崩溃",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6a95779cf03e74ee6b02c0fe/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lgtTlRo6UbYBSVl97iwh95u-F3U5.m4a",
+    "pubDate": "2026-09-01T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
     "eid": "z2h0wTPhrfr.m4a",
     "title": "Vol.350 蝲蛄吟唱的地方：能不能让我安安静静当个“边缘人”",
     "podcast": {
@@ -128,16 +158,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a958c88a0210c197dcb3165/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lknGRiVul_Z_EaiyjKQctyccI3YG.m4a",
     "pubDate": "2026-08-31T15:58:04+00:00",
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
-    "eid": "pital/ep146.mp3",
-    "title": "146 ✪ 对买量和铺货说bye-bye，AI如何驱动出海品牌增长?",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep146.mp3",
-    "pubDate": "2026-08-31T10:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
   },
   {
     "eid": "6f570252043.mp3",
@@ -170,16 +190,6 @@
     "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
   },
   {
-    "eid": "eyZAQTRC7NF.m4a",
-    "title": "OPC 已经凉了，FDE 会有光明的未来么？",
-    "podcast": {
-      "title": "AI炼金术"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIObd4vAeyZAQTRC7NF.m4a?channel=rss&album_id=74194808&track_id=1009684225&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/9046-audiofreehighqps/B7/2B/GKwRIaIObd4vAeyZAQTRC7NF.m4a",
-    "pubDate": "2026-08-29T13:06:52+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
-  },
-  {
     "eid": "rfrv5t1lOjT.m4a",
     "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
     "podcast": {
@@ -200,16 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "Yu6FATNYj7_.m4a",
-    "title": "S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a",
-    "pubDate": "2026-08-27T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "L8KTGxXZYEH.m4a",
     "title": "297 东观变身罪案播客：从两起命案看韩国社会是否还安全",
     "podcast": {
@@ -218,6 +218,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a9055bbef65145dfcc67b1c/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvVD9uRn0jj19nJ-IL8KTGxXZYEH.m4a",
     "pubDate": "2026-08-27T22:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "Yu6FATNYj7_.m4a",
+    "title": "S8 Vol.22 基元律动王云鹤：Token成本如何实现「多快好省」？",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OZZNVAYu6FATNYj7_.m4a?channel=rss&album_id=20119986&track_id=1009052511&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0259-audiofreehighqps/1B/02/GKwRIW4OZZNVAYu6FATNYj7_.m4a",
+    "pubDate": "2026-08-27T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
     "eid": "e7c93012dd9.mp3",
@@ -230,34 +240,14 @@
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
-    "eid": "bCBg1XYyAVm.m4a",
-    "title": "对话徐沪生：“一条”创始人30年内容心法，教你做又美又爆的IP号！",
+    "eid": "vB8setaraJZ.m4a",
+    "title": "具身智能的“山寨机时代”：亲历2026世界机器人大会，我们的48个观察-Vol 104",
     "podcast": {
-      "title": "搞钱女孩"
+      "title": "脑放电波"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a8f2c2def65145dfcc5f5ab/media.xyzcdn.net/63d945ece725b5378a158d29/lv4SV_Lyal5UMeyCdbCBg1XYyAVm.m4a",
-    "pubDate": "2026-08-26T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
-  },
-  {
-    "eid": "ywULkwNb6n6.m4a",
-    "title": "152. 领读Kimi K3技术报告：从架构创新聊起，注意力美学、多教师蒸馏和开源MoE",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a8eadd61352af56ff3c6017/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lrVnGxoafcZ7vzH8HywULkwNb6n6.m4a",
-    "pubDate": "2026-08-26T09:33:46+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
-  },
-  {
-    "eid": "e-P3JPcziJa.m4a",
-    "title": "Ep206 可能是关于越野跑补给和营养最好的分享 ft.海怪",
-    "podcast": {
-      "title": "基本无害 Mostly Harmless"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a8c6291ef65145dfcc4b886/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnkEFuz4yrdfC5FYDe-P3JPcziJa.m4a",
-    "pubDate": "2026-08-24T15:41:57+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a8db6191352af56ff3bf58a/media.xyzcdn.net/636669d51064cb55f31505fc/lgdPAeI5fKMXpT8v5vB8setaraJZ.m4a",
+    "pubDate": "2026-08-25T15:39:56+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
     "eid": "0400_720023.mp3",
@@ -278,6 +268,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a871d9a1352af56ff396d59/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liBSF2nXEA0pPUahCEA3MEVzPX2A.m4a",
     "pubDate": "2026-08-20T15:35:58+00:00",
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "WPX6jGSQqO3.m4a",
+    "title": "从「同事.skill」到「人生系统」，你害怕被蒸馏吗？",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6a82e0405aeb2a5712e823d5/media.xyzcdn.net/646f194853a5e5ea1408d97c/ljdzN2Jn0TLF7L8-KWPX6jGSQqO3.m4a",
+    "pubDate": "2026-08-17T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
     "eid": "c07e1c3950b.mp3",
