@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-04 15:47:57
+> 📅 生成时间: 2026-09-04 20:18:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 1. E250 为什么学了这么多知识，却还是做不好投资？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
+```
+
+</details>
+
+---
+
+### 2. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 **播客名称**: 忽左忽右
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a
-```
-
-</details>
-
----
-
-### 2. 中国一级半市场的水下江湖-续集｜串台苔藓之火
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee
 
 ---
 
-### 7. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+### 7. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a
+```
+
+</details>
+
+---
+
+### 8. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee
 
 ---
 
-### 8. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+### 9. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
 
 **播客名称**: 搞钱女孩
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee
 
 ---
 
-### 9. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
+### 10. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
 
 **播客名称**: What's Next｜科技早知道
 
@@ -256,33 +283,6 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3
-```
-
-</details>
-
----
-
-### 10. 对卷卷的3小时访谈：从抖音到AI 3D、创业的过山车、成为制造业OS的野心、基础模型不会吞噬一切！
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a97a9daa0210c197dcc1ba0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lh4SK1Hb1cwhPR-tTGQrbIQ-psOP.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a97a9daa0210c197dcc1ba0/media.xyzcdn.net/60502e253c92d4f62c2a9577/lh4SK1Hb1cwhPR-tTGQrbIQ-psOP.m4a
 ```
 
 </details>
