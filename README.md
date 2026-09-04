@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-04 10:38  
+> 📅 **更新时间**: 2026-09-04 15:47  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,7 +47,20 @@
 
 ---
 
-### 4. 周围没人的时候就没事
+### 4. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 周围没人的时候就没事
 
 **播客**: 周末变奏 Key Change
 
@@ -56,19 +69,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,15 +112,15 @@
 
 ---
 
-### 9. 131. 今年最好看的罪案剧出现了？
+### 9. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
 
-**播客**: 英美剧漫游指南KillingTV
+**播客**: What's Next｜科技早知道
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a984497a0210c197dcc7bd8/media.xyzcdn.net/5e7c9577418a84a04606b797/lj5nfGHovD3BcKQVPIszmFImxj6q.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
