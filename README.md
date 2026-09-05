@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-05 09:59  
+> 📅 **更新时间**: 2026-09-05 14:37  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -73,20 +73,7 @@
 
 ---
 
-### 6. 周围没人的时候就没事
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
+### 6. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
 
 **播客**: 创业内幕 Startup Insider
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
+### 7. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
 
 **播客**: 东亚观察局
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+### 8. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -125,15 +112,28 @@
 
 ---
 
-### 10. 131. 今年最好看的罪案剧出现了？
+### 9. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
 
-**播客**: 英美剧漫游指南KillingTV
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6a984497a0210c197dcc7bd8/media.xyzcdn.net/5e7c9577418a84a04606b797/lj5nfGHovD3BcKQVPIszmFImxj6q.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
