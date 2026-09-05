@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-04 20:18  
+> 📅 **更新时间**: 2026-09-05 03:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. E250 为什么学了这么多知识，却还是做不好投资？
+### 1. 第3133期:The US designates October as Pregnancy and Infant Loss Awareness Month.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Trump drinks Venezuela’s milkshake
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. E250 为什么学了这么多知识，却还是做不好投资？
 
 **播客**: 知行小酒馆
 
@@ -21,33 +47,20 @@
 
 ---
 
-### 2. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 4. 中国一级半市场的水下江湖-续集｜串台苔藓之火
 
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3132期:Spider monkeys sharing fruit knowledge
-
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOXtDGAATTMATKfHaF.m4a?channel=rss&album_id=14812466&track_id=1007874058&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/de56-audiofreehighqps/2D/06/GKwRIaIOXtDGAATTMATKfHaF.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
+### 5. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
 
 **播客**: 沈奕斐的播客
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 周围没人的时候就没事
+### 6. 周围没人的时候就没事
 
 **播客**: 周末变奏 Key Change
 
@@ -69,19 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee6b04b684/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsBcfp9DfhQ2-cvBC5x7FUbirwhV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
+### 8. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee6b04b684/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsBcfp9DfhQ2-cvBC5x7FUbirwhV.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+### 10. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
 
 **播客**: 搞钱女孩
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
