@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-05 14:37:54
+> 📅 生成时间: 2026-09-05 19:57:39
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3133期:The US designates October as Pregnancy and Infant Loss Awareness Month.
+### 1. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhFj8LsCcmddQhNN-GbJ4Y5q0d2a.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhFj8LsCcmddQhNN-GbJ4Y5q0d2a.m4a
 ```
 
 </details>
@@ -73,7 +73,34 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. E250 为什么学了这么多知识，却还是做不好投资？
+### 3. 第3133期:The US designates October as Pregnancy and Infant Loss Awareness Month.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a
+```
+
+</details>
+
+---
+
+### 4. E250 为什么学了这么多知识，却还是做不好投资？
 
 **播客名称**: 知行小酒馆
 
@@ -100,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c19
 
 ---
 
-### 4. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 5. 中国一级半市场的水下江湖-续集｜串台苔藓之火
 
-**播客名称**: 忽左忽右
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +147,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c19
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
+### 6. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
 
 **播客名称**: 沈奕斐的播客
 
@@ -154,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c19
 
 ---
 
-### 6. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
+### 7. 周围没人的时候就没事
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3
+```
+
+</details>
+
+---
+
+### 8. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -181,7 +235,7 @@ https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
+### 9. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
 
 **播客名称**: 东亚观察局
 
@@ -208,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee
 
 ---
 
-### 8. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a
-```
-
-</details>
-
----
-
-### 9. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+### 10. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
 
 **播客名称**: 搞钱女孩
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a
-```
-
-</details>
-
----
-
-### 10. Hassabis 卸任、Jeff Dean 离开，Google DeepMind 为什么突然大洗牌？| S10E28
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/cec8bc7e-3408-4297-a4b8-3cb8d7632cb6.mp3
 ```
 
 </details>
