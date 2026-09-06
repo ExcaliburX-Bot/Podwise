@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-06 10:18  
+> 📅 **更新时间**: 2026-09-06 14:58  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -47,7 +47,33 @@
 
 ---
 
-### 4. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 4. Trump drinks Venezuela’s milkshake
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. E250 为什么学了这么多知识，却还是做不好投资？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 **播客**: 忽左忽右
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 中国一级半市场的水下江湖-续集｜串台苔藓之火
+### 7. 中国一级半市场的水下江湖-续集｜串台苔藓之火
 
 **播客**: 屠龙之术
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
+### 8. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
 
 **播客**: 沈奕斐的播客
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 周围没人的时候就没事
+### 9. 周围没人的时候就没事
 
 **播客**: 周末变奏 Key Change
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
+### 10. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
 
 **播客**: 东亚观察局
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee6b04b684/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsBcfp9DfhQ2-cvBC5x7FUbirwhV.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
-
-**播客**: 张小珺Jùn｜商业访谈录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
