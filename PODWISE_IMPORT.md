@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-06 14:57:59
+> 📅 生成时间: 2026-09-06 20:01:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
+### 1. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
+```
+
+</details>
+
+---
+
+### 2. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9cef66f03e74ee
 
 ---
 
-### 2. 第3134期:Filibuster.
+### 3. 第3134期:Filibuster.
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJIOXtawAAkjcwTKgFOQ.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
+### 4. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee
 
 ---
 
-### 4. Trump drinks Venezuela’s milkshake
+### 5. Trump drinks Venezuela’s milkshake
 
 **播客名称**: Planet Money
 
@@ -127,7 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. E250 为什么学了这么多知识，却还是做不好投资？
+### 6. E250 为什么学了这么多知识，却还是做不好投资？
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c19
 
 ---
 
-### 6. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 7. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 **播客名称**: 忽左忽右
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c19
 
 ---
 
-### 7. 中国一级半市场的水下江湖-续集｜串台苔藓之火
+### 8. 中国一级半市场的水下江湖-续集｜串台苔藓之火
 
 **播客名称**: 屠龙之术
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
-```
-
-</details>
-
----
-
-### 8. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
 ```
 
 </details>
