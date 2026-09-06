@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-05 19:57  
+> 📅 **更新时间**: 2026-09-06 03:02  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
+### 1. 第3134期:Filibuster.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOXtawAAkjcwTKgFOQ.m4a?channel=rss&album_id=14812466&track_id=1007878400&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8bb3-audiofreehighqps/58/50/GKwRIJIOXtawAAkjcwTKgFOQ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Trump drinks Venezuela’s milkshake
+### 3. Trump drinks Venezuela’s milkshake
 
 **播客**: Planet Money
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3133期:The US designates October as Pregnancy and Infant Loss Awareness Month.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOXtSiAB_hzQTKfym7.m4a?channel=rss&album_id=14812466&track_id=1007877019&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2590-audiofreehighqps/17/D6/GKwRIDoOXtSiAB_hzQTKfym7.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 叶檀：从 "财经女侠" 到乳腺癌晚期，人生最值得定投的不是股票是健康
+### 10. 153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”
 
-**播客**: 搞钱女孩
+**播客**: 张小珺Jùn｜商业访谈录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
