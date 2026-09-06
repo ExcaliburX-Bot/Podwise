@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-09-06T03:02:56.835789",
+  "generated_at": "2026-09-06T10:18:27.495741",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！",
+      "podcast": "人民公园说AI",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9cef66f03e74ee6b05c1c6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lk75CeKnHN__BbzfKVlaeJtIMaB4.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "第3134期:Filibuster.",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIJIOXtawAAkjcwTKgFOQ.m4a?channel=rss&album_id=14812466&track_id=1007878400&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8bb3-audiofreehighqps/58/50/GKwRIJIOXtawAAkjcwTKgFOQ.m4a",
@@ -13,20 +23,10 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！",
       "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhFj8LsCcmddQhNN-GbJ4Y5q0d2a.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
-      "title": "Trump drinks Venezuela’s milkshake",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljIYMd2ICpcEtQk4beyVNK1YlpJU.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -34,9 +34,9 @@
     },
     {
       "rank": 4,
-      "title": "E250 为什么学了这么多知识，却还是做不好投资？",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a",
+      "title": "498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,16 +74,6 @@
     },
     {
       "rank": 8,
-      "title": "S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意",
-      "podcast": "创业内幕 Startup Insider",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
       "title": "298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee6b04b684/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsBcfp9DfhQ2-cvBC5x7FUbirwhV.m4a",
@@ -93,10 +83,20 @@
       "notes": ""
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
       "podcast": "张小珺Jùn｜商业访谈录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 10,
+      "title": "叶檀：从 \"财经女侠\" 到乳腺癌晚期，人生最值得定投的不是股票是健康",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6a9869a7f03e74ee6b042168/media.xyzcdn.net/63d945ece725b5378a158d29/ljHF6nRYAmshpCAcSNJjRhAgEaaN.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
