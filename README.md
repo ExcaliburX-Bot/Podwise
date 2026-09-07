@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-07 11:38  
+> 📅 **更新时间**: 2026-09-07 17:17  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 给生活留一颗泡泡：七首让人放松下来的歌
+### 1. vol.267逃避是我不想去讨好，面对是也不想求饶
 
-**播客**: Vibration 歪波音室
+**播客**: 正经叭叭
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 449: Middle School
+### 2. 从399块的机器鸭子聊起：Hugging Face为什么让英伟达掏了 129 亿？-Vol 105
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a9ec586a0210c197dcf0638/media.xyzcdn.net/636669d51064cb55f31505fc/lt-Ya7k8bJ-YSj2qIjHY63fy70T_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3135期:The wildfire contaminated the reservoir water source
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOXtkfABHYiQTKggtl.m4a?channel=rss&album_id=14812466&track_id=1007880046&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a4d2-audiofreehighqps/FB/C2/GKwRIUEOXtkfABHYiQTKggtl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 449: Middle School
 
 **播客**: This American Life
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
+### 5. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
+### 6. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
 
 **播客**: 人民公园说AI
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. Trump drinks Venezuela’s milkshake
+### 7. Trump drinks Venezuela’s milkshake
 
 **播客**: Planet Money
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 8. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 **播客**: 忽左忽右
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 中国一级半市场的水下江湖-续集｜串台苔藓之火
+### 9. 中国一级半市场的水下江湖-续集｜串台苔藓之火
 
 **播客**: 屠龙之术
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 周围没人的时候就没事
+### 10. 周围没人的时候就没事
 
 **播客**: 周末变奏 Key Change
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 298 我在日本拍电影：跟着导演汪崎用“边缘”视角看日本的“绝缘”
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6a99af43f03e74ee6b04b684/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lsBcfp9DfhQ2-cvBC5x7FUbirwhV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
