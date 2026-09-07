@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-07 03:01:13
+> 📅 生成时间: 2026-09-07 11:38:39
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3
 
 ---
 
-### 2. 第3135期:The wildfire contaminated the reservoir water source
+### 2. 449: Middle School
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: This American Life
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOXtkfABHYiQTKggtl.m4a?channel=rss&album_id=14812466&track_id=1007880046&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a4d2-audiofreehighqps/FB/C2/GKwRIUEOXtkfABHYiQTKggtl.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://jt.ximalaya.com//GKwRIUEOXtkfABHYiQTKggtl.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOXtkfABHYiQTKggtl.m4a?channel=rss&album_id=14812466&track_id=1007880046&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a4d2-audiofreehighqps/FB/C2/GKwRIUEOXtkfABHYiQTKggtl.m4a
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. E250 为什么学了这么多知识，却还是做不好投资？
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
-```
-
-</details>
-
----
-
-### 7. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 6. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c19
 
 ---
 
-### 8. 周围没人的时候就没事
+### 7. 中国一级半市场的水下江湖-续集｜串台苔藓之火
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
+```
+
+</details>
+
+---
+
+### 8. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
+```
+
+</details>
+
+---
+
+### 9. 周围没人的时候就没事
 
 **播客名称**: 周末变奏 Key Change
 
@@ -229,33 +256,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3
-```
-
-</details>
-
----
-
-### 9. S8 Vol.23 科安创能姜伟：一门「零下253℃」的超低温生意
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEObs5aAWEVvQTRV16r.m4a?channel=rss&album_id=20119986&track_id=1011128023&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0a57-audiofreehighqps/A1/7D/GKwRIJEObs5aAWEVvQTRV16r.m4a
 ```
 
 </details>
