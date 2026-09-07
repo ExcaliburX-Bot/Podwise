@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-07 17:17:23
+> 📅 生成时间: 2026-09-07 21:09:21
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee
 
 ---
 
-### 2. 从399块的机器鸭子聊起：Hugging Face为什么让英伟达掏了 129 亿？-Vol 105
+### 2. 给生活留一颗泡泡：七首让人放松下来的歌
 
-**播客名称**: 脑放电波
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a9ec586a0210c197dcf0638/media.xyzcdn.net/636669d51064cb55f31505fc/lt-Ya7k8bJ-YSj2qIjHY63fy70T_.m4a
+https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a9ec586a0210c19
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a9ec586a0210c197dcf0638/media.xyzcdn.net/636669d51064cb55f31505fc/lt-Ya7k8bJ-YSj2qIjHY63fy70T_.m4a
+https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 5. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
-```
-
-</details>
-
----
-
-### 6. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
+### 5. 豆包到底能不能工作？产品老炮被AI骂垃圾，才发现是我不配！
 
 **播客名称**: 人民公园说AI
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9cef66f03e74ee
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9cef66f03e74ee6b05c1c6/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lk75CeKnHN__BbzfKVlaeJtIMaB4.m4a
+```
+
+</details>
+
+---
+
+### 6. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljIYMd2ICpcEtQk4beyVNK1YlpJU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljIYMd2ICpcEtQk4beyVNK1YlpJU.m4a
 ```
 
 </details>
@@ -208,15 +208,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. 498 寻找赉安：为近代上海梧桐区创造风貌的法国建筑师
+### 8. E250 为什么学了这么多知识，却还是做不好投资？
 
-**播客名称**: 忽左忽右
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,7 +228,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c19
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9a8beea0210c197dcd797c/media.xyzcdn.net/5e4ee557418a84a0466737b7/lskF8BdKhS71LbWJOmt3gU1kO8BE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c19
 
 ---
 
-### 10. 周围没人的时候就没事
+### 10. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTA1OSwidCI6MX0.Nc9ph-UfSBJvPauVdiwHTu3fs5g/keychangefm/8211545325_4996.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
 ```
 
 </details>
