@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-08 16:01:32
+> 📅 生成时间: 2026-09-08 20:45:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 147 ✪ SHEIN回港上市、新拼姆开启自营
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
-```
-
-</details>
-
----
-
-### 2. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
+### 1. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c19
 
 ---
 
-### 3. 第3136期:Why don't I like rollercoasters anymore?
+### 2. 第3136期:Why don't I like rollercoasters anymore?
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +73,7 @@ https://jt.ximalaya.com//GKwRIUEOZ_eTABY2AwTOk3T5.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
+### 3. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
 
 **播客名称**: 文化有限
 
@@ -121,6 +94,33 @@ https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
+```
+
+</details>
+
+---
+
+### 4. GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a
 ```
 
 </details>
@@ -154,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6a9ec586a0210c19
 
 ---
 
-### 6. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
+### 6. 给生活留一颗泡泡：七首让人放松下来的歌
 
-**播客名称**: 十字路口Crossing
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
+https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +174,68 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a
+https://tk.wavpub.com/WPTK_rHPZ9oM8w56RIPqp-03bbad9bd751.mp3
 ```
 
 </details>
 
 ---
 
-### 7. Trump drinks Venezuela’s milkshake
+### 7. 449: Middle School
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/a631bda2-b83f-4e2c-99c5-8344e637a322/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=a631bda2-b83f-4e2c-99c5-8344e637a322&nocache
+```
+
+</details>
+
+---
+
+### 8. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/liBTZaXJM-xJxi2CKqVynGh2N9k1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/liBTZaXJM-xJxi2CKqVynGh2N9k1.m4a
+```
+
+</details>
+
+---
+
+### 9. Trump drinks Venezuela’s milkshake
 
 **播客名称**: Planet Money
 
@@ -208,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. E250 为什么学了这么多知识，却还是做不好投资？
+### 10. E250 为什么学了这么多知识，却还是做不好投资？
 
 **播客名称**: 知行小酒馆
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a
-```
-
-</details>
-
----
-
-### 9. 中国一级半市场的水下江湖-续集｜串台苔藓之火
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6a918c15a0210c197dc9c039/media.xyzcdn.net/6507bc165c88d2412626b401/lpPEPMQIvauTH3idDE3V8XU5agst.m4a
-```
-
-</details>
-
----
-
-### 10. 268.孙宇晨小作文风波：当代孙绍祖如何构陷、污名化与物化他人和自己？
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6a996f3aa0210c197dcd0082/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lguJdRjP81Wb-kw9Wn1cJWACEWnX.m4a
 ```
 
 </details>
