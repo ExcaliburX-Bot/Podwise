@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-09 03:13:07
+> 📅 生成时间: 2026-09-09 10:47:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 147 ✪ SHEIN回港上市、新拼姆开启自营
+### 1. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
-**播客名称**: 疯投圈
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d5e79-65af-4a1a-ac50-b54e665474ad.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://rio.xyzcdn.net/crazycapital/ep147.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d5e79-65af-4a1a-ac50-b54e665474ad.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
+### 2. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
 
-**播客名称**: 忽左忽右
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,22 +66,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c19
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a
 ```
 
 </details>
 
 ---
 
-### 3. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
+### 3. 第3137期:Huge Roman villa found under popular park dubbed town's 'Pompeii'
 
-**播客名称**: 文化有限
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
+https://jt.ximalaya.com//GKwRIJIOZ_lgAAUFIATOlCX0.m4a?channel=rss&album_id=14812466&track_id=1009603953&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9d5e-audiofreehighqps/A3/BE/GKwRIJIOZ_lgAAUFIATOlCX0.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
+https://jt.ximalaya.com//GKwRIJIOZ_lgAAUFIATOlCX0.m4a?channel=rss&album_id=14812466&track_id=1009603953&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9d5e-audiofreehighqps/A3/BE/GKwRIJIOZ_lgAAUFIATOlCX0.m4a
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c19
 
 ---
 
-### 5. vol.267逃避是我不想去讨好，面对是也不想求饶
+### 5. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
 
-**播客名称**: 正经叭叭
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a
+https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,7 +147,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a
+https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
 ```
 
 </details>
