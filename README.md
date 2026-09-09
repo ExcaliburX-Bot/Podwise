@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-08 20:45  
+> 📅 **更新时间**: 2026-09-09 03:13  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
+### 1. 147 ✪ SHEIN回港上市、新拼姆开启自营
+
+**播客**: 疯投圈
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep147.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
 
 **播客**: 忽左忽右
 
@@ -17,19 +30,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 第3136期:Why don't I like rollercoasters anymore?
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOZ_eTABY2AwTOk3T5.m4a?channel=rss&album_id=14812466&track_id=1009603033&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5195-audiofreehighqps/5A/EE/GKwRIUEOZ_eTABY2AwTOk3T5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,7 +60,20 @@
 
 ---
 
-### 5. 从399块的机器鸭子聊起：Hugging Face为什么让英伟达掏了 129 亿？-Vol 105
+### 5. vol.267逃避是我不想去讨好，面对是也不想求饶
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 从399块的机器鸭子聊起：Hugging Face为什么让英伟达掏了 129 亿？-Vol 105
 
 **播客**: 脑放电波
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 给生活留一颗泡泡：七首让人放松下来的歌
+### 7. 给生活留一颗泡泡：七首让人放松下来的歌
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 449: Middle School
+### 8. 449: Middle School
 
 **播客**: This American Life
 
@@ -99,7 +112,20 @@
 
 ---
 
-### 8. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
+### 9. 她被骗过、被救过、被捧上神坛过、被疼痛击倒过，决定在AI时代继续冒险｜对谈陈安妮
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6a9abd3df03e74ee6b052a28/media.xyzcdn.net/60502e253c92d4f62c2a9577/loMvN15fklK80bHKREiEd1iOtUOf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Ep207 音乐大师课 | 我说过！我不闪躲！我非要这么做！
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6a9c3c6cf03e74ee6b059e31/media.xyzcdn.net/5eae66d1418a84a046472b4d/liBTZaXJM-xJxi2CKqVynGh2N9k1.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Trump drinks Venezuela’s milkshake
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/13353767-60fa-4915-a877-c703920f817f/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=13353767-60fa-4915-a877-c703920f817f&feed=hvWWWzRv&t=podcast&e=nx-s1-5958648&p=510289&d=1527&size=24435234)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. E250 为什么学了这么多知识，却还是做不好投资？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6a9a6ce4a0210c197dcd64dc/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lqB8zb64T2Lk_Xh-KdaZQ8hnlGhQ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
