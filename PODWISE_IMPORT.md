@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-09 15:57:32
+> 📅 生成时间: 2026-09-09 20:27:38
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d
 
 ---
 
-### 2. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
+### 2. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
+
+**播客名称**: 英美剧漫游指南KillingTV
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d3264778166ae67/media.xyzcdn.net/5e7c9577418a84a04606b797/lt50ZEQHHu7U7b3mtuAYx7ENIGMq.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d3264778166ae67/media.xyzcdn.net/5e7c9577418a84a04606b797/lt50ZEQHHu7U7b3mtuAYx7ENIGMq.m4a
+```
+
+</details>
+
+---
+
+### 3. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2
 
 ---
 
-### 3. Cost-cutting, quiet guilt and the inflation generation
+### 4. Cost-cutting, quiet guilt and the inflation generation
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
+### 5. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
 
 **播客名称**: 贝望录
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c19
 
 ---
 
-### 5. 第3137期:Huge Roman villa found under popular park dubbed town's 'Pompeii'
+### 6. 第3137期:Huge Roman villa found under popular park dubbed town's 'Pompeii'
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -154,15 +181,15 @@ https://jt.ximalaya.com//GKwRIJIOZ_lgAAUFIATOlCX0.m4a?channel=rss&album_id=14812
 
 ---
 
-### 6. 147 ✪ SHEIN回港上市、新拼姆开启自营
+### 7. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
 
-**播客名称**: 疯投圈
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +201,14 @@ https://rio.xyzcdn.net/crazycapital/ep147.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
 ```
 
 </details>
 
 ---
 
-### 7. GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？
+### 8. GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？
 
 **播客名称**: 人民公园说AI
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a
-```
-
-</details>
-
----
-
-### 8. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
 ```
 
 </details>
