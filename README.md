@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-10 03:12  
+> 📅 **更新时间**: 2026-09-10 10:40  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3138期:NYC Plastic Collectibles Shop
+### 1. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
+
+**播客**: 展开讲讲
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3138期:NYC Plastic Collectibles Shop
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
+### 3. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
 
 **播客**: 搞钱女孩
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+### 4. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 **播客**: What's Next｜科技早知道
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
+### 5. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
+### 6. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Cost-cutting, quiet guilt and the inflation generation
+### 7. Cost-cutting, quiet guilt and the inflation generation
 
 **播客**: Planet Money
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
+### 8. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
 
 **播客**: 贝望录
 
@@ -99,20 +112,20 @@
 
 ---
 
-### 8. 147 ✪ SHEIN回港上市、新拼姆开启自营
+### 9. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
 
-**播客**: 疯投圈
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep147.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 9. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
+### 10. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
 
 **播客**: 文化有限
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
