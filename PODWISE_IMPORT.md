@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-11 03:08:05
+> 📅 生成时间: 2026-09-11 10:39:28
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
+### 1. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lswTPlOVdBo4Pl52YOXu6rgZyAL2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lswTPlOVdBo4Pl52YOXu6rgZyAL2.m4a
+```
+
+</details>
+
+---
+
+### 2. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
 
 **播客名称**: 沈奕斐的播客
 
@@ -40,33 +67,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a
-```
-
-</details>
-
----
-
-### 2. 第3139期:Hollywood funds pour into Black cinema
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIMAOZ_4HABdwRATOljP-.m4a?channel=rss&album_id=14812466&track_id=1009606455&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45bb-audiofreehighqps/10/A2/GKwRIMAOZ_4HABdwRATOljP-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIMAOZ_4HABdwRATOljP-.m4a?channel=rss&album_id=14812466&track_id=1009606455&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45bb-audiofreehighqps/10/A2/GKwRIMAOZ_4HABdwRATOljP-.m4a
 ```
 
 </details>
@@ -100,7 +100,34 @@ https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
+### 4. 299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a
+```
+
+</details>
+
+---
+
+### 5. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
 
 **播客名称**: 搞钱女孩
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa1b2249d326477
 
 ---
 
-### 5. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+### 6. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 **播客名称**: What's Next｜科技早知道
 
@@ -154,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d
 
 ---
 
-### 6. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
+### 7. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d326477
 
 ---
 
-### 7. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
+### 8. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -208,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2
 
 ---
 
-### 8. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
+### 9. Cost-cutting, quiet guilt and the inflation generation
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487
+```
+
+</details>
+
+---
+
+### 10. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
 
 **播客名称**: 贝望录
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c19
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a
-```
-
-</details>
-
----
-
-### 9. 147 ✪ SHEIN回港上市、新拼姆开启自营
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep147.mp3
-```
-
-</details>
-
----
-
-### 10. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
 ```
 
 </details>
