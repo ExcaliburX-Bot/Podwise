@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-11 10:39  
+> 📅 **更新时间**: 2026-09-11 15:54  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+### 1. No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
+
+**播客**: 三五环
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6aad83995/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGxCTJKAL3ai1ENFwXDD8J9Fpv2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
 
 **播客**: 忽左忽右
 
@@ -16,12 +55,12 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lswTPlOVdBo4Pl52YOXu6rgZyAL2.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhpLgbcgVkq0X4O5LNmnd3AZ1nns.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
+### 5. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
 
 **播客**: 沈奕斐的播客
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
+### 6. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
 
 **播客**: 创业内幕 Startup Insider
 
@@ -47,20 +86,20 @@
 
 ---
 
-### 4. 299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结
+### 7. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
 
-**播客**: 东亚观察局
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
+### 8. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
 
 **播客**: 搞钱女孩
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+### 9. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 **播客**: What's Next｜科技早知道
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
+### 10. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d3264778166ae67/media.xyzcdn.net/5e7c9577418a84a04606b797/lt50ZEQHHu7U7b3mtuAYx7ENIGMq.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2474b9301/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmIykQHFtN_mJItbNei17h5GuCe_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. Cost-cutting, quiet guilt and the inflation generation
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0257234-fdc8-4233-a540-e65914b56e46/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0257234-fdc8-4233-a540-e65914b56e46&feed=hvWWWzRv&t=podcast&e=nx-s1-5961504&p=510289&d=1446&size=23142487)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
