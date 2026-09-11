@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-10 20:27:04
+> 📅 生成时间: 2026-09-11 03:08:05
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
+### 1. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
 
-**播客名称**: 展开讲讲
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d326477
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 第3138期:NYC Plastic Collectibles Shop
+### 2. 第3139期:Hollywood funds pour into Black cinema
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -54,7 +54,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d326477
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOZ_t1AAsAsgTOlRAF.m4a?channel=rss&album_id=14812466&track_id=1009604972&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/37ff-audiofreehighqps/02/F8/GKwRIUEOZ_t1AAsAsgTOlRAF.m4a
+https://jt.ximalaya.com//GKwRIMAOZ_4HABdwRATOljP-.m4a?channel=rss&album_id=14812466&track_id=1009606455&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45bb-audiofreehighqps/10/A2/GKwRIMAOZ_4HABdwRATOljP-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +66,68 @@ https://jt.ximalaya.com//GKwRIUEOZ_t1AAsAsgTOlRAF.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOZ_t1AAsAsgTOlRAF.m4a?channel=rss&album_id=14812466&track_id=1009604972&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/37ff-audiofreehighqps/02/F8/GKwRIUEOZ_t1AAsAsgTOlRAF.m4a
+https://jt.ximalaya.com//GKwRIMAOZ_4HABdwRATOljP-.m4a?channel=rss&album_id=14812466&track_id=1009606455&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/45bb-audiofreehighqps/10/A2/GKwRIMAOZ_4HABdwRATOljP-.m4a
 ```
 
 </details>
 
 ---
 
-### 3. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+### 3. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119986&track_id=1013551744&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/686c-audiofreehighqps/09/61/GKwRIMAOeAmXAW7c6wTVEIHN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119986&track_id=1013551744&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/686c-audiofreehighqps/09/61/GKwRIMAOeAmXAW7c6wTVEIHN.m4a
+```
+
+</details>
+
+---
+
+### 4. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa1b2249d3264778166b9e4/media.xyzcdn.net/63d945ece725b5378a158d29/lg5vCycN-U6-CdPNbOKFYlrO9in1.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa1b2249d3264778166b9e4/media.xyzcdn.net/63d945ece725b5378a158d29/lg5vCycN-U6-CdPNbOKFYlrO9in1.m4a
+```
+
+</details>
+
+---
+
+### 5. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d
 
 ---
 
-### 4. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
+### 6. 132. 2026，我们还相信这个世界会好吗？《踮起脚尖》
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d326477
 
 ---
 
-### 5. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
+### 7. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2
 
 ---
 
-### 6. 147 ✪ SHEIN回港上市、新拼姆开启自营
+### 8. 237. 英伦奇葩说丨英国人的“准时”有多复杂？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6a9d8edaa0210c197dce7435/media.xyzcdn.net/5e285856418a84a04627b7be/lpgS2Khn42rfQiNA6mIyBnVdQOO_.m4a
+```
+
+</details>
+
+---
+
+### 9. 147 ✪ SHEIN回港上市、新拼姆开启自营
 
 **播客名称**: 疯投圈
 
@@ -181,61 +262,7 @@ https://rio.xyzcdn.net/crazycapital/ep147.mp3
 
 ---
 
-### 7. 499 翻越陇坂：阎海军谈作为古代中国东西互动轴心的陇山
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6a9fd33ba0210c197dcf773e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrm9QbtnCvUh2uTckq7hogPOXhAY.m4a
-```
-
-</details>
-
----
-
-### 8. GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a
-```
-
-</details>
-
----
-
-### 9. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
+### 10. Vol.351 蝇王：21世纪的“荒岛故事”还能怎么开脑洞？｜1983诺奖得主
 
 **播客名称**: 文化有限
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIUEOdAp1A3TAAATTKgOL.m4a?channel=rss&album_id=29887212&track_id=1011998589&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/91bf-audiofreehighqps/C6/08/GKwRIUEOdAp1A3TAAATTKgOL.m4a
-```
-
-</details>
-
----
-
-### 10. vol.267逃避是我不想去讨好，面对是也不想求饶
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6a9ec724f03e74ee6b069c98/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ln7woOACx5n5FWYAQ5K5ZcgV18iR.m4a
 ```
 
 </details>
