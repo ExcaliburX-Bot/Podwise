@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-12 15:01:30
+> 📅 生成时间: 2026-09-12 20:13:27
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a
-```
-
-</details>
-
----
-
-### 4. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
+### 3. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6
 
 ---
 
-### 5. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
+### 4. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
 
 **播客名称**: 脑放电波
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6
 
 ---
 
-### 6. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
+### 5. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6
 
 ---
 
-### 7. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
+### 6. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -208,34 +181,7 @@ https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a
-```
-
-</details>
-
----
-
-### 9. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
+### 7. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
 
 **播客名称**: 展开讲讲
 
@@ -262,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d326477
 
 ---
 
-### 10. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
+### 8. 大喜：家居博主靠 "婆婆逼生二胎送别墅" 爆火，如何用编剧思维快速起号？
 
 **播客名称**: 搞钱女孩
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa1b2249d326477
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa1b2249d3264778166b9e4/media.xyzcdn.net/63d945ece725b5378a158d29/lg5vCycN-U6-CdPNbOKFYlrO9in1.m4a
+```
+
+</details>
+
+---
+
+### 9. AI for Science 爆发：AI 能解锁伟大的科学发现吗？ | S10E29
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d5e79-65af-4a1a-ac50-b54e665474ad.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/b59d5e79-65af-4a1a-ac50-b54e665474ad.mp3
+```
+
+</details>
+
+---
+
+### 10. No.218 🚲 O2O 与共享经济：属于单车、充电宝、上门美甲和按摩的魔幻撒钱年代  | 中国互联网故事 28
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2474b9301/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmIykQHFtN_mJItbNei17h5GuCe_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa0ed3b30dee5c2474b9301/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmIykQHFtN_mJItbNei17h5GuCe_.m4a
 ```
 
 </details>
