@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-13 15:39:24
+> 📅 生成时间: 2026-09-13 20:21:54
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3141期:The US decides to exempt the "Big Three" automakers
+### 1. 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aa67b319d32647781685e95/media.xyzcdn.net/60502e253c92d4f62c2a9577/ls6W3MRJJRECuQG33yC3LBDmDZPf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aa67b319d32647781685e95/media.xyzcdn.net/60502e253c92d4f62c2a9577/ls6W3MRJJRECuQG33yC3LBDmDZPf.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3141期:The US decides to exempt the "Big Three" automakers
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIRwOaAKBAA0zGgTOmCXO.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Ep208 音乐大师课 | 将军，在不开灯的房间！
+### 3. Ep208 音乐大师课 | 将军，在不开灯的房间！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -73,61 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aa5377f9d326477
 
 ---
 
-### 3. The loan at the heart of a new foreclosure crisis
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
-```
-
-</details>
-
----
-
-### 4. No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？
-
-**播客名称**: 三五环
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a
-```
-
-</details>
-
----
-
-### 5. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
+### 4. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
 
 **播客名称**: 知行小酒馆
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6
 
 ---
 
-### 6. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
+### 5. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
 
 **播客名称**: 脑放电波
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6
 
 ---
 
-### 7. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
+### 6. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d326477
 
 ---
 
-### 8. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
+### 7. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
 
 **播客名称**: 沈奕斐的播客
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6
 
 ---
 
-### 9. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
+### 8. S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -262,7 +235,7 @@ https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119
 
 ---
 
-### 10. 299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结
+### 9. 299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结
 
 **播客名称**: 东亚观察局
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d326477
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a
+```
+
+</details>
+
+---
+
+### 10. 103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化
+
+**播客名称**: 展开讲讲
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a
 ```
 
 </details>
