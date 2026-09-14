@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-09-13T20:21:54.456820",
+  "generated_at": "2026-09-14T03:30:08.239507",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "当音乐走进电影：一首歌，如何改变我们看见的东西",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPTK_ar8CqFrFDihnv7DV.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "第3142期:The peacock effect: Why overconfidence can be good for you",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OcTNkABCVkATSL0z1.m4a?channel=rss&album_id=14812466&track_id=1011630675&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/73d6-audiofreehighqps/1B/BF/GKwRIW4OcTNkABCVkATSL0z1.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "Public Service Broadcasting：历史里有故事，故事里有音乐",
+      "podcast": "周末变奏 Key Change",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OCwidCI6MX0.UuDo79mZx12x2PA1VBvAmtBAfwE/keychangefm/8210683086_887906.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "646: The Secret of My Death",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aa67b319d32647781685e95/media.xyzcdn.net/60502e253c92d4f62c2a9577/ls6W3MRJJRECuQG33yC3LBDmDZPf.m4a",
@@ -13,17 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "第3141期:The US decides to exempt the \"Big Three\" automakers",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOaAKBAA0zGgTOmCXO.m4a?channel=rss&album_id=14812466&track_id=1009609139&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e4d0-audiofreehighqps/9F/A2/GKwRIRwOaAKBAA0zGgTOmCXO.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
+      "rank": 6,
       "title": "Ep208 音乐大师课 | 将军，在不开灯的房间！",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aa5377f9d32647781680642/media.xyzcdn.net/5eae66d1418a84a046472b4d/ln1U-iKusSCaI5AkUhZljPpA_r5C.m4a",
@@ -33,17 +63,27 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？",
-      "podcast": "知行小酒馆",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6aad83995/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGxCTJKAL3ai1ENFwXDD8J9Fpv2.m4a",
+      "rank": 7,
+      "title": "The loan at the heart of a new foreclosure crisis",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+      "podcast": "三五环",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106",
       "podcast": "脑放电波",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a",
@@ -53,50 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
-      "title": "500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhpLgbcgVkq0X4O5LNmnd3AZ1nns.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "title": "269. 能力不足，等于\"严重不负责任\"吗？谈儿科医生韩杰获刑案",
       "podcast": "沈奕斐的播客",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "S8 Vol.24 博瑞迪张嘉楠：一粒种子的「百亿海选」",
-      "podcast": "创业内幕 Startup Insider",
-      "audio_url": "https://jt.ximalaya.com//GKwRIMAOeAmXAW7c6wTVEIHN.m4a?channel=rss&album_id=20119986&track_id=1013551744&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/686c-audiofreehighqps/09/61/GKwRIMAOeAmXAW7c6wTVEIHN.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "299 教练队员像父子 校园净土羞谈钱：从甲子园和箱根驿传看日本学生竞技的纠结",
-      "podcast": "东亚观察局",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aa2d29a9d32647781673cdc/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvMkB-fW3hbal1J-nWMKtpSUBLCQ.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
-      "podcast": "展开讲讲",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
