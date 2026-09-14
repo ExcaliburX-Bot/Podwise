@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-14 03:30:08
+> 📅 生成时间: 2026-09-14 11:52:40
 > 📊 总计: 10 个播客
 
 ---
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6
 
 ---
 
-### 9. 苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106
+### 9. E251 对话方言：你相信的是价值投资，还是巴菲特的造富神话？
 
-**播客名称**: 脑放电波
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6aad83995/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGxCTJKAL3ai1ENFwXDD8J9Fpv2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aa37bcd492687f6aad83995/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loGxCTJKAL3ai1ENFwXDD8J9Fpv2.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 269. 能力不足，等于"严重不负责任"吗？谈儿科医生韩杰获刑案
+### 10. 500 晋江陈埭镇往事：黄子懿谈改开进程中的中国运动品牌
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhpLgbcgVkq0X4O5LNmnd3AZ1nns.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aa2aaf4492687f6aad7f60d/media.xyzcdn.net/5f4e170c9504bbdb77566a19/ludIyEGrHCNkxWDClEnX-4B9_eB_.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa3c3269d32647781679918/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhpLgbcgVkq0X4O5LNmnd3AZ1nns.m4a
 ```
 
 </details>
