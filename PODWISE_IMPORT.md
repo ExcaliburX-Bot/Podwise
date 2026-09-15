@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-15 11:07:56
+> 📅 生成时间: 2026-09-15 16:19:03
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？
+### 1. 智能的下一幕，让人兴奋---73页PPT solo
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6aa82d11129fe965d33288ca/media.xyzcdn.net/6507bc165c88d2412626b401/lqgbvxwkY0OmEI_qoaO57w-NPwjl.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6aa82d11129fe965d33288ca/media.xyzcdn.net/6507bc165c88d2412626b401/lqgbvxwkY0OmEI_qoaO57w-NPwjl.m4a
+```
+
+</details>
+
+---
+
+### 2. 67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍
+
+**播客名称**: 放学以后After school
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://anchor.fm/s/81d05f80/podcast/play/125729950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2Ff7615baa-aeb0-ed61-2102-023c33fc1c77.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://anchor.fm/s/81d05f80/podcast/play/125729950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2Ff7615baa-aeb0-ed61-2102-023c33fc1c77.mp3
+```
+
+</details>
+
+---
+
+### 3. 501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？
 
 **播客名称**: 忽左忽右
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aa8fe83051af796
 
 ---
 
-### 2. 第3143期:Melting Arctic ice allows large whales to move in
+### 4. 第3143期:Melting Arctic ice allows large whales to move in
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +127,7 @@ https://jt.ximalaya.com//GKwRIaIOcTVVAAaHUQTSMDFf.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 当人人都有AI，凭什么你还能赚钱？| 2026外滩大会
+### 5. 当人人都有AI，凭什么你还能赚钱？| 2026外滩大会
 
 **播客名称**: 搞钱女孩
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aa839429d326477
 
 ---
 
-### 4. Vol.352 无人观看：自我差异性极大，外部相似性极强的我们
+### 6. Vol.352 无人观看：自我差异性极大，外部相似性极强的我们
 
 **播客名称**: 文化有限
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJIOfXaxAq8boATXOoHJ.m4a?channel=rss&album_id=29887
 
 ---
 
-### 5. vol.268男生宿舍真头晕，收听请搭配香薰
+### 7. vol.268男生宿舍真头晕，收听请搭配香薰
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aa80328129fe965
 
 ---
 
-### 6. 鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织
+### 8. 鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织
 
 **播客名称**: AI炼金术
 
@@ -181,34 +235,7 @@ https://jt.ximalaya.com//GKwRIUEOfUJZAfX_xQTXF6jG.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 当音乐走进电影：一首歌，如何改变我们看见的东西
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPTK_ar8CqFrFDihnv7DV.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPTK_ar8CqFrFDihnv7DV.mp3
-```
-
-</details>
-
----
-
-### 8. 273.逛完外滩大会，发现蚂蚁找到了新位置
+### 9. 273.逛完外滩大会，发现蚂蚁找到了新位置
 
 **播客名称**: 乱翻书
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa76141492687f6
 
 ---
 
-### 9. 646: The Secret of My Death
+### 10. Public Service Broadcasting：历史里有故事，故事里有音乐
 
-**播客名称**: This American Life
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OCwidCI6MX0.UuDo79mZx12x2PA1VBvAmtBAfwE/keychangefm/8210683086_887906.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache
-```
-
-</details>
-
----
-
-### 10. The loan at the heart of a new foreclosure crisis
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/295e4ef9-a287-4ab7-ad1c-8198129dccd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=295e4ef9-a287-4ab7-ad1c-8198129dccd2&feed=hvWWWzRv&t=podcast&e=nx-s1-5966574&p=510289&d=1749&size=27996248
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OCwidCI6MX0.UuDo79mZx12x2PA1VBvAmtBAfwE/keychangefm/8210683086_887906.mp3
 ```
 
 </details>
