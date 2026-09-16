@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-15 20:53  
+> 📅 **更新时间**: 2026-09-16 03:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍
+### 1. 274.从全面屏到中折叠，小米的高端化这次找对路了吗？
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796b9e8a2dc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkVuNiL7tWHd92DUwCu_1hXkEfET.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/786d63c4-d46c-4ff3-80f8-fc895b2a57f0.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 智能的下一幕，让人兴奋---73页PPT solo
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6aa82d11129fe965d33288ca/media.xyzcdn.net/6507bc165c88d2412626b401/lqgbvxwkY0OmEI_qoaO57w-NPwjl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍
 
 **播客**: 放学以后After school
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. 501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？
+### 5. 501 从洪亮吉、龚自珍到魏源：清中叶的人如何看待自己国家未来？
 
 **播客**: 忽左忽右
 
@@ -34,20 +73,7 @@
 
 ---
 
-### 3. 第3143期:Melting Arctic ice allows large whales to move in
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOcTVVAAaHUQTSMDFf.m4a?channel=rss&album_id=14812466&track_id=1011631612&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f2df-audiofreehighqps/61/30/GKwRIaIOcTVVAAaHUQTSMDFf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 当人人都有AI，凭什么你还能赚钱？| 2026外滩大会
+### 6. 当人人都有AI，凭什么你还能赚钱？| 2026外滩大会
 
 **播客**: 搞钱女孩
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. vol.268男生宿舍真头晕，收听请搭配香薰
+### 7. vol.268男生宿舍真头晕，收听请搭配香薰
 
 **播客**: 正经叭叭
 
@@ -73,33 +99,20 @@
 
 ---
 
-### 6. 鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织
+### 8. 当音乐走进电影：一首歌，如何改变我们看见的东西
 
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOfUJZAfX_xQTXF6jG.m4a?channel=rss&album_id=74194808&track_id=1014649800&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bd9c-audiofreehighqps/D1/A3/GKwRIUEOfUJZAfX_xQTXF6jG.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 273.逛完外滩大会，发现蚂蚁找到了新位置
-
-**播客**: 乱翻书
+**播客**: Vibration 歪波音室
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa76141492687f6aad974bc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/loTxOgfoqqWcJigxIHTIxvNCbfc3.m4a)
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_ar8CqFrFDihnv7DV.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. Public Service Broadcasting：历史里有故事，故事里有音乐
+### 9. Public Service Broadcasting：历史里有故事，故事里有音乐
 
 **播客**: 周末变奏 Key Change
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 646: The Secret of My Death
+### 10. 646: The Secret of My Death
 
 **播客**: This American Life
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 当具身智能走到十字路口｜对谈苏度、蚂蚁灵波、自变量、破壳：四种一线判断
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aa67b319d32647781685e95/media.xyzcdn.net/60502e253c92d4f62c2a9577/ls6W3MRJJRECuQG33yC3LBDmDZPf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
