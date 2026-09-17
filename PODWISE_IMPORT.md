@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-17 16:17:16
+> 📅 生成时间: 2026-09-17 20:58:17
 > 📊 总计: 10 个播客
 
 ---
@@ -235,7 +235,34 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3c9a
 
 ---
 
-### 9. How investing is getting riskier (Two Indicators)
+### 9. No.219 📦️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战
+
+**播客名称**: 半拿铁 | 商业沉浮录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
+```
+
+</details>
+
+---
+
+### 10. How investing is getting riskier (Two Indicators)
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b0b5534c-b76f-4eae-9704-7ad3815db5fe/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b0b5534c-b76f-4eae-9704-7ad3815db5fe&feed=hvWWWzRv&t=podcast&e=nx-s1-5970391&p=510289&d=1085&size=17367127
-```
-
-</details>
-
----
-
-### 10. 274.从全面屏到中折叠，小米的高端化这次找对路了吗？
-
-**播客名称**: 乱翻书
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796b9e8a2dc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkVuNiL7tWHd92DUwCu_1hXkEfET.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796b9e8a2dc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkVuNiL7tWHd92DUwCu_1hXkEfET.m4a
 ```
 
 </details>
