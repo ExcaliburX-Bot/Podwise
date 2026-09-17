@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-17 11:00:35
+> 📅 生成时间: 2026-09-17 16:17:16
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3145期:Polio eradication still faces challenges
+### 1. XCircle 小飞：只做管理那批人，要没工作了
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194808&track_id=1015908823&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7ea1-audiofreehighqps/F6/A2/GKwRIMAOgR2MAtmT6ATYqD0W.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194808&track_id=1015908823&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7ea1-audiofreehighqps/F6/A2/GKwRIMAOgR2MAtmT6ATYqD0W.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3145期:Polio eradication still faces challenges
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIW4OcTtUABI0VATSMsZD.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
+### 3. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
 
 **播客名称**: 搞钱女孩
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477
 
 ---
 
-### 3. Ep209 再探UTMB！35 岁预言真！大量音乐有！
+### 4. Ep209 再探UTMB！35 岁预言真！大量音乐有！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aaaeacb9d326477
 
 ---
 
-### 4. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
+### 5. 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a
+```
+
+</details>
+
+---
+
+### 6. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
 
 **播客名称**: 忽左忽右
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477
 
 ---
 
-### 5. 对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」
+### 7. 对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」
 
 **播客名称**: 此话当真
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477
 
 ---
 
-### 6. No.219 📦️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战
+### 8. 【随机波动177】独自抚养后：一个母亲，也需要很多人
 
-**播客名称**: 半拿铁 | 商业沉浮录
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3c9af348-a09b-47c1-99db-7d0389aea9d7.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3c9af348-a09b-47c1-99db-7d0389aea9d7.mp3
 ```
 
 </details>
 
 ---
 
-### 7. How investing is getting riskier (Two Indicators)
+### 9. How investing is getting riskier (Two Indicators)
 
 **播客名称**: Planet Money
 
@@ -208,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. 274.从全面屏到中折叠，小米的高端化这次找对路了吗？
+### 10. 274.从全面屏到中折叠，小米的高端化这次找对路了吗？
 
 **播客名称**: 乱翻书
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796b9e8a2dc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkVuNiL7tWHd92DUwCu_1hXkEfET.m4a
-```
-
-</details>
-
----
-
-### 9. vol.268男生宿舍真头晕，收听请搭配香薰
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aa80328129fe965d33278f6/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkYwOmU1wYsE5aWGzwdAOCaHNm68.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aa80328129fe965d33278f6/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkYwOmU1wYsE5aWGzwdAOCaHNm68.m4a
-```
-
-</details>
-
----
-
-### 10. 鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOfUJZAfX_xQTXF6jG.m4a?channel=rss&album_id=74194808&track_id=1014649800&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bd9c-audiofreehighqps/D1/A3/GKwRIUEOfUJZAfX_xQTXF6jG.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOfUJZAfX_xQTXF6jG.m4a?channel=rss&album_id=74194808&track_id=1014649800&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bd9c-audiofreehighqps/D1/A3/GKwRIUEOfUJZAfX_xQTXF6jG.m4a
 ```
 
 </details>
