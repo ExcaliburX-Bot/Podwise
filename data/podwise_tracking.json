@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T03:32:48.875758",
+  "generated_at": "2026-09-17T11:00:35.416010",
   "total_count": 10,
   "episodes": [
     {
@@ -14,6 +14,16 @@
     },
     {
       "rank": 2,
+      "title": "35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "Ep209 再探UTMB！35 岁预言真！大量音乐有！",
       "podcast": "基本无害 Mostly Harmless",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aaaeacb9d326477816a4863/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsn9DxooILbrjz8x5_a7-cWyRR9e.m4a",
@@ -23,20 +33,10 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
-      "podcast": "十字路口Crossing",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 4,
-      "title": "对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」",
-      "podcast": "此话当真",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a",
+      "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -44,9 +44,9 @@
     },
     {
       "rank": 5,
-      "title": "【随机波动177】独自抚养后：一个母亲，也需要很多人",
-      "podcast": "随机波动StochasticVolatility",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3c9af348-a09b-47c1-99db-7d0389aea9d7.mp3",
+      "title": "对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」",
+      "podcast": "此话当真",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学",
-      "podcast": "硅谷101",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/786d63c4-d46c-4ff3-80f8-fc895b2a57f0.mp3",
+      "title": "vol.268男生宿舍真头晕，收听请搭配香薰",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aa80328129fe965d33278f6/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkYwOmU1wYsE5aWGzwdAOCaHNm68.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "智能的下一幕，让人兴奋---73页PPT solo",
-      "podcast": "屠龙之术",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6aa82d11129fe965d33288ca/media.xyzcdn.net/6507bc165c88d2412626b401/lqgbvxwkY0OmEI_qoaO57w-NPwjl.m4a",
+      "title": "鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIUEOfUJZAfX_xQTXF6jG.m4a?channel=rss&album_id=74194808&track_id=1014649800&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/bd9c-audiofreehighqps/D1/A3/GKwRIUEOfUJZAfX_xQTXF6jG.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
