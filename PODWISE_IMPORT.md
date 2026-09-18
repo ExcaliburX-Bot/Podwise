@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-18 03:18:37
+> 📅 生成时间: 2026-09-18 10:37:10
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
+### 1. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
+```
+
+</details>
+
+---
+
+### 2. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
 
 **播客名称**: 贝望录
 
@@ -46,7 +73,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aab7810051af796
 
 ---
 
-### 2. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
+### 3. 第3146期:Trump: 25% tariffs on Mexico and Canada to hit Tuesday
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4Ocp7fABNTZQTSrPzz.m4a?channel=rss&album_id=14812466&track_id=1011808603&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a37f-audiofreehighqps/A3/A3/GKwRIW4Ocp7fABNTZQTSrPzz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4Ocp7fABNTZQTSrPzz.m4a?channel=rss&album_id=14812466&track_id=1011808603&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a37f-audiofreehighqps/A3/A3/GKwRIW4Ocp7fABNTZQTSrPzz.m4a
+```
+
+</details>
+
+---
+
+### 4. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
 
 **播客名称**: 东亚观察局
 
@@ -73,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477
 
 ---
 
-### 3. S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
-```
-
-</details>
-
----
-
-### 4. 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
+### 5. 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
 
 **播客名称**: 硅谷101
 
@@ -127,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec
 
 ---
 
-### 5. XCircle 小飞：只做管理那批人，要没工作了
+### 6. XCircle 小飞：只做管理那批人，要没工作了
 
 **播客名称**: AI炼金术
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
+### 7. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
 
 **播客名称**: 搞钱女孩
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477
 
 ---
 
-### 7. Ep209 再探UTMB！35 岁预言真！大量音乐有！
+### 8. Ep209 再探UTMB！35 岁预言真！大量音乐有！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aaaeacb9d326477
 
 ---
 
-### 8. 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
+### 9. 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
 
 **播客名称**: 十字路口Crossing
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477
 
 ---
 
-### 9. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
+### 10. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a
-```
-
-</details>
-
----
-
-### 10. No.219 📦️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a
 ```
 
 </details>
