@@ -10,6 +10,16 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
+    "eid": "2&size=31077025",
+    "title": "The Domino’s Pizza Tracker Theory of Everything",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
+    "pubDate": "2026-09-18T20:00:00+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
     "eid": "0bmgk8KrdQT.m4a",
     "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
     "podcast": {
@@ -60,14 +70,34 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "S91vqKfOzm7.m4a",
-    "title": "35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会",
+    "eid": "_a7-cWyRR9e.m4a",
+    "title": "Ep209 再探UTMB！35 岁预言真！大量音乐有！",
     "podcast": {
-      "title": "搞钱女孩"
+      "title": "基本无害 Mostly Harmless"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a",
-    "pubDate": "2026-09-16T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aaaeacb9d326477816a4863/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsn9DxooILbrjz8x5_a7-cWyRR9e.m4a",
+    "pubDate": "2026-09-16T19:42:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+  },
+  {
+    "eid": "7MtUMkNI-Lr.m4a",
+    "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a",
+    "pubDate": "2026-09-16T18:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+  },
+  {
+    "eid": "-nWtM0Z09_4.m4a",
+    "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
+    "podcast": {
+      "title": "忽左忽右"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a",
+    "pubDate": "2026-09-16T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
     "eid": "B3QsjHx6XUL.m4a",
@@ -78,26 +108,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a",
     "pubDate": "2026-09-16T12:11:58+00:00",
     "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
-  },
-  {
-    "eid": "d0389aea9d7.mp3",
-    "title": "【随机波动177】独自抚养后：一个母亲，也需要很多人",
-    "podcast": {
-      "title": "随机波动StochasticVolatility"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/3c9af348-a09b-47c1-99db-7d0389aea9d7.mp3",
-    "pubDate": "2026-09-16T12:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/stovol/rss"
-  },
-  {
-    "eid": "EJqQIVwhz0g.m4a",
-    "title": "No.219 📦️ 快递江湖三十年：桐庐帮、淘宝、拼多多与价格战",
-    "podcast": {
-      "title": "半拿铁 | 商业沉浮录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aa96e72051af796b9e8c0a5/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqNYdAmMj_7OXFH0gEJqQIVwhz0g.m4a",
-    "pubDate": "2026-09-16T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
     "eid": "Cu_1hXkEfET.m4a",
@@ -120,16 +130,6 @@
     "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
-    "eid": "aO57w-NPwjl.m4a",
-    "title": "智能的下一幕，让人兴奋---73页PPT solo",
-    "podcast": {
-      "title": "屠龙之术"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6aa82d11129fe965d33288ca/media.xyzcdn.net/6507bc165c88d2412626b401/lqgbvxwkY0OmEI_qoaO57w-NPwjl.m4a",
-    "pubDate": "2026-09-15T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
-  },
-  {
     "eid": "q8boATXOoHJ.m4a",
     "title": "Vol.352 无人观看：自我差异性极大，外部相似性极强的我们",
     "podcast": {
@@ -138,26 +138,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOfXaxAq8boATXOoHJ.m4a?channel=rss&album_id=29887212&track_id=1014824012&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/b4f6-audiofreehighqps/A5/A3/GKwRIJIOfXaxAq8boATXOoHJ.m4a",
     "pubDate": "2026-09-14T23:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
-  },
-  {
-    "eid": "wdAOCaHNm68.m4a",
-    "title": "vol.268男生宿舍真头晕，收听请搭配香薰",
-    "podcast": {
-      "title": "正经叭叭"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aa80328129fe965d33278f6/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lkYwOmU1wYsE5aWGzwdAOCaHNm68.m4a",
-    "pubDate": "2026-09-14T16:00:01+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
-    "eid": "3086_887906.mp3",
-    "title": "Public Service Broadcasting：历史里有故事，故事里有音乐",
-    "podcast": {
-      "title": "周末变奏 Key Change"
-    },
-    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OCwidCI6MX0.UuDo79mZx12x2PA1VBvAmtBAfwE/keychangefm/8210683086_887906.mp3",
-    "pubDate": "2026-09-13T22:12:07+00:00",
-    "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
     "eid": "0ce6083&nocache",
@@ -250,6 +230,16 @@
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
+    "eid": "fdb445a9deb.mp3",
+    "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3",
+    "pubDate": "2026-09-02T07:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
     "eid": "S1AW1y7SWs9.m4a",
     "title": "30 天花 600 亿 Token 的 Agent 工作系统：不能成为资产，就会成为负债 ｜对谈沐白",
     "podcast": {
@@ -298,5 +288,15 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224d5a2e988/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lkozfuADBhhgUoPvdlc0PqyIqXfE.m4a",
     "pubDate": "2026-07-25T06:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
+  },
+  {
+    "eid": "csd7iNY_cjV.m4a",
+    "title": "#28 从3D空间相机到世界模型——对话竹马创新创始人张吉",
+    "podcast": {
+      "title": "出海相对论"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6a5ed569a3fec224d5a0bf25/media.xyzcdn.net/63b7dd49289d2739647d9587/loDezKSD3g3EPSrg0csd7iNY_cjV.m4a",
+    "pubDate": "2026-07-21T02:36:17+00:00",
+    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
   }
 ]
