@@ -10,26 +10,6 @@
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
-    "eid": "2&size=31077025",
-    "title": "The Domino’s Pizza Tracker Theory of Everything",
-    "podcast": {
-      "title": "Planet Money"
-    },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
-    "pubDate": "2026-09-18T20:00:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
-  },
-  {
-    "eid": "86bf0ea0547.mp3",
-    "title": "Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30",
-    "podcast": {
-      "title": "What's Next｜科技早知道"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3",
-    "pubDate": "2026-09-18T17:30:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
-  },
-  {
     "eid": "0bmgk8KrdQT.m4a",
     "title": "E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考",
     "podcast": {
@@ -50,16 +30,6 @@
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
-    "eid": "qevLOFIJTw6.m4a",
-    "title": "300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋",
-    "podcast": {
-      "title": "东亚观察局"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a",
-    "pubDate": "2026-09-17T22:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
     "eid": "WeGygTYzO3x.m4a",
     "title": "S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？",
     "podcast": {
@@ -68,6 +38,16 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a",
     "pubDate": "2026-09-17T22:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
+    "eid": "28eec0e6e87.mp3",
+    "title": "外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建",
+    "podcast": {
+      "title": "硅谷101"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3",
+    "pubDate": "2026-09-17T17:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "tmT6ATYqD0W.m4a",
@@ -80,24 +60,24 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "7MtUMkNI-Lr.m4a",
-    "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
+    "eid": "S91vqKfOzm7.m4a",
+    "title": "35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会",
     "podcast": {
-      "title": "十字路口Crossing"
+      "title": "搞钱女孩"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a",
-    "pubDate": "2026-09-16T18:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a",
+    "pubDate": "2026-09-16T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
-    "eid": "-nWtM0Z09_4.m4a",
-    "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
+    "eid": "B3QsjHx6XUL.m4a",
+    "title": "对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」",
     "podcast": {
-      "title": "忽左忽右"
+      "title": "此话当真"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a",
-    "pubDate": "2026-09-16T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a",
+    "pubDate": "2026-09-16T12:11:58+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
     "eid": "d0389aea9d7.mp3",
@@ -128,6 +108,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6aa9329c051af796b9e8a2dc/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lkVuNiL7tWHd92DUwCu_1hXkEfET.m4a",
     "pubDate": "2026-09-16T00:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "23c33fc1c77.mp3",
+    "title": "67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/125729950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2Ff7615baa-aeb0-ed61-2102-023c33fc1c77.mp3",
+    "pubDate": "2026-09-15T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "aO57w-NPwjl.m4a",
@@ -230,6 +220,16 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
+    "eid": "pital/ep147.mp3",
+    "title": "147 ✪ SHEIN回港上市、新拼姆开启自营",
+    "podcast": {
+      "title": "疯投圈"
+    },
+    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep147.mp3",
+    "pubDate": "2026-09-08T10:00:00+00:00",
+    "source_rss": "https://crazy.capital/feed"
+  },
+  {
     "eid": "L3Nd9fq7g_j.m4a",
     "title": "GPT-6说自己是AGI，李飞飞和马斯克不服了！｜聊聊GPT 6、世界模型、Cybercab谁才是AGI？",
     "podcast": {
@@ -238,6 +238,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6a9eb788a0210c197dcefd1b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkxyMkATF-h_QWhrzL3Nd9fq7g_j.m4a",
     "pubDate": "2026-09-07T23:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "HFRKVVUiM2P.m4a",
+    "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a",
+    "pubDate": "2026-09-03T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "S1AW1y7SWs9.m4a",
@@ -270,6 +280,16 @@
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
+    "eid": "PAAjTFfsBLx.m4a",
+    "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
+    "podcast": {
+      "title": "硬地骇客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
+    "pubDate": "2026-08-02T19:39:44+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+  },
+  {
     "eid": "lc0PqyIqXfE.m4a",
     "title": "109.这个夏天，有人偶遇旧爱，有人爱上新人",
     "podcast": {
@@ -278,25 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224d5a2e988/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lkozfuADBhhgUoPvdlc0PqyIqXfE.m4a",
     "pubDate": "2026-07-25T06:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
-  },
-  {
-    "eid": "csd7iNY_cjV.m4a",
-    "title": "#28 从3D空间相机到世界模型——对话竹马创新创始人张吉",
-    "podcast": {
-      "title": "出海相对论"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6a5ed569a3fec224d5a0bf25/media.xyzcdn.net/63b7dd49289d2739647d9587/loDezKSD3g3EPSrg0csd7iNY_cjV.m4a",
-    "pubDate": "2026-07-21T02:36:17+00:00",
-    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
-  },
-  {
-    "eid": "dBgTgSqJ6pI.m4a",
-    "title": "351 简里里 x 声东击西｜对于孩子，什么是真正的「玩」？",
-    "podcast": {
-      "title": "Blow Your Mind (BYM S02)"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOCVYxAdBgTgSqJ6pI.m4a?channel=rss&album_id=6990384&track_id=991505090&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dda9-audiofreehighqps/A5/96/GKwRIUEOCVYxAdBgTgSqJ6pI.m4a",
-    "pubDate": "2026-06-18T06:39:08+00:00",
-    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   }
 ]
