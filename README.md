@@ -1,32 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-09-19 20:05  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3147期:Oscar-winning actor Gene Hackman dies at 95](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-19 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [The Domino’s Pizza Tracker Theory of Everything](#) | Planet Money | 2026-09-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Snap 做了十年眼镜，终于等到它的时代了吗？- S10E30](#) | What's Next｜科技早知道 | 2026-09-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3146期:Trump: 25% tariffs on Mexico and Canada to hit Tuesday](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建](#) | 硅谷101 | 2026-09-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 维克多·雨果《悲惨世界》part7](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-09-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？](#) | 创业内幕 Startup Insider | 2026-09-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [XCircle 小飞：只做管理那批人，要没工作了](#) | AI炼金术 | 2026-09-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3145期:Polio eradication still faces challenges](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [How investing is getting riskier (Two Indicators)](#) | Planet Money | 2026-09-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [【随机波动177】独自抚养后：一个母亲，也需要很多人](#) | 随机波动StochasticVolatility | 2026-09-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3144期:California’s initiatives could bring about massive changes](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E251｜推理芯片之战：聊聊Groq、Cerebras与OpenAI三大路径与Bill Dally的设计哲学](#) | 硅谷101 | 2026-09-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（连读）1-10](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-09-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍](#) | 放学以后After school | 2026-09-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3143期:Melting Arctic ice allows large whales to move in](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.352 无人观看：自我差异性极大，外部相似性极强的我们](#) | 文化有限 | 2026-09-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [鹿客陈彬：把一家 12 年的硬件公司，重写成 AI 原生组织](#) | AI炼金术 | 2026-09-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3142期:The peacock effect: Why overconfidence can be good for you](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [646: The Secret of My Death](#) | This American Life | 2026-09-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母P day170（1691-1700)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-09-13 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Public Service Broadcasting：历史里有故事，故事里有音乐](#) | 周末变奏 Key Change | 2026-09-13 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3141期:The US decides to exempt the "Big Three" automakers](#) | 英语每日一听 | 每天少于5分钟 | 2026-09-13 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）25-2022年1月浙江首考](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-09-12 |
+---
 
-_最后更新: 2026-09-19 16:59:53_
+## 🎯 Top 10 热门播客
+
+### 1. 第3147期:Oscar-winning actor Gene Hackman dies at 95
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOcqEHABOlogTSrf-O.m4a?channel=rss&album_id=14812466&track_id=1011809937&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/556a-audiofreehighqps/31/D2/GKwRIaIOcqEHABOlogTSrf-O.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477816b0a46/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmju8EfE2LJPb5eO90bmgk8KrdQT.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aab7810051af796b9e98353/media.xyzcdn.net/5e285856418a84a04627b7be/lmuFcLa-TEVR4cSqBcDnWfSJX2Ks.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」
+
+**播客**: 此话当真
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*
