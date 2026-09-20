@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-19 20:05  
+> 📅 **更新时间**: 2026-09-20 03:34  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3147期:Oscar-winning actor Gene Hackman dies at 95
+### 1. Telecaster 75 周年，三位音乐人和手中吉他的情缘
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 周末变奏 Key Change
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOcqEHABOlogTSrf-O.m4a?channel=rss&album_id=14812466&track_id=1011809937&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/556a-audiofreehighqps/31/D2/GKwRIaIOcqEHABOlogTSrf-O.m4a)
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylzRBNA/keychangefm/8210164343_174355.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
+### 2. Ep210 宁波生存手册：务实、低调、尊重年糕
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8b445cb2a/media.xyzcdn.net/5eae66d1418a84a046472b4d/lglDOWgiNZioLKK-8R8i-u_wpk3H.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
 
 **播客**: What's Next｜科技早知道
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+### 4. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
 
 **播客**: 知行小酒馆
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
+### 5. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
 
 **播客**: 贝望录
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
+### 6. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
 
 **播客**: 东亚观察局
 
@@ -69,19 +82,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,15 +112,15 @@
 
 ---
 
-### 9. 于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家
+### 9. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
 
-**播客**: 十字路口Crossing
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
