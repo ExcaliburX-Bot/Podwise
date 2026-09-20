@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-20 03:34:29
+> 📅 生成时间: 2026-09-20 10:40:57
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Telecaster 75 周年，三位音乐人和手中吉他的情缘
+### 1. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
+
+**播客名称**: AI产品经理 Global
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3148期:Hamas returns bodies of 4 Israeli hostages
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOcqMcABPRsATSr0U9.m4a?channel=rss&album_id=14812466&track_id=1011811234&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0472-audiofreehighqps/5E/98/GKwRIDoOcqMcABPRsATSr0U9.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOcqMcABPRsATSr0U9.m4a?channel=rss&album_id=14812466&track_id=1011811234&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0472-audiofreehighqps/5E/98/GKwRIDoOcqMcABPRsATSr0U9.m4a
+```
+
+</details>
+
+---
+
+### 3. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8273453ef/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmC78VFH4nSKBzPUyLn5kFUChX6k.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8273453ef/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmC78VFH4nSKBzPUyLn5kFUChX6k.m4a
+```
+
+</details>
+
+---
+
+### 4. Telecaster 75 周年，三位音乐人和手中吉他的情缘
 
 **播客名称**: 周末变奏 Key Change
 
@@ -46,7 +127,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylz
 
 ---
 
-### 2. Ep210 宁波生存手册：务实、低调、尊重年糕
+### 5. Ep210 宁波生存手册：务实、低调、尊重年糕
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -73,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8
 
 ---
 
-### 3. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
+### 6. The Domino’s Pizza Tracker Theory of Everything
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
+```
+
+</details>
+
+---
+
+### 7. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c
 
 ---
 
-### 4. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+### 8. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477
 
 ---
 
-### 5. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
+### 9. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
 
 **播客名称**: 贝望录
 
@@ -154,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aab7810051af796
 
 ---
 
-### 6. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
+### 10. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
 
 **播客名称**: 东亚观察局
 
@@ -175,114 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a
-```
-
-</details>
-
----
-
-### 7. 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3
-```
-
-</details>
-
----
-
-### 8. 35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a
-```
-
-</details>
-
----
-
-### 9. 特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a
-```
-
-</details>
-
----
-
-### 10. 对话张托肯：用 AI 三天设计一颗芯片后，一位清华博士决定「开卷」
-
-**播客名称**: 此话当真
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6aaa86279d326477816a2744/media.xyzcdn.net/646f194853a5e5ea1408d97c/li6YJVnrev3oSbInYB3QsjHx6XUL.m4a
 ```
 
 </details>
