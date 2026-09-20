@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-20 10:40:57
+> 📅 生成时间: 2026-09-20 15:29:50
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8
 
 ---
 
-### 2. 第3148期:Hamas returns bodies of 4 Israeli hostages
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOcqMcABPRsATSr0U9.m4a?channel=rss&album_id=14812466&track_id=1011811234&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0472-audiofreehighqps/5E/98/GKwRIDoOcqMcABPRsATSr0U9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOcqMcABPRsATSr0U9.m4a?channel=rss&album_id=14812466&track_id=1011811234&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0472-audiofreehighqps/5E/98/GKwRIDoOcqMcABPRsATSr0U9.m4a
-```
-
-</details>
-
----
-
-### 3. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
+### 2. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
 
 **播客名称**: 沈奕斐的播客
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8
 
 ---
 
-### 4. Telecaster 75 周年，三位音乐人和手中吉他的情缘
+### 3. Telecaster 75 周年，三位音乐人和手中吉他的情缘
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,34 +100,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylz
 
 ---
 
-### 5. Ep210 宁波生存手册：务实、低调、尊重年糕
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8b445cb2a/media.xyzcdn.net/5eae66d1418a84a046472b4d/lglDOWgiNZioLKK-8R8i-u_wpk3H.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8b445cb2a/media.xyzcdn.net/5eae66d1418a84a046472b4d/lglDOWgiNZioLKK-8R8i-u_wpk3H.m4a
-```
-
-</details>
-
----
-
-### 6. The Domino’s Pizza Tracker Theory of Everything
+### 4. The Domino’s Pizza Tracker Theory of Everything
 
 **播客名称**: Planet Money
 
@@ -181,34 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 7. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
-```
-
-</details>
-
----
-
-### 8. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+### 5. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
 
 **播客名称**: 知行小酒馆
 
@@ -235,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477
 
 ---
 
-### 9. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
+### 6. 238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」
 
 **播客名称**: 贝望录
 
@@ -262,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aab7810051af796
 
 ---
 
-### 10. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
+### 7. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
 
 **播客名称**: 东亚观察局
 
@@ -283,6 +202,87 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a
+```
+
+</details>
+
+---
+
+### 8. S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
+```
+
+</details>
+
+---
+
+### 9. 外滩大会线下圆桌｜敢把钱包交给AI吗？聊聊Agent交易爆发前夜的信任基建
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/78ec2d74-0ad7-4c6f-9764-728eec0e6e87.mp3
+```
+
+</details>
+
+---
+
+### 10. XCircle 小飞：只做管理那批人，要没工作了
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194808&track_id=1015908823&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7ea1-audiofreehighqps/F6/A2/GKwRIMAOgR2MAtmT6ATYqD0W.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194808&track_id=1015908823&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7ea1-audiofreehighqps/F6/A2/GKwRIMAOgR2MAtmT6ATYqD0W.m4a
 ```
 
 </details>
