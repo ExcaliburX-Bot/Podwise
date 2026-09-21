@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-21 12:03:49
+> 📅 生成时间: 2026-09-21 21:43:49
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
+### 1. vol.269收到，好的，马上改/玫瑰
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ab1449793d5eb3bdc78e4cb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSMzn-xa2xg8GVrKuvRknVkjds8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ab1449793d5eb3bdc78e4cb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSMzn-xa2xg8GVrKuvRknVkjds8.m4a
+```
+
+</details>
+
+---
+
+### 2. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
 
 **播客名称**: Vibration 歪波音室
 
@@ -46,7 +73,7 @@ https://tk.wavpub.com/WPTK_ALFPljpbMLIAEA6K.mp3
 
 ---
 
-### 2. 275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse
+### 3. 275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse
 
 **播客名称**: 乱翻书
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab029b7ac389df8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab029b7ac389df82734ebb6/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpOS2Jcsbaob2mPwqaUzV5xQ4_hD.m4a
-```
-
-</details>
-
----
-
-### 3. 239. 对话卫哲｜中国品牌出海，为什么“选择”比“努力”更重要？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8
 
 ---
 
-### 5. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
+### 5. 897: Intergenerational Space Travel
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache
+```
+
+</details>
+
+---
+
+### 6. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
 
 **播客名称**: AI产品经理 Global
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8
 
 ---
 
-### 6. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
+### 7. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
 
 **播客名称**: 沈奕斐的播客
 
@@ -181,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8
 
 ---
 
-### 7. The Domino’s Pizza Tracker Theory of Everything
+### 8. Telecaster 75 周年，三位音乐人和手中吉他的情缘
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylzRBNA/keychangefm/8210164343_174355.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylzRBNA/keychangefm/8210164343_174355.mp3
+```
+
+</details>
+
+---
+
+### 9. The Domino’s Pizza Tracker Theory of Everything
 
 **播客名称**: Planet Money
 
@@ -208,15 +262,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. E252 公积金新规来了，这笔钱该怎么用？这份行动清单供你参考
+### 10. Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30
 
-**播客名称**: 知行小酒馆
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477816b0a46/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmju8EfE2LJPb5eO90bmgk8KrdQT.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aace1189d326477816b0a46/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmju8EfE2LJPb5eO90bmgk8KrdQT.m4a
-```
-
-</details>
-
----
-
-### 9. S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a
-```
-
-</details>
-
----
-
-### 10. 300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aac06429d326477816ac3cf/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ltpwGXqGmhYU0IOecqevLOFIJTw6.m4a
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3
 ```
 
 </details>
