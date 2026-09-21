@@ -1,5 +1,55 @@
 [
   {
+    "eid": "jpbMLIAEA6K.mp3",
+    "title": "神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPTK_ALFPljpbMLIAEA6K.mp3",
+    "pubDate": "2026-09-21T05:30:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+  },
+  {
+    "eid": "3cweyAeuj-C.m4a",
+    "title": "239. 对话卫哲｜中国品牌出海，为什么“选择”比“努力”更重要？",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a",
+    "pubDate": "2026-09-21T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+  },
+  {
+    "eid": "aUzV5xQ4_hD.m4a",
+    "title": "275.AI办公的热闹还没散，个人Agent的战争已经开始｜拆解Town、Instinct、Grok Bot与Muse",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab029b7ac389df82734ebb6/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lpOS2Jcsbaob2mPwqaUzV5xQ4_hD.m4a",
+    "pubDate": "2026-09-21T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "lLokxDiz1Y5.m4a",
+    "title": "“我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8b4466ece/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltDn8TRgg55FlUENUlLokxDiz1Y5.m4a",
+    "pubDate": "2026-09-20T23:30:01+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+  },
+  {
+    "eid": "e5a06c3&nocache",
+    "title": "897: Intergenerational Space Travel",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache",
+    "pubDate": "2026-09-20T20:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
     "eid": "ah0bsiOBrjc.m4a",
     "title": "从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千",
     "podcast": {
@@ -8,16 +58,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
     "pubDate": "2026-09-20T10:02:29+00:00",
     "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
-  },
-  {
-    "eid": "BPRsATSr0U9.m4a",
-    "title": "第3148期:Hamas returns bodies of 4 Israeli hostages",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOcqMcABPRsATSr0U9.m4a?channel=rss&album_id=14812466&track_id=1011811234&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0472-audiofreehighqps/5E/98/GKwRIDoOcqMcABPRsATSr0U9.m4a",
-    "pubDate": "2026-09-20T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
     "eid": "Ln5kFUChX6k.m4a",
@@ -40,16 +80,6 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
-    "eid": "R8i-u_wpk3H.m4a",
-    "title": "Ep210 宁波生存手册：务实、低调、尊重年糕",
-    "podcast": {
-      "title": "基本无害 Mostly Harmless"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8b445cb2a/media.xyzcdn.net/5eae66d1418a84a046472b4d/lglDOWgiNZioLKK-8R8i-u_wpk3H.m4a",
-    "pubDate": "2026-09-19T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
-  },
-  {
     "eid": "2&size=31077025",
     "title": "The Domino’s Pizza Tracker Theory of Everything",
     "podcast": {
@@ -58,16 +88,6 @@
     "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025",
     "pubDate": "2026-09-18T20:00:00+00:00",
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
-  },
-  {
-    "eid": "86bf0ea0547.mp3",
-    "title": "Snap 做了十年眼镜，终于等到它的时代了吗？| S10E30",
-    "podcast": {
-      "title": "What's Next｜科技早知道"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/f98c4370-6653-4af3-9a43-386bf0ea0547.mp3",
-    "pubDate": "2026-09-18T17:30:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
   },
   {
     "eid": "0bmgk8KrdQT.m4a",
@@ -80,14 +100,14 @@
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
   },
   {
-    "eid": "cDnWfSJX2Ks.m4a",
-    "title": "238. 特斯拉之后，汽车行业改变的不是动力，而是一整套游戏规则丨串台「Freda下午茶」",
+    "eid": "WeGygTYzO3x.m4a",
+    "title": "S8 Vol.25 未来脑律薛耀：「前额叶受损」刷屏了，迷走神经了解一下？",
     "podcast": {
-      "title": "贝望录"
+      "title": "创业内幕 Startup Insider"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aab7810051af796b9e98353/media.xyzcdn.net/5e285856418a84a04627b7be/lmuFcLa-TEVR4cSqBcDnWfSJX2Ks.m4a",
-    "pubDate": "2026-09-18T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a",
+    "pubDate": "2026-09-17T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
     "eid": "qevLOFIJTw6.m4a",
@@ -110,6 +130,16 @@
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
+    "eid": "tmT6ATYqD0W.m4a",
+    "title": "XCircle 小飞：只做管理那批人，要没工作了",
+    "podcast": {
+      "title": "AI炼金术"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIMAOgR2MAtmT6ATYqD0W.m4a?channel=rss&album_id=74194808&track_id=1015908823&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7ea1-audiofreehighqps/F6/A2/GKwRIMAOgR2MAtmT6ATYqD0W.m4a",
+    "pubDate": "2026-09-17T13:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+  },
+  {
     "eid": "S91vqKfOzm7.m4a",
     "title": "35+不中危！职业转型、现金流、健康，人生风险管理指南 | 上海听友会",
     "podcast": {
@@ -118,26 +148,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aaacf639d326477816a4612/media.xyzcdn.net/63d945ece725b5378a158d29/lnMlLY1xgbRzUBmSdS91vqKfOzm7.m4a",
     "pubDate": "2026-09-16T23:30:00+00:00",
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
-  },
-  {
-    "eid": "7MtUMkNI-Lr.m4a",
-    "title": "于是转身向具身走去｜对话王家伟：24 岁的具身智能首席科学家",
-    "podcast": {
-      "title": "十字路口Crossing"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aaa9f039d326477816a3488/media.xyzcdn.net/60502e253c92d4f62c2a9577/litRgTDfOZReriLLT7MtUMkNI-Lr.m4a",
-    "pubDate": "2026-09-16T18:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
-  },
-  {
-    "eid": "-nWtM0Z09_4.m4a",
-    "title": "特番｜从蜂窝网络到手机革命：杨旸谈移动通信浪潮三十年",
-    "podcast": {
-      "title": "忽左忽右"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aaa6e139d326477816a1bf6/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhbvzA29_24SZQusT-nWtM0Z09_4.m4a",
-    "pubDate": "2026-09-16T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
   },
   {
     "eid": "B3QsjHx6XUL.m4a",
@@ -200,26 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
-    "eid": "FrFDihnv7DV.mp3",
-    "title": "当音乐走进电影：一首歌，如何改变我们看见的东西",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_ar8CqFrFDihnv7DV.mp3",
-    "pubDate": "2026-09-14T05:30:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
-  },
-  {
-    "eid": "0ce6083&nocache",
-    "title": "646: The Secret of My Death",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/431ed1d9-35aa-4f85-9ee5-f7e060ce6083/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=431ed1d9-35aa-4f85-9ee5-f7e060ce6083&nocache",
-    "pubDate": "2026-09-13T20:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
-  },
-  {
     "eid": "AKiGl1dRpkS.m4a",
     "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
     "podcast": {
@@ -230,6 +220,16 @@
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
+    "eid": "mEl1BDhQIfw.m4a",
+    "title": "苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a",
+    "pubDate": "2026-09-11T11:49:41+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
     "eid": "UE7e_vGYfXF.m4a",
     "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
     "podcast": {
@@ -238,6 +238,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a",
     "pubDate": "2026-09-10T10:08:43+00:00",
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
+    "eid": "_3K9z_uEYBg.m4a",
+    "title": "132. 2026，我们还相信这个世界会好吗？《踮起脚尖》",
+    "podcast": {
+      "title": "英美剧漫游指南KillingTV"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6aa1782c9d3264778166ae67/media.xyzcdn.net/5e7c9577418a84a04606b797/lqHjmX5Q8TGJpk4lZ_3K9z_uEYBg.m4a",
+    "pubDate": "2026-09-09T16:00:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
     "eid": "pital/ep147.mp3",
@@ -270,6 +280,16 @@
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
+    "eid": "fdb445a9deb.mp3",
+    "title": "180: 具身智能的金钱游戏：进展难测、收入催熟与 IPO 竞速",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/68e222fe-2a2e-43ee-811a-dfdb445a9deb.mp3",
+    "pubDate": "2026-09-02T07:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
     "eid": "9F8Lg7bfxrL.m4a",
     "title": "孙宇晨的香蕉：从杜尚的小便池到NFT，价值是怎么被相信出来的？| 温柔人类EP.43",
     "podcast": {
@@ -278,25 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6a93c86bf03e74ee6b01ff82/media.xyzcdn.net/5e280fac418a84a0461fafc9/lmOHBuSnjcLxf2oJy9F8Lg7bfxrL.m4a",
     "pubDate": "2026-08-30T06:10:28+00:00",
     "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
-  },
-  {
-    "eid": "rfrv5t1lOjT.m4a",
-    "title": "一个人、两周、数百美元，如何训出登顶 Hugging Face 的模型 | 对谈研究员逯雨鑫",
-    "podcast": {
-      "title": "42章经"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6a8ed6e7ef65145dfcc5d249/media.xyzcdn.net/648b0b641c48983391a63f98/lpXxRnwDHgNSrxuyHrfrv5t1lOjT.m4a",
-    "pubDate": "2026-08-29T13:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
-  },
-  {
-    "eid": "PAAjTFfsBLx.m4a",
-    "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
-    "pubDate": "2026-08-02T19:39:44+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   }
 ]
