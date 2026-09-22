@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-22 03:25:50
+> 📅 生成时间: 2026-09-22 11:00:32
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3150期:African-American drivers face discrimination
+### 1. 276.当AI给出所有答案，年轻人如何找到自己的问题？
+
+**播客名称**: 乱翻书
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab2546493d5eb3bdc794b18/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ljJh4yA6BeiyPSgHj49YWicw1c6t.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab2546493d5eb3bdc794b18/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ljJh4yA6BeiyPSgHj49YWicw1c6t.m4a
+```
+
+</details>
+
+---
+
+### 2. 502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
+```
+
+</details>
+
+---
+
+### 3. 第3150期:African-American drivers face discrimination
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -40,60 +94,6 @@ https://jt.ximalaya.com//GKwRIDoOeopwABTosATWCjgu.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoOeopwABTosATWCjgu.m4a?channel=rss&album_id=14812466&track_id=1014203715&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7bd2-audiofreehighqps/1A/4A/GKwRIDoOeopwABTosATWCjgu.m4a
-```
-
-</details>
-
----
-
-### 2. Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOhmV_A7NdcATasTOW.m4a?channel=rss&album_id=29887212&track_id=1017177772&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/528e-audiofreehighqps/20/B5/GKwRIaIOhmV_A7NdcATasTOW.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOhmV_A7NdcATasTOW.m4a?channel=rss&album_id=29887212&track_id=1017177772&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/528e-audiofreehighqps/20/B5/GKwRIaIOhmV_A7NdcATasTOW.m4a
-```
-
-</details>
-
----
-
-### 3. vol.269收到，好的，马上改/玫瑰
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ab1449793d5eb3bdc78e4cb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSMzn-xa2xg8GVrKuvRknVkjds8.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ab1449793d5eb3bdc78e4cb/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lvSMzn-xa2xg8GVrKuvRknVkjds8.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://tk.wavpub.com/WPTK_ALFPljpbMLIAEA6K.mp3
 
 ---
 
-### 5. “我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
+### 5. 239. 对话卫哲｜中国品牌出海，为什么“选择”比“努力”更重要？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
+```
+
+</details>
+
+---
+
+### 6. “我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
 
 **播客名称**: 十字路口Crossing
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8
 
 ---
 
-### 6. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
+### 7. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
 
 **播客名称**: AI产品经理 Global
 
@@ -181,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8
 
 ---
 
-### 7. 270.4岁男童碰臀也算性骚扰？我们为什么越来越无法容忍身体接触？
+### 8. Telecaster 75 周年，三位音乐人和手中吉他的情缘
 
-**播客名称**: 沈奕斐的播客
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8273453ef/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmC78VFH4nSKBzPUyLn5kFUChX6k.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylzRBNA/keychangefm/8210164343_174355.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6aae8b0aac389df8273453ef/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lmC78VFH4nSKBzPUyLn5kFUChX6k.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTUzOSwidCI6MX0.NbLpREvUUImIKv-TGozdylzRBNA/keychangefm/8210164343_174355.mp3
 ```
 
 </details>
 
 ---
 
-### 8. Ep210 宁波生存手册：务实、低调、尊重年糕
+### 9. Ep210 宁波生存手册：务实、低调、尊重年糕
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -229,33 +256,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6aae77fd0916f6f8b445cb2a/media.xyzcdn.net/5eae66d1418a84a046472b4d/lglDOWgiNZioLKK-8R8i-u_wpk3H.m4a
-```
-
-</details>
-
----
-
-### 9. The Domino’s Pizza Tracker Theory of Everything
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/015802bf-f8a4-4fdc-8b55-f82788d39640/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=015802bf-f8a4-4fdc-8b55-f82788d39640&feed=hvWWWzRv&t=podcast&e=nx-s1-5974101&p=510289&d=1942&size=31077025
 ```
 
 </details>
