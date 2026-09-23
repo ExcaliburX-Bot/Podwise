@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-22 20:54:54
+> 📅 生成时间: 2026-09-23 03:27:09
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？
+### 1. 240. 月饼一年只卖两个月，为什么还能做成282亿的生意？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aaeaa3dac389df827346355/media.xyzcdn.net/5e285856418a84a04627b7be/lmnIDtIP7gsq3j7hJqOeRJk4OvNI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aaeaa3dac389df827346355/media.xyzcdn.net/5e285856418a84a04627b7be/lmnIDtIP7gsq3j7hJqOeRJk4OvNI.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3151期:Saving Senegal's Forests
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOeozfABfizwTWCyvJ.m4a?channel=rss&album_id=14812466&track_id=1014204699&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/194c-audiofreehighqps/EE/94/GKwRIDoOeozfABfizwTWCyvJ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOeozfABfizwTWCyvJ.m4a?channel=rss&album_id=14812466&track_id=1014204699&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/194c-audiofreehighqps/EE/94/GKwRIDoOeozfABfizwTWCyvJ.m4a
+```
+
+</details>
+
+---
+
+### 3. AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？
 
 **播客名称**: 屠龙之术
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab2b85df04646b3
 
 ---
 
-### 2. 133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结
+### 4. 133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结
 
 **播客名称**: 英美剧漫游指南KillingTV
 
@@ -54,7 +108,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab2b85df04646b3
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/luCK3RTvnIEcF7GUyZB5kACJsc93.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/lmU_hbkOzgecQaWvUjNqmZ3dVj2v.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +120,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3b
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/luCK3RTvnIEcF7GUyZB5kACJsc93.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/lmU_hbkOzgecQaWvUjNqmZ3dVj2v.m4a
 ```
 
 </details>
 
 ---
 
-### 3. 276.当AI给出所有答案，年轻人如何找到自己的问题？
+### 5. 276.当AI给出所有答案，年轻人如何找到自己的问题？
 
 **播客名称**: 乱翻书
 
@@ -100,88 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab2546493d5eb3b
 
 ---
 
-### 4. 502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
-```
-
-</details>
-
----
-
-### 5. 第3150期:African-American drivers face discrimination
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOeopwABTosATWCjgu.m4a?channel=rss&album_id=14812466&track_id=1014203715&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7bd2-audiofreehighqps/1A/4A/GKwRIDoOeopwABTosATWCjgu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOeopwABTosATWCjgu.m4a?channel=rss&album_id=14812466&track_id=1014203715&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7bd2-audiofreehighqps/1A/4A/GKwRIDoOeopwABTosATWCjgu.m4a
-```
-
-</details>
-
----
-
-### 6. Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOhmV_A7NdcATasTOW.m4a?channel=rss&album_id=29887212&track_id=1017177772&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/528e-audiofreehighqps/20/B5/GKwRIaIOhmV_A7NdcATasTOW.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOhmV_A7NdcATasTOW.m4a?channel=rss&album_id=29887212&track_id=1017177772&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/528e-audiofreehighqps/20/B5/GKwRIaIOhmV_A7NdcATasTOW.m4a
-```
-
-</details>
-
----
-
-### 7. vol.269收到，好的，马上改/玫瑰
+### 6. vol.269收到，好的，马上改/玫瑰
 
 **播客名称**: 正经叭叭
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ab1449793d5eb3b
 
 ---
 
-### 8. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
+### 7. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
 
 **播客名称**: Vibration 歪波音室
 
@@ -235,15 +208,15 @@ https://tk.wavpub.com/WPTK_ALFPljpbMLIAEA6K.mp3
 
 ---
 
-### 9. 239. 对话卫哲｜中国品牌出海，为什么“选择”比“努力”更重要？
+### 8. “我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
 
-**播客名称**: 贝望录
+**播客名称**: 十字路口Crossing
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8b4466ece/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltDn8TRgg55FlUENUlLokxDiz1Y5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,7 +228,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aafe8110916f6f8b44658db/media.xyzcdn.net/5e285856418a84a04627b7be/lsk2UuAnghUvRnefJ3cweyAeuj-C.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8b4466ece/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltDn8TRgg55FlUENUlLokxDiz1Y5.m4a
+```
+
+</details>
+
+---
+
+### 9. 897: Intergenerational Space Travel
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache
 ```
 
 </details>
