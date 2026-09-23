@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-23 03:27  
+> 📅 **更新时间**: 2026-09-23 10:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 240. 月饼一年只卖两个月，为什么还能做成282亿的生意？
+### 1. 【随机波动178】哪有关系不是涉险，哪种哀悼确有终点：《间奏曲》与我们的生活 
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/87abedcd-300a-49fb-9c20-8eb0978d9b3a.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Is our national debt finally too much? (update)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 240. 月饼一年只卖两个月，为什么还能做成282亿的生意？
 
 **播客**: 贝望录
 
@@ -21,20 +47,7 @@
 
 ---
 
-### 2. 第3151期:Saving Senegal's Forests
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOeozfABfizwTWCyvJ.m4a?channel=rss&album_id=14812466&track_id=1014204699&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/194c-audiofreehighqps/EE/94/GKwRIDoOeozfABfizwTWCyvJ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？
+### 4. AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？
 
 **播客**: 屠龙之术
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结
+### 5. 133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结
 
 **播客**: 英美剧漫游指南KillingTV
 
@@ -60,20 +73,33 @@
 
 ---
 
-### 5. 276.当AI给出所有答案，年轻人如何找到自己的问题？
+### 6. 502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年
 
-**播客**: 乱翻书
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab2546493d5eb3bdc794b18/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/ljJh4yA6BeiyPSgHj49YWicw1c6t.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. vol.269收到，好的，马上改/玫瑰
+### 7. Vol.353 秋日特辑：苹果的香味中，我渐渐昏昏欲睡
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOhmV_A7NdcATasTOW.m4a?channel=rss&album_id=29887212&track_id=1017177772&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/528e-audiofreehighqps/20/B5/GKwRIaIOhmV_A7NdcATasTOW.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. vol.269收到，好的，马上改/玫瑰
 
 **播客**: 正经叭叭
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
+### 9. 神专丨何勇《垃圾场》：一张唱片，和那阵吹过北京、台北与香港的风
 
 **播客**: Vibration 歪波音室
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. “我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
+### 10. “我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化
 
 **播客**: 十字路口Crossing
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8b4466ece/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltDn8TRgg55FlUENUlLokxDiz1Y5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 897: Intergenerational Space Travel
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千
-
-**播客**: AI产品经理 Global
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
