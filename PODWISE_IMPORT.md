@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-24 03:16:19
+> 📅 生成时间: 2026-09-24 11:09:30
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63e7
 
 ---
 
-### 2. 第3152期:Do you want an unbreakable phone?
+### 2. 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 乱翻书
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIW4Oeo60AAwQWQTWC7RW.m4a?channel=rss&album_id=14812466&track_id=1014205308&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7db1-audiofreehighqps/CD/B8/GKwRIW4Oeo60AAwQWQTWC7RW.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://jt.ximalaya.com//GKwRIW4Oeo60AAwQWQTWC7RW.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIW4Oeo60AAwQWQTWC7RW.m4a?channel=rss&album_id=14812466&track_id=1014205308&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7db1-audiofreehighqps/CD/B8/GKwRIW4Oeo60AAwQWQTWC7RW.m4a
+https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ab4219e93d5eb3b
 
 ---
 
-### 4. E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3
-```
-
-</details>
-
----
-
-### 5. Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱
+### 4. Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -148,6 +121,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3b
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3bdc79a125/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsrQRnvMFikOTrTDJIlL2kxkF9Tt.m4a
+```
+
+</details>
+
+---
+
+### 5. AI 和真格管理合伙人刘元录了一期播客
+
+**播客名称**: 此话当真
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a
 ```
 
 </details>
@@ -181,34 +181,7 @@ https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194
 
 ---
 
-### 7. 【随机波动178】哪有关系不是涉险，哪种哀悼确有终点：《间奏曲》与我们的生活 
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/87abedcd-300a-49fb-9c20-8eb0978d9b3a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/87abedcd-300a-49fb-9c20-8eb0978d9b3a.mp3
-```
-
-</details>
-
----
-
-### 8. No.220 🌀 互联网系列大结局：贾公下周回国日，乐视宏图未倒时 | 中国互联网故事 29
+### 7. No.220 🌀 互联网系列大结局：贾公下周回国日，乐视宏图未倒时 | 中国互联网故事 29
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -235,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ab2900693d5eb3b
 
 ---
 
-### 9. Is our national debt finally too much? (update)
+### 8. AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？
 
-**播客名称**: Planet Money
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab2b85df04646b3a955a1de/media.xyzcdn.net/6507bc165c88d2412626b401/lmiekkQAwGIkd4WGtzCDhcEB3X5H.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +228,22 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab2b85df04646b3a955a1de/media.xyzcdn.net/6507bc165c88d2412626b401/lmiekkQAwGIkd4WGtzCDhcEB3X5H.m4a
 ```
 
 </details>
 
 ---
 
-### 10. 240. 月饼一年只卖两个月，为什么还能做成282亿的生意？
+### 9. 133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结
 
-**播客名称**: 贝望录
+**播客名称**: 英美剧漫游指南KillingTV
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aaeaa3dac389df827346355/media.xyzcdn.net/5e285856418a84a04627b7be/lmnIDtIP7gsq3j7hJqOeRJk4OvNI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/lmU_hbkOzgecQaWvUjNqmZ3dVj2v.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aaeaa3dac389df8
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aaeaa3dac389df827346355/media.xyzcdn.net/5e285856418a84a04627b7be/lmnIDtIP7gsq3j7hJqOeRJk4OvNI.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/lmU_hbkOzgecQaWvUjNqmZ3dVj2v.m4a
+```
+
+</details>
+
+---
+
+### 10. 502 宇宙超级工程是如何垮掉的：刘怡谈「挑战者号」事故四十周年
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab23bbe93d5eb3bdc793ad3/media.xyzcdn.net/5e4ee557418a84a0466737b7/loYLfMnXYc-CUaJGCN12-V7--ybD.m4a
 ```
 
 </details>
