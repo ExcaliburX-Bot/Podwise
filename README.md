@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-25 11:12  
+> 📅 **更新时间**: 2026-09-25 16:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -34,33 +34,7 @@
 
 ---
 
-### 3. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36efcbae6d8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpap2JO_Suw6h6GIo0nq6o_0GBD0.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第3153期:Daydreaming: a distraction or a vehicle for ideas?
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOg67pABKIvwTZsb6L.m4a?channel=rss&album_id=14812466&track_id=1016569087&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dc8b-audiofreehighqps/11/9E/GKwRIaIOg67pABKIvwTZsb6L.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！
+### 3. Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！
 
 **播客**: 人民公园说AI
 
@@ -73,7 +47,20 @@
 
 ---
 
-### 6. 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
+### 4. 182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63e76d1a-c5bb-4103-8ef4-e235917367c6.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
 
 **播客**: 乱翻书
 
@@ -86,15 +73,28 @@
 
 ---
 
-### 7. 有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会
+### 6. E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人
 
-**播客**: 搞钱女孩
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ab4219e93d5eb3bdc79f79a/media.xyzcdn.net/63d945ece725b5378a158d29/llfuTXjq3FF3ww9TB6N7ace_zVG7.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3bdc79a125/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsrQRnvMFikOTrTDJIlL2kxkF9Tt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,28 +112,28 @@
 
 ---
 
-### 9. Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱
+### 9. No.220 🌀 互联网系列大结局：贾公下周回国日，乐视宏图未倒时 | 中国互联网故事 29
 
-**播客**: 基本无害 Mostly Harmless
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3bdc79a125/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsrQRnvMFikOTrTDJIlL2kxkF9Tt.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ab2900693d5eb3bdc7966dc/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsgTmDd4CyLlYYRtXMMC64s_FRXR.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. PureblueAI 鲁扬：把 prompt 当货架空间，把 GEO 当量化交易
+### 10. Is our national debt finally too much? (update)
 
-**播客**: AI炼金术
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194808&track_id=1017619050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/251c-audiofreehighqps/96/42/GKwRIJIOiC-VAeqIXgTboHcK.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

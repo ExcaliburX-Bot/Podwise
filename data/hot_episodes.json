@@ -20,26 +20,6 @@
     "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
   },
   {
-    "eid": "0nq6o_0GBD0.m4a",
-    "title": "271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36efcbae6d8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpap2JO_Suw6h6GIo0nq6o_0GBD0.m4a",
-    "pubDate": "2026-09-25T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
-  },
-  {
-    "eid": "BKIvwTZsb6L.m4a",
-    "title": "第3153期:Daydreaming: a distraction or a vehicle for ideas?",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIOg67pABKIvwTZsb6L.m4a?channel=rss&album_id=14812466&track_id=1016569087&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dc8b-audiofreehighqps/11/9E/GKwRIaIOg67pABKIvwTZsb6L.m4a",
-    "pubDate": "2026-09-25T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
     "eid": "abL9q5O19Dk.m4a",
     "title": "Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！",
     "podcast": {
@@ -48,6 +28,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a",
     "pubDate": "2026-09-24T12:07:38+00:00",
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "235917367c6.mp3",
+    "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63e76d1a-c5bb-4103-8ef4-e235917367c6.mp3",
+    "pubDate": "2026-09-24T07:00:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "-utmiUig6M6.m4a",
@@ -60,24 +50,14 @@
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
-    "eid": "6N7ace_zVG7.m4a",
-    "title": "有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会",
+    "eid": "6f4d664894e.mp3",
+    "title": "E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人",
     "podcast": {
-      "title": "搞钱女孩"
+      "title": "硅谷101"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ab4219e93d5eb3bdc79f79a/media.xyzcdn.net/63d945ece725b5378a158d29/llfuTXjq3FF3ww9TB6N7ace_zVG7.m4a",
-    "pubDate": "2026-09-23T23:30:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
-  },
-  {
-    "eid": "7Dp1TmglEkF.m4a",
-    "title": "AI 和真格管理合伙人刘元录了一期播客",
-    "podcast": {
-      "title": "此话当真"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a",
-    "pubDate": "2026-09-23T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3",
+    "pubDate": "2026-09-23T17:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "IlL2kxkF9Tt.m4a",
@@ -90,14 +70,14 @@
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
-    "eid": "eqIXgTboHcK.m4a",
-    "title": "PureblueAI 鲁扬：把 prompt 当货架空间，把 GEO 当量化交易",
+    "eid": "7Dp1TmglEkF.m4a",
+    "title": "AI 和真格管理合伙人刘元录了一期播客",
     "podcast": {
-      "title": "AI炼金术"
+      "title": "此话当真"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194808&track_id=1017619050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/251c-audiofreehighqps/96/42/GKwRIJIOiC-VAeqIXgTboHcK.m4a",
-    "pubDate": "2026-09-23T13:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a",
+    "pubDate": "2026-09-23T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
     "eid": "MMC64s_FRXR.m4a",
@@ -118,26 +98,6 @@
     "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1dd6863e-9b35-4e1c-9c2e-4437471a1794/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1dd6863e-9b35-4e1c-9c2e-4437471a1794&feed=hvWWWzRv&t=podcast&e=nx-s1-5978114&p=510289&d=1789&size=28625693",
     "pubDate": "2026-09-23T07:00:00+00:00",
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
-  },
-  {
-    "eid": "zCDhcEB3X5H.m4a",
-    "title": "AI进入生产阶段之后， 智能、算力、芯片 会走向哪里？",
-    "podcast": {
-      "title": "屠龙之术"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab2b85df04646b3a955a1de/media.xyzcdn.net/6507bc165c88d2412626b401/lmiekkQAwGIkd4WGtzCDhcEB3X5H.m4a",
-    "pubDate": "2026-09-22T17:24:22+00:00",
-    "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
-  },
-  {
-    "eid": "jNqmZ3dVj2v.m4a",
-    "title": "133. 好想躲进剧里过一个畅快的暑假啊！| 夏季追剧小结",
-    "podcast": {
-      "title": "英美剧漫游指南KillingTV"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e7c9577418a84a04606b797/6ab2a25093d5eb3bdc796f8e/media.xyzcdn.net/5e7c9577418a84a04606b797/lmU_hbkOzgecQaWvUjNqmZ3dVj2v.m4a",
-    "pubDate": "2026-09-22T16:26:28+00:00",
-    "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
     "eid": "7NdcATasTOW.m4a",
@@ -170,6 +130,16 @@
     "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
+    "eid": "lLokxDiz1Y5.m4a",
+    "title": "“我看到了 Scaling Law 的信号” | 对谈清华叉院助理教授徐梦迪：具身智能、世界模型、真正的泛化",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab0504f0916f6f8b4466ece/media.xyzcdn.net/60502e253c92d4f62c2a9577/ltDn8TRgg55FlUENUlLokxDiz1Y5.m4a",
+    "pubDate": "2026-09-20T23:30:01+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+  },
+  {
     "eid": "e5a06c3&nocache",
     "title": "897: Intergenerational Space Travel",
     "podcast": {
@@ -178,6 +148,16 @@
     "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/05f5064e-96a9-467e-952d-a6c1fe5a06c3/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=05f5064e-96a9-467e-952d-a6c1fe5a06c3&nocache",
     "pubDate": "2026-09-20T20:00:00-04:00",
     "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
+    "eid": "ah0bsiOBrjc.m4a",
+    "title": "从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千",
+    "podcast": {
+      "title": "AI产品经理 Global"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
+    "pubDate": "2026-09-20T10:02:29+00:00",
+    "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
   },
   {
     "eid": "4343_174355.mp3",
@@ -250,6 +230,16 @@
     "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   },
   {
+    "eid": "UE7e_vGYfXF.m4a",
+    "title": "103.对话演员郭晓婷：她在国产剧里长大，也看着国产剧变化",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a",
+    "pubDate": "2026-09-10T10:08:43+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
     "eid": "pital/ep147.mp3",
     "title": "147 ✪ SHEIN回港上市、新拼姆开启自营",
     "podcast": {
@@ -288,6 +278,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
     "pubDate": "2026-08-02T19:39:44+00:00",
     "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
+  },
+  {
+    "eid": "lc0PqyIqXfE.m4a",
+    "title": "109.这个夏天，有人偶遇旧爱，有人爱上新人",
+    "podcast": {
+      "title": "喷嚏"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224d5a2e988/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lkozfuADBhhgUoPvdlc0PqyIqXfE.m4a",
+    "pubDate": "2026-07-25T06:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
   },
   {
     "eid": "csd7iNY_cjV.m4a",
