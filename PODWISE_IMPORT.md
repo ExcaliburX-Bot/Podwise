@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-25 21:07:11
+> 📅 生成时间: 2026-09-26 03:39:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,61 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a
-```
-
-</details>
-
----
-
-### 2. 中秋特辑：我们为什么总爱看月亮，人类需要一个远方 | 温柔人类 EP.44
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a
-```
-
-</details>
-
----
-
-### 3. 第3153期:Daydreaming: a distraction or a vehicle for ideas?
+### 1. 第3154期:Workplace accent discrimination in the UK
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -81,7 +27,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIOg67pABKIvwTZsb6L.m4a?channel=rss&album_id=14812466&track_id=1016569087&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dc8b-audiofreehighqps/11/9E/GKwRIaIOg67pABKIvwTZsb6L.m4a
+https://jt.ximalaya.com//GKwRIUEOg7CXAAVxyATZsnsw.m4a?channel=rss&album_id=14812466&track_id=1016570754&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52c0-audiofreehighqps/C0/99/GKwRIUEOg7CXAAVxyATZsnsw.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +39,61 @@ https://jt.ximalaya.com//GKwRIaIOg67pABKIvwTZsb6L.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIOg67pABKIvwTZsb6L.m4a?channel=rss&album_id=14812466&track_id=1016569087&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/dc8b-audiofreehighqps/11/9E/GKwRIaIOg67pABKIvwTZsb6L.m4a
+https://jt.ximalaya.com//GKwRIUEOg7CXAAVxyATZsnsw.m4a?channel=rss&album_id=14812466&track_id=1016570754&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52c0-audiofreehighqps/C0/99/GKwRIUEOg7CXAAVxyATZsnsw.m4a
+```
+
+</details>
+
+---
+
+### 2. Middlegarchs are the new Oligarchs
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
+```
+
+</details>
+
+---
+
+### 3. 898: An Argument
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a
 
 ---
 
-### 10. PureblueAI 鲁扬：把 prompt 当货架空间，把 GEO 当量化交易
+### 10. AI 和真格管理合伙人刘元录了一期播客
 
-**播客名称**: AI炼金术
+**播客名称**: 此话当真
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194808&track_id=1017619050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/251c-audiofreehighqps/96/42/GKwRIJIOiC-VAeqIXgTboHcK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOiC-VAeqIXgTboHcK.m4a?channel=rss&album_id=74194808&track_id=1017619050&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/251c-audiofreehighqps/96/42/GKwRIJIOiC-VAeqIXgTboHcK.m4a
+https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a
 ```
 
 </details>
