@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-26 20:40  
+> 📅 **更新时间**: 2026-09-27 03:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3154期:Workplace accent discrimination in the UK
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOg7CXAAVxyATZsnsw.m4a?channel=rss&album_id=14812466&track_id=1016570754&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/52c0-audiofreehighqps/C0/99/GKwRIUEOg7CXAAVxyATZsnsw.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. Middlegarchs are the new Oligarchs
+### 1. Middlegarchs are the new Oligarchs
 
 **播客**: Planet Money
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3. 898: An Argument
+### 2. 898: An Argument
 
 **播客**: This American Life
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
+### 3. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
 
 **播客**: 忽左忽右
 
@@ -60,20 +47,7 @@
 
 ---
 
-### 5. 中秋特辑：我们为什么总爱看月亮，人类需要一个远方 | 温柔人类 EP.44
-
-**播客**: 温柔人类 GentleHuman
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
+### 4. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
 
 **播客**: 沈奕斐的播客
 
@@ -86,20 +60,7 @@
 
 ---
 
-### 7. Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」
+### 5. 182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」
 
 **播客**: 晚点聊 LateTalk
 
@@ -112,7 +73,7 @@
 
 ---
 
-### 9. 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
+### 6. 277.从提醒你，到替你办：Today想把Personal AI带到哪一步？
 
 **播客**: 乱翻书
 
@@ -125,7 +86,7 @@
 
 ---
 
-### 10. 有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会
+### 7. 有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会
 
 **播客**: 搞钱女孩
 
@@ -134,6 +95,45 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ab4219e93d5eb3bdc79f79a/media.xyzcdn.net/63d945ece725b5378a158d29/llfuTXjq3FF3ww9TB6N7ace_zVG7.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. E252｜硅谷睡眠外挂：富人的玩具，还是预防医疗的入口？｜对话Eight Sleep创始人
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/833a6b89-e6a1-4d61-a3b3-46f4d664894e.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. AI 和真格管理合伙人刘元录了一期播客
+
+**播客**: 此话当真
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. Ep211 宁波生存手册：宁波打的用户正坐滑翔伞去看集装箱
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab355e893d5eb3bdc79a125/media.xyzcdn.net/5eae66d1418a84a046472b4d/lsrQRnvMFikOTrTDJIlL2kxkF9Tt.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
