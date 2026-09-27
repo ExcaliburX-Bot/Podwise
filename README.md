@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-27 03:48  
+> 📅 **更新时间**: 2026-09-27 11:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,20 +21,7 @@
 
 ---
 
-### 2. 898: An Argument
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
+### 2. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
 
 **播客**: 忽左忽右
 
@@ -47,7 +34,7 @@
 
 ---
 
-### 4. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
+### 3. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
 
 **播客**: 沈奕斐的播客
 
@@ -56,6 +43,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36efcbae6d8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpap2JO_Suw6h6GIo0nq6o_0GBD0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

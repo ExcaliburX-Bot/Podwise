@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-27 03:48:38
+> 📅 生成时间: 2026-09-27 11:27:04
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 2. 898: An Argument
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
-```
-
-</details>
-
----
-
-### 3. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
+### 2. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
 
 **播客名称**: 忽左忽右
 
@@ -100,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36e
 
 ---
 
-### 4. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
+### 3. 271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？
 
 **播客名称**: 沈奕斐的播客
 
@@ -121,6 +94,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36efcbae6d8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpap2JO_Suw6h6GIo0nq6o_0GBD0.m4a
+```
+
+</details>
+
+---
+
+### 4. Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a
 ```
 
 </details>
