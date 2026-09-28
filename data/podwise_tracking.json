@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-27T20:55:11.303735",
+  "generated_at": "2026-09-28T03:48:01.878864",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "Ep212 音乐大师课 | 自有大儒为我配乐",
-      "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a",
+      "title": "9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！",
+      "podcast": "Vibration 歪波音室",
+      "audio_url": "https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -14,6 +14,46 @@
     },
     {
       "rank": 2,
+      "title": "第3156期:Virginia cellist goes viral",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIaIOg7TaABOMqgTZtCEP.m4a?channel=rss&album_id=14812466&track_id=1016573415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0bfa-audiofreehighqps/21/2D/GKwRIaIOg7TaABOMqgTZtCEP.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "有没有那样一首快乐歌",
+      "podcast": "周末变奏 Key Change",
+      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209472772_640336.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
+      "podcast": "硅谷101",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
+      "title": "AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 6,
       "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
       "podcast": "42章经",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e2aea294a/media.xyzcdn.net/648b0b641c48983391a63f98/luZ0EizpK9v3NZ94IuUtP1Z9Xj25.m4a",
@@ -23,17 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "第3155期:World's first patient to undergo live AI-assisted brain surgery",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOg7JIAAOlNgTZsyHT.m4a?channel=rss&album_id=14812466&track_id=1016571903&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8e7a-audiofreehighqps/38/9C/GKwRIRwOg7JIAAOlNgTZsyHT.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
+      "rank": 7,
       "title": "Middlegarchs are the new Oligarchs",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661",
@@ -43,7 +73,17 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 8,
+      "title": "898: An Argument",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a",
@@ -53,50 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "中秋特辑：我们为什么总爱看月亮，人类需要一个远方 | 温柔人类 EP.44",
       "podcast": "温柔人类 GentleHuman",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "271.86页PDF举报父亲“小三”事件：一个男人不是一个好丈夫，能不能成为一个好爸爸？",
-      "podcast": "沈奕斐的播客",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ab53069e742e36efcbae6d8/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpap2JO_Suw6h6GIo0nq6o_0GBD0.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "Computer Use！就是普通人的AGI！｜GPT 6还是被低估了！",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ab51116e742e36efcbadb1a/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/ljewzf6aLCJsOQXyKabL9q5O19Dk.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "182: 对话梁琛奇：抖音、猫箱、创业，「他们都搞生产力，我想用 AI 创造开心」",
-      "podcast": "晚点聊 LateTalk",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/63e76d1a-c5bb-4103-8ef4-e235917367c6.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会",
-      "podcast": "搞钱女孩",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ab4219e93d5eb3bdc79f79a/media.xyzcdn.net/63d945ece725b5378a158d29/llfuTXjq3FF3ww9TB6N7ace_zVG7.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
