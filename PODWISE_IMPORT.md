@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-28 12:58:44
+> 📅 生成时间: 2026-09-28 22:57:21
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 148 ✪ 吃好睡好：肯德基KRPO入局轻食、亚朵星球床品创新
+### 1. vol.270谁的人生不窘迫，看破说破凑合过
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+</details>
+
+---
+
+### 2. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
+
+**播客名称**: 屠龙之术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
+```
+
+</details>
+
+---
+
+### 3. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
 
 **播客名称**: 疯投圈
 
@@ -46,34 +100,7 @@ https://rio.xyzcdn.net/crazycapital/ep148.mp3
 
 ---
 
-### 2. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
-```
-
-</details>
-
----
-
-### 3. 第3156期:Virginia cellist goes viral
+### 4. 第3156期:Virginia cellist goes viral
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIaIOg7TaABOMqgTZtCEP.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
+### 5. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
 
 **播客名称**: 硅谷101
 
@@ -121,33 +148,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1d
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3
-```
-
-</details>
-
----
-
-### 5. AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36e
 
 ---
 
-### 7. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
+### 7. AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
+```
+
+</details>
+
+---
+
+### 8. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
 
 **播客名称**: 42章经
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e
 
 ---
 
-### 8. Middlegarchs are the new Oligarchs
+### 9. Middlegarchs are the new Oligarchs
 
 **播客名称**: Planet Money
 
@@ -235,7 +262,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 9. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
+### 10. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a
-```
-
-</details>
-
----
-
-### 10. 中秋特辑：我们为什么总爱看月亮，人类需要一个远方 | 温柔人类 EP.44
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ab58714195d838e2ae9dc73/media.xyzcdn.net/5e280fac418a84a0461fafc9/lvTkq9FOlN5Ynu2cvE_j38TW3Xxn.m4a
 ```
 
 </details>
