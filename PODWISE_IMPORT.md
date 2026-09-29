@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-28 22:57:21
+> 📅 生成时间: 2026-09-29 04:22:43
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. vol.270谁的人生不窘迫，看破说破凑合过
+### 1. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
-**播客名称**: 正经叭叭
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
 ```
 
 </details>
@@ -100,15 +100,15 @@ https://rio.xyzcdn.net/crazycapital/ep148.mp3
 
 ---
 
-### 4. 第3156期:Virginia cellist goes viral
+### 4. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Vibration 歪波音室
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIOg7TaABOMqgTZtCEP.m4a?channel=rss&album_id=14812466&track_id=1016573415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0bfa-audiofreehighqps/21/2D/GKwRIaIOg7TaABOMqgTZtCEP.m4a
+https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +120,41 @@ https://jt.ximalaya.com//GKwRIaIOg7TaABOMqgTZtCEP.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIOg7TaABOMqgTZtCEP.m4a?channel=rss&album_id=14812466&track_id=1016573415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/0bfa-audiofreehighqps/21/2D/GKwRIaIOg7TaABOMqgTZtCEP.m4a
+https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
 ```
 
 </details>
 
 ---
 
-### 5. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
+### 5. 有没有那样一首快乐歌
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
+```
+
+</details>
+
+---
+
+### 6. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
 
 **播客名称**: 硅谷101
 
@@ -154,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1d
 
 ---
 
-### 6. Ep212 音乐大师课 | 自有大儒为我配乐
+### 7. Ep212 音乐大师课 | 自有大儒为我配乐
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36e
 
 ---
 
-### 7. AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
+### 8. AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
 
 **播客名称**: 十字路口Crossing
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36e
 
 ---
 
-### 8. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
+### 9. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
 
 **播客名称**: 42章经
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e
 
 ---
 
-### 9. Middlegarchs are the new Oligarchs
+### 10. Middlegarchs are the new Oligarchs
 
 **播客名称**: Planet Money
 
@@ -256,33 +283,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
-```
-
-</details>
-
----
-
-### 10. 503 无锡·台北·匹兹堡：冯俊文回忆时代巨变中的历史学家许倬云
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ab638ece742e36efcbb1e4e/media.xyzcdn.net/5e4ee557418a84a0466737b7/llhGtepdsZPYV65xkizXvAqUiicu.m4a
 ```
 
 </details>
