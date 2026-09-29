@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-09-29T04:22:43.429543",
+  "generated_at": "2026-09-29T12:10:38.816895",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "504 林行止、《信报》与香港经济黄金年代",
+      "podcast": "忽左忽右",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36efcbca2c3/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsQH0b2Fi11Uc5udp330iBwuYiH_.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "第3157期:Musk slashes Tesla's regulatory compliance team",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812466&track_id=1016574613&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f36c-audiofreehighqps/A2/EB/GKwRIJIOg7dxABTkRgTZtRxu.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a",
@@ -13,7 +33,17 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "vol.270谁的人生不窘迫，看破说破凑合过",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "当AI开始设计芯片---聊聊EDA与AI时代的芯片设计",
       "podcast": "屠龙之术",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a",
@@ -23,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep148.mp3",
@@ -33,40 +63,10 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "有没有那样一首快乐歌",
-      "podcast": "周末变奏 Key Change",
-      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 6,
-      "title": "E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长",
-      "podcast": "硅谷101",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
-      "title": "Ep212 音乐大师课 | 自有大儒为我配乐",
-      "podcast": "基本无害 Mostly Harmless",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -84,9 +84,9 @@
     },
     {
       "rank": 9,
-      "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
-      "podcast": "42章经",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e2aea294a/media.xyzcdn.net/648b0b641c48983391a63f98/luZ0EizpK9v3NZ94IuUtP1Z9Xj25.m4a",
+      "title": "Ep212 音乐大师课 | 自有大儒为我配乐",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "Middlegarchs are the new Oligarchs",
-      "podcast": "Planet Money",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661",
+      "title": "AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e2aea294a/media.xyzcdn.net/648b0b641c48983391a63f98/luZ0EizpK9v3NZ94IuUtP1Z9Xj25.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

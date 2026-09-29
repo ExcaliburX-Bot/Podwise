@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-29 04:22:43
+> 📅 生成时间: 2026-09-29 12:10:38
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
+### 1. 504 林行止、《信报》与香港经济黄金年代
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36efcbca2c3/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsQH0b2Fi11Uc5udp330iBwuYiH_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36efcbca2c3/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsQH0b2Fi11Uc5udp330iBwuYiH_.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3157期:Musk slashes Tesla's regulatory compliance team
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812466&track_id=1016574613&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f36c-audiofreehighqps/A2/EB/GKwRIJIOg7dxABTkRgTZtRxu.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812466&track_id=1016574613&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f36c-audiofreehighqps/A2/EB/GKwRIJIOg7dxABTkRgTZtRxu.m4a
+```
+
+</details>
+
+---
+
+### 3. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
 **播客名称**: 文化有限
 
@@ -46,7 +100,34 @@ https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887
 
 ---
 
-### 2. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
+### 4. vol.270谁的人生不窘迫，看破说破凑合过
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+</details>
+
+---
+
+### 5. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
 
 **播客名称**: 屠龙之术
 
@@ -73,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36e
 
 ---
 
-### 3. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
+### 6. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
 
 **播客名称**: 疯投圈
 
@@ -100,7 +181,7 @@ https://rio.xyzcdn.net/crazycapital/ep148.mp3
 
 ---
 
-### 4. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
+### 7. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
 
 **播客名称**: Vibration 歪波音室
 
@@ -121,87 +202,6 @@ https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
-```
-
-</details>
-
----
-
-### 5. 有没有那样一首快乐歌
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
-```
-
-</details>
-
----
-
-### 6. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3
-```
-
-</details>
-
----
-
-### 7. Ep212 音乐大师课 | 自有大儒为我配乐
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
 ```
 
 </details>
@@ -235,7 +235,34 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36e
 
 ---
 
-### 9. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
+### 9. Ep212 音乐大师课 | 自有大儒为我配乐
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
+```
+
+</details>
+
+---
+
+### 10. AI Trading —— 决策便宜，行动很贵｜对谈超 3w Star Vibe-Trading 作者浩哲
 
 **播客名称**: 42章经
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ab71039195d838e2aea294a/media.xyzcdn.net/648b0b641c48983391a63f98/luZ0EizpK9v3NZ94IuUtP1Z9Xj25.m4a
-```
-
-</details>
-
----
-
-### 10. Middlegarchs are the new Oligarchs
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f5cd8dff-e3d2-4fd9-9cce-baa9b3ba6fa6&feed=hvWWWzRv&t=podcast&e=nx-s1-5981194&p=510289&d=1843&size=29504661
 ```
 
 </details>
