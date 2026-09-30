@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-29 21:54:12
+> 📅 生成时间: 2026-09-30 04:06:12
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
+### 1. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
+```
+
+</details>
+
+---
+
+### 2.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3
+```
+
+</details>
+
+---
+
+### 3. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
 
 **播客名称**: 人民公园说AI
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36e
 
 ---
 
-### 2. 504 林行止、《信报》与香港经济黄金年代
+### 4. 504 林行止、《信报》与香港经济黄金年代
 
 **播客名称**: 忽左忽右
 
@@ -73,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36e
 
 ---
 
-### 3. 第3157期:Musk slashes Tesla's regulatory compliance team
+### 5. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812466&track_id=1016574613&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f36c-audiofreehighqps/A2/EB/GKwRIJIOg7dxABTkRgTZtRxu.m4a
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +147,41 @@ https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOg7dxABTkRgTZtRxu.m4a?channel=rss&album_id=14812466&track_id=1016574613&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f36c-audiofreehighqps/A2/EB/GKwRIJIOg7dxABTkRgTZtRxu.m4a
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
 ```
 
 </details>
 
 ---
 
-### 4. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
+### 6. vol.270谁的人生不窘迫，看破说破凑合过
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+```
+
+</details>
+
+---
+
+### 7. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
 
 **播客名称**: 屠龙之术
 
@@ -127,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36e
 
 ---
 
-### 5. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
+### 8. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
 
 **播客名称**: 疯投圈
 
@@ -154,7 +235,34 @@ https://rio.xyzcdn.net/crazycapital/ep148.mp3
 
 ---
 
-### 6. 有没有那样一首快乐歌
+### 9. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
+```
+
+</details>
+
+---
+
+### 10. 有没有那样一首快乐歌
 
 **播客名称**: 周末变奏 Key Change
 
@@ -175,114 +283,6 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoW
 音频链接（点击复制）:
 ```
 https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
-```
-
-</details>
-
----
-
-### 7. 898: An Argument
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
-```
-
-</details>
-
----
-
-### 8. E253｜谁在给大模型出题、卖题、判卷？聊聊AI数据行业的野蛮生长
-
-**播客名称**: 硅谷101
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0a1dd0c4-a1f7-4f7c-b334-bd807ca72a5d.mp3
-```
-
-</details>
-
----
-
-### 9. Ep212 音乐大师课 | 自有大儒为我配乐
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ab90267e742e36efcbbc2b7/media.xyzcdn.net/5eae66d1418a84a046472b4d/lj_chJRMV2RskTb6P3FKTNljufkM.m4a
-```
-
-</details>
-
----
-
-### 10. AI 时代，我们到底该学什么？｜对谈于红：三种不会过时的能力
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ab7fb97e742e36efcbb881a/media.xyzcdn.net/60502e253c92d4f62c2a9577/lkCMj80qYw-uDuHIJFxudUFQBoaf.m4a
 ```
 
 </details>
