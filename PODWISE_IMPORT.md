@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-09-30 17:49:25
+> 📅 生成时间: 2026-09-30 21:54:02
 > 📊 总计: 10 个播客
 
 ---
@@ -81,7 +81,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lu9axYezGNiPFe2AR-yPj-xPbgOd.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/licChVK3dHcq-R9HnjZeb8s8u8FF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lu9axYezGNiPFe2AR-yPj-xPbgOd.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/licChVK3dHcq-R9HnjZeb8s8u8FF.m4a
 ```
 
 </details>
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36e
 
 ---
 
-### 5. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
-```
-
-</details>
-
----
-
-### 6. 第3158期:Vance criticizes Germany's free speech laws
+### 5. 第3158期:Vance criticizes Germany's free speech laws
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -175,6 +148,33 @@ https://jt.ximalaya.com//GKwRIW4Og7oDAA2VfgTZtiVZ.m4a?channel=rss&album_id=14812
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4Og7oDAA2VfgTZtiVZ.m4a?channel=rss&album_id=14812466&track_id=1016575732&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/eb96-audiofreehighqps/4D/6D/GKwRIW4Og7oDAA2VfgTZtiVZ.m4a
+```
+
+</details>
+
+---
+
+### 6. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b64
 
 ---
 
-### 8. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
+### 8. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
 **播客名称**: 文化有限
 
@@ -235,15 +262,15 @@ https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887
 
 ---
 
-### 9. 有没有那样一首快乐歌
+### 10. vol.270谁的人生不窘迫，看破说破凑合过
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoW
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTc5MCwidCI6MX0.fpKmQcbZAH5LLK0eDvzgxoWLxHs/keychangefm/8209404731_219831.mp3
-```
-
-</details>
-
----
-
-### 10. 898: An Argument
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/4b2969e2-cdd0-4f56-b8f1-faf5a32bc925/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=4b2969e2-cdd0-4f56-b8f1-faf5a32bc925&nocache
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
 ```
 
 </details>
