@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-01T12:29:37.330179",
+  "generated_at": "2026-10-01T22:22:06.474634",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "挣钱时都是超级个体，坐牢时把锅甩给 AI",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "第3159期:Pope Francis is in critical condition",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIJIOg7w4AA2c1ATZtwnt.m4a?channel=rss&album_id=14812466&track_id=1016576588&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4756-audiofreehighqps/B5/F4/GKwRIJIOg7w4AA2c1ATZtwnt.m4a",
@@ -13,7 +23,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31",
       "podcast": "What's Next｜科技早知道",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.mp3",
@@ -23,7 +33,17 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Who’s gonna pay for your Social Security?",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "No.221 🥓 中国辣条江湖",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/licChVK3dHcq-R9HnjZeb8s8u8FF.m4a",
@@ -33,17 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
-      "title": "国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45",
-      "podcast": "温柔人类 GentleHuman",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代",
       "podcast": "贝望录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a",
@@ -53,17 +63,17 @@
       "notes": ""
     },
     {
-      "rank": 6,
-      "title": "扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a",
+      "rank": 7,
+      "title": " E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+      "podcast": "硅谷101",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "504 林行止、《信报》与香港经济黄金年代",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36efcbca2c3/media.xyzcdn.net/5e4ee557418a84a0466737b7/lsQH0b2Fi11Uc5udp330iBwuYiH_.m4a",
@@ -73,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "vol.270谁的人生不窘迫，看破说破凑合过",
       "podcast": "正经叭叭",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
-      "title": "148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新",
-      "podcast": "疯投圈",
-      "audio_url": "https://rio.xyzcdn.net/crazycapital/ep148.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 10,
-      "title": "9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！",
-      "podcast": "Vibration 歪波音室",
-      "audio_url": "https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3",
+      "title": "当AI开始设计芯片---聊聊EDA与AI时代的芯片设计",
+      "podcast": "屠龙之术",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-01 12:29:37
+> 📅 生成时间: 2026-10-01 22:22:06
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3159期:Pope Francis is in critical condition
+### 1. 挣钱时都是超级个体，坐牢时把锅甩给 AI
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3159期:Pope Francis is in critical condition
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJIOg7w4AA2c1ATZtwnt.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+### 3. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
 
 **播客名称**: What's Next｜科技早知道
 
@@ -73,7 +100,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6b
 
 ---
 
-### 3. No.221 🥓 中国辣条江湖
+### 4. Who’s gonna pay for your Social Security?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284
+```
+
+</details>
+
+---
+
+### 5. No.221 🥓 中国辣条江湖
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e
 
 ---
 
-### 4. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a
-```
-
-</details>
-
----
-
-### 5. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+### 6. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
 
 **播客名称**: 贝望录
 
@@ -154,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e
 
 ---
 
-### 6. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
+### 7.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
 
-**播客名称**: 人民公园说AI
+**播客名称**: 硅谷101
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b644f51-461c-4ddb-b707-d2a39b9a7d80.mp3
 ```
 
 </details>
 
 ---
 
-### 7. 504 林行止、《信报》与香港经济黄金年代
+### 8. 504 林行止、《信报》与香港经济黄金年代
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abb74cee742e36e
 
 ---
 
-### 8. vol.270谁的人生不窘迫，看破说破凑合过
+### 9. vol.270谁的人生不窘迫，看破说破凑合过
 
 **播客名称**: 正经叭叭
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e
 
 ---
 
-### 9. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
+### 10. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
 
-**播客名称**: 疯投圈
+**播客名称**: 屠龙之术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep148.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://rio.xyzcdn.net/crazycapital/ep148.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep148.mp3
-```
-
-</details>
-
----
-
-### 10. 9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！
-
-**播客名称**: Vibration 歪波音室
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3
+https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
 ```
 
 </details>
