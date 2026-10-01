@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-09-30 21:54  
+> 📅 **更新时间**: 2026-10-01 04:18  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+### 1. 第3159期:Pope Francis is in critical condition
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOg7w4AA2c1ATZtwnt.m4a?channel=rss&album_id=14812466&track_id=1016576588&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/4756-audiofreehighqps/B5/F4/GKwRIJIOg7w4AA2c1ATZtwnt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
 
 **播客**: What's Next｜科技早知道
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Who’s gonna pay for your Social Security?
+### 3. Who’s gonna pay for your Social Security?
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. No.221 🥓 中国辣条江湖
+### 4. No.221 🥓 中国辣条江湖
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 5. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
 
 **播客**: 温柔人类 GentleHuman
 
@@ -56,19 +69,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第3158期:Vance criticizes Germany's free speech laws
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Og7oDAA2VfgTZtiVZ.m4a?channel=rss&album_id=14812466&track_id=1016575732&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/eb96-audiofreehighqps/4D/6D/GKwRIW4Og7oDAA2VfgTZtiVZ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. vol.270谁的人生不窘迫，看破说破凑合过
+### 10. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
 
-**播客**: 正经叭叭
+**播客**: 屠龙之术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
