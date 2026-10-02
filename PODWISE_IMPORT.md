@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-02 11:55:35
+> 📅 生成时间: 2026-10-02 17:30:20
 > 📊 总计: 10 个播客
 
 ---
@@ -73,7 +73,34 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e7
 
 ---
 
-### 3. 挣钱时都是超级个体，坐牢时把锅甩给 AI
+### 3. 第3160期:Series of bus explosions hit Israel
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIOg754AA17DwTZuAN8.m4a?channel=rss&album_id=14812466&track_id=1016577867&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c785-audiofreehighqps/74/65/GKwRIaIOg754AA17DwTZuAN8.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIOg754AA17DwTZuAN8.m4a?channel=rss&album_id=14812466&track_id=1016577867&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c785-audiofreehighqps/74/65/GKwRIaIOg754AA17DwTZuAN8.m4a
+```
+
+</details>
+
+---
+
+### 4. 挣钱时都是超级个体，坐牢时把锅甩给 AI
 
 **播客名称**: AI炼金术
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+### 5. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
 
 **播客名称**: What's Next｜科技早知道
 
@@ -127,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6b
 
 ---
 
-### 5. Who’s gonna pay for your Social Security?
+### 6. Who’s gonna pay for your Social Security?
 
 **播客名称**: Planet Money
 
@@ -154,7 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. No.221 🥓 中国辣条江湖
+### 7. No.221 🥓 中国辣条江湖
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e
 
 ---
 
-### 7. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 8. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a
-```
-
-</details>
-
----
-
-### 8. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b64
 
 ---
 
-### 10. vol.270谁的人生不窘迫，看破说破凑合过
+### 10. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
 
-**播客名称**: 正经叭叭
+**播客名称**: 人民公园说AI
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
 ```
 
 </details>
