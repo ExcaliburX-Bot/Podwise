@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-03 15:45:21
+> 📅 生成时间: 2026-10-03 20:37:53
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Where all those weird new drinks are coming from
+### 1. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
 
-**播客名称**: Planet Money
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e2aed08a5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhqZliZycQcxf51z2bhS18P3xItY.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e2aed08a5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhqZliZycQcxf51z2bhS18P3xItY.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
+### 2. 第3161期:The UK's favourite type of humour
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOjO5ZABDnuATdq6wD.m4a?channel=rss&album_id=14812466&track_id=1018438935&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/17e2-audiofreehighqps/15/A1/GKwRIJIOjO5ZABDnuATdq6wD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOjO5ZABDnuATdq6wD.m4a?channel=rss&album_id=14812466&track_id=1018438935&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/17e2-audiofreehighqps/15/A1/GKwRIJIOjO5ZABDnuATdq6wD.m4a
+```
+
+</details>
+
+---
+
+### 3. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a
+```
+
+</details>
+
+---
+
+### 4. 183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -73,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e7
 
 ---
 
-### 3. 挣钱时都是超级个体，坐牢时把锅甩给 AI
+### 5. 挣钱时都是超级个体，坐牢时把锅甩给 AI
 
 **播客名称**: AI炼金术
 
@@ -100,15 +154,15 @@ https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+### 6. No.221 🥓 中国辣条江湖
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lktVlQQ6ABqBLcikCg2VXgZ0keBy.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,14 +174,14 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6b
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.mp3
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lktVlQQ6ABqBLcikCg2VXgZ0keBy.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 7. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36e
 
 ---
 
-### 6. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+### 8. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
 
 **播客名称**: 贝望录
 
@@ -181,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e
 
 ---
 
-### 7.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
+### 9.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
 
 **播客名称**: 硅谷101
 
@@ -208,7 +262,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b64
 
 ---
 
-### 8. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
+### 10. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
 
 **播客名称**: 人民公园说AI
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
-```
-
-</details>
-
----
-
-### 9. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a
-```
-
-</details>
-
----
-
-### 10. 148 ✪ 吃好睡好：肯德基KPRO入局轻食、亚朵星球床品创新
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep148.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep148.mp3
 ```
 
 </details>
