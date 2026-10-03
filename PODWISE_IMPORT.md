@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-02 21:50:43
+> 📅 生成时间: 2026-10-03 03:53:56
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3160期:Series of bus explosions hit Israel
+### 1. Where all those weird new drinks are coming from
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIOg754AA17DwTZuAN8.m4a?channel=rss&album_id=14812466&track_id=1016577867&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c785-audiofreehighqps/74/65/GKwRIaIOg754AA17DwTZuAN8.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIaIOg754AA17DwTZuAN8.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIOg754AA17DwTZuAN8.m4a?channel=rss&album_id=14812466&track_id=1016577867&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c785-audiofreehighqps/74/65/GKwRIaIOg754AA17DwTZuAN8.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6b
 
 ---
 
-### 4. Who’s gonna pay for your Social Security?
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/47d744ef-f06a-4638-936e-6eea1d635b37/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=47d744ef-f06a-4638-936e-6eea1d635b37&feed=hvWWWzRv&t=podcast&e=nx-s1-5985851&p=510289&d=1753&size=28062284
-```
-
-</details>
-
----
-
-### 5. No.221 🥓 中国辣条江湖
+### 4. No.221 🥓 中国辣条江湖
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e
 
 ---
 
-### 6. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 5. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36e
 
 ---
 
-### 7. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+### 6. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
 
 **播客名称**: 贝望录
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e
 
 ---
 
-### 8.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
+### 7.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
 
 **播客名称**: 硅谷101
 
@@ -235,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/0b64
 
 ---
 
-### 9. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
+### 8. 扎克用 Muse，踹开美国互联网的大门｜个人Agent怎么就火了呢？
 
 **播客名称**: 人民公园说AI
 
@@ -256,6 +229,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6abbc669e742e36efcbcc964/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/li1O1BJom8K03x-4mP3X1C5ndUmj.m4a
+```
+
+</details>
+
+---
+
+### 9. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a
 ```
 
 </details>
