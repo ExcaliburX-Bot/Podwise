@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-04 04:25  
+> 📅 **更新时间**: 2026-10-04 11:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,20 +60,46 @@
 
 ---
 
-### 5. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 5. 挣钱时都是超级个体，坐牢时把锅甩给 AI
 
-**播客**: 温柔人类 GentleHuman
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
+### 6. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. No.221 🥓 中国辣条江湖
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e2aeba9d4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lktVlQQ6ABqBLcikCg2VXgZ0keBy.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
 
 **播客**: 贝望录
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
+### 9.  E254｜超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？
 
 **播客**: 硅谷101
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
+### 10. Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人
 
 **播客**: 文化有限
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.270谁的人生不窘迫，看破说破凑合过
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6aba734a195d838e2aeb3550/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/ls_caawmHmtwbbEHdNOZKknQJwcF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 当AI开始设计芯片---聊聊EDA与AI时代的芯片设计
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
