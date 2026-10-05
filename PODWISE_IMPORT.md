@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-05 04:11:27
+> 📅 生成时间: 2026-10-05 13:40:35
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://jt.ximalaya.com//GKwRIJEOjPlrABt1owTdsBWF.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 899: Reaching Out
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache
-```
-
-</details>
-
----
-
-### 4. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
+### 3. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -127,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e
 
 ---
 
-### 5. Where all those weird new drinks are coming from
+### 4. Where all those weird new drinks are coming from
 
 **播客名称**: Planet Money
 
@@ -154,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
+### 5. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
 
 **播客名称**: 忽左忽右
 
@@ -175,6 +148,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a
+```
+
+</details>
+
+---
+
+### 6. 183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6abbbc9a195d838e
 
 ---
 
-### 10. 国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45
+### 10. 241. 《早春晴朗》之外，聊聊广告人“穿衣密码”里藏着的一个行业的黄金年代
 
-**播客名称**: 温柔人类 GentleHuman
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6abbd084e742e36efcbccdf8/media.xyzcdn.net/5e280fac418a84a0461fafc9/lpHI0wvbj9dIuTH96pP3S4auFO5D.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6aba821b195d838e2aeb3c09/media.xyzcdn.net/5e285856418a84a04627b7be/llacoZTiqv8HNtSlR5i842Po-6Kz.m4a
 ```
 
 </details>
