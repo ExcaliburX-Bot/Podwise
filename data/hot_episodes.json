@@ -1,23 +1,73 @@
 [
   {
-    "eid": "B1YwQTdrqk8.m4a",
-    "title": "第3162期:Service Dogs and Surfing",
+    "eid": "AJHdwwTS3Uc.mp3",
+    "title": "秋日限定歌单：云淡秋深，风来夜长",
+    "podcast": {
+      "title": "Vibration 歪波音室"
+    },
+    "enclosureUrl": "https://tk.wavpub.com/WPTK_TBKiiAJHdwwTS3Uc.mp3",
+    "pubDate": "2026-10-05T05:15:00+08:00",
+    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
+  },
+  {
+    "eid": "Bt1owTdsBWF.m4a",
+    "title": "第3163期:Dolphin research is dedicated to animal conservation.",
     "podcast": {
       "title": "英语每日一听 | 每天少于5分钟"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIMAOjPYWAB1YwQTdrqk8.m4a?channel=rss&album_id=14812466&track_id=1018443314&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/485b-audiofreehighqps/50/D8/GKwRIMAOjPYWAB1YwQTdrqk8.m4a",
-    "pubDate": "2026-10-04T00:00:00+00:00",
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOjPlrABt1owTdsBWF.m4a?channel=rss&album_id=14812466&track_id=1018445441&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/16/CA/GKwRIJEOjPlrABt1owTdsBWF.m4a",
+    "pubDate": "2026-10-05T00:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
-    "eid": "ad5dcffc972.mp3",
-    "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+    "eid": "bbb8285&nocache",
+    "title": "899: Reaching Out",
     "podcast": {
-      "title": "晚点聊 LateTalk"
+      "title": "This American Life"
     },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3",
-    "pubDate": "2026-10-02T09:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/bf1a2e44-faf2-4928-b55c-f351ebbb8285/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=bf1a2e44-faf2-4928-b55c-f351ebbb8285&nocache",
+    "pubDate": "2026-10-04T20:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
+    "eid": "bhS18P3xItY.m4a",
+    "title": "Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是",
+    "podcast": {
+      "title": "基本无害 Mostly Harmless"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e2aed08a5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhqZliZycQcxf51z2bhS18P3xItY.m4a",
+    "pubDate": "2026-10-03T18:51:30+00:00",
+    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+  },
+  {
+    "eid": "0&size=28490275",
+    "title": "Where all those weird new drinks are coming from",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/e2affd6c-dcac-45d1-b7c9-010b9f3cac4b/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=e2affd6c-dcac-45d1-b7c9-010b9f3cac4b&feed=hvWWWzRv&t=podcast&e=nx-s1-5989651&p=510289&d=1780&size=28490275",
+    "pubDate": "2026-10-02T23:14:21+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "wURPDbGXhza.m4a",
+    "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
+    "podcast": {
+      "title": "忽左忽右"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a",
+    "pubDate": "2026-10-02T09:11:35+00:00",
+    "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
+  },
+  {
+    "eid": "rKs_QThAK7d.m4a",
+    "title": "挣钱时都是超级个体，坐牢时把锅甩给 AI",
+    "podcast": {
+      "title": "AI炼金术"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a",
+    "pubDate": "2026-10-01T13:08:23+00:00",
+    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
     "eid": "dc2864cf92d.mp3",
@@ -80,6 +130,16 @@
     "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
   },
   {
+    "eid": "uo05wTfdA-h.m4a",
+    "title": "Vol.354 宛如泰坦尼克：冒充者综合征大爆发！献给才华平平但野心勃勃的人",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIRwOkGwgAuo05wTfdA-h.m4a?channel=rss&album_id=29887212&track_id=1019832185&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3e27-audiofreehighqps/38/E7/GKwRIRwOkGwgAuo05wTfdA-h.m4a",
+    "pubDate": "2026-09-28T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
+  },
+  {
     "eid": "NOZKknQJwcF.m4a",
     "title": "vol.270谁的人生不窘迫，看破说破凑合过",
     "podcast": {
@@ -108,16 +168,6 @@
     "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep148.mp3",
     "pubDate": "2026-09-28T10:00:00+00:00",
     "source_rss": "https://crazy.capital/feed"
-  },
-  {
-    "eid": "CpReismhyge.mp3",
-    "title": "9月新歌推荐丨田馥甄、宇宙人、細野晴臣、Tove Lo… 🍃秋末必听！",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_UVSJCCpReismhyge.mp3",
-    "pubDate": "2026-09-28T05:15:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "4731_219831.mp3",
@@ -160,16 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "-utmiUig6M6.m4a",
-    "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a",
-    "pubDate": "2026-09-24T05:46:12+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
-  },
-  {
     "eid": "6N7ace_zVG7.m4a",
     "title": "有一种性感叫钱张力！20/30/40岁姐妹的搞钱实战 | 广州听友会",
     "podcast": {
@@ -210,16 +250,6 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
-    "eid": "ah0bsiOBrjc.m4a",
-    "title": "从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千",
-    "podcast": {
-      "title": "AI产品经理 Global"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
-    "pubDate": "2026-09-20T10:02:29+00:00",
-    "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
-  },
-  {
     "eid": "qevLOFIJTw6.m4a",
     "title": "300 高市早苗支持率高位横盘 内阁改组政坛进入多事之秋",
     "podcast": {
@@ -238,16 +268,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOgWbBAWeGygTYzO3x.m4a?channel=rss&album_id=20119986&track_id=1016044786&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/0624-audiofreehighqps/69/1F/GKwRIJEOgWbBAWeGygTYzO3x.m4a",
     "pubDate": "2026-09-17T22:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
-    "eid": "23c33fc1c77.mp3",
-    "title": "67 世界这么近和那么远，我们在一起把人类欢愉再探索一遍",
-    "podcast": {
-      "title": "放学以后After school"
-    },
-    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/125729950/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-14%2Ff7615baa-aeb0-ed61-2102-023c33fc1c77.mp3",
-    "pubDate": "2026-09-15T16:00:00+00:00",
-    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "AKiGl1dRpkS.m4a",
@@ -278,25 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6aa27f979d3264778167154d/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ln3QPNTM-l6IeGu1UUE7e_vGYfXF.m4a",
     "pubDate": "2026-09-10T10:08:43+00:00",
     "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
-  },
-  {
-    "eid": "HFRKVVUiM2P.m4a",
-    "title": "153. 和曾鸣聊产业史观：残酷的真相、会消亡的公司、优秀≠卓越、“OAI、Anth大概率不是原生时代大赢家”",
-    "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6a97f287f03e74ee6b03ea5b/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/luZvhPtdKotbkVR-SHFRKVVUiM2P.m4a",
-    "pubDate": "2026-09-03T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
-  },
-  {
-    "eid": "PAAjTFfsBLx.m4a",
-    "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
-    "pubDate": "2026-08-02T19:39:44+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   }
 ]
