@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-05 23:46  
+> 📅 **更新时间**: 2026-10-06 05:00  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
+### 1. 第3164期:Slum church
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOjQQIABKdUQTdtaPO.m4a?channel=rss&album_id=14812466&track_id=1018450473&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/78ba-audiofreehighqps/E6/6A/GKwRIDoOjQQIABKdUQTdtaPO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
 
 **播客**: 文化有限
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
+### 3. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
 
 **播客**: 周末变奏 Key Change
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. vol.271千万次的问
+### 4. vol.271千万次的问
 
 **播客**: 正经叭叭
 
@@ -47,33 +60,7 @@
 
 ---
 
-### 4. 秋日限定歌单：云淡秋深，风来夜长
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_TBKiiAJHdwwTS3Uc.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 第3163期:Dolphin research is dedicated to animal conservation.
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOjPlrABt1owTdsBWF.m4a?channel=rss&album_id=14812466&track_id=1018445441&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b896-audiofreehighqps/16/CA/GKwRIJEOjPlrABt1owTdsBWF.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 899: Reaching Out
+### 5. 899: Reaching Out
 
 **播客**: This American Life
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
+### 6. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -99,7 +86,7 @@
 
 ---
 
-### 8. Where all those weird new drinks are coming from
+### 7. Where all those weird new drinks are coming from
 
 **播客**: Planet Money
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
+### 8. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
 
 **播客**: 忽左忽右
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 挣钱时都是超级个体，坐牢时把锅甩给 AI
+### 9. 挣钱时都是超级个体，坐牢时把锅甩给 AI
 
 **播客**: AI炼金术
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 当眼镜、耳机、手机都有 AI，谁来统一你的「第二大脑」| 2026 高通骁龙峰会 S10E31
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/2d6bfcec-31c3-4ef2-981f-6dc2864cf92d.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
