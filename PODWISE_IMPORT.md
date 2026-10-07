@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-07 12:41:38
+> 📅 生成时间: 2026-10-07 22:45:01
 > 📊 总计: 10 个播客
 
 ---
@@ -100,7 +100,34 @@ https://jt.ximalaya.com//GKwRIJEOli87AAhmCQThxCaj.m4a?channel=rss&album_id=14812
 
 ---
 
-### 4. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
+### 4. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a
+```
+
+</details>
+
+---
+
+### 5. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
 
 **播客名称**: 周末变奏 Key Change
 
@@ -127,7 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OSwidCI6MX0.ZmmSOyFLq7bARYk7ArZm9s8
 
 ---
 
-### 5. vol.271千万次的问
+### 6. vol.271千万次的问
 
 **播客名称**: 正经叭叭
 
@@ -154,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ac3b647195d838e
 
 ---
 
-### 6. 秋日限定歌单：云淡秋深，风来夜长
+### 7. 秋日限定歌单：云淡秋深，风来夜长
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,7 +208,7 @@ https://tk.wavpub.com/WPTK_TBKiiAJHdwwTS3Uc.mp3
 
 ---
 
-### 7. 899: Reaching Out
+### 8. 899: Reaching Out
 
 **播客名称**: This American Life
 
@@ -208,7 +235,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 8. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
+### 9. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e
 
 ---
 
-### 9. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
+### 10. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
 
 **播客名称**: 忽左忽右
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a
-```
-
-</details>
-
----
-
-### 10. 挣钱时都是超级个体，坐牢时把锅甩给 AI
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOlB8MArKs_QThAK7d.m4a?channel=rss&album_id=74194808&track_id=1020462716&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/ef67-audiofreehighqps/24/C5/GKwRIJIOlB8MArKs_QThAK7d.m4a
 ```
 
 </details>
