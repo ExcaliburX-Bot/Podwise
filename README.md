@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-07 22:45  
+> 📅 **更新时间**: 2026-10-08 04:38  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Personal Agent这个“伪需求”，大厂到底在抢什么？
+### 1. 第3166期:Why we like collecting things
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOljIZABZiEQThxZGA.m4a?channel=rss&album_id=14812466&track_id=1020785997&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8d5d-audiofreehighqps/5E/80/GKwRIDoOljIZABZiEQThxZGA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. Personal Agent这个“伪需求”，大厂到底在抢什么？
 
 **播客**: 人民公园说AI
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Charles Ponzi's scheme (plus a new scam)
+### 3. Charles Ponzi's scheme (plus a new scam)
 
 **播客**: Planet Money
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3165期:Part-human part-mouse brain developed in science breakthrough
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOli87AAhmCQThxCaj.m4a?channel=rss&album_id=14812466&track_id=1020784809&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/326f-audiofreehighqps/F5/F4/GKwRIJEOli87AAhmCQThxCaj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
+### 10. 183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
 
-**播客**: 忽左忽右
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

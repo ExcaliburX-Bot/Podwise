@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-10-07T22:45:01.741365",
+  "generated_at": "2026-10-08T04:38:07.682900",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "第3166期:Why we like collecting things",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoOljIZABZiEQThxZGA.m4a?channel=rss&album_id=14812466&track_id=1020785997&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8d5d-audiofreehighqps/5E/80/GKwRIDoOljIZABZiEQThxZGA.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "Personal Agent这个“伪需求”，大厂到底在抢什么？",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ac6202f195d838e2aee3344/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkbpWCv1eTx4jiwzvLsLRVhBnki4.m4a",
@@ -13,20 +23,10 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Charles Ponzi's scheme (plus a new scam)",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
-      "title": "第3165期:Part-human part-mouse brain developed in science breakthrough",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJEOli87AAhmCQThxCaj.m4a?channel=rss&album_id=14812466&track_id=1020784809&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/326f-audiofreehighqps/F5/F4/GKwRIJEOli87AAhmCQThxCaj.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "505 茶海轶闻：与王恺漫谈中国茶的真假传说",
-      "podcast": "忽左忽右",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a",
+      "title": "183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增",
+      "podcast": "晚点聊 LateTalk",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

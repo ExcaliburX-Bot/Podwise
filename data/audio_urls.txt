@@ -1,11 +1,11 @@
-# 1. Personal Agent这个“伪需求”，大厂到底在抢什么？
+# 1. 第3166期:Why we like collecting things
+https://jt.ximalaya.com//GKwRIDoOljIZABZiEQThxZGA.m4a?channel=rss&album_id=14812466&track_id=1020785997&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8d5d-audiofreehighqps/5E/80/GKwRIDoOljIZABZiEQThxZGA.m4a
+
+# 2. Personal Agent这个“伪需求”，大厂到底在抢什么？
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ac6202f195d838e2aee3344/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkbpWCv1eTx4jiwzvLsLRVhBnki4.m4a
 
-# 2. Charles Ponzi's scheme (plus a new scam)
+# 3. Charles Ponzi's scheme (plus a new scam)
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839
-
-# 3. 第3165期:Part-human part-mouse brain developed in science breakthrough
-https://jt.ximalaya.com//GKwRIJEOli87AAhmCQThxCaj.m4a?channel=rss&album_id=14812466&track_id=1020784809&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/326f-audiofreehighqps/F5/F4/GKwRIJEOli87AAhmCQThxCaj.m4a
 
 # 4. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
 https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a
@@ -25,6 +25,6 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 # 9. Ep213 音乐大师课 | 恋爱不是瞬间的事，但爱是
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac14cfc195d838e2aed08a5/media.xyzcdn.net/5eae66d1418a84a046472b4d/lhqZliZycQcxf51z2bhS18P3xItY.m4a
 
-# 10. 505 茶海轶闻：与王恺漫谈中国茶的真假传说
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6abf70bee742e36efcbdbcba/media.xyzcdn.net/5e4ee557418a84a0466737b7/lighspj-Fv3GgyUj1wURPDbGXhza.m4a
+# 10. 183: 与Henry的「AI季报26Q3」：Muse引爆个人助理、Astra进入机器人、OpenAI收入猛增
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/47e78c2f-c36f-4894-9124-dad5dcffc972.mp3
 
