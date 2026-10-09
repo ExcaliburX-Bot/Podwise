@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-09 12:37:07
+> 📅 生成时间: 2026-10-09 22:17:31
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. E253 AI 会改变世界，可它真的有让世界变好吗？
+### 1. Should we all be getting tariff refunds right now?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555
+```
+
+</details>
+
+---
+
+### 2. E253 AI 会改变世界，可它真的有让世界变好吗？
 
 **播客名称**: 知行小酒馆
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e
 
 ---
 
-### 2. #29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯
+### 3. #29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯
 
 **播客名称**: 出海相对论
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36e
 
 ---
 
-### 3. 506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案
+### 4. 506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案
 
 **播客名称**: 忽左忽右
 
@@ -100,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ac8a47fe742e36e
 
 ---
 
-### 4. 27. 找出路丨从外企高管到开养生饮品店，一个“小生意”到底有多难做？
+### 5. 301 敌国or盟国：中美高层互动紧密 日本陷入“名位”焦虑
 
-**播客名称**: 贝望录
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e2aeed4dd/media.xyzcdn.net/Fu0eXex3SAemicqgJga6Gp9yNmWn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,22 +147,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e2aeed4dd/media.xyzcdn.net/Fu0eXex3SAemicqgJga6Gp9yNmWn.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 </details>
 
 ---
 
-### 5. 第3167期:Let growth go beyond skin color
+### 6. Ep214 全 P 人团队的千人露营计划！|小红书外人节操作手册
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJEOljVuABgEmgThx30m.m4a?channel=rss&album_id=14812466&track_id=1020788608&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/705f-audiofreehighqps/66/1C/GKwRIJEOljVuABgEmgThx30m.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac7bdf5e742e36efcbfff1b/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnPUmR-CSxk_LO_XwSVjQD0Xtvbl.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,68 +174,14 @@ https://jt.ximalaya.com//GKwRIJEOljVuABgEmgThx30m.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJEOljVuABgEmgThx30m.m4a?channel=rss&album_id=14812466&track_id=1020788608&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/705f-audiofreehighqps/66/1C/GKwRIJEOljVuABgEmgThx30m.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac7bdf5e742e36efcbfff1b/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnPUmR-CSxk_LO_XwSVjQD0Xtvbl.m4a
 ```
 
 </details>
 
 ---
 
-### 6. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
-```
-
-</details>
-
----
-
-### 7. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ac7ce36195d838e2aeeebd9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmk4LUckJgN-CPIVD-7Dy9VmsL0u.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ac7ce36195d838e2aeeebd9/media.xyzcdn.net/60502e253c92d4f62c2a9577/lmk4LUckJgN-CPIVD-7Dy9VmsL0u.m4a
-```
-
-</details>
-
----
-
-### 8. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
+### 7. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
 
 **播客名称**: 硅谷101
 
@@ -235,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0
 
 ---
 
-### 9. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
+### 8. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
 
 **播客名称**: 搞钱女孩
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ac6a657e742e36e
 
 ---
 
-### 10. Personal Agent这个“伪需求”，大厂到底在抢什么？
+### 9. Personal Agent这个“伪需求”，大厂到底在抢什么？
 
 **播客名称**: 人民公园说AI
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ac6202f195d838e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ac6202f195d838e2aee3344/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkbpWCv1eTx4jiwzvLsLRVhBnki4.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a
 ```
 
 </details>
