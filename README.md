@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-08 22:56  
+> 📅 **更新时间**: 2026-10-09 04:41  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
+### 2. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
 
 **播客**: 十字路口Crossing
 
@@ -34,33 +47,33 @@
 
 ---
 
-### 3. Ep214 全 P 人团队的千人露营计划！|小红书外人节操作手册
+### 4. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
 
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac7bdf5e742e36efcbfff1b/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnPUmR-CSxk_LO_XwSVjQD0Xtvbl.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第3166期:Why we like collecting things
-
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOljIZABZiEQThxZGA.m4a?channel=rss&album_id=14812466&track_id=1020785997&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8d5d-audiofreehighqps/5E/80/GKwRIDoOljIZABZiEQThxZGA.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 5. Personal Agent这个“伪需求”，大厂到底在抢什么？
+### 5. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ac6a657e742e36efcbf74af/media.xyzcdn.net/63d945ece725b5378a158d29/ludMNNwba4di_QDyqPp8qwdQFB0F.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. Personal Agent这个“伪需求”，大厂到底在抢什么？
 
 **播客**: 人民公园说AI
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Charles Ponzi's scheme (plus a new scam)
+### 7. Charles Ponzi's scheme (plus a new scam)
 
 **播客**: Planet Money
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
+### 8. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
 
 **播客**: 文化有限
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
+### 9. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
 
 **播客**: 周末变奏 Key Change
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. vol.271千万次的问
+### 10. vol.271千万次的问
 
 **播客**: 正经叭叭
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ac3b647195d838e2aed9127/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lliUyiCA2HgSpPuvALfN1pcP-7ES.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 秋日限定歌单：云淡秋深，风来夜长
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_TBKiiAJHdwwTS3Uc.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
