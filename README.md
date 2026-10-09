@@ -1,27 +1,79 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-09 04:41  
+> 📅 **更新时间**: 2026-10-09 12:37  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 301 敌国or盟国：中美高层互动紧密 日本陷入“名位”焦虑
+### 1. E253 AI 会改变世界，可它真的有让世界变好吗？
 
-**播客**: 东亚观察局
+**播客**: 知行小酒馆
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e2aef2e5f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loT2ELu49vlMwEanppQH5Uz0Xa1h.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
+### 2. #29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯
+
+**播客**: 出海相对论
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ac8a47fe742e36efcc052a9/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvQmgp0K-6R7O0WhWBAkBUct8kVn.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 27. 找出路丨从外企高管到开养生饮品店，一个“小生意”到底有多难做？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e2aeed4dd/media.xyzcdn.net/Fu0eXex3SAemicqgJga6Gp9yNmWn.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 第3167期:Let growth go beyond skin color
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOljVuABgEmgThx30m.m4a?channel=rss&album_id=14812466&track_id=1020788608&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/705f-audiofreehighqps/66/1C/GKwRIJEOljVuABgEmgThx30m.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -34,7 +86,7 @@
 
 ---
 
-### 3. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
+### 7. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +99,7 @@
 
 ---
 
-### 4. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
+### 8. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
 
 **播客**: 硅谷101
 
@@ -60,7 +112,7 @@
 
 ---
 
-### 5. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
+### 9. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
 
 **播客**: 搞钱女孩
 
@@ -73,7 +125,7 @@
 
 ---
 
-### 6. Personal Agent这个“伪需求”，大厂到底在抢什么？
+### 10. Personal Agent这个“伪需求”，大厂到底在抢什么？
 
 **播客**: 人民公园说AI
 
@@ -82,58 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ac6202f195d838e2aee3344/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkbpWCv1eTx4jiwzvLsLRVhBnki4.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. Charles Ponzi's scheme (plus a new scam)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4e673c43-e87c-4ef1-9ba0-3350c61d0dc6/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4e673c43-e87c-4ef1-9ba0-3350c61d0dc6&feed=hvWWWzRv&t=podcast&e=nx-s1-5992800&p=510289&d=1530&size=24495839)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.355 推销员之死：那些杀不死我的，为什么一直在打我
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4Ols9XAwR6VQTiFMYa.m4a?channel=rss&album_id=29887212&track_id=1020862678&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/e096-audiofreehighqps/D5/9C/GKwRIW4Ols9XAwR6VQTiFMYa.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 人在长春，常来西普士多听音乐（嘉宾：邢龙）
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTM1OSwidCI6MX0.ZmmSOyFLq7bARYk7ArZm9s8eiS4/keychangefm/8208782051_558665.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. vol.271千万次的问
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ac3b647195d838e2aed9127/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lliUyiCA2HgSpPuvALfN1pcP-7ES.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
