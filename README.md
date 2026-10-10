@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-10 04:26  
+> 📅 **更新时间**: 2026-10-10 11:57  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,20 @@
 
 ---
 
-### 2. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
+### 2. Should we all be getting tariff refunds right now?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
 
 **播客**: AI炼金术
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOn203AiiDpQTlGPSm.m4a?channel=rss&album_id=74194808&track_id=1022384765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/871f-audiofreehighqps/8F/76/GKwRIDoOn203AiiDpQTlGPSm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. E253 AI 会改变世界，可它真的有让世界变好吗？
-
-**播客**: 知行小酒馆
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e2aef2e5f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loT2ELu49vlMwEanppQH5Uz0Xa1h.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -86,20 +86,7 @@
 
 ---
 
-### 7. 301 敌国or盟国：中美高层互动紧密 日本陷入“名位”焦虑
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
+### 7. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -112,7 +99,7 @@
 
 ---
 
-### 9. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
+### 8. AI 无限，人生有限｜对谈 KK、山音：一线 AI 创作者
 
 **播客**: 十字路口Crossing
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. Ep214 全 P 人团队的千人露营计划！|小红书外人节操作手册
+### 9. Ep214 全 P 人团队的千人露营计划！|小红书外人节操作手册
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ac7bdf5e742e36efcbfff1b/media.xyzcdn.net/5eae66d1418a84a046472b4d/lnPUmR-CSxk_LO_XwSVjQD0Xtvbl.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 海盐：5 年医护月入 2K，半年 AI 摄影赚 50W，想改命就得会用杠杆赚钱！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ac6a657e742e36efcbf74af/media.xyzcdn.net/63d945ece725b5378a158d29/ludMNNwba4di_QDyqPp8qwdQFB0F.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
