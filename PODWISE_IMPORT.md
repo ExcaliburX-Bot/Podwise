@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-10 11:57:17
+> 📅 生成时间: 2026-10-10 17:07:04
 > 📊 总计: 10 个播客
 
 ---
@@ -19,34 +19,7 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3168期:Black magician
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOljhdABoGpwThyZX9.m4a?channel=rss&album_id=14812466&track_id=1020790305&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c113-audiofreehighqps/25/35/GKwRIJIOljhdABoGpwThyZX9.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOljhdABoGpwThyZX9.m4a?channel=rss&album_id=14812466&track_id=1020790305&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c113-audiofreehighqps/25/35/GKwRIJIOljhdABoGpwThyZX9.m4a
-```
-
-</details>
-
----
-
-### 2. Should we all be getting tariff refunds right now?
+### 1. Should we all be getting tariff refunds right now?
 
 **播客名称**: Planet Money
 
@@ -73,7 +46,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
+### 2. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
 
 **播客名称**: AI炼金术
 
@@ -94,6 +67,33 @@ https://jt.ximalaya.com//GKwRIDoOn203AiiDpQTlGPSm.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoOn203AiiDpQTlGPSm.m4a?channel=rss&album_id=74194808&track_id=1022384765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/871f-audiofreehighqps/8F/76/GKwRIDoOn203AiiDpQTlGPSm.m4a
+```
+
+</details>
+
+---
+
+### 3. E253 AI 会改变世界，可它真的有让世界变好吗？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e2aef2e5f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loT2ELu49vlMwEanppQH5Uz0Xa1h.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e2aef2e5f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/loT2ELu49vlMwEanppQH5Uz0Xa1h.m4a
 ```
 
 </details>
@@ -181,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e
 
 ---
 
-### 7. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
+### 7. 301 敌国or盟国：中美高层互动紧密 日本陷入“名位”焦虑
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +201,7 @@ https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 </details>
