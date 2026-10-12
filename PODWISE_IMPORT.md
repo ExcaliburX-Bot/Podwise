@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-12 04:27:49
+> 📅 生成时间: 2026-10-12 14:29:35
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3170期:Italian government websites hit by pro-Russian cyberattacks
+### 1. Ep215 音乐大师课 | 我是电！视！狂！魔！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoOl4DpAA02CQTiTcrE.m4a?channel=rss&album_id=14812466&track_id=1020991337&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8ab3-audiofreehighqps/E5/5D/GKwRIDoOl4DpAA02CQTiTcrE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,7 +39,7 @@ https://jt.ximalaya.com//GKwRIDoOl4DpAA02CQTiTcrE.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoOl4DpAA02CQTiTcrE.m4a?channel=rss&album_id=14812466&track_id=1020991337&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8ab3-audiofreehighqps/E5/5D/GKwRIDoOl4DpAA02CQTiTcrE.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://tk.wavpub.com/WPTK_FKteYO2IlmFPZgeQ.mp3
 
 ---
 
-### 5. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
+### 5. Should we all be getting tariff refunds right now?
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f659337b-d25e-4099-821d-1b3f11def305/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f659337b-d25e-4099-821d-1b3f11def305&feed=hvWWWzRv&t=podcast&e=nx-s1-5996901&p=510289&d=1803&size=28850555
+```
+
+</details>
+
+---
+
+### 6. 和 ColaOS 橘子聊个人 Agent 这半年：时代追上了他，他却打了转向灯
 
 **播客名称**: AI炼金术
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIDoOn203AiiDpQTlGPSm.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. E253 AI 会改变世界，可它真的有让世界变好吗？
+### 7. E253 AI 会改变世界，可它真的有让世界变好吗？
 
 **播客名称**: 知行小酒馆
 
@@ -181,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ac89152195d838e
 
 ---
 
-### 7. #29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯
+### 8. #29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯
 
 **播客名称**: 出海相对论
 
@@ -202,33 +229,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a
-```
-
-</details>
-
----
-
-### 8. 506 亿万美元间谍：托卡契夫与冷战晚期美苏情报大案
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ac8a47fe742e36efcc052a9/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvQmgp0K-6R7O0WhWBAkBUct8kVn.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ac8a47fe742e36efcc052a9/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvQmgp0K-6R7O0WhWBAkBUct8kVn.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e
 
 ---
 
-### 10. S8 Vol.26 兔咚咚于红：我们到底希望孩子成为一个怎样的大人？
+### 10. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
 
-**播客名称**: 创业内幕 Startup Insider
+**播客名称**: 硅谷101
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIaIOmRxnAeWPOwTi6H_J.m4a?channel=rss&album_id=20119986&track_id=1021213335&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/ea2a-audiofreehighqps/7D/6D/GKwRIaIOmRxnAeWPOwTi6H_J.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3
 ```
 
 </details>
