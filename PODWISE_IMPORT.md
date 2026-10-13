@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-12 14:29:35
+> 📅 生成时间: 2026-10-13 00:10:45
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep215 音乐大师课 | 我是电！视！狂！魔！
+### 1. 第3171期:US passenger plane flips over while landing in Canada
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
+https://jt.ximalaya.com//GKwRIRwOl4NeABQ0DwTiTrOr.m4a?channel=rss&album_id=14812466&track_id=1020992350&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/383a-audiofreehighqps/0C/79/GKwRIRwOl4NeABQ0DwTiTrOr.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
+https://jt.ximalaya.com//GKwRIRwOl4NeABQ0DwTiTrOr.m4a?channel=rss&album_id=14812466&track_id=1020992350&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/383a-audiofreehighqps/0C/79/GKwRIRwOl4NeABQ0DwTiTrOr.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 427: Original Recipe
+### 2. 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓
 
-**播客名称**: This American Life
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,22 +66,22 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 音频链接（点击复制）:
 ```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
 ```
 
 </details>
 
 ---
 
-### 3. “有了AI，我感觉自己强得可怕！”｜对谈鸭哥
+### 3. vol.272放了车胎气，是对初中老师的情谊
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 正经叭叭
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aca7f91e742e36efcc10957/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr19x9_9JYmicOZS2uFAbR8YC6Kb.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aca7f91e742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aca7f91e742e36efcc10957/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr19x9_9JYmicOZS2uFAbR8YC6Kb.m4a
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ac799c1195d838e
 
 ---
 
-### 10. E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔
+### 10. 301 敌国or盟国：中美高层互动紧密 日本陷入“名位”焦虑
 
-**播客名称**: 硅谷101
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ac7be31e742e36efcbfff3f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lvoZafwVyS9cFu6XZ2Zm6KVGFTTN.m4a
 ```
 
 </details>
