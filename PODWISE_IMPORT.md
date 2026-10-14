@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-14 03:38:18
+> 📅 生成时间: 2026-10-14 11:14:11
 > 📊 总计: 10 个播客
 
 ---
@@ -46,34 +46,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e
 
 ---
 
-### 2. 第3172期:Pope Francis hospitalized with respiratory infection
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812466&track_id=1020993810&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1fd-audiofreehighqps/B6/F3/GKwRIJEOl4WWABN5lATiT6vg.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812466&track_id=1020993810&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1fd-audiofreehighqps/B6/F3/GKwRIJEOl4WWABN5lATiT6vg.m4a
-```
-
-</details>
-
----
-
-### 3. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
+### 2. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
 
 **播客名称**: 放学以后After school
 
@@ -100,7 +73,7 @@ https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 4. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+### 3. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
 
 **播客名称**: 疯投圈
 
@@ -121,6 +94,33 @@ https://rio.xyzcdn.net/crazycapital/ep149.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep149.mp3
+```
+
+</details>
+
+---
+
+### 4. 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e
 
 ---
 
-### 7. 番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？
+### 7. vol.272放了车胎气，是对初中老师的情谊
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
+```
+
+</details>
+
+---
+
+### 8. 番外 16：“情绪价值经济学”—花钱买开心，到底是不是一门好生意？
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -189,7 +216,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acc3cf9e742e36efcc17df4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ls7BY7EUbCDEZcacT-5W8X-bYEdr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acc3cf9e742e36efcc17df4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgIfXPZQkN5JjHXvqEbIZ3_p22Kq.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,68 +228,14 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acc3cf9e742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acc3cf9e742e36efcc17df4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ls7BY7EUbCDEZcacT-5W8X-bYEdr.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acc3cf9e742e36efcc17df4/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lgIfXPZQkN5JjHXvqEbIZ3_p22Kq.m4a
 ```
 
 </details>
 
 ---
 
-### 8. Ep215 音乐大师课 | 我是电！视！狂！魔！
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
-```
-
-</details>
-
----
-
-### 9. 427: Original Recipe
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
-```
-
-</details>
-
----
-
-### 10. “有了AI，我感觉自己强得可怕！”｜对谈鸭哥
+### 9. “有了AI，我感觉自己强得可怕！”｜对谈鸭哥
 
 **播客名称**: 十字路口Crossing
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aca7f91e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6aca7f91e742e36efcc10957/media.xyzcdn.net/60502e253c92d4f62c2a9577/lr19x9_9JYmicOZS2uFAbR8YC6Kb.m4a
+```
+
+</details>
+
+---
+
+### 10. 🏞️公园散步 Mixtape：慢点走吧
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_FKteYO2IlmFPZgeQ.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_FKteYO2IlmFPZgeQ.mp3
 ```
 
 </details>
