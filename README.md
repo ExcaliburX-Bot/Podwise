@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-13 22:18  
+> 📅 **更新时间**: 2026-10-14 03:38  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
+### 1. 242. 从会跳舞到走进真正的物理世界，机器人还缺什么？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3172期:Pope Francis hospitalized with respiratory infection
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812466&track_id=1020993810&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1fd-audiofreehighqps/B6/F3/GKwRIJEOl4WWABN5lATiT6vg.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
 
 **播客**: 放学以后After school
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+### 4. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
 
 **播客**: 疯投圈
 
@@ -30,32 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep149.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第3171期:US passenger plane flips over while landing in Canada
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOl4NeABQ0DwTiTrOr.m4a?channel=rss&album_id=14812466&track_id=1020992350&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/383a-audiofreehighqps/0C/79/GKwRIRwOl4NeABQ0DwTiTrOr.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,15 +73,15 @@
 
 ---
 
-### 6. vol.272放了车胎气，是对初中老师的情谊
+### 6. 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓
 
-**播客**: 正经叭叭
+**播客**: 42章经
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

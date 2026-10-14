@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-13 22:18:27
+> 📅 生成时间: 2026-10-14 03:38:18
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
+### 1. 242. 从会跳舞到走进真正的物理世界，机器人还缺什么？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3172期:Pope Francis hospitalized with respiratory infection
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812466&track_id=1020993810&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1fd-audiofreehighqps/B6/F3/GKwRIJEOl4WWABN5lATiT6vg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812466&track_id=1020993810&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f1fd-audiofreehighqps/B6/F3/GKwRIJEOl4WWABN5lATiT6vg.m4a
+```
+
+</details>
+
+---
+
+### 3. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
 
 **播客名称**: 放学以后After school
 
@@ -46,7 +100,7 @@ https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 2. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+### 4. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
 
 **播客名称**: 疯投圈
 
@@ -67,60 +121,6 @@ https://rio.xyzcdn.net/crazycapital/ep149.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep149.mp3
-```
-
-</details>
-
----
-
-### 3. 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
-```
-
-</details>
-
----
-
-### 4. 第3171期:US passenger plane flips over while landing in Canada
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOl4NeABQ0DwTiTrOr.m4a?channel=rss&album_id=14812466&track_id=1020992350&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/383a-audiofreehighqps/0C/79/GKwRIRwOl4NeABQ0DwTiTrOr.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOl4NeABQ0DwTiTrOr.m4a?channel=rss&album_id=14812466&track_id=1020992350&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/383a-audiofreehighqps/0C/79/GKwRIRwOl4NeABQ0DwTiTrOr.m4a
 ```
 
 </details>
@@ -154,15 +154,15 @@ https://jt.ximalaya.com//GKwRIW4Oms-MA1LiXgTjj3Um.m4a?channel=rss&album_id=29887
 
 ---
 
-### 6. vol.272放了车胎气，是对初中老师的情谊
+### 6. 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓
 
-**播客名称**: 正经叭叭
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +174,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36efcc1eac3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lo-_ag3zDms1an7xfrQvXnf4AOI6.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
 ```
 
 </details>
