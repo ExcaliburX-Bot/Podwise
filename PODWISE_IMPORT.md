@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-14 16:35:28
+> 📅 生成时间: 2026-10-14 21:17:56
 > 📊 总计: 10 个播客
 
 ---
@@ -73,34 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acf43d9e742e36e
 
 ---
 
-### 3. 242. 从会跳舞到走进真正的物理世界，机器人还缺什么？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
-```
-
-</details>
-
----
-
-### 4. 第3172期:Pope Francis hospitalized with respiratory infection
+### 3. 第3172期:Pope Francis hospitalized with respiratory infection
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJEOl4WWABN5lATiT6vg.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
+### 4. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
 
 **播客名称**: 放学以后After school
 
@@ -154,7 +127,7 @@ https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl
 
 ---
 
-### 6. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+### 5. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
 
 **播客名称**: 疯投圈
 
@@ -175,6 +148,33 @@ https://rio.xyzcdn.net/crazycapital/ep149.mp3
 音频链接（点击复制）:
 ```
 https://rio.xyzcdn.net/crazycapital/ep149.mp3
+```
+
+</details>
+
+---
+
+### 6. 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
 ```
 
 </details>
@@ -208,7 +208,34 @@ https://jt.ximalaya.com//GKwRIW4Oms-MA1LiXgTjj3Um.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.272放了车胎气，是对初中老师的情谊
+### 8. 一个 Personal Agent 创业者的思考｜对谈 Ambi 创始人子皓
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6accc5de195d838e2af0bd9a/media.xyzcdn.net/648b0b641c48983391a63f98/lkR2rf-l-fT_P_I6f-TaY5vLNT6e.m4a
+```
+
+</details>
+
+---
+
+### 9. vol.272放了车胎气，是对初中老师的情谊
 
 **播客名称**: 正经叭叭
 
@@ -235,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6acceacbe742e36e
 
 ---
 
-### 9. Ep215 音乐大师课 | 我是电！视！狂！魔！
+### 10. Ep215 音乐大师课 | 我是电！视！狂！魔！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6acc8d6ce742e36efcc1b630/media.xyzcdn.net/5eae66d1418a84a046472b4d/lmmy2uIMUz7WPUHkJY8Uk1uspbND.m4a
-```
-
-</details>
-
----
-
-### 10. 427: Original Recipe
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/12c2bc83-3713-4c97-8ba1-1da73c0fc7a4/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=12c2bc83-3713-4c97-8ba1-1da73c0fc7a4&nocache
 ```
 
 </details>
