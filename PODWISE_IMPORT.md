@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-16 16:07:45
+> 📅 生成时间: 2026-10-16 20:32:24
 > 📊 总计: 10 个播客
 
 ---
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a
 
 ---
 
-### 4. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
+### 4. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
 
-**播客名称**: 贝望录
+**播客名称**: 沈奕斐的播客
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,7 +120,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba7
 
 ---
 
-### 10. 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
+### 10. 十月广播电视报：我已经不再是我，而你却依然是你
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 展开讲讲
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a
 ```
 
 </details>
