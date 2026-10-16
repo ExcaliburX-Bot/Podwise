@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-16 10:45:13
+> 📅 生成时间: 2026-10-16 16:07:45
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4f
 
 ---
 
-### 2. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 2. E254 我的意外之财｜小酒馆故事会🍻
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
+```
+
+</details>
+
+---
+
+### 3. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客名称**: 忽左忽右
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
-```
-
-</details>
-
----
-
-### 3. 第3174期:Tulsi Gabbard sworn in as Director of National Intelligence
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
 ```
 
 </details>
@@ -127,7 +127,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e
 
 ---
 
-### 5. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
+### 5. 第3174期:Tulsi Gabbard sworn in as Director of National Intelligence
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
+```
+
+</details>
+
+---
+
+### 6. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -154,7 +181,34 @@ https://jt.ximalaya.com//GKwRIRwOpk9HAVOuAQTo96Az.m4a?channel=rss&album_id=20119
 
 ---
 
-### 6. AI逆向：最没想象力的事，就是再造一个Photoshop！
+### 7. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
+```
+
+</details>
+
+---
+
+### 8. AI逆向：最没想象力的事，就是再造一个Photoshop！
 
 **播客名称**: 人民公园说AI
 
@@ -181,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406
 
 ---
 
-### 7. 十月广播电视报：我已经不再是我，而你却依然是你
+### 9. 184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？
 
-**播客名称**: 展开讲讲
+**播客名称**: 晚点聊 LateTalk
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +255,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3
 ```
 
 </details>
 
 ---
 
-### 8. 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
+### 10. 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
 
 **播客名称**: 张小珺Jùn｜商业访谈录
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
-```
-
-</details>
-
----
-
-### 9. Wanna slow down AI? These biologists can help.
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130
-```
-
-</details>
-
----
-
-### 10. AI 帮我干完了 20 年的活儿，我却感觉像坐牢
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOpU1yApuWDQTocFE-.m4a?channel=rss&album_id=74194808&track_id=1024259801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1f17-audiofreehighqps/57/95/GKwRIRwOpU1yApuWDQTocFE-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOpU1yApuWDQTocFE-.m4a?channel=rss&album_id=74194808&track_id=1024259801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1f17-audiofreehighqps/57/95/GKwRIRwOpU1yApuWDQTocFE-.m4a
 ```
 
 </details>
