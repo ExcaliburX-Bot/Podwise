@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-15 20:57:38
+> 📅 生成时间: 2026-10-16 03:14:47
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
+### 1. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
 
-**播客名称**: 东亚观察局
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,41 +39,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
-```
-
-</details>
-
----
-
-### 3. 第3173期:Is social media still 'social'?
+### 2. 第3174期:Tulsi Gabbard sworn in as Director of National Intelligence
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -81,7 +54,7 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIRwOn2pxABW0zQTlFzTS.m4a?channel=rss&album_id=14812466&track_id=1022511328&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e769-audiofreehighqps/0D/19/GKwRIRwOn2pxABW0zQTlFzTS.m4a
+https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,14 +66,68 @@ https://jt.ximalaya.com//GKwRIRwOn2pxABW0zQTlFzTS.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIRwOn2pxABW0zQTlFzTS.m4a?channel=rss&album_id=14812466&track_id=1022511328&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/e769-audiofreehighqps/0D/19/GKwRIRwOn2pxABW0zQTlFzTS.m4a
+https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a
 ```
 
 </details>
 
 ---
 
-### 4. 十月广播电视报：我已经不再是我，而你却依然是你
+### 3. AI逆向：最没想象力的事，就是再造一个Photoshop！
+
+**播客名称**: 人民公园说AI
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a
+```
+
+</details>
+
+---
+
+### 4. 184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3
+```
+
+</details>
+
+---
+
+### 5. 十月广播电视报：我已经不再是我，而你却依然是你
 
 **播客名称**: 展开讲讲
 
@@ -127,7 +154,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e
 
 ---
 
-### 5. 万物皆可虚拟资料！AI+Skill=小红书新商机，普通人的搞钱新杠杆！
+### 6. 154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a
+```
+
+</details>
+
+---
+
+### 7. 万物皆可虚拟资料！AI+Skill=小红书新商机，普通人的搞钱新杠杆！
 
 **播客名称**: 搞钱女孩
 
@@ -154,15 +208,15 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6acfca97e742e36e
 
 ---
 
-### 6. Wanna slow down AI? These biologists can help.
+### 8. AI 帮我干完了 20 年的活儿，我却感觉像坐牢
 
-**播客名称**: Planet Money
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130
+https://jt.ximalaya.com//GKwRIRwOpU1yApuWDQTocFE-.m4a?channel=rss&album_id=74194808&track_id=1024259801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1f17-audiofreehighqps/57/95/GKwRIRwOpU1yApuWDQTocFE-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,22 +228,22 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130
+https://jt.ximalaya.com//GKwRIRwOpU1yApuWDQTocFE-.m4a?channel=rss&album_id=74194808&track_id=1024259801&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/1f17-audiofreehighqps/57/95/GKwRIRwOpU1yApuWDQTocFE-.m4a
 ```
 
 </details>
 
 ---
 
-### 7. 242. 从会跳舞到走进真正的物理世界，机器人还缺什么？
+### 9. No.222 🏛️ 1402、穹顶、暗杀、佛罗伦萨与文艺复兴：美第奇家族·上
 
-**播客名称**: 贝望录
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acf43d9e742e36efcc2dbdf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lp2Lq2QbxaURtoLWl2mP74Ksg6MR.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ace3767195d838e2af15c84/media.xyzcdn.net/5e285856418a84a04627b7be/lrFfSGUU0Tffxpb6A-UTax1u2W-0.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acf43d9e742e36efcc2dbdf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lp2Lq2QbxaURtoLWl2mP74Ksg6MR.m4a
 ```
 
 </details>
 
 ---
 
-### 8. 149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷
+### 10. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
 
-**播客名称**: 疯投圈
+**播客名称**: 放学以后After school
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep149.mp3
+https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,61 +282,7 @@ https://rio.xyzcdn.net/crazycapital/ep149.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep149.mp3
-```
-
-</details>
-
----
-
-### 9. 507 葡萄酒盲品漫话：「神童」安德烈眼中的世锦赛、风土与掌故
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6acdee13195d838e2af13466/media.xyzcdn.net/5e4ee557418a84a0466737b7/lj-iFY788jLSfGA_YZhmES-9qb2g.m4a
-```
-
-</details>
-
----
-
-### 10. Vol.356 白鲸：庸常的生活已受够，请大海带走我的哀愁
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4Oms-MA1LiXgTjj3Um.m4a?channel=rss&album_id=29887212&track_id=1021473356&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/db5c-audiofreehighqps/E3/8A/GKwRIW4Oms-MA1LiXgTjj3Um.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4Oms-MA1LiXgTjj3Um.m4a?channel=rss&album_id=29887212&track_id=1021473356&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/db5c-audiofreehighqps/E3/8A/GKwRIW4Oms-MA1LiXgTjj3Um.m4a
+https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3
 ```
 
 </details>
