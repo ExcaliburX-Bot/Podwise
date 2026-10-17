@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-16 20:32  
+> 📅 **更新时间**: 2026-10-17 03:05  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+### 1. Anatomy of a movie market
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
 
 **播客**: What's Next｜科技早知道
 
@@ -21,7 +34,20 @@
 
 ---
 
-### 2. E254 我的意外之财｜小酒馆故事会🍻
+### 3. 小步5曲 #6丨享受吧！金九银十
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E254 我的意外之财｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 5. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客**: 忽左忽右
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
+### 6. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
 
 **播客**: 沈奕斐的播客
 
@@ -60,20 +86,20 @@
 
 ---
 
-### 5. 第3174期:Tulsi Gabbard sworn in as Director of National Intelligence
+### 7. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOn27sABTRMATlGiMN.m4a?channel=rss&album_id=14812466&track_id=1022520352&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c810-audiofreehighqps/AB/FD/GKwRIRwOn27sABTRMATlGiMN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
+### 8. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
 
 **播客**: 创业内幕 Startup Insider
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
+### 9. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
 
 **播客**: 东亚观察局
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. AI逆向：最没想象力的事，就是再造一个Photoshop！
+### 10. AI逆向：最没想象力的事，就是再造一个Photoshop！
 
 **播客**: 人民公园说AI
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 十月广播电视报：我已经不再是我，而你却依然是你
-
-**播客**: 展开讲讲
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
