@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-17 15:00:07
+> 📅 生成时间: 2026-10-17 20:09:43
 > 📊 总计: 10 个播客
 
 ---
@@ -73,15 +73,15 @@ https://jt.ximalaya.com//GKwRIJIOn3EYABTeaATlG6D6.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Anatomy of a movie market
+### 3. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
 
-**播客名称**: Planet Money
+**播客名称**: What's Next｜科技早知道
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,41 +93,14 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
 ```
 
 </details>
 
 ---
 
-### 4. 小步5曲 #6丨享受吧！金九银十
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
-```
-
-</details>
-
----
-
-### 5. E254 我的意外之财｜小酒馆故事会🍻
+### 4. E254 我的意外之财｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -148,6 +121,33 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
+```
+
+</details>
+
+---
+
+### 5. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
 ```
 
 </details>
