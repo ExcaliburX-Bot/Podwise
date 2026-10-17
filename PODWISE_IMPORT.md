@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-17 10:11:23
+> 📅 生成时间: 2026-10-17 15:00:07
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3175期:US and Canada Join Forces to Combat Drug Smuggling
+### 1. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+
+**播客名称**: 42章经
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3175期:US and Canada Join Forces to Combat Drug Smuggling
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJIOn3EYABTeaATlG6D6.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. Anatomy of a movie market
+### 3. Anatomy of a movie market
 
 **播客名称**: Planet Money
 
@@ -67,33 +94,6 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 音频链接（点击复制）:
 ```
 https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911
-```
-
-</details>
-
----
-
-### 3. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
-
-**播客名称**: What's Next｜科技早知道
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a
 
 ---
 
-### 6. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
-```
-
-</details>
-
----
-
-### 7. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
+### 6. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
 
 **播客名称**: 沈奕斐的播客
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e
 
 ---
 
-### 8. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
+### 7. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
 
 **播客名称**: 贝望录
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e
 
 ---
 
-### 9. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
+### 8. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -256,6 +229,33 @@ https://jt.ximalaya.com//GKwRIRwOpk9HAVOuAQTo96Az.m4a?channel=rss&album_id=20119
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIRwOpk9HAVOuAQTo96Az.m4a?channel=rss&album_id=20119986&track_id=1024461056&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/cc61-audiofreehighqps/30/48/GKwRIRwOpk9HAVOuAQTo96Az.m4a
+```
+
+</details>
+
+---
+
+### 9. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
 ```
 
 </details>
