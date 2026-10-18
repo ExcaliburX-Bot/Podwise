@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-18 03:08:26
+> 📅 生成时间: 2026-10-18 10:26:27
 > 📊 总计: 10 个播客
 
 ---
@@ -154,34 +154,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2N
 
 ---
 
-### 6. E254 我的意外之财｜小酒馆故事会🍻
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
-```
-
-</details>
-
----
-
-### 7. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 6. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,61 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a
 
 ---
 
-### 8. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
+### 7. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+```
+
+</details>
+
+---
+
+### 8. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
+```
+
+</details>
+
+---
+
+### 9. S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -235,7 +262,7 @@ https://jt.ximalaya.com//GKwRIRwOpk9HAVOuAQTo96Az.m4a?channel=rss&album_id=20119
 
 ---
 
-### 9. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
+### 10. 302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？
 
 **播客名称**: 东亚观察局
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a
-```
-
-</details>
-
----
-
-### 10. AI逆向：最没想象力的事，就是再造一个Photoshop！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a
 ```
 
 </details>
