@@ -80,16 +80,6 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
-    "eid": "KRSSfFBphIL.m4a",
-    "title": "E254 我的意外之财｜小酒馆故事会🍻",
-    "podcast": {
-      "title": "知行小酒馆"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a",
-    "pubDate": "2026-10-16T12:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
     "eid": "t-wyavdWFfU.m4a",
     "title": "508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」",
     "podcast": {
@@ -98,16 +88,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a",
     "pubDate": "2026-10-16T09:17:07+00:00",
     "source_rss": "https://feed.xyzfm.space/cv4bkgpuglwp"
-  },
-  {
-    "eid": "Krw48QUXuwf.m4a",
-    "title": "272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？",
-    "podcast": {
-      "title": "沈奕斐的播客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a",
-    "pubDate": "2026-10-16T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "KHV14jgXC1f.m4a",
@@ -120,6 +100,16 @@
     "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
+    "eid": "Krw48QUXuwf.m4a",
+    "title": "272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？",
+    "podcast": {
+      "title": "沈奕斐的播客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a",
+    "pubDate": "2026-10-16T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
+  },
+  {
     "eid": "VOuAQTo96Az.m4a",
     "title": "S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」",
     "podcast": {
@@ -130,26 +120,6 @@
     "source_rss": "https://www.ximalaya.com/album/20119986.xml"
   },
   {
-    "eid": "VC37Ps9uryj.m4a",
-    "title": "302 医学生转做日综 写小说被拍成日剧：徐P你到底几周目？",
-    "podcast": {
-      "title": "东亚观察局"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a",
-    "pubDate": "2026-10-15T20:28:11+00:00",
-    "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
-  },
-  {
-    "eid": "cKTYLVQe-Yc.m4a",
-    "title": "AI逆向：最没想象力的事，就是再造一个Photoshop！",
-    "podcast": {
-      "title": "人民公园说AI"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a",
-    "pubDate": "2026-10-15T10:09:30+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
-  },
-  {
     "eid": "191fcb44898.mp3",
     "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
     "podcast": {
@@ -158,6 +128,26 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3",
     "pubDate": "2026-10-15T08:30:00+08:00",
     "source_rss": "https://podcast.latepost.com/rss"
+  },
+  {
+    "eid": "iMwxH2KwDAP.m4a",
+    "title": "十月广播电视报：我已经不再是我，而你却依然是你",
+    "podcast": {
+      "title": "展开讲讲"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a",
+    "pubDate": "2026-10-15T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+  },
+  {
+    "eid": "IB14zJXksFQ.m4a",
+    "title": "154. 对Dyna创始人Lindon的3小时访谈：机器人世界的迷雾、分歧与抉择，修心、《沉思录》与王阳明",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6acf81f0195d838e2af1e281/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lssO9j-p6L7ZGWAwhIB14zJXksFQ.m4a",
+    "pubDate": "2026-10-15T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
     "eid": "GzQZ3Kmgu_t.m4a",
@@ -178,6 +168,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6acf43d9e742e36efcc2dbdf/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lp2Lq2QbxaURtoLWl2mP74Ksg6MR.m4a",
     "pubDate": "2026-10-14T12:10:30+00:00",
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+  },
+  {
+    "eid": "e9521ad9060.mp3",
+    "title": "68 是谁抱着金碗在要饭？镜子里有没有你的脸？",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3",
+    "pubDate": "2026-10-13T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
+  },
+  {
+    "eid": "pital/ep149.mp3",
+    "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
+    "podcast": {
+      "title": "疯投圈"
+    },
+    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep149.mp3",
+    "pubDate": "2026-10-13T09:00:00+00:00",
+    "source_rss": "https://crazy.capital/feed"
   },
   {
     "eid": "1LiXgTjj3Um.m4a",
@@ -210,36 +220,6 @@
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
-    "eid": "O2IlmFPZgeQ.mp3",
-    "title": "🏞️公园散步 Mixtape：慢点走吧",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_FKteYO2IlmFPZgeQ.mp3",
-    "pubDate": "2026-10-11T07:34:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
-  },
-  {
-    "eid": "F0totce21YV.m4a",
-    "title": "#29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯",
-    "podcast": {
-      "title": "出海相对论"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a",
-    "pubDate": "2026-10-09T09:53:12+00:00",
-    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
-  },
-  {
-    "eid": "0c9a632df50.mp3",
-    "title": "E255｜模型越来越强，为什么用户没感觉？再访阿里国际站总裁张阔",
-    "podcast": {
-      "title": "硅谷101"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/8fa0b58e-8359-4609-8e84-30c9a632df50.mp3",
-    "pubDate": "2026-10-08T16:00:00-07:00",
-    "source_rss": "https://feeds.fireside.fm/sv101/rss"
-  },
-  {
     "eid": "pP3S4auFO5D.m4a",
     "title": "国庆特辑：当普通人走进艺术，抗战时期的中国木刻 | 温柔人类 EP.45",
     "podcast": {
@@ -258,6 +238,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ab9f026e742e36efcbc0d88/media.xyzcdn.net/6507bc165c88d2412626b401/lrhW9aNpML4jmHFQgw6PYzIFx3-Q.m4a",
     "pubDate": "2026-09-28T16:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
+  },
+  {
+    "eid": "-utmiUig6M6.m4a",
+    "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
+    "podcast": {
+      "title": "乱翻书"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a",
+    "pubDate": "2026-09-24T05:46:12+00:00",
+    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
     "eid": "7Dp1TmglEkF.m4a",
@@ -290,13 +280,23 @@
     "source_rss": "https://feed.xyzfm.space/bwynegm6q8al"
   },
   {
-    "eid": "ah0bsiOBrjc.m4a",
-    "title": "从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千",
+    "eid": "AKiGl1dRpkS.m4a",
+    "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
     "podcast": {
-      "title": "AI产品经理 Global"
+      "title": "三五环"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
-    "pubDate": "2026-09-20T10:02:29+00:00",
-    "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a",
+    "pubDate": "2026-09-11T15:37:47+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "mEl1BDhQIfw.m4a",
+    "title": "苹果新 CEO 要烧“10 把火”，手表长出耳朵：盘点Apple 26 秋季发布会-Vol106",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6aa3e9d2492687f6aad87726/media.xyzcdn.net/636669d51064cb55f31505fc/lh0ovAMEXM5MV7mP1mEl1BDhQIfw.m4a",
+    "pubDate": "2026-09-11T11:49:41+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
   }
 ]

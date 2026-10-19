@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-19 03:21:59
+> 📅 生成时间: 2026-10-19 12:12:18
 > 📊 总计: 10 个播客
 
 ---
@@ -235,34 +235,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2N
 
 ---
 
-### 9. E254 我的意外之财｜小酒馆故事会🍻
-
-**播客名称**: 知行小酒馆
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
-```
-
-</details>
-
----
-
-### 10. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 9. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客名称**: 忽左忽右
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
+```
+
+</details>
+
+---
+
+### 10. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
 ```
 
 </details>
