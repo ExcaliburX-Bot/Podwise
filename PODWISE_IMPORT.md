@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-19 12:12:18
+> 📅 生成时间: 2026-10-19 22:00:40
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3177期:Return of the sleeper train in Europe
+### 1. Ep216 音乐大师课 | 口哨是我！的！乐！器！
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: 基本无害 Mostly Harmless
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIUEOqKYpABMCowTqKA7H.m4a?channel=rss&album_id=14812466&track_id=1024923073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/77b8-audiofreehighqps/9A/F4/GKwRIUEOqKYpABMCowTqKA7H.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIUEOqKYpABMCowTqKA7H.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIUEOqKYpABMCowTqKA7H.m4a?channel=rss&album_id=14812466&track_id=1024923073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/77b8-audiofreehighqps/9A/F4/GKwRIUEOqKYpABMCowTqKA7H.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 489: No Coincidence, No Story!
+### 2. vol.273这哪是差一点，这差的可不是一点半点
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
+```
+
+</details>
+
+---
+
+### 3. 489: No Coincidence, No Story!
 
 **播客名称**: This American Life
 
@@ -73,61 +100,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 3. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a
-```
-
-</details>
-
----
-
-### 4. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194808&track_id=1025210406&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6863-audiofreehighqps/08/45/GKwRIDoOqnrcA-jutQTq6iGf.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194808&track_id=1025210406&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6863-audiofreehighqps/08/45/GKwRIDoOqnrcA-jutQTq6iGf.m4a
-```
-
-</details>
-
----
-
-### 5. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+### 4. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
 
 **播客名称**: 42章经
 
@@ -154,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36e
 
 ---
 
-### 6. Anatomy of a movie market
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911
-```
-
-</details>
-
----
-
-### 7. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+### 5. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
 
 **播客名称**: What's Next｜科技早知道
 
@@ -208,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4f
 
 ---
 
-### 8. 小步5曲 #6丨享受吧！金九银十
+### 6. 小步5曲 #6丨享受吧！金九银十
 
 **播客名称**: 周末变奏 Key Change
 
@@ -235,7 +181,34 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2N
 
 ---
 
-### 9. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 7. E254 我的意外之财｜小酒馆故事会🍻
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
+```
+
+</details>
+
+---
+
+### 8. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a
 
 ---
 
-### 10. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
+### 9. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
 
 **播客名称**: 贝望录
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a
+```
+
+</details>
+
+---
+
+### 10. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a
 ```
 
 </details>
