@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-18 20:08  
+> 📅 **更新时间**: 2026-10-19 03:21  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
+### 1. 第3177期:Return of the sleeper train in Europe
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOqKYpABMCowTqKA7H.m4a?channel=rss&album_id=14812466&track_id=1024923073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/77b8-audiofreehighqps/9A/F4/GKwRIUEOqKYpABMCowTqKA7H.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 489: No Coincidence, No Story!
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
 
 **播客**: 十字路口Crossing
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
+### 4. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
 
 **播客**: AI炼金术
 
@@ -34,20 +60,7 @@
 
 ---
 
-### 3. 第3176期:US and Canada Join Forces to Combat Drug Smuggling
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4On3PoABQsugTlHdfm.m4a?channel=rss&album_id=14812466&track_id=1022530646&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/cb38-audiofreehighqps/BE/52/GKwRIW4On3PoABQsugTlHdfm.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+### 5. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
 
 **播客**: 42章经
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. Anatomy of a movie market
+### 6. Anatomy of a movie market
 
 **播客**: Planet Money
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+### 7. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
 
 **播客**: What's Next｜科技早知道
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 小步5曲 #6丨享受吧！金九银十
+### 8. 小步5曲 #6丨享受吧！金九银十
 
 **播客**: 周末变奏 Key Change
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. E254 我的意外之财｜小酒馆故事会🍻
+### 9. E254 我的意外之财｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 10. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客**: 忽左忽右
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
