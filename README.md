@@ -1,30 +1,148 @@
-# 🎙️ 我的播客订阅日报
+# 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
-每天自动抓取最新单集，方便导入 Podwise。
+> 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
+> 📅 **更新时间**: 2026-10-20 21:16  
+> 📊 **分析进度**: 0/10 已完成
 
-| 封面 | 标题 (点击跳转) | 播客 | 更新时间 |
-| :---: | :--- | :--- | :--- |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3178期:Developing El Niño becomes strongest on record week](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-20 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Vol.357 永结无情游：实验班的同学们，你们过得怎么样](#) | 文化有限 | 2026-10-19 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？](#) | 硅谷101 | 2026-10-19 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3177期:Return of the sleeper train in Europe](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-19 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [489: No Coincidence, No Story!](#) | This American Life | 2026-10-19 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [单词造句磨耳朵 首字母P day175（1741-1750)](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-10-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI](#) | AI炼金术 | 2026-10-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3176期:US and Canada Join Forces to Combat Drug Smuggling](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-18 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [考试英语听力材料（高考真题模拟）30-2023年四省联考](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-10-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3175期:US and Canada Join Forces to Combat Drug Smuggling](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-17 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Anatomy of a movie market](#) | Planet Money | 2026-10-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [小步5曲 #6丨享受吧！金九银十](#) | 周末变奏 Key Change | 2026-10-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ - 串台「声东击西」S10E32](#) | What's Next｜科技早知道 | 2026-10-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3174期:Tulsi Gabbard sworn in as Director of National Intelligence](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-16 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [英文名著分集阅读 詹妮弗·巴西特《威廉·莎士比亚》part4](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-10-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [S8 Vol.27 纳百机器人陈思颖：一艘远洋巨轮的「减肥账」](#) | 创业内幕 Startup Insider | 2026-10-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？](#) | 晚点聊 LateTalk | 2026-10-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3173期:Is social media still 'social'?](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-15 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [Wanna slow down AI? These biologists can help.](#) | Planet Money | 2026-10-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [AI 帮我干完了 20 年的活儿，我却感觉像坐牢](#) | AI炼金术 | 2026-10-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [第3172期:Pope Francis hospitalized with respiratory infection](#) | 英语每日一听 | 每天少于5分钟 | 2026-10-14 |
-| <img src='https://placehold.co/60x60/png?text=POD' width='40'> | [句子反复磨耳朵（连读）41-50](#) | 高效磨耳朵 | 最好的英语听力资源 | 2026-10-13 |
+---
 
-_最后更新: 2026-10-20 18:17:23_
+## 🎯 Top 10 热门播客
+
+### 1. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+
+**播客**: 温柔人类 GentleHuman
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3178期:Developing El Niño becomes strongest on record week
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOqKi2AAXtIATqKWgz.m4a?channel=rss&album_id=14812466&track_id=1024925222&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ffaf-audiofreehighqps/76/24/GKwRIRwOqKi2AAXtIATqKWgz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.273这哪是差一点，这差的可不是一点半点
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 489: No Coincidence, No Story!
+
+**播客**: This American Life
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194808&track_id=1025210406&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6863-audiofreehighqps/08/45/GKwRIDoOqnrcA-jutQTq6iGf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+## 🛠️ 如何使用
+
+1. 查看 [PODWISE_IMPORT.md](PODWISE_IMPORT.md) 获取待导入的音频链接。
+2. 在 [Podwise](https://podwise.ai) 点击 "Import via URL" 导入。
+3. 分析完成后，将 Podwise 链接更新到 `data/podwise_tracking.json`。
+4. 提交代码，本报告将自动更新。
+
+*Powered by GitHub Actions & Podwise*

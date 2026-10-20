@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-20 16:23:16
+> 📅 生成时间: 2026-10-20 21:16:44
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 1. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a
+```
+
+</details>
+
+---
+
+### 2. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2a
 
 ---
 
-### 2. 第3178期:Developing El Niño becomes strongest on record week
+### 3. 第3178期:Developing El Niño becomes strongest on record week
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIRwOqKi2AAXtIATqKWgz.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
+### 4. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
 
 **播客名称**: 文化有限
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887
 
 ---
 
-### 4. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+### 5. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
 
 **播客名称**: 硅谷101
 
@@ -121,33 +148,6 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3
-```
-
-</details>
-
----
-
-### 5. Ep216 音乐大师课 | 口哨是我！的！乐！器！
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
 ```
 
 </details>
