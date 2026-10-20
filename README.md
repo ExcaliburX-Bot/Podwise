@@ -1,27 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-19 22:00  
+> 📅 **更新时间**: 2026-10-20 03:30  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+### 1. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
 
-**播客**: 基本无害 Mostly Harmless
+**播客**: 文化有限
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. vol.273这哪是差一点，这差的可不是一点半点
+### 2. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.273这哪是差一点，这差的可不是一点半点
 
 **播客**: 正经叭叭
 
@@ -34,20 +47,33 @@
 
 ---
 
-### 3. 489: No Coincidence, No Story!
+### 4. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
 
-**播客**: This American Life
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+### 5. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194808&track_id=1025210406&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6863-audiofreehighqps/08/45/GKwRIDoOqnrcA-jutQTq6iGf.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
 
 **播客**: 42章经
 
@@ -60,7 +86,20 @@
 
 ---
 
-### 5. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+### 7. Anatomy of a movie market
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
 
 **播客**: What's Next｜科技早知道
 
@@ -73,20 +112,7 @@
 
 ---
 
-### 6. 小步5曲 #6丨享受吧！金九银十
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. E254 我的意外之财｜小酒馆故事会🍻
+### 9. E254 我的意外之财｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
+### 10. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
 
 **播客**: 忽左忽右
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ad0856f195d838e2af2424b/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lnYImAQgWacjN0R1lKrw48QUXuwf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
