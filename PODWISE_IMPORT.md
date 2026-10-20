@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-20 03:30:55
+> 📅 生成时间: 2026-10-20 10:57:28
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
+### 1. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
 
-**播客名称**: 文化有限
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814a6e11f31/media.xyzcdn.net/5e4ee557418a84a0466737b7/lrESn7lo3olBhoolQZ6CL09SU-wj.m4a
 ```
 
 </details>
 
 ---
 
-### 2. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+### 2. 第3178期:Developing El Niño becomes strongest on record week
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOqKi2AAXtIATqKWgz.m4a?channel=rss&album_id=14812466&track_id=1024925222&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ffaf-audiofreehighqps/76/24/GKwRIRwOqKi2AAXtIATqKWgz.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOqKi2AAXtIATqKWgz.m4a?channel=rss&album_id=14812466&track_id=1024925222&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ffaf-audiofreehighqps/76/24/GKwRIRwOqKi2AAXtIATqKWgz.m4a
+```
+
+</details>
+
+---
+
+### 3. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
 
 **播客名称**: 硅谷101
 
@@ -73,7 +100,34 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e
 
 ---
 
-### 3. vol.273这哪是差一点，这差的可不是一点半点
+### 4. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
+```
+
+</details>
+
+---
+
+### 5. vol.273这哪是差一点，这差的可不是一点半点
 
 **播客名称**: 正经叭叭
 
@@ -100,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c
 
 ---
 
-### 4. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
+### 6. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
 
 **播客名称**: 十字路口Crossing
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a
 
 ---
 
-### 5. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
+### 7. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
 
 **播客名称**: AI炼金术
 
@@ -154,34 +208,7 @@ https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194
 
 ---
 
-### 6. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a
-```
-
-</details>
-
----
-
-### 7. Anatomy of a movie market
+### 8. Anatomy of a movie market
 
 **播客名称**: Planet Money
 
@@ -208,15 +235,15 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 8. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+### 9. 小步5曲 #6丨享受吧！金九银十
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +255,14 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4f
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
 ```
 
 </details>
 
 ---
 
-### 9. E254 我的意外之财｜小酒馆故事会🍻
+### 10. E254 我的意外之财｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ad1c92a0e4e410a05bdc907/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgn0zTDgDTPcHfqmHKRSSfFBphIL.m4a
-```
-
-</details>
-
----
-
-### 10. 508 相蓝欣谈国际关系视野下的中美欧今昔：从「斯坦佛小集团」到「军事凯恩斯主义」
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad1e13c0e4e410a05bdd935/media.xyzcdn.net/5e4ee557418a84a0466737b7/lqrjNxCTeT30iSFmGt-wyavdWFfU.m4a
 ```
 
 </details>
