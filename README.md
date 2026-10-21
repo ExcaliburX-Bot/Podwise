@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-20 21:16  
+> 📅 **更新时间**: 2026-10-21 03:25  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+### 1. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
 
 **播客**: 忽左忽右
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 3. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
 
 **播客**: 温柔人类 GentleHuman
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3178期:Developing El Niño becomes strongest on record week
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOqKi2AAXtIATqKWgz.m4a?channel=rss&album_id=14812466&track_id=1024925222&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/ffaf-audiofreehighqps/76/24/GKwRIRwOqKi2AAXtIATqKWgz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -73,7 +73,20 @@
 
 ---
 
-### 6. vol.273这哪是差一点，这差的可不是一点半点
+### 6. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. vol.273这哪是差一点，这差的可不是一点半点
 
 **播客**: 正经叭叭
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 489: No Coincidence, No Story!
+### 8. 489: No Coincidence, No Story!
 
 **播客**: This American Life
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
+### 9. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
 
 **播客**: 十字路口Crossing
 
@@ -108,19 +121,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 以后一定会更糟，所以现在先别慌 ｜和晓辉博士聊创业和 AI
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOqnrcA-jutQTq6iGf.m4a?channel=rss&album_id=74194808&track_id=1025210406&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/6863-audiofreehighqps/08/45/GKwRIDoOqnrcA-jutQTq6iGf.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
