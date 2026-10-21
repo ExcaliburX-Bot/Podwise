@@ -1,13 +1,33 @@
 [
   {
-    "eid": "4RZchFHwzII.m4a",
-    "title": "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻",
+    "eid": "225896dabe7.mp3",
+    "title": "【随机波动179】记忆，记忆……",
     "podcast": {
-      "title": "张小珺Jùn｜商业访谈录"
+      "title": "随机波动StochasticVolatility"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a",
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3",
+    "pubDate": "2026-10-21T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
+  },
+  {
+    "eid": "9&size=28788698",
+    "title": "We try to fix election polling (update)",
+    "podcast": {
+      "title": "Planet Money"
+    },
+    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698",
+    "pubDate": "2026-10-21T07:00:00+00:00",
+    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
+  },
+  {
+    "eid": "BAYrATqKxXk.m4a",
+    "title": "第3179期:The US commemorates the 35th anniversary",
+    "podcast": {
+      "title": "英语每日一听 | 每天少于5分钟"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a",
     "pubDate": "2026-10-21T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
     "eid": "Z6CL09SU-wj.m4a",
@@ -30,16 +50,6 @@
     "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
   },
   {
-    "eid": "1P5XwTrgQ6O.m4a",
-    "title": "Vol.357 永结无情游：实验班的同学们，你们过得怎么样",
-    "podcast": {
-      "title": "文化有限"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a",
-    "pubDate": "2026-10-19T23:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
-  },
-  {
     "eid": "8756b9df700.mp3",
     "title": "E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？",
     "podcast": {
@@ -60,36 +70,6 @@
     "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
   },
   {
-    "eid": "2sZwh90F8R5.m4a",
-    "title": "vol.273这哪是差一点，这差的可不是一点半点",
-    "podcast": {
-      "title": "正经叭叭"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a",
-    "pubDate": "2026-10-19T15:59:47+00:00",
-    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
-  },
-  {
-    "eid": "daa90fd&nocache",
-    "title": "489: No Coincidence, No Story!",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache",
-    "pubDate": "2026-10-18T20:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
-  },
-  {
-    "eid": "9v_u2KuRpSM.m4a",
-    "title": "新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg",
-    "podcast": {
-      "title": "十字路口Crossing"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a",
-    "pubDate": "2026-10-18T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
-  },
-  {
     "eid": "eq_gw4QOpje.m4a",
     "title": "这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason",
     "podcast": {
@@ -98,16 +78,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a",
     "pubDate": "2026-10-17T13:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
-  },
-  {
-    "eid": "9&size=30878911",
-    "title": "Anatomy of a movie market",
-    "podcast": {
-      "title": "Planet Money"
-    },
-    "enclosureUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/080b75be-92f2-4af7-b874-89008175bcd2/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=080b75be-92f2-4af7-b874-89008175bcd2&feed=hvWWWzRv&t=podcast&e=nx-s1-6005392&p=510289&d=1929&size=30878911",
-    "pubDate": "2026-10-16T21:30:00+00:00",
-    "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
     "eid": "7fe0b42ca3b.mp3",
@@ -178,6 +148,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ad1307a641ef406308c55a5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lt6FekB1yETFn-ZJXVC37Ps9uryj.m4a",
     "pubDate": "2026-10-15T20:28:11+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "cKTYLVQe-Yc.m4a",
+    "title": "AI逆向：最没想象力的事，就是再造一个Photoshop！",
+    "podcast": {
+      "title": "人民公园说AI"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6ad0a53d641ef406308c278f/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/liB5YcDQwDzdDkFzgcKTYLVQe-Yc.m4a",
+    "pubDate": "2026-10-15T10:09:30+00:00",
+    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
+  },
+  {
+    "eid": "191fcb44898.mp3",
+    "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
+    "podcast": {
+      "title": "晚点聊 LateTalk"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3",
+    "pubDate": "2026-10-15T08:30:00+08:00",
+    "source_rss": "https://podcast.latepost.com/rss"
   },
   {
     "eid": "iMwxH2KwDAP.m4a",
@@ -288,6 +278,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
     "pubDate": "2026-09-20T10:02:29+00:00",
     "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
+  },
+  {
+    "eid": "AKiGl1dRpkS.m4a",
+    "title": "No.233 单口｜手机为什么要折叠？Apple 为什么要「跟风」？",
+    "podcast": {
+      "title": "三五环"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a",
+    "pubDate": "2026-09-11T15:37:47+00:00",
+    "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
   },
   {
     "eid": "mEl1BDhQIfw.m4a",

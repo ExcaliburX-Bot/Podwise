@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-21 03:25:23
+> 📅 生成时间: 2026-10-21 11:12:46
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+### 1. 【随机波动179】记忆，记忆……
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+### 2. We try to fix election polling (update)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698
+```
+
+</details>
+
+---
+
+### 3. 第3179期:The US commemorates the 35th anniversary
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a
+```
+
+</details>
+
+---
+
+### 4. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
 
 **播客名称**: 忽左忽右
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814
 
 ---
 
-### 3. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 5. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2a
 
 ---
 
-### 4. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a
-```
-
-</details>
-
----
-
-### 5. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+### 6. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
 
 **播客名称**: 硅谷101
 
@@ -154,7 +181,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e
 
 ---
 
-### 6. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+### 7. Ep216 音乐大师课 | 口哨是我！的！乐！器！
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -181,88 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c
 
 ---
 
-### 7. vol.273这哪是差一点，这差的可不是一点半点
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
-```
-
-</details>
-
----
-
-### 8. 489: No Coincidence, No Story!
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache
-```
-
-</details>
-
----
-
-### 9. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a
-```
-
-</details>
-
----
-
-### 10. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+### 8. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
 
 **播客名称**: 42章经
 
@@ -283,6 +229,60 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36e
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a
+```
+
+</details>
+
+---
+
+### 9. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+
+**播客名称**: What's Next｜科技早知道
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3
+```
+
+</details>
+
+---
+
+### 10. 小步5曲 #6丨享受吧！金九银十
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3
 ```
 
 </details>

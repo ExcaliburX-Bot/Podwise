@@ -1,27 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-21 03:25  
+> 📅 **更新时间**: 2026-10-21 11:12  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+### 1. 【随机波动179】记忆，记忆……
 
-**播客**: 张小珺Jùn｜商业访谈录
+**播客**: 随机波动StochasticVolatility
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 2. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+### 2. We try to fix election polling (update)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/f797d163-3173-4fad-9265-17db457ab4dc/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=f797d163-3173-4fad-9265-17db457ab4dc&feed=hvWWWzRv&t=podcast&e=nx-s1-6009849&p=510289&d=1799&size=28788698)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3179期:The US commemorates the 35th anniversary
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
 
 **播客**: 忽左忽右
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 5. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
 
 **播客**: 温柔人类 GentleHuman
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887212&track_id=1025511461&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/ec27-audiofreehighqps/C9/09/GKwRIDoOq_nhA1P5XwTrgQ6O.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
+### 6. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
 
 **播客**: 硅谷101
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+### 7. Ep216 音乐大师课 | 口哨是我！的！乐！器！
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -86,46 +99,7 @@
 
 ---
 
-### 7. vol.273这哪是差一点，这差的可不是一点半点
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 489: No Coincidence, No Story!
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/1b4a7576-ee15-407f-9430-fa1c4daa90fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=1b4a7576-ee15-407f-9430-fa1c4daa90fd&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 新的创业机会，正在 Claude Code 和 Codex 周围长出来｜对谈 Treg
-
-**播客**: 十字路口Crossing
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ad2412d0e4e410a05be01a7/media.xyzcdn.net/60502e253c92d4f62c2a9577/lsJEudLUybIGsXWwu9v_u2KuRpSM.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
+### 8. 这个破业非创不可吗？｜对谈 Articuler.ai 创始人 Jason
 
 **播客**: 42章经
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6acddf92e742e36efcc2448d/media.xyzcdn.net/648b0b641c48983391a63f98/lnVlrNKK-MvYHIy31eq_gw4QOpje.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 用光调控神经细胞：今年诺贝尔奖如何改变我们对情绪的理解？ | 串台「声东击西」S10E32
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/df4fa6fe-db30-4fb5-809f-67fe0b42ca3b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 小步5曲 #6丨享受吧！金九银十
+
+**播客**: 周末变奏 Key Change
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDIwMCwidCI6MX0.G-kfpwLjSarPkkfpVRd_K2NGEeI/keychangefm/8207832054_810673.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
