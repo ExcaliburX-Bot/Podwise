@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-21 21:16:32
+> 📅 生成时间: 2026-10-22 03:24:02
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107
+### 1. 243. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
 
-**播客名称**: 脑放电波
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ad8e6e2ef67611cac7a28a3/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ad8e6e2ef67611cac7a28a3/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
 ```
 
 </details>
 
 ---
 
-### 2. 【随机波动179】记忆，记忆……
+### 2. 第3180期:Invisible touchscreen
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OqK4BAAt3owTqLNnm.m4a?channel=rss&album_id=14812466&track_id=1024928694&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/32b0-audiofreehighqps/C8/82/GKwRIW4OqK4BAAt3owTqLNnm.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OqK4BAAt3owTqLNnm.m4a?channel=rss&album_id=14812466&track_id=1024928694&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/32b0-audiofreehighqps/C8/82/GKwRIW4OqK4BAAt3owTqLNnm.m4a
+```
+
+</details>
+
+---
+
+### 3. 【随机波动179】记忆，记忆……
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -73,7 +100,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd20
 
 ---
 
-### 3. No.223 🏥 “莆田系”医事：从电线杆到手术台
+### 4. No.223 🏥 “莆田系”医事：从电线杆到手术台
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -100,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611c
 
 ---
 
-### 4. We try to fix election polling (update)
+### 5. We try to fix election polling (update)
 
 **播客名称**: Planet Money
 
@@ -127,61 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 5. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
-```
-
-</details>
-
----
-
-### 6. 第3179期:The US commemorates the 35th anniversary
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOqKuHABAYrATqKxXk.m4a?channel=rss&album_id=14812466&track_id=1024927241&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/da1f-audiofreehighqps/21/F2/GKwRIJIOqKuHABAYrATqKxXk.m4a
-```
-
-</details>
-
----
-
-### 7. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
+### 6. 509 通往战时陪都之路：卢作孚建设重庆北碚往事
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ad72c1ff80d9814
 
 ---
 
-### 8. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 7. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
 
 **播客名称**: 温柔人类 GentleHuman
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2a
 
 ---
 
-### 9. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
+### 8. Vol.357 永结无情游：实验班的同学们，你们过得怎么样
 
 **播客名称**: 文化有限
 
@@ -262,15 +235,15 @@ https://jt.ximalaya.com//GKwRIDoOq_nhA1P5XwTrgQ6O.m4a?channel=rss&album_id=29887
 
 ---
 
-### 10. Ep216 音乐大师课 | 口哨是我！的！乐！器！
+### 9. E256｜Agent、机器人与制药，谁先被GPT-6 Astra改写？
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 硅谷101
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +255,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ad600e466729f5c712ddcf9/media.xyzcdn.net/5eae66d1418a84a046472b4d/lq6EkGGkrUcE9MJ-cADqklg84FcO.m4a
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/9e6e1db1-f30b-492d-8a09-d8756b9df700.mp3
+```
+
+</details>
+
+---
+
+### 10. vol.273这哪是差一点，这差的可不是一点半点
+
+**播客名称**: 正经叭叭
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ad6253b66729f5c712df1d9/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/loHjeGjnxL4Qr6wf12sZwh90F8R5.m4a
 ```
 
 </details>
