@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-23 03:29  
+> 📅 **更新时间**: 2026-10-23 11:03  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+### 1. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942ec111f4d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/luCRbjyjGJJr_-zpnBfV843bLIlx.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 第3181期:US lab paves the way for quantum internet
+### 4. 第3181期:US lab paves the way for quantum internet
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
+### 5. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
 
 **播客**: 东亚观察局
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
+### 6. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+### 7. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
 
 **播客**: What's Next｜科技早知道
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. 243. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
+### 8. 243. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
 
 **播客**: 贝望录
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
+### 9. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
 
 **播客**: 搞钱女孩
 
@@ -99,20 +125,7 @@
 
 ---
 
-### 8. 用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 【随机波动179】记忆，记忆……
+### 10. 【随机波动179】记忆，记忆……
 
 **播客**: 随机波动StochasticVolatility
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. No.223 🏥 “莆田系”医事：从电线杆到手术台
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
