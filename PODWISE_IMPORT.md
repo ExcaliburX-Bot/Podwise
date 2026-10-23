@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-23 11:03:23
+> 📅 生成时间: 2026-10-23 16:30:28
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
+### 1. 文兆杰：长短句之间，是关心自己多一点
 
-**播客名称**: 忽左忽右
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,68 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
 ```
 
 </details>
 
 ---
 
-### 2. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
+### 2. E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a
+```
+
+</details>
+
+---
+
+### 3. AI 卷工作，谁来听普通人心里话｜前小红书高管姚旭聊 NaukNauk
+
+**播客名称**: AI炼金术
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
+```
+
+</details>
+
+---
+
+### 4. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
 
 **播客名称**: 人民公园说AI
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942
 
 ---
 
-### 3. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+### 5. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
 
 **播客名称**: Vibration 歪波音室
 
@@ -100,7 +154,7 @@ https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
 
 ---
 
-### 4. 第3181期:US lab paves the way for quantum internet
+### 6. 第3181期:US lab paves the way for quantum internet
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -127,7 +181,7 @@ https://jt.ximalaya.com//GKwRIJIOqLDTABecUgTqLpjE.m4a?channel=rss&album_id=14812
 
 ---
 
-### 5. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
+### 7. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
 
 **播客名称**: 东亚观察局
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ada538b97726cd4
 
 ---
 
-### 6. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
+### 8. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -181,7 +235,7 @@ https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+### 9. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
 
 **播客名称**: What's Next｜科技早知道
 
@@ -208,34 +262,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d
 
 ---
 
-### 8. 243. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ad8e6e2ef67611cac7a28a3/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ad8e6e2ef67611cac7a28a3/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
-```
-
-</details>
-
----
-
-### 9. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
+### 10. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
 
 **播客名称**: 搞钱女孩
 
@@ -256,33 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611c
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
-```
-
-</details>
-
----
-
-### 10. 【随机波动179】记忆，记忆……
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
 ```
 
 </details>
