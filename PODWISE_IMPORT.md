@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-23 21:01:34
+> 📅 生成时间: 2026-10-24 03:23:37
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 文兆杰：长短句之间，是关心自己多一点
+### 1. 第3182期:US Birthright Citizenship Abolition Order Halted Again
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
+https://jt.ximalaya.com//GKwRIDoOqLNRAA3WLATqMDc5.m4a?channel=rss&album_id=14812466&track_id=1024932336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6358-audiofreehighqps/D4/3D/GKwRIDoOqLNRAA3WLATqMDc5.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc95
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
+https://jt.ximalaya.com//GKwRIDoOqLNRAA3WLATqMDc5.m4a?channel=rss&album_id=14812466&track_id=1024932336&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6358-audiofreehighqps/D4/3D/GKwRIDoOqLNRAA3WLATqMDc5.m4a
 ```
 
 </details>
 
 ---
 
-### 2. AI 卷工作，谁来听普通人心里话｜前小红书高管姚旭聊 NaukNauk
+### 2. How surveillance crept up on us
 
-**播客名称**: AI炼金术
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,41 +66,14 @@ https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916
 ```
 
 </details>
 
 ---
 
-### 3. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
-```
-
-</details>
-
----
-
-### 4. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
+### 3. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
 
 **播客名称**: 人民公园说AI
 
@@ -127,7 +100,88 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942
 
 ---
 
-### 5. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+### 4. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
+```
+
+</details>
+
+---
+
+### 5. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
+
+**播客名称**: 东亚观察局
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ada538b97726cd46756457f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ljjA3W3T5ZufiXaf263cTyafQBgC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ada538b97726cd46756457f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ljjA3W3T5ZufiXaf263cTyafQBgC.m4a
+```
+
+</details>
+
+---
+
+### 6. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
+```
+
+</details>
+
+---
+
+### 7. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
 
 **播客名称**: What's Next｜科技早知道
 
@@ -154,7 +208,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d
 
 ---
 
-### 6. 用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107
+### 8. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
+```
+
+</details>
+
+---
+
+### 9. 用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107
 
 **播客名称**: 脑放电波
 
@@ -181,7 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611c
 
 ---
 
-### 7. 【随机波动179】记忆，记忆……
+### 10. 【随机波动179】记忆，记忆……
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -202,87 +283,6 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd20
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
-```
-
-</details>
-
----
-
-### 8. No.223 🏥 “莆田系”医事：从电线杆到手术台
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a
-```
-
-</details>
-
----
-
-### 9. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
-```
-
-</details>
-
----
-
-### 10. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
-
-**播客名称**: 温柔人类 GentleHuman
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
 ```
 
 </details>
