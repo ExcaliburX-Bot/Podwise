@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-24 20:15:46
+> 📅 生成时间: 2026-10-25 03:18:45
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠
+### 1. 第3183期:Trump freezes all foreign aid for 90 days
 
-**播客名称**: 42章经
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
+https://jt.ximalaya.com//GKwRIDoOqLWnABPmPQTqMdpv.m4a?channel=rss&album_id=14812466&track_id=1024933767&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8e15-audiofreehighqps/AD/51/GKwRIDoOqLWnABPmPQTqMdpv.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,22 +39,22 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
+https://jt.ximalaya.com//GKwRIDoOqLWnABPmPQTqMdpv.m4a?channel=rss&album_id=14812466&track_id=1024933767&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8e15-audiofreehighqps/AD/51/GKwRIDoOqLWnABPmPQTqMdpv.m4a
 ```
 
 </details>
 
 ---
 
-### 2. How surveillance crept up on us
+### 2. 文兆杰：长短句之间，是关心自己多一点
 
-**播客名称**: Planet Money
+**播客名称**: 周末变奏 Key Change
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 音频链接（点击复制）:
 ```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4
 
 ---
 
-### 6. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
-
-**播客名称**: 人民公园说AI
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942ec111f4d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/luCRbjyjGJJr_-zpnBfV843bLIlx.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942ec111f4d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/luCRbjyjGJJr_-zpnBfV843bLIlx.m4a
-```
-
-</details>
-
----
-
-### 7. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+### 6. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
 
 **播客名称**: Vibration 歪波音室
 
@@ -208,34 +181,7 @@ https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
 
 ---
 
-### 8. 303 走有不甘 留亦不安：和00后听友聊聊东京的生意与生活
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ada538b97726cd46756457f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ljjA3W3T5ZufiXaf263cTyafQBgC.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ada538b97726cd46756457f/media.xyzcdn.net/5e9a4e25418a84a046bc6156/ljjA3W3T5ZufiXaf263cTyafQBgC.m4a
-```
-
-</details>
-
----
-
-### 9. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+### 7. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
 
 **播客名称**: What's Next｜科技早知道
 
@@ -262,15 +208,15 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d
 
 ---
 
-### 10. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
+### 8. 用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107
 
-**播客名称**: 搞钱女孩
+**播客名称**: 脑放电波
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +228,61 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611c
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
+https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a
+```
+
+</details>
+
+---
+
+### 9. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+```
+
+</details>
+
+---
+
+### 10. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+
+**播客名称**: 温柔人类 GentleHuman
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
 ```
 
 </details>
