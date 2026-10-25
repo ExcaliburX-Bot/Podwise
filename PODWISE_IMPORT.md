@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-25 03:18:45
+> 📅 生成时间: 2026-10-25 10:46:45
 > 📊 总计: 10 个播客
 
 ---
@@ -46,15 +46,15 @@ https://jt.ximalaya.com//GKwRIDoOqLWnABPmPQTqMdpv.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 文兆杰：长短句之间，是关心自己多一点
+### 2. 少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠
 
-**播客名称**: 周末变奏 Key Change
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,7 +66,7 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc95
 
 音频链接（点击复制）:
 ```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
 ```
 
 </details>
@@ -100,34 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942
 
 ---
 
-### 4. AI 卷工作，谁来听普通人心里话｜前小红书高管姚旭聊 NaukNauk
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a
-```
-
-</details>
-
----
-
-### 5. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
+### 4. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4
 
 ---
 
-### 6. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+### 5. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
 
 **播客名称**: Vibration 歪波音室
 
@@ -181,15 +154,15 @@ https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
 
 ---
 
-### 7. 从免费披萨到订错机票：硅谷创业者正在解决 Agent 的哪些麻烦？ | 硅谷线下活动 S10E33
+### 6. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: 创业内幕 Startup Insider
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d9703-e999-454e-b6f4-f3d42ff195be.mp3
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,7 +174,34 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d9703-e999-454e-b6f4-f3d42ff195be.mp3
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
+```
+
+</details>
+
+---
+
+### 7. 纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a
 ```
 
 </details>
@@ -235,15 +235,15 @@ https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611c
 
 ---
 
-### 9. 155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻
+### 9. 【随机波动179】记忆，记忆……
 
-**播客名称**: 张小珺Jùn｜商业访谈录
+**播客名称**: 随机波动StochasticVolatility
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,22 +255,22 @@ https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/dd2081b3-d7f2-40b2-a850-f225896dabe7.mp3
 ```
 
 </details>
 
 ---
 
-### 10. 《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46
+### 10. No.223 🏥 “莆田系”医事：从电线杆到手术台
 
-**播客名称**: 温柔人类 GentleHuman
+**播客名称**: 半拿铁 | 商业沉浮录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2a
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a
+https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a
 ```
 
 </details>
