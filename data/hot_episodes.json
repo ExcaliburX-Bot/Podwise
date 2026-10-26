@@ -1,5 +1,15 @@
 [
   {
+    "eid": "ae352cb&nocache",
+    "title": "506: Secret Identity",
+    "podcast": {
+      "title": "This American Life"
+    },
+    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache",
+    "pubDate": "2026-10-25T20:00:00-04:00",
+    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+  },
+  {
     "eid": "X8lCTPdwViV.m4a",
     "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
     "podcast": {
@@ -8,16 +18,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a",
     "pubDate": "2026-10-25T16:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
-  },
-  {
-    "eid": "BPmPQTqMdpv.m4a",
-    "title": "第3183期:Trump freezes all foreign aid for 90 days",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOqLWnABPmPQTqMdpv.m4a?channel=rss&album_id=14812466&track_id=1024933767&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8e15-audiofreehighqps/AD/51/GKwRIDoOqLWnABPmPQTqMdpv.m4a",
-    "pubDate": "2026-10-25T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
   },
   {
     "eid": "6&size=33224916",
@@ -48,16 +48,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a",
     "pubDate": "2026-10-23T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
-    "eid": "vlFBATt22m0.m4a",
-    "title": "AI 卷工作，谁来听普通人心里话｜前小红书高管姚旭聊 NaukNauk",
-    "podcast": {
-      "title": "AI炼金术"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a",
-    "pubDate": "2026-10-23T10:27:43+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
     "eid": "nSqmZAbGbZO.m4a",
@@ -120,6 +110,16 @@
     "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
+    "eid": "BeqoaX9TQIb.m4a",
+    "title": "用过20元到20万的睡眠科技，我们不再“努力睡眠”-vol 107",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ad8dc8bef67611cac7a2565/media.xyzcdn.net/636669d51064cb55f31505fc/lrVxLkeUv2SSQ31vpBeqoaX9TQIb.m4a",
+    "pubDate": "2026-10-21T15:45:15+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
     "eid": "225896dabe7.mp3",
     "title": "【随机波动179】记忆，记忆……",
     "podcast": {
@@ -138,6 +138,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ad8260fef67611cac79bf12/media.xyzcdn.net/62382c1103bea1ebfffa1c00/ltByGaewIHLQUv7PZo3JJvDQBqO-.m4a",
     "pubDate": "2026-10-21T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+  },
+  {
+    "eid": "4RZchFHwzII.m4a",
+    "title": "155. 和科沃斯钱程聊，父与子、企二代接班的样本与肌理、机器人，和我内心的追寻",
+    "podcast": {
+      "title": "张小珺Jùn｜商业访谈录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6ad4dacd641ef406308d86e5/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltpY6K_PLBv7SfR1D4RZchFHwzII.m4a",
+    "pubDate": "2026-10-21T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
+  },
+  {
+    "eid": "4eTdAoBgRKo.m4a",
+    "title": "《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46",
+    "podcast": {
+      "title": "温柔人类 GentleHuman"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a",
+    "pubDate": "2026-10-20T08:09:46+00:00",
+    "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
   },
   {
     "eid": "1P5XwTrgQ6O.m4a",
@@ -190,26 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "KHV14jgXC1f.m4a",
-    "title": "28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？",
-    "podcast": {
-      "title": "贝望录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a",
-    "pubDate": "2026-10-16T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
-  },
-  {
-    "eid": "191fcb44898.mp3",
-    "title": "184: 与陈哲的「具身季报26Q3」：Astra冲击后，通用模型会吃掉Robotics吗？",
-    "podcast": {
-      "title": "晚点聊 LateTalk"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/1ba74c4b-43e4-416c-aafe-f191fcb44898.mp3",
-    "pubDate": "2026-10-15T08:30:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
     "eid": "iMwxH2KwDAP.m4a",
     "title": "十月广播电视报：我已经不再是我，而你却依然是你",
     "podcast": {
@@ -228,16 +228,6 @@
     "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3",
     "pubDate": "2026-10-13T16:00:00+00:00",
     "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
-  },
-  {
-    "eid": "pital/ep149.mp3",
-    "title": "149 ✪ 抖省省突袭美团到店业务：本地生活怎么卷",
-    "podcast": {
-      "title": "疯投圈"
-    },
-    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep149.mp3",
-    "pubDate": "2026-10-13T09:00:00+00:00",
-    "source_rss": "https://crazy.capital/feed"
   },
   {
     "eid": "F0totce21YV.m4a",
@@ -268,6 +258,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a",
     "pubDate": "2026-09-24T05:46:12+00:00",
     "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
+  },
+  {
+    "eid": "7Dp1TmglEkF.m4a",
+    "title": "AI 和真格管理合伙人刘元录了一期播客",
+    "podcast": {
+      "title": "此话当真"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/646f194853a5e5ea1408d97c/6ab39422f04646b3a955f030/media.xyzcdn.net/646f194853a5e5ea1408d97c/lp6nt-gFDUC3ZcGuP7Dp1TmglEkF.m4a",
+    "pubDate": "2026-09-23T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
     "eid": "jNqmZ3dVj2v.m4a",
