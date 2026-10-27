@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-27 03:48:42
+> 📅 生成时间: 2026-10-27 11:38:22
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3185期:Trump urges Egypt and Jordan to accept refugees
+### 1. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3185期:Trump urges Egypt and Jordan to accept refugees
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,15 +73,15 @@ https://jt.ximalaya.com//GKwRIaIOqLsCAA1nHwTqNNb7.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
+### 3. Vol.358 钢琴课：我已经想开了，希望你也想开一点
 
-**播客名称**: 疯投圈
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep150.mp3
+https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,34 +93,7 @@ https://rio.xyzcdn.net/crazycapital/ep150.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep150.mp3
-```
-
-</details>
-
----
-
-### 3. 不是，怎么又换版本了？---狂飙中的AI 2026
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/lnW0XYKyKthMFjdI81jK8FKWptdE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/lnW0XYKyKthMFjdI81jK8FKWptdE.m4a
+https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a
 ```
 
 </details>
@@ -154,34 +154,7 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 6. AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员
-
-**播客名称**: 十字路口Crossing
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a
-```
-
-</details>
-
----
-
-### 7. 文兆杰：长短句之间，是关心自己多一点
+### 6. 文兆杰：长短句之间，是关心自己多一点
 
 **播客名称**: 周末变奏 Key Change
 
@@ -208,15 +181,15 @@ https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc95
 
 ---
 
-### 8. 510 泰国侨批沉浮录：下南洋浪潮中的跨国华人经济网络
+### 7. E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？
 
-**播客名称**: 忽左忽右
+**播客名称**: 知行小酒馆
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -228,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6adb27a497726cd4675696ad/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltWAJSww37kmooFownSqmZAbGbZO.m4a
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a
 ```
 
 </details>
 
 ---
 
-### 9. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
+### 8. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
 
 **播客名称**: 人民公园说AI
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942
 
 ---
 
-### 10. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
+### 9. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
 
 **播客名称**: Vibration 歪波音室
 
@@ -283,6 +256,33 @@ https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3
+```
+
+</details>
+
+---
+
+### 10. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a
 ```
 
 </details>
