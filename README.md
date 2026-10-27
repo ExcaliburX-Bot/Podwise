@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-27 11:38  
+> 📅 **更新时间**: 2026-10-27 17:30  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
+### 1. Ep217 未来生活指南｜要我说，马斯克活的远不如我
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
 
 **播客**: 忽左忽右
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 第3185期:Trump urges Egypt and Jordan to accept refugees
+### 3. 第3185期:Trump urges Egypt and Jordan to accept refugees
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -34,20 +47,33 @@
 
 ---
 
-### 3. Vol.358 钢琴课：我已经想开了，希望你也想开一点
+### 4. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
 
-**播客**: 文化有限
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep150.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. vol.274长大是一件水土不服的事情
+### 5. 不是，怎么又换版本了？---狂飙中的AI 2026
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/lnW0XYKyKthMFjdI81jK8FKWptdE.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. vol.274长大是一件水土不服的事情
 
 **播客**: 正经叭叭
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 506: Secret Identity
+### 7. 506: Secret Identity
 
 **播客**: This American Life
 
@@ -73,67 +99,41 @@
 
 ---
 
-### 6. 文兆杰：长短句之间，是关心自己多一点
+### 8. AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员
 
-**播客**: 周末变奏 Key Change
+**播客**: 十字路口Crossing
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？
+### 9. 少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠
 
-**播客**: 知行小酒馆
+**播客**: 42章经
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 8. 不要穷人思维！ 全公司升级GPT Pro后我的领悟：花最贵的token干最脏的活！
+### 10. How surveillance crept up on us
 
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6adb20cac96c8942ec111f4d/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/luCRbjyjGJJr_-zpnBfV843bLIlx.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 神专丨《Innervisions》：在失序的世界里，仍然相信明天
-
-**播客**: Vibration 歪波音室
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_fnCa5b3zL5ZnZ1LG.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. S8 Vol.28 Notta.ai张岩：从听懂到行动，Voice AI的下一步是什么？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOr1vSARhUGwTtC2ZF.m4a?channel=rss&album_id=20119986&track_id=1026679380&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/9a32-audiofreehighqps/4F/16/GKwRIJIOr1vSARhUGwTtC2ZF.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/180d29de-2fd0-459b-9417-40f7deaca9ad/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=180d29de-2fd0-459b-9417-40f7deaca9ad&feed=hvWWWzRv&t=podcast&e=nx-s1-5991699&p=510289&d=2076&size=33224916)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
