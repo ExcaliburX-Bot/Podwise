@@ -1,5 +1,15 @@
 [
   {
+    "eid": "G1hjE4Ggv_0.m4a",
+    "title": "243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？",
+    "podcast": {
+      "title": "贝望录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942ec120bbe/media.xyzcdn.net/5e285856418a84a04627b7be/ljxODfei0mwGrylzdG1hjE4Ggv_0.m4a",
+    "pubDate": "2026-10-28T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
+  },
+  {
     "eid": "GrqufD9h0B2.m4a",
     "title": "Ep217 未来生活指南｜要我说，马斯克活的远不如我",
     "podcast": {
@@ -30,14 +40,34 @@
     "source_rss": "https://crazy.capital/feed"
   },
   {
-    "eid": "ae352cb&nocache",
-    "title": "506: Secret Identity",
+    "eid": "31jfp3Wd9Bq.m4a",
+    "title": "vol.274长大是一件水土不服的事情",
     "podcast": {
-      "title": "This American Life"
+      "title": "正经叭叭"
     },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache",
-    "pubDate": "2026-10-25T20:00:00-04:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a",
+    "pubDate": "2026-10-26T15:51:17+00:00",
+    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
+  },
+  {
+    "eid": "X8lCTPdwViV.m4a",
+    "title": "AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员",
+    "podcast": {
+      "title": "十字路口Crossing"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a",
+    "pubDate": "2026-10-25T16:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/68fyjknth9hj"
+  },
+  {
+    "eid": "cbkRuBW0N82.m4a",
+    "title": "少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠",
+    "podcast": {
+      "title": "42章经"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a",
+    "pubDate": "2026-10-24T13:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/evgg6xle9rdc"
   },
   {
     "eid": "6&size=33224916",
@@ -50,6 +80,16 @@
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
+    "eid": "9458_682148.mp3",
+    "title": "文兆杰：长短句之间，是关心自己多一点",
+    "podcast": {
+      "title": "周末变奏 Key Change"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo4OTU0MSwidCI6MX0.sDwGzMGenWwbfqUY8jFgc957WVA/keychangefm/8207229458_682148.mp3",
+    "pubDate": "2026-10-23T16:11:50+00:00",
+    "source_rss": "https://keychange.xyz/episodes/feed.xml"
+  },
+  {
     "eid": "vaeogEO6FQI.m4a",
     "title": "E255 从「大结果」到「大红果」：你还相信越努力越幸运吗？",
     "podcast": {
@@ -58,16 +98,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6adb068cc96c8942ec110ee1/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmrfBKmfdmUn7-CjfvaeogEO6FQI.m4a",
     "pubDate": "2026-10-23T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
-    "eid": "vlFBATt22m0.m4a",
-    "title": "AI 卷工作，谁来听普通人心里话｜前小红书高管姚旭聊 NaukNauk",
-    "podcast": {
-      "title": "AI炼金术"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOsPq5AvlFBATt22m0.m4a?channel=rss&album_id=74194808&track_id=1026998207&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/12df-audiofreehighqps/D7/D6/GKwRIJIOsPq5AvlFBATt22m0.m4a",
-    "pubDate": "2026-10-23T10:27:43+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
     "eid": "BfV843bLIlx.m4a",
@@ -118,6 +148,16 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/039d9703-e999-454e-b6f4-f3d42ff195be.mp3",
     "pubDate": "2026-10-22T19:00:00+08:00",
     "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
+  },
+  {
+    "eid": "tqT5mBFb22B.m4a",
+    "title": "纯过日子人致富指南：不买房、攒本金、复利别断、戒掉攀比！",
+    "podcast": {
+      "title": "搞钱女孩"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ad8ff50ef67611cac7a2c02/media.xyzcdn.net/63d945ece725b5378a158d29/lubISeDeQa5wQsf9ltqT5mBFb22B.m4a",
+    "pubDate": "2026-10-21T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
   },
   {
     "eid": "BeqoaX9TQIb.m4a",
@@ -180,16 +220,6 @@
     "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
-    "eid": "KHV14jgXC1f.m4a",
-    "title": "28. 找出路丨卖掉公司、买下足球队，再从头做儿童意面，创业者如何一次次的找到出路？",
-    "podcast": {
-      "title": "贝望录"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6acf1fc4195d838e2af1abe3/media.xyzcdn.net/FncgsQDIQK-X4MOyhKHV14jgXC1f.m4a",
-    "pubDate": "2026-10-16T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
-  },
-  {
     "eid": "Krw48QUXuwf.m4a",
     "title": "272.观“只有红楼梦·戏剧幻城”：《红楼梦》为什么值得反复读？戏剧究竟应该讲道理，还是让人物真正立起来？",
     "podcast": {
@@ -210,14 +240,14 @@
     "source_rss": "https://podcast.latepost.com/rss"
   },
   {
-    "eid": "iMwxH2KwDAP.m4a",
-    "title": "十月广播电视报：我已经不再是我，而你却依然是你",
+    "eid": "e9521ad9060.mp3",
+    "title": "68 是谁抱着金碗在要饭？镜子里有没有你的脸？",
     "podcast": {
-      "title": "展开讲讲"
+      "title": "放学以后After school"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6acf6f89195d838e2af1d8e0/media.xyzcdn.net/5e280faa418a84a0461f9bfb/ls50Y7Tos_0whWHjwiMwxH2KwDAP.m4a",
-    "pubDate": "2026-10-15T00:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/444v89dnlhkf"
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3",
+    "pubDate": "2026-10-13T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "F0totce21YV.m4a",
@@ -228,16 +258,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a",
     "pubDate": "2026-10-09T09:53:12+00:00",
     "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
-  },
-  {
-    "eid": "-utmiUig6M6.m4a",
-    "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a",
-    "pubDate": "2026-09-24T05:46:12+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
     "eid": "7Dp1TmglEkF.m4a",
@@ -278,25 +298,5 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6aa41efc492687f6aad88f7f/media.xyzcdn.net/5e280fab418a84a0461faa3c/llkUoSB_R2vQcWbB9AKiGl1dRpkS.m4a",
     "pubDate": "2026-09-11T15:37:47+00:00",
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
-  },
-  {
-    "eid": "PAAjTFfsBLx.m4a",
-    "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
-    "podcast": {
-      "title": "硬地骇客"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
-    "pubDate": "2026-08-02T19:39:44+00:00",
-    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
-  },
-  {
-    "eid": "lc0PqyIqXfE.m4a",
-    "title": "109.这个夏天，有人偶遇旧爱，有人爱上新人",
-    "podcast": {
-      "title": "喷嚏"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/605b0d5d64b27cf2f137f131/6a63a055a3fec224d5a2e988/media.xyzcdn.net/605b0d5d64b27cf2f137f131/lkozfuADBhhgUoPvdlc0PqyIqXfE.m4a",
-    "pubDate": "2026-07-25T06:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/9unxvjbetgyu"
   }
 ]
