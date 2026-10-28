@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-28 12:09:25
+> 📅 生成时间: 2026-10-28 22:12:30
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
+### 1. Politicians are afraid to fix taxes. So 100 citizens tried.
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400
+```
+
+</details>
+
+---
+
+### 2. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -46,7 +73,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd4
 
 ---
 
-### 2. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
+### 3. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
 
 **播客名称**: AI炼金术
 
@@ -73,7 +100,34 @@ https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. Ep217 未来生活指南｜要我说，马斯克活的远不如我
+### 4. 243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？
+
+**播客名称**: 贝望录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942ec120bbe/media.xyzcdn.net/5e285856418a84a04627b7be/ljxODfei0mwGrylzdG1hjE4Ggv_0.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942ec120bbe/media.xyzcdn.net/5e285856418a84a04627b7be/ljxODfei0mwGrylzdG1hjE4Ggv_0.m4a
+```
+
+</details>
+
+---
+
+### 5. Ep217 未来生活指南｜要我说，马斯克活的远不如我
 
 **播客名称**: 基本无害 Mostly Harmless
 
@@ -100,34 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd4
 
 ---
 
-### 4. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
-```
-
-</details>
-
----
-
-### 5. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
+### 6. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
 
 **播客名称**: 疯投圈
 
@@ -154,7 +181,7 @@ https://rio.xyzcdn.net/crazycapital/ep150.mp3
 
 ---
 
-### 6. Vol.358 钢琴课：我已经想开了，希望你也想开一点
+### 7. Vol.358 钢琴课：我已经想开了，希望你也想开一点
 
 **播客名称**: 文化有限
 
@@ -175,33 +202,6 @@ https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a
-```
-
-</details>
-
----
-
-### 7. 不是，怎么又换版本了？---狂飙中的AI 2026
-
-**播客名称**: 屠龙之术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/lnW0XYKyKthMFjdI81jK8FKWptdE.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/lnW0XYKyKthMFjdI81jK8FKWptdE.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audi
 
 ---
 
-### 10. AI 时代，PhD 路上的 10 个关键问题｜对谈李磊：港大 PhD、小米 MiMo 研究员
+### 10. 少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠
 
-**播客名称**: 十字路口Crossing
+**播客名称**: 42章经
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6add84e197726cd467573cf1/media.xyzcdn.net/60502e253c92d4f62c2a9577/lpbsXeoXbCgTv0QckX8lCTPdwViV.m4a
+https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
 ```
 
 </details>
