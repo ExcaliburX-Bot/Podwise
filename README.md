@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-29 12:20  
+> 📅 **更新时间**: 2026-10-29 22:27  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3187期:Trump plans to detain illegal immigrants who commit crimes
+### 1. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_PchQFIpxvMvoQJPx.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. S8 Vol.29 EDN魏朋：4个中国人，如何管理3000人的印尼呼叫中心？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OuOwuAR5ixwTxt3TW.m4a?channel=rss&album_id=20119986&track_id=1028732495&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/2fd9-audiofreehighqps/A1/6E/GKwRIW4OuOwuAR5ixwTxt3TW.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 韩国电动车市场格局会否被中国品牌撬动？
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 第3187期:Trump plans to detain illegal immigrants who commit crimes
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
+### 5. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
 
 **播客**: 搞钱女孩
 
@@ -34,7 +73,7 @@
 
 ---
 
-### 3. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
+### 6. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
 
 **播客**: 硅谷101
 
@@ -47,7 +86,7 @@
 
 ---
 
-### 4. Politicians are afraid to fix taxes. So 100 citizens tried.
+### 7. Politicians are afraid to fix taxes. So 100 citizens tried.
 
 **播客**: Planet Money
 
@@ -60,20 +99,20 @@
 
 ---
 
-### 5. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
+### 8. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
 
-**播客**: 半拿铁 | 商业沉浮录
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd46758f0f3/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llEmOtCVCjXE2AMuY24ljcmeN-69.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194808&track_id=1028338072&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3183-audiofreehighqps/7F/07/GKwRIaIOt51DAnxHIwTxCWsL.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？
+### 9. 243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？
 
 **播客**: 贝望录
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. Ep217 未来生活指南｜要我说，马斯克活的远不如我
+### 10. Ep217 未来生活指南｜要我说，马斯克活的远不如我
 
 **播客**: 基本无害 Mostly Harmless
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep150.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.358 钢琴课：我已经想开了，希望你也想开一点
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
