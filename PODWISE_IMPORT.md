@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-28 22:12:30
+> 📅 生成时间: 2026-10-29 04:30:01
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. Politicians are afraid to fix taxes. So 100 citizens tried.
+### 1. 第3187期:Trump plans to detain illegal immigrants who commit crimes
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOqen5AA1q6ATqp2Mt.m4a?channel=rss&album_id=14812466&track_id=1025135800&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d75-audiofreehighqps/0A/73/GKwRIMAOqen5AA1q6ATqp2Mt.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOqen5AA1q6ATqp2Mt.m4a?channel=rss&album_id=14812466&track_id=1025135800&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5d75-audiofreehighqps/0A/73/GKwRIMAOqen5AA1q6ATqp2Mt.m4a
+```
+
+</details>
+
+---
+
+### 2. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3
+```
+
+</details>
+
+---
+
+### 3. Politicians are afraid to fix taxes. So 100 citizens tried.
 
 **播客名称**: Planet Money
 
@@ -46,7 +100,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 2. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
+### 4. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd4
 
 ---
 
-### 3. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
+### 5. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
 
 **播客名称**: AI炼金术
 
@@ -100,7 +154,7 @@ https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. 243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？
+### 6. 243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？
 
 **播客名称**: 贝望录
 
@@ -127,15 +181,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942
 
 ---
 
-### 5. Ep217 未来生活指南｜要我说，马斯克活的远不如我
+### 7. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
 
-**播客名称**: 基本无害 Mostly Harmless
+**播客名称**: 忽左忽右
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,14 +201,14 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
+### 8. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
 
 **播客名称**: 疯投圈
 
@@ -181,7 +235,7 @@ https://rio.xyzcdn.net/crazycapital/ep150.mp3
 
 ---
 
-### 7. Vol.358 钢琴课：我已经想开了，希望你也想开一点
+### 9. Vol.358 钢琴课：我已经想开了，希望你也想开一点
 
 **播客名称**: 文化有限
 
@@ -208,7 +262,7 @@ https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887
 
 ---
 
-### 8. vol.274长大是一件水土不服的事情
+### 10. vol.274长大是一件水土不服的事情
 
 **播客名称**: 正经叭叭
 
@@ -229,60 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a
-```
-
-</details>
-
----
-
-### 9. 506: Secret Identity
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/ce020dd9-145e-43e5-af3c-f6224ae352cb/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=ce020dd9-145e-43e5-af3c-f6224ae352cb&nocache
-```
-
-</details>
-
----
-
-### 10. 少有的同时做过 Agent、多模态和具身的人 | 对谈前混元多模态 RL Infra 负责人淏楠
-
-**播客名称**: 42章经
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6ada2be4c96c8942ec10cb1e/media.xyzcdn.net/648b0b641c48983391a63f98/lvbhcwVCtEq4TvFmVcbkRuBW0N82.m4a
 ```
 
 </details>
