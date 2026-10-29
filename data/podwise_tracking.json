@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T04:30:01.670145",
+  "generated_at": "2026-10-29T12:20:02.969279",
   "total_count": 10,
   "episodes": [
     {
@@ -14,6 +14,16 @@
     },
     {
       "rank": 2,
+      "title": "AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式",
+      "podcast": "搞钱女孩",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
       "podcast": "硅谷101",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3",
@@ -23,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
@@ -33,20 +43,10 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下",
       "podcast": "半拿铁 | 商业沉浮录",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd46758f0f3/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llEmOtCVCjXE2AMuY24ljcmeN-69.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 5,
-      "title": "找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194808&track_id=1028338072&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3183-audiofreehighqps/7F/07/GKwRIaIOt51DAnxHIwTxCWsL.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -64,6 +64,16 @@
     },
     {
       "rank": 7,
+      "title": "Ep217 未来生活指南｜要我说，马斯克活的远不如我",
+      "podcast": "基本无害 Mostly Harmless",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 8,
       "title": "511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942ec13048e/media.xyzcdn.net/5e4ee557418a84a0466737b7/lnSUCO6DZ9OdGC5X4rw5NRd_EQbs.m4a",
@@ -73,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep150.mp3",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Vol.358 钢琴课：我已经想开了，希望你也想开一点",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "vol.274长大是一件水土不服的事情",
-      "podcast": "正经叭叭",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-29 04:30:01
+> 📅 生成时间: 2026-10-29 12:20:02
 > 📊 总计: 10 个播客
 
 ---
@@ -46,7 +46,34 @@ https://jt.ximalaya.com//GKwRIMAOqen5AA1q6ATqp2Mt.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
+### 2. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
+```
+
+</details>
+
+---
+
+### 3. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
 
 **播客名称**: 硅谷101
 
@@ -73,7 +100,7 @@ https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e
 
 ---
 
-### 3. Politicians are afraid to fix taxes. So 100 citizens tried.
+### 4. Politicians are afraid to fix taxes. So 100 citizens tried.
 
 **播客名称**: Planet Money
 
@@ -100,7 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
+### 5. No.224 🏛️ 1492、破产、教皇、达芬奇、拉斐尔与托斯卡纳：文艺复兴背后的美第奇家族·下
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -121,33 +148,6 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd4
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6ae1861197726cd46758f0f3/media.xyzcdn.net/62382c1103bea1ebfffa1c00/llEmOtCVCjXE2AMuY24ljcmeN-69.m4a
-```
-
-</details>
-
----
-
-### 5. 找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊
-
-**播客名称**: AI炼金术
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194808&track_id=1028338072&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3183-audiofreehighqps/7F/07/GKwRIaIOt51DAnxHIwTxCWsL.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194808&track_id=1028338072&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3183-audiofreehighqps/7F/07/GKwRIaIOt51DAnxHIwTxCWsL.m4a
 ```
 
 </details>
@@ -181,7 +181,34 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942
 
 ---
 
-### 7. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
+### 7. Ep217 未来生活指南｜要我说，马斯克活的远不如我
+
+**播客名称**: 基本无害 Mostly Harmless
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a
+```
+
+</details>
+
+---
+
+### 8. 511 重新发现费孝通：文学视角下的三十年代江南丝业危机与北平青年思潮
 
 **播客名称**: 忽左忽右
 
@@ -208,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae0674fc96c8942
 
 ---
 
-### 8. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
+### 9. 150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价
 
 **播客名称**: 疯投圈
 
@@ -235,7 +262,7 @@ https://rio.xyzcdn.net/crazycapital/ep150.mp3
 
 ---
 
-### 9. Vol.358 钢琴课：我已经想开了，希望你也想开一点
+### 10. Vol.358 钢琴课：我已经想开了，希望你也想开一点
 
 **播客名称**: 文化有限
 
@@ -256,33 +283,6 @@ https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a
-```
-
-</details>
-
----
-
-### 10. vol.274长大是一件水土不服的事情
-
-**播客名称**: 正经叭叭
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a
 ```
 
 </details>
