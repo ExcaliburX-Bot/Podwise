@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-31 16:51  
+> 📅 **更新时间**: 2026-10-31 21:00  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. Is this how the great international borrowing spree ends?
+### 1. 第3189期:California, USA Hit by Powerful Winds
 
-**播客**: Planet Money
+**播客**: 英语每日一听 | 每天少于5分钟
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOqfCYABHORATqqz43.m4a?channel=rss&album_id=14812466&track_id=1025139968&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7b0b-audiofreehighqps/CE/FD/GKwRIJEOqfCYABHORATqqz43.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -34,20 +34,7 @@
 
 ---
 
-### 3. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
-
-**播客**: 随机波动StochasticVolatility
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/bda9c3b2-7299-445a-85d5-9e1fe470668a.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
+### 3. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
 
 **播客**: 知行小酒馆
 
@@ -60,7 +47,7 @@
 
 ---
 
-### 5. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
+### 4. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
 
 **播客**: 忽左忽右
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
+### 5. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +73,7 @@
 
 ---
 
-### 7. 我爆改黄仁勋的小黄鸭翻车了，却看懂了具身智能的未来！｜MicroDuck是具身智能的树莓派！
+### 6. 我爆改黄仁勋的小黄鸭翻车了，却看懂了具身智能的未来！｜MicroDuck是具身智能的树莓派！
 
 **播客**: 人民公园说AI
 
@@ -99,15 +86,28 @@
 
 ---
 
-### 8. BYM 352 | 面对滚滚 AI slop 洪流，我们推荐这三个内容
+### 7. 273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？
 
-**播客**: Blow Your Mind (BYM S02)
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOucO8AQfJJQTyEq7c.m4a?channel=rss&album_id=6990384&track_id=1028911599&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/0701-audiofreehighqps/F1/84/GKwRIMAOucO8AQfJJQTyEq7c.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ae354db97726cd46759cd52/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqSAvVFhIEh9_FuJpWEO8k0JlGry.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. S8 Vol.29 EDN魏朋：4个中国人，如何管理3000人的印尼呼叫中心？
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OuOwuAR5ixwTxt3TW.m4a?channel=rss&album_id=20119986&track_id=1028732495&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/2fd9-audiofreehighqps/A1/6E/GKwRIW4OuOwuAR5ixwTxt3TW.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
+### 10. E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？
 
-**播客**: 搞钱女孩
+**播客**: 硅谷101
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
