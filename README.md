@@ -1,22 +1,22 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-10-31 04:11  
+> 📅 **更新时间**: 2026-10-31 11:43  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3189期:California, USA Hit by Powerful Winds
+### 1. Is this how the great international borrowing spree ends?
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: Planet Money
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOqfCYABHORATqqz43.m4a?channel=rss&album_id=14812466&track_id=1025139968&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/7b0b-audiofreehighqps/CE/FD/GKwRIJEOqfCYABHORATqqz43.m4a)
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,7 +47,20 @@
 
 ---
 
-### 4. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
+### 4. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ae440bcc96c8942ec14b02f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvnr1aFmbKgG3GJZuMqRICvnLeu8.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
 
 **播客**: 忽左忽右
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
+### 6. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
 
 **播客**: Vibration 歪波音室
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 我爆改黄仁勋的小黄鸭翻车了，却看懂了具身智能的未来！｜MicroDuck是具身智能的树莓派！
+### 7. 我爆改黄仁勋的小黄鸭翻车了，却看懂了具身智能的未来！｜MicroDuck是具身智能的树莓派！
 
 **播客**: 人民公园说AI
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. BYM 352 | 面对滚滚 AI slop 洪流，我们推荐这三个内容
+### 8. BYM 352 | 面对滚滚 AI slop 洪流，我们推荐这三个内容
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？
+### 9. 273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？
 
 **播客**: 沈奕斐的播客
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. 韩国电动车市场格局会否被中国品牌撬动？
+### 10. 韩国电动车市场格局会否被中国品牌撬动？
 
 **播客**: 东亚观察局
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
