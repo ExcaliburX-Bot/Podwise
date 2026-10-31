@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-10-31 11:43:21
+> 📅 生成时间: 2026-10-31 16:51:17
 > 📊 总计: 10 个播客
 
 ---
@@ -235,34 +235,7 @@ https://jt.ximalaya.com//GKwRIMAOucO8AQfJJQTyEq7c.m4a?channel=rss&album_id=69903
 
 ---
 
-### 9. 273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？
-
-**播客名称**: 沈奕斐的播客
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ae354db97726cd46759cd52/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqSAvVFhIEh9_FuJpWEO8k0JlGry.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ae354db97726cd46759cd52/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqSAvVFhIEh9_FuJpWEO8k0JlGry.m4a
-```
-
-</details>
-
----
-
-### 10. 韩国电动车市场格局会否被中国品牌撬动？
+### 9. 韩国电动车市场格局会否被中国品牌撬动？
 
 **播客名称**: 东亚观察局
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a
+```
+
+</details>
+
+---
+
+### 10. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
+
+**播客名称**: 搞钱女孩
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
 ```
 
 </details>
