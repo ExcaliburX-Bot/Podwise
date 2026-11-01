@@ -1,15 +1,5 @@
 [
   {
-    "eid": "AkzpwTuQTUP.m4a",
-    "title": "第3190期:Targeting the European Market: Chinese Auto Brands Debut in Paris",
-    "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOsd6ZAAkzpwTuQTUP.m4a?channel=rss&album_id=14812466&track_id=1027168733&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf1-audiofreehighqps/2F/9D/GKwRIJIOsd6ZAAkzpwTuQTUP.m4a",
-    "pubDate": "2026-11-01T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
-  },
-  {
     "eid": "1&size=24826026",
     "title": "Is this how the great international borrowing spree ends?",
     "podcast": {
@@ -38,16 +28,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ae440bcc96c8942ec14b02f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvnr1aFmbKgG3GJZuMqRICvnLeu8.m4a",
     "pubDate": "2026-10-30T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/j8yp8gxkmgqr"
-  },
-  {
-    "eid": "IpxvMvoQJPx.mp3",
-    "title": "10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_PchQFIpxvMvoQJPx.mp3",
-    "pubDate": "2026-10-30T05:30:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "EM_UZnwwtw3.m4a",
@@ -80,16 +60,6 @@
     "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
-    "eid": "R5ixwTxt3TW.m4a",
-    "title": "S8 Vol.29 EDN魏朋：4个中国人，如何管理3000人的印尼呼叫中心？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4OuOwuAR5ixwTxt3TW.m4a?channel=rss&album_id=20119986&track_id=1028732495&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/2fd9-audiofreehighqps/A1/6E/GKwRIW4OuOwuAR5ixwTxt3TW.m4a",
-    "pubDate": "2026-10-29T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
     "eid": "f61xdUFfUV2.m4a",
     "title": "韩国电动车市场格局会否被中国品牌撬动？",
     "podcast": {
@@ -98,6 +68,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a",
     "pubDate": "2026-10-29T22:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
+  },
+  {
+    "eid": "IgRszA5pK4E.m4a",
+    "title": "AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式",
+    "podcast": {
+      "title": "搞钱女孩"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a",
+    "pubDate": "2026-10-28T23:30:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/qw7x9eum9utp"
+  },
+  {
+    "eid": "f68f59b4ca9.mp3",
+    "title": "E257｜对话Vitalik：AI安全背后的哲学思想，有效利他主义如何影响硅谷？",
+    "podcast": {
+      "title": "硅谷101"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/7a1e61d3-f02c-498b-ac84-cf68f59b4ca9.mp3",
+    "pubDate": "2026-10-28T16:00:00-07:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "24ljcmeN-69.m4a",
@@ -110,24 +100,34 @@
     "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
   },
   {
-    "eid": "nxHIwTxCWsL.m4a",
-    "title": "找刚入职 Manus 的余一聊感受：好快乐啊，好快乐啊，好快乐啊",
+    "eid": "G1hjE4Ggv_0.m4a",
+    "title": "243. 行动亚洲的20年，一个公益组织如何活下去，又如何改变世界？",
     "podcast": {
-      "title": "AI炼金术"
+      "title": "贝望录"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIaIOt51DAnxHIwTxCWsL.m4a?channel=rss&album_id=74194808&track_id=1028338072&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/3183-audiofreehighqps/7F/07/GKwRIaIOt51DAnxHIwTxCWsL.m4a",
-    "pubDate": "2026-10-28T11:16:23+00:00",
-    "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ade1953c96c8942ec120bbe/media.xyzcdn.net/5e285856418a84a04627b7be/ljxODfei0mwGrylzdG1hjE4Ggv_0.m4a",
+    "pubDate": "2026-10-28T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/n67ujl39p8xq"
   },
   {
-    "eid": "GrqufD9h0B2.m4a",
-    "title": "Ep217 未来生活指南｜要我说，马斯克活的远不如我",
+    "eid": "pital/ep150.mp3",
+    "title": "150 ✪ alo入华姗姗来迟；凯乐石、之禾持续提价",
     "podcast": {
-      "title": "基本无害 Mostly Harmless"
+      "title": "疯投圈"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae0897897726cd467588c19/media.xyzcdn.net/5eae66d1418a84a046472b4d/lne4p6S9LwvLMuifzGrqufD9h0B2.m4a",
-    "pubDate": "2026-10-27T16:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/dy3ktvw6exc9"
+    "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep150.mp3",
+    "pubDate": "2026-10-27T00:00:00+00:00",
+    "source_rss": "https://crazy.capital/feed"
+  },
+  {
+    "eid": "ype0QTvn81u.m4a",
+    "title": "Vol.358 钢琴课：我已经想开了，希望你也想开一点",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEOtL1AAype0QTvn81u.m4a?channel=rss&album_id=29887212&track_id=1027683564&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/7f86-audiofreehighqps/B0/58/GKwRIJEOtL1AAype0QTvn81u.m4a",
+    "pubDate": "2026-10-26T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
     "eid": "KIqZVdacEH6.m4a",
@@ -138,6 +138,16 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6adf8a8dc96c8942ec12aa7d/media.xyzcdn.net/6507bc165c88d2412626b401/liFTkQnDduLqfyZNmKIqZVdacEH6.m4a",
     "pubDate": "2026-10-26T17:55:28+00:00",
     "source_rss": "https://feed.xyzfm.space/834hyx3v9k74"
+  },
+  {
+    "eid": "31jfp3Wd9Bq.m4a",
+    "title": "vol.274长大是一件水土不服的事情",
+    "podcast": {
+      "title": "正经叭叭"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6adf4405c96c8942ec1288c3/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lr48jMlYw0smLaUbr31jfp3Wd9Bq.m4a",
+    "pubDate": "2026-10-26T15:51:17+00:00",
+    "source_rss": "https://feed.xyzfm.space/t7hdrqbuxmqr"
   },
   {
     "eid": "ae352cb&nocache",
@@ -238,16 +248,6 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a",
     "pubDate": "2026-10-09T09:53:12+00:00",
     "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
-  },
-  {
-    "eid": "-utmiUig6M6.m4a",
-    "title": "277.从提醒你，到替你办：Today想把Personal AI带到哪一步？",
-    "podcast": {
-      "title": "乱翻书"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6ab4b804e742e36efcbab131/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lub_XeKQnXJr6Psdo-utmiUig6M6.m4a",
-    "pubDate": "2026-09-24T05:46:12+00:00",
-    "source_rss": "https://feed.xyzfm.space/yxuruh3f9mc4"
   },
   {
     "eid": "7Dp1TmglEkF.m4a",
