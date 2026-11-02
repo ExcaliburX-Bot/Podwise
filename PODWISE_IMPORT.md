@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-01 21:43:17
+> 📅 生成时间: 2026-11-02 04:33:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. [年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会
+### 1. 第3191期:South Koreans pack park just to catch a glimpse of a trapped shark
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIMAOseDFAAnTVgTuQmPM.m4a?channel=rss&album_id=14812466&track_id=1027169642&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8ce8-audiofreehighqps/F1/11/GKwRIMAOseDFAAnTVgTuQmPM.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIMAOseDFAAnTVgTuQmPM.m4a?channel=rss&album_id=14812466&track_id=1027169642&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8ce8-audiofreehighqps/F1/11/GKwRIMAOseDFAAnTVgTuQmPM.m4a
+```
+
+</details>
+
+---
+
+### 2. [年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会
 
 **播客名称**: 十字路口Crossing
 
@@ -46,15 +73,15 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ae6e230c96c8942
 
 ---
 
-### 2. 第3190期:Targeting the European Market: Chinese Auto Brands Debut in Paris
+### 3. Is this how the great international borrowing spree ends?
 
-**播客名称**: 英语每日一听 | 每天少于5分钟
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://jt.ximalaya.com//GKwRIJIOsd6ZAAkzpwTuQTUP.m4a?channel=rss&album_id=14812466&track_id=1027168733&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf1-audiofreehighqps/2F/9D/GKwRIJIOsd6ZAAkzpwTuQTUP.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026
 ```
 
 **导入状态**: ⬜ 待导入
@@ -66,14 +93,14 @@ https://jt.ximalaya.com//GKwRIJIOsd6ZAAkzpwTuQTUP.m4a?channel=rss&album_id=14812
 
 音频链接（点击复制）:
 ```
-https://jt.ximalaya.com//GKwRIJIOsd6ZAAkzpwTuQTUP.m4a?channel=rss&album_id=14812466&track_id=1027168733&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/fcf1-audiofreehighqps/2F/9D/GKwRIJIOsd6ZAAkzpwTuQTUP.m4a
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026
 ```
 
 </details>
 
 ---
 
-### 3. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
+### 4. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
 
 **播客名称**: What's Next｜科技早知道
 
@@ -100,7 +127,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/03e5
 
 ---
 
-### 4. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
+### 5. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -127,7 +154,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/bda9
 
 ---
 
-### 5. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
+### 6. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
 
 **播客名称**: 知行小酒馆
 
@@ -148,33 +175,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ae440bcc96c8942
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ae440bcc96c8942ec14b02f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvnr1aFmbKgG3GJZuMqRICvnLeu8.m4a
-```
-
-</details>
-
----
-
-### 6. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae4546797726cd4675a2ef0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh0W1a0jWaFUYdxpDGHQPPuWVbZY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae4546797726cd4675a2ef0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh0W1a0jWaFUYdxpDGHQPPuWVbZY.m4a
 ```
 
 </details>
@@ -262,15 +262,15 @@ https://jt.ximalaya.com//GKwRIW4OuOwuAR5ixwTxt3TW.m4a?channel=rss&album_id=20119
 
 ---
 
-### 10. AI时代做OPC真的香吗？聊聊一人公司的定位、定价、商业模式
+### 10. 韩国电动车市场格局会否被中国品牌撬动？
 
-**播客名称**: 搞钱女孩
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd4
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6ae2371797726cd46759506e/media.xyzcdn.net/63d945ece725b5378a158d29/lt50cKeYhXo-g5v43IgRszA5pK4E.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a
 ```
 
 </details>
