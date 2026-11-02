@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-02 04:33  
+> 📅 **更新时间**: 2026-11-02 14:49  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3191期:South Koreans pack park just to catch a glimpse of a trapped shark
+### 1. 教完AI写作却弃用：我们得了"AI内容过敏症"，对谈葬 AI 咸鱼-Vol108
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ae89b93c96c8942ec163d4a/media.xyzcdn.net/636669d51064cb55f31505fc/lutuXix9UwyT2bppCTntoFRJxNMV.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 从龙虾到《赵云与阿斗》，我的10个AI-aha moment
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ae81dffc96c8942ec15ea3c/media.xyzcdn.net/6507bc165c88d2412626b401/lmnKz0xu2iFhemuwb3hVycVf_NZe.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3191期:South Koreans pack park just to catch a glimpse of a trapped shark
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,20 +47,20 @@
 
 ---
 
-### 2. [年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会
+### 4. 900: Talk Me Into It
 
-**播客**: 十字路口Crossing
+**播客**: This American Life
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ae6e230c96c8942ec156ed6/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqXcQjZbUePdvtQOvOZF8bEPxBzB.m4a)
+- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/5a109dc6-3f88-4918-b8f5-4d181a8639fd/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=5a109dc6-3f88-4918-b8f5-4d181a8639fd&nocache)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. Is this how the great international borrowing spree ends?
+### 5. Is this how the great international borrowing spree ends?
 
 **播客**: Planet Money
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
+### 6. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
 
 **播客**: What's Next｜科技早知道
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
+### 7. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
 
 **播客**: 随机波动StochasticVolatility
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
+### 8. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
 
 **播客**: 知行小酒馆
 
@@ -86,7 +112,20 @@
 
 ---
 
-### 7. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
+### 9. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae4546797726cd4675a2ef0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh0W1a0jWaFUYdxpDGHQPPuWVbZY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
 
 **播客**: Vibration 歪波音室
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPTK_PchQFIpxvMvoQJPx.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ae354db97726cd46759cd52/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqSAvVFhIEh9_FuJpWEO8k0JlGry.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. S8 Vol.29 EDN魏朋：4个中国人，如何管理3000人的印尼呼叫中心？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OuOwuAR5ixwTxt3TW.m4a?channel=rss&album_id=20119986&track_id=1028732495&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/2fd9-audiofreehighqps/A1/6E/GKwRIW4OuOwuAR5ixwTxt3TW.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 韩国电动车市场格局会否被中国品牌撬动？
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6ae3712dc96c8942ec1469f5/media.xyzcdn.net/5e9a4e25418a84a046bc6156/loXaFWDBMcAcM98xRf61xdUFfUV2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
