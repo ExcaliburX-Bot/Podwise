@@ -1,40 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-02 14:49  
+> 📅 **更新时间**: 2026-11-03 00:32  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 教完AI写作却弃用：我们得了"AI内容过敏症"，对谈葬 AI 咸鱼-Vol108
-
-**播客**: 脑放电波
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ae89b93c96c8942ec163d4a/media.xyzcdn.net/636669d51064cb55f31505fc/lutuXix9UwyT2bppCTntoFRJxNMV.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 从龙虾到《赵云与阿斗》，我的10个AI-aha moment
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ae81dffc96c8942ec15ea3c/media.xyzcdn.net/6507bc165c88d2412626b401/lmnKz0xu2iFhemuwb3hVycVf_NZe.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 第3191期:South Koreans pack park just to catch a glimpse of a trapped shark
+### 1. 第3192期:French President Macron condemns violence in the country
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -42,12 +16,51 @@
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIMAOseDFAAnTVgTuQmPM.m4a?channel=rss&album_id=14812466&track_id=1027169642&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/8ce8-audiofreehighqps/F1/11/GKwRIMAOseDFAAnTVgTuQmPM.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOseOaAAgQ3QTuREk2.m4a?channel=rss&album_id=14812466&track_id=1027171415&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/eb5a-audiofreehighqps/33/D0/GKwRIUEOseOaAAgQ3QTuREk2.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 900: Talk Me Into It
+### 2. Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱
+
+**播客**: 文化有限
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OuvLSArR0NATyncMI.m4a?channel=rss&album_id=29887212&track_id=1029117775&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/39d9-audiofreehighqps/CD/AE/GKwRIW4OuvLSArR0NATyncMI.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. vol.275桃酥辣条干脆面，零食都想整一遍
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ae898d797726cd4675bae29/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsgSYPsQsqmkvnS0lNVKiIfP1ViA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Ep218 未来生活指南｜我画地为房啊 退休！
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6ae8a103c96c8942ec164091/media.xyzcdn.net/5eae66d1418a84a046472b4d/lu_xsci1CShiCK8Z458Ln0WukE2c.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 900: Talk Me Into It
 
 **播客**: This American Life
 
@@ -60,7 +73,20 @@
 
 ---
 
-### 5. Is this how the great international borrowing spree ends?
+### 6. [年终复盘①]AI带给我的10个Aha Moments｜庄明浩：RSI 来了、AI 的奇观与粗糙、巨头夹缝中的创业机会
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6ae6e230c96c8942ec156ed6/media.xyzcdn.net/60502e253c92d4f62c2a9577/lqXcQjZbUePdvtQOvOZF8bEPxBzB.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. Is this how the great international borrowing spree ends?
 
 **播客**: Planet Money
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
+### 8. Anthropic冲刺IPO：2万亿美元估值贵不贵？拆解Claude的增长、成本与竞争｜S10E34
 
 **播客**: What's Next｜科技早知道
 
@@ -86,7 +112,7 @@
 
 ---
 
-### 7. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
+### 9. 【随机波动】对话詹青云：我们聊了聊洗澡这件小事
 
 **播客**: 随机波动StochasticVolatility
 
@@ -99,7 +125,7 @@
 
 ---
 
-### 8. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
+### 10. E256 等等，经济已经好起来了吗，怎么还没暖到我啊？｜对话郭凯
 
 **播客**: 知行小酒馆
 
@@ -108,32 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6ae440bcc96c8942ec14b02f/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lvnr1aFmbKgG3GJZuMqRICvnLeu8.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 512 与王恺漫话江南食事：从文人蟹宴到乡野土菜
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae4546797726cd4675a2ef0/media.xyzcdn.net/5e4ee557418a84a0466737b7/lh0W1a0jWaFUYdxpDGHQPPuWVbZY.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 10月新歌推荐丨朱婧汐、柏林护士、LISA 、Ashe…不要错过！
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_PchQFIpxvMvoQJPx.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
