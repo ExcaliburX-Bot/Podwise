@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-05 23:16  
+> 📅 **更新时间**: 2026-11-06 05:14  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
+### 1. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/16de99b4-9940-4d7e-bd08-9ff0d4423df0.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
 
 **播客**: 东亚观察局
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
+### 3. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -34,33 +47,7 @@
 
 ---
 
-### 3. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
-
-**播客**: 搞钱女孩
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. 第3194期:The French government plans to deploy the military
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OsenPAAlXigTuSCHZ.m4a?channel=rss&album_id=14812466&track_id=1027175073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/a58c-audiofreehighqps/0D/AB/GKwRIW4OsenPAAlXigTuSCHZ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+### 4. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
 **播客**: 人民公园说AI
 
@@ -73,7 +60,7 @@
 
 ---
 
-### 6. 【随机波动180】城市高速发展，人们不再说话
+### 5. 【随机波动180】城市高速发展，人们不再说话
 
 **播客**: 随机波动StochasticVolatility
 
@@ -86,20 +73,7 @@
 
 ---
 
-### 7. No.225 👟 莆田鞋往事
-
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aeadd07c96c8942ec172b41/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqkbcJp-0FQetjRfEet10VPv0axw.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. The history of light (classic)
+### 6. The history of light (classic)
 
 **播客**: Planet Money
 
@@ -112,28 +86,54 @@
 
 ---
 
-### 9. BYM 353 | 今天的主题是清理垃圾
+### 7. 513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发
 
-**播客**: Blow Your Mind (BYM S02)
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOv70eAcBCiwT1MDKN.m4a?channel=rss&album_id=6990384&track_id=1030033279&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22bd-audiofreehighqps/08/E6/GKwRIUEOv70eAcBCiwT1MDKN.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae9a8d3c96c8942ec16aeb7/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvyohbNAkaa_iOP9nIRokKKJMhqS.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图
+### 8. 要用 AI 抢地盘，别只想着省人工｜尚学未来 CEO 李桢
 
-**播客**: 三五环
+**播客**: AI炼金术
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6ae8bb1097726cd4675bbd9d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmCKv_XOcbjfcVCD5wbYTBAMuKwf.m4a)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OvwwBAsD_FwT0vmrP.m4a?channel=rss&album_id=74194808&track_id=1029884610&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/4cd2-audiofreehighqps/C4/78/GKwRIW4OvwwBAsD_FwT0vmrP.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 一个非典型内容创作者的知识付费新尝试，也是一个重轻粉丝对重轻的致敬
+
+**播客**: 屠龙之术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ae8794197726cd4675b9a63/media.xyzcdn.net/6507bc165c88d2412626b401/ltJ_b4PWcIm7bHFLW60jrglDrerb.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. vol.275桃酥辣条干脆面，零食都想整一遍
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ae898d797726cd4675bae29/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsgSYPsQsqmkvnS0lNVKiIfP1ViA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
