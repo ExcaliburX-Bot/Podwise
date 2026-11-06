@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-06 05:14  
+> 📅 **更新时间**: 2026-11-06 13:46  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+### 1. E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aed7b615b7c4709bfe1fe12/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgvsXBt7TSTJ2vHXUpCRxnrf3g4V.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,20 +34,33 @@
 
 ---
 
-### 2. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
+### 3. 514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起
 
-**播客**: 东亚观察局
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/lmJSUKMFOAeb_6B0_nDO2aS7OV8E.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 3. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
+### 4. 第3195期:Japan launches rocket carrying Mars moon probe
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEOseuFAAjy_wTuSRCY.m4a?channel=rss&album_id=14812466&track_id=1027176109&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fa1-audiofreehighqps/21/23/GKwRIUEOseuFAAjy_wTuSRCY.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -47,7 +73,33 @@
 
 ---
 
-### 4. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+### 6. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
+
+**播客**: 东亚观察局
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
 **播客**: 人民公园说AI
 
@@ -60,7 +112,7 @@
 
 ---
 
-### 5. 【随机波动180】城市高速发展，人们不再说话
+### 9. 【随机波动180】城市高速发展，人们不再说话
 
 **播客**: 随机波动StochasticVolatility
 
@@ -73,67 +125,15 @@
 
 ---
 
-### 6. The history of light (classic)
+### 10. No.225 👟 莆田鞋往事
 
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/df5d68e4-3e3f-4c21-81f1-66dfd11e3193/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=df5d68e4-3e3f-4c21-81f1-66dfd11e3193&feed=hvWWWzRv&t=podcast&e=nx-s1-6027986&p=510289&d=1266&size=20264002)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 513 为永明时代作传：林晓光谈南齐武帝萧赜与南朝文学的爆发
-
-**播客**: 忽左忽右
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6ae9a8d3c96c8942ec16aeb7/media.xyzcdn.net/5e4ee557418a84a0466737b7/lvyohbNAkaa_iOP9nIRokKKJMhqS.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 要用 AI 抢地盘，别只想着省人工｜尚学未来 CEO 李桢
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OvwwBAsD_FwT0vmrP.m4a?channel=rss&album_id=74194808&track_id=1029884610&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/4cd2-audiofreehighqps/C4/78/GKwRIW4OvwwBAsD_FwT0vmrP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 一个非典型内容创作者的知识付费新尝试，也是一个重轻粉丝对重轻的致敬
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6ae8794197726cd4675b9a63/media.xyzcdn.net/6507bc165c88d2412626b401/ltJ_b4PWcIm7bHFLW60jrglDrerb.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. vol.275桃酥辣条干脆面，零食都想整一遍
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6ae898d797726cd4675bae29/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lsgSYPsQsqmkvnS0lNVKiIfP1ViA.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aeadd07c96c8942ec172b41/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqkbcJp-0FQetjRfEet10VPv0axw.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
