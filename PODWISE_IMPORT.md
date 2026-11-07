@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-06 22:44:29
+> 📅 生成时间: 2026-11-07 04:45:41
 > 📊 总计: 10 个播客
 
 ---
@@ -127,34 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ae97c0297726cd4
 
 ---
 
-### 5. 第3195期:Japan launches rocket carrying Mars moon probe
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIUEOseuFAAjy_wTuSRCY.m4a?channel=rss&album_id=14812466&track_id=1027176109&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fa1-audiofreehighqps/21/23/GKwRIUEOseuFAAjy_wTuSRCY.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIUEOseuFAAjy_wTuSRCY.m4a?channel=rss&album_id=14812466&track_id=1027176109&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6fa1-audiofreehighqps/21/23/GKwRIUEOseuFAAjy_wTuSRCY.m4a
-```
-
-</details>
-
----
-
-### 6. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
+### 5. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -181,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJIOwhbXASGO0QT2SeoO.m4a?channel=rss&album_id=20119
 
 ---
 
-### 7. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
+### 6. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
 
 **播客名称**: 东亚观察局
 
@@ -208,34 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709
 
 ---
 
-### 8. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
-
-**播客名称**: 搞钱女孩
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a
-```
-
-</details>
-
----
-
-### 9. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+### 7. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
 **播客名称**: 人民公园说AI
 
@@ -262,7 +208,34 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7
 
 ---
 
-### 10. No.225 👟 莆田鞋往事
+### 8. 【随机波动180】城市高速发展，人们不再说话
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3
+```
+
+</details>
+
+---
+
+### 9. No.225 👟 莆田鞋往事
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aeadd07c96c8942
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aeadd07c96c8942ec172b41/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqkbcJp-0FQetjRfEet10VPv0axw.m4a
+```
+
+</details>
+
+---
+
+### 10. No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图
+
+**播客名称**: 三五环
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6ae8bb1097726cd4675bbd9d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmCKv_XOcbjfcVCD5wbYTBAMuKwf.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6ae8bb1097726cd4675bbd9d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmCKv_XOcbjfcVCD5wbYTBAMuKwf.m4a
 ```
 
 </details>
