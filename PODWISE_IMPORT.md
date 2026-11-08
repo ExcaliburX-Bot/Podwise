@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-08 12:48:19
+> 📅 生成时间: 2026-11-08 21:42:11
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3197期:Bluefin tuna conservation success in the UK
+### 1. 【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af00645b4a4e20202f67440/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgbtk9XXwn5ZA0Du2HfHATFpHCjC.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af00645b4a4e20202f67440/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgbtk9XXwn5ZA0Du2HfHATFpHCjC.m4a
+```
+
+</details>
+
+---
+
+### 2. 第3197期:Bluefin tuna conservation success in the UK
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIDoOsfEJAAUhBwTuTGOG.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
+### 3. 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
 
 **播客名称**: 42章经
 
@@ -67,33 +94,6 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6aec6bc06381f0f9
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6aec6bc06381f0f964c45068/media.xyzcdn.net/648b0b641c48983391a63f98/lglxSZWHG-HfxflKgavxCpsZm0Ep.m4a
-```
-
-</details>
-
----
-
-### 3. Inside the insurance industry’s destruction lab
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653
 ```
 
 </details>
@@ -127,15 +127,15 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aed7b615b7c4709
 
 ---
 
-### 5. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+### 5. 245. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
 
-**播客名称**: 晚点聊 LateTalk
+**播客名称**: 贝望录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/16de99b4-9940-4d7e-bd08-9ff0d4423df0.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ae97c0297726cd4675bfe0b/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -147,22 +147,22 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/16de
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/16de99b4-9940-4d7e-bd08-9ff0d4423df0.mp3
+https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ae97c0297726cd4675bfe0b/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a
 ```
 
 </details>
 
 ---
 
-### 6. 514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起
+### 6. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
 
-**播客名称**: 忽左忽右
+**播客名称**: 东亚观察局
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -174,7 +174,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a
+https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a
 ```
 
 </details>
@@ -208,34 +208,7 @@ https://jt.ximalaya.com//GKwRIJIOwhbXASGO0QT2SeoO.m4a?channel=rss&album_id=20119
 
 ---
 
-### 8. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a
-```
-
-</details>
-
----
-
-### 9. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
+### 8. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
 
 **播客名称**: 搞钱女孩
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8
 
 ---
 
-### 10. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+### 9. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
 **播客名称**: 人民公园说AI
 
@@ -283,6 +256,33 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7996a464b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqTLNRKT2VatW7fLYTB3AGQ9wmMA.m4a
+```
+
+</details>
+
+---
+
+### 10. 【随机波动180】城市高速发展，人们不再说话
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3
 ```
 
 </details>

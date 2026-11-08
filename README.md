@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-08 12:48  
+> 📅 **更新时间**: 2026-11-08 21:42  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3197期:Bluefin tuna conservation success in the UK
+### 1. 【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af00645b4a4e20202f67440/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgbtk9XXwn5ZA0Du2HfHATFpHCjC.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3197期:Bluefin tuna conservation success in the UK
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
+### 3. 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
 
 **播客**: 42章经
 
@@ -30,19 +43,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6aec6bc06381f0f964c45068/media.xyzcdn.net/648b0b641c48983391a63f98/lglxSZWHG-HfxflKgavxCpsZm0Ep.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. Inside the insurance industry’s destruction lab
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -60,28 +60,28 @@
 
 ---
 
-### 5. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+### 5. 245. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
 
-**播客**: 晚点聊 LateTalk
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/16de99b4-9940-4d7e-bd08-9ff0d4423df0.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ae97c0297726cd4675bfe0b/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起
+### 6. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
 
-**播客**: 忽左忽右
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,20 +99,7 @@
 
 ---
 
-### 8. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
+### 8. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
 
 **播客**: 搞钱女孩
 
@@ -125,7 +112,7 @@
 
 ---
 
-### 10. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+### 9. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
 **播客**: 人民公园说AI
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7996a464b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqTLNRKT2VatW7fLYTB3AGQ9wmMA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 【随机波动180】城市高速发展，人们不再说话
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
