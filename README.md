@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-08 04:35  
+> 📅 **更新时间**: 2026-11-08 12:48  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,7 +21,46 @@
 
 ---
 
-### 2. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
+### 2. 锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6aec6bc06381f0f964c45068/media.xyzcdn.net/648b0b641c48983391a63f98/lglxSZWHG-HfxflKgavxCpsZm0Ep.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Inside the insurance industry’s destruction lab
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. E257 对话少楠：明明 AI 有问必答，我怎么还总是信息焦虑？
+
+**播客**: 知行小酒馆
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6aed7b615b7c4709bfe1fe12/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lgvsXBt7TSTJ2vHXUpCRxnrf3g4V.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 185: Anthropic招股书丨与Amont李肇宇聊定价逻辑和潜在风险
 
 **播客**: 晚点聊 LateTalk
 
@@ -34,20 +73,20 @@
 
 ---
 
-### 3. 245. 2026年出海营销，我们有哪些想当然？｜亚马逊×凯度全流域营销白皮书解读
+### 6. 514 高林漫谈帝国巡游、朝圣之路与汽车旅行的兴起
 
-**播客**: 贝望录
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6ae97c0297726cd4675bfe0b/media.xyzcdn.net/5e285856418a84a04627b7be/lnPJBWLa_qzjVoaI88bG0IpyEriQ.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6aed77635b7c4709bfe1fb28/media.xyzcdn.net/5e4ee557418a84a0466737b7/ljdUNiCAdo0t3eSRmj5aL0OlPBp1.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
+### 7. S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？
 
 **播客**: 创业内幕 Startup Insider
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
+### 8. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
 
 **播客**: 东亚观察局
 
@@ -73,67 +112,28 @@
 
 ---
 
-### 6. 【随机波动180】城市高速发展，人们不再说话
+### 9. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
 
-**播客**: 随机波动StochasticVolatility
+**播客**: 搞钱女孩
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/09637ded-53af-452f-b826-40eb3cec1f73.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 7. No.225 👟 莆田鞋往事
+### 10. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
 
-**播客**: 半拿铁 | 商业沉浮录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6aeadd07c96c8942ec172b41/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lqkbcJp-0FQetjRfEet10VPv0axw.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图
-
-**播客**: 三五环
+**播客**: 人民公园说AI
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6ae8bb1097726cd4675bbd9d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmCKv_XOcbjfcVCD5wbYTBAMuKwf.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 要用 AI 抢地盘，别只想着省人工｜尚学未来 CEO 李桢
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OvwwBAsD_FwT0vmrP.m4a?channel=rss&album_id=74194808&track_id=1029884610&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/4cd2-audiofreehighqps/C4/78/GKwRIW4OvwwBAsD_FwT0vmrP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. Vol.359 伶仃世：凡看起来威风无两的，都有难以启齿的脆弱
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OuvLSArR0NATyncMI.m4a?channel=rss&album_id=29887212&track_id=1029117775&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/39d9-audiofreehighqps/CD/AE/GKwRIW4OuvLSArR0NATyncMI.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7996a464b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqTLNRKT2VatW7fLYTB3AGQ9wmMA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
