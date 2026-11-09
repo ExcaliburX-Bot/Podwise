@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-09 04:46  
+> 📅 **更新时间**: 2026-11-09 15:15  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3198期:Why it is so hard to start exercising
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOsfKfABfFcATuTZda.m4a?channel=rss&album_id=14812466&track_id=1027179906&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/edbc-audiofreehighqps/4D/D6/GKwRIaIOsfKfABfFcATuTZda.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. 901: Is Your Blue My Blue?
+### 1. 901: Is Your Blue My Blue?
 
 **播客**: This American Life
 
@@ -30,6 +17,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨
+
+**播客**: 十字路口Crossing
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af00645b4a4e20202f67440/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgbtk9XXwn5ZA0Du2HfHATFpHCjC.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,20 +112,7 @@
 
 ---
 
-### 9. 305 “老朋友”福田康夫离世引叹息 国会开议高市早苗再爆雷
-
-**播客**: 东亚观察局
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6aec8ca45b7c4709bfe1ae34/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lq0tTx_t4cpur84bqbQK-cErWay_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
+### 9. 对话李蕾：如何不画地为牢、走出谷底？找到你的“天才女友”，搞钱搞自己！
 
 **播客**: 搞钱女孩
 
@@ -134,6 +121,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6aeb8974c33509d8297642ef/media.xyzcdn.net/63d945ece725b5378a158d29/lsHCDIAdw1NqbbrWrZGs16VUPg8Y.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！
+
+**播客**: 人民公园说AI
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7996a464b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqTLNRKT2VatW7fLYTB3AGQ9wmMA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
