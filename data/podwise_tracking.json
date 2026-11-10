@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-11-10T14:22:40.270738",
+  "generated_at": "2026-11-10T22:52:02.268547",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入",
+      "podcast": "乱翻书",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6af316b6b4a4e20202f7cbd2/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhHrwpWMn7E-UNjT7WpXDixLlxGS.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
       "title": "515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af2df3ab4a4e20202f7ae55/media.xyzcdn.net/5e4ee557418a84a0466737b7/lgrIc01Z9_3p6bVhcQwpxK8bS-nm.m4a",
@@ -13,7 +23,17 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIW4OyGO9AjXCKAT47nxz.m4a?channel=rss&album_id=74194808&track_id=1031626765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fc67-audiofreehighqps/6A/55/GKwRIW4OyGO9AjXCKAT47nxz.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
       "title": "第3199期:How is coffee culture evolving?",
       "podcast": "英语每日一听 | 每天少于5分钟",
       "audio_url": "https://jt.ximalaya.com//GKwRIDoOxFTAABZMDAT3RzTW.m4a?channel=rss&album_id=14812466&track_id=1030897237&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2016-audiofreehighqps/3F/A6/GKwRIDoOxFTAABZMDAT3RzTW.m4a",
@@ -23,17 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
-      "podcast": "文化有限",
-      "audio_url": "https://jt.ximalaya.com//GKwRIDoOx2N2A5pykQT4ioWI.m4a?channel=rss&album_id=29887212&track_id=1031418625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cf59-audiofreehighqps/4D/2C/GKwRIDoOx2N2A5pykQT4ioWI.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep151.mp3",
@@ -43,27 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
-      "title": "🌃舒缓睡前 Mixtape：沉浸入流",
-      "podcast": "Vibration 歪波音室",
-      "audio_url": "https://tk.wavpub.com/WPTK_gVbfIs9F3IP1ZQ1T.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
       "rank": 6,
-      "title": "通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35",
-      "podcast": "What's Next｜科技早知道",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7b500b8f-cfde-4da1-9559-8128adcea8f6.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 7,
       "title": "vol.276叭叭KTV民谣季",
       "podcast": "正经叭叭",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6af1c6acb4a4e20202f73d06/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrjvjqgewOnzrzrC2lcl3E4lLw-J.m4a",
@@ -73,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "E258｜聊聊硅谷创业“修道院”HF0与OpenRouter早期故事",
       "podcast": "硅谷101",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/f6618818-b288-4798-bab8-d60d77c70aff.mp3",
@@ -83,10 +73,20 @@
       "notes": ""
     },
     {
+      "rank": 8,
+      "title": "901: Is Your Blue My Blue?",
+      "podcast": "This American Life",
+      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
       "rank": 9,
-      "title": "从 3.9%时间占比到\"字节时间\"，我们是怎么走到这儿的？",
-      "podcast": "屠龙之术",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6af135bcb4a4e20202f6dccc/media.xyzcdn.net/6507bc165c88d2412626b401/lg6vpxJZL3GePzwTdPyVC_vikILY.m4a",
+      "title": "【年终复盘②】RSI可能是NeoLab的机会、PA真的有用、创业要造灭火器还是砖头？｜对话谷雨",
+      "podcast": "十字路口Crossing",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af00645b4a4e20202f67440/media.xyzcdn.net/60502e253c92d4f62c2a9577/lgbtk9XXwn5ZA0Du2HfHATFpHCjC.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -94,9 +94,9 @@
     },
     {
       "rank": 10,
-      "title": "901: Is Your Blue My Blue?",
-      "podcast": "This American Life",
-      "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/495d4996-9361-47bf-89f5-3fb3e6ce33b7/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=495d4996-9361-47bf-89f5-3fb3e6ce33b7&nocache",
+      "title": "锐评国模与 Neo Lab，畅谈 RL 人生与 RLaaS | 对谈 Mind Lab 首席科学家骁腾",
+      "podcast": "42章经",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6aec6bc06381f0f964c45068/media.xyzcdn.net/648b0b641c48983391a63f98/lglxSZWHG-HfxflKgavxCpsZm0Ep.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
