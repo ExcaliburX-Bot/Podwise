@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-11 04:49  
+> 📅 **更新时间**: 2026-11-11 13:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -21,15 +21,15 @@
 
 ---
 
-### 2. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
+### 2. No.226 💻 文曲星的三十年往事
 
-**播客**: 贝望录
+**播客**: 半拿铁 | 商业沉浮录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af33e13b4a4e20202f7e158/media.xyzcdn.net/5e285856418a84a04627b7be/lo6OxUPTFjlnEsYPmjUPbmPcAeDs.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -47,7 +47,33 @@
 
 ---
 
-### 4. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
+### 4. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
+
+**播客**: 贝望录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af33e13b4a4e20202f7e158/media.xyzcdn.net/5e285856418a84a04627b7be/lo6OxUPTFjlnEsYPmjUPbmPcAeDs.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
+
+**播客**: 乱翻书
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6af316b6b4a4e20202f7cbd2/media.xyzcdn.net/61358d971c5d56efe5bcb5d2/lhHrwpWMn7E-UNjT7WpXDixLlxGS.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
 
 **播客**: 忽左忽右
 
@@ -60,7 +86,20 @@
 
 ---
 
-### 5. Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊
+### 7. 啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OyGO9AjXCKAT47nxz.m4a?channel=rss&album_id=74194808&track_id=1031626765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fc67-audiofreehighqps/6A/55/GKwRIW4OyGO9AjXCKAT47nxz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊
 
 **播客**: 文化有限
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上
+### 9. 151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上
 
 **播客**: 疯投圈
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 🌃舒缓睡前 Mixtape：沉浸入流
+### 10. 🌃舒缓睡前 Mixtape：沉浸入流
 
 **播客**: Vibration 歪波音室
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPTK_gVbfIs9F3IP1ZQ1T.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 通用 AI 助手走向大众，垂直 Agent 的机遇藏在哪里？｜对话小影科技韩晟 S10E35
-
-**播客**: What's Next｜科技早知道
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/7b500b8f-cfde-4da1-9559-8128adcea8f6.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. vol.276叭叭KTV民谣季
-
-**播客**: 正经叭叭
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6af1c6acb4a4e20202f73d06/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrjvjqgewOnzrzrC2lcl3E4lLw-J.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 从 3.9%时间占比到"字节时间"，我们是怎么走到这儿的？
-
-**播客**: 屠龙之术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6507bc165c88d2412626b401/6af135bcb4a4e20202f6dccc/media.xyzcdn.net/6507bc165c88d2412626b401/lg6vpxJZL3GePzwTdPyVC_vikILY.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
