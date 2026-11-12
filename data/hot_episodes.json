@@ -40,6 +40,26 @@
     "source_rss": "https://feeds.npr.org/510289/podcast.xml"
   },
   {
+    "eid": "c4012f5169c.mp3",
+    "title": "【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽",
+    "podcast": {
+      "title": "随机波动StochasticVolatility"
+    },
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3",
+    "pubDate": "2026-11-11T12:00:00+08:00",
+    "source_rss": "https://feeds.fireside.fm/stovol/rss"
+  },
+  {
+    "eid": "adYy4dFXVqu.m4a",
+    "title": "No.226 💻 文曲星的三十年往事",
+    "podcast": {
+      "title": "半拿铁 | 商业沉浮录"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a",
+    "pubDate": "2026-11-11T12:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/tcettvc3x689"
+  },
+  {
     "eid": "vlUk0OChqC4.m4a",
     "title": "热气腾腾广播电视报：小城大事，后会友期",
     "podcast": {
@@ -90,16 +110,6 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
-    "eid": "5pykQT4ioWI.m4a",
-    "title": "Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊",
-    "podcast": {
-      "title": "文化有限"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoOx2N2A5pykQT4ioWI.m4a?channel=rss&album_id=29887212&track_id=1031418625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cf59-audiofreehighqps/4D/2C/GKwRIDoOx2N2A5pykQT4ioWI.m4a",
-    "pubDate": "2026-11-09T23:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
-  },
-  {
     "eid": "pital/ep151.mp3",
     "title": "151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上",
     "podcast": {
@@ -108,16 +118,6 @@
     "enclosureUrl": "https://rio.xyzcdn.net/crazycapital/ep151.mp3",
     "pubDate": "2026-11-09T22:00:00+00:00",
     "source_rss": "https://crazy.capital/feed"
-  },
-  {
-    "eid": "s9F3IP1ZQ1T.m4a",
-    "title": "🌃舒缓睡前 Mixtape：沉浸入流",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_gVbfIs9F3IP1ZQ1T.m4a",
-    "pubDate": "2026-11-09T21:00:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
   },
   {
     "eid": "128adcea8f6.mp3",
@@ -210,36 +210,6 @@
     "source_rss": "https://feed.xyzfm.space/eye-on-east-asia"
   },
   {
-    "eid": "SGO0QT2SeoO.m4a",
-    "title": "S8 Vol.30 好多店孙小雨：一家成功的餐饮店，如何复制1000遍？",
-    "podcast": {
-      "title": "创业内幕 Startup Insider"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIOwhbXASGO0QT2SeoO.m4a?channel=rss&album_id=20119986&track_id=1030487189&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/a041-audiofreehighqps/E1/C1/GKwRIJIOwhbXASGO0QT2SeoO.m4a",
-    "pubDate": "2026-11-05T22:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
-  },
-  {
-    "eid": "TB3AGQ9wmMA.m4a",
-    "title": "大模型半年就换代，GPU却能用8年：看完Anthropic招股书，原来AI才是最荒诞的生意！",
-    "podcast": {
-      "title": "人民公园说AI"
-    },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6aeb6328a22c9ce7996a464b/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lqTLNRKT2VatW7fLYTB3AGQ9wmMA.m4a",
-    "pubDate": "2026-11-04T23:00:00+00:00",
-    "source_rss": "https://feed.xyzfm.space/49cgd8grgrnf"
-  },
-  {
-    "eid": "cBCiwT1MDKN.m4a",
-    "title": "BYM 353 | 今天的主题是清理垃圾",
-    "podcast": {
-      "title": "Blow Your Mind (BYM S02)"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIUEOv70eAcBCiwT1MDKN.m4a?channel=rss&album_id=6990384&track_id=1030033279&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/22bd-audiofreehighqps/08/E6/GKwRIUEOv70eAcBCiwT1MDKN.m4a",
-    "pubDate": "2026-11-03T15:10:45+00:00",
-    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
-  },
-  {
     "eid": "wbYTBAMuKwf.m4a",
     "title": "No.234 捷克游记：属于城堡、银矿与酒馆的波西米亚地图",
     "podcast": {
@@ -248,6 +218,26 @@
     "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fab418a84a0461faa3c/6ae8bb1097726cd4675bbd9d/media.xyzcdn.net/5e280fab418a84a0461faa3c/lmCKv_XOcbjfcVCD5wbYTBAMuKwf.m4a",
     "pubDate": "2026-11-03T12:00:00+00:00",
     "source_rss": "https://feed.xyzfm.space/m3dda867gh7j"
+  },
+  {
+    "eid": "TntoFRJxNMV.m4a",
+    "title": "教完AI写作却弃用：我们得了\"AI内容过敏症\"，对谈葬 AI 咸鱼-Vol108",
+    "podcast": {
+      "title": "脑放电波"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6ae89b93c96c8942ec163d4a/media.xyzcdn.net/636669d51064cb55f31505fc/lutuXix9UwyT2bppCTntoFRJxNMV.m4a",
+    "pubDate": "2026-11-02T14:24:36+00:00",
+    "source_rss": "https://feed.xyzfm.space/wupdmt9er7nb"
+  },
+  {
+    "eid": "WEO8k0JlGry.m4a",
+    "title": "273.幸福者退让原则：退一步真的能海阔天空吗？当幸福的人选择沉默，公共空间会留给谁？",
+    "podcast": {
+      "title": "沈奕斐的播客"
+    },
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6ae354db97726cd46759cd52/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lqSAvVFhIEh9_FuJpWEO8k0JlGry.m4a",
+    "pubDate": "2026-10-30T00:00:00+00:00",
+    "source_rss": "https://feed.xyzfm.space/99b3wkblwf9c"
   },
   {
     "eid": "9458_682148.mp3",
@@ -270,14 +260,24 @@
     "source_rss": "https://feed.xyzfm.space/dk4yh3pkpjp3"
   },
   {
-    "eid": "F0totce21YV.m4a",
-    "title": "#29 AI应用如何避免被大模型「吞噬」？对话YouMind创始人玉伯",
+    "eid": "4eTdAoBgRKo.m4a",
+    "title": "《兰香如故》：真假寒山图与中国书画的冒名游戏 | 温柔人类 EP.46",
     "podcast": {
-      "title": "出海相对论"
+      "title": "温柔人类 GentleHuman"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/63b7dd49289d2739647d9587/6ac8b67ce742e36efcc05e77/media.xyzcdn.net/63b7dd49289d2739647d9587/lucBo1QI4XxeHACyvF0totce21YV.m4a",
-    "pubDate": "2026-10-09T09:53:12+00:00",
-    "source_rss": "https://feed.xyzfm.space/y3cpdhbar4ap"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/5e280fac418a84a0461fafc9/6ad71ff6b83cbb2aa3efa354/media.xyzcdn.net/5e280fac418a84a0461fafc9/lixiaF7cdwhrURa0a4eTdAoBgRKo.m4a",
+    "pubDate": "2026-10-20T08:09:46+00:00",
+    "source_rss": "https://feed.xyzfm.space/x6xd9y89yurv"
+  },
+  {
+    "eid": "e9521ad9060.mp3",
+    "title": "68 是谁抱着金碗在要饭？镜子里有没有你的脸？",
+    "podcast": {
+      "title": "放学以后After school"
+    },
+    "enclosureUrl": "https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3",
+    "pubDate": "2026-10-13T16:00:00+00:00",
+    "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
     "eid": "7Dp1TmglEkF.m4a",
@@ -290,13 +290,13 @@
     "source_rss": "https://feed.xyzfm.space/kf7lym7fc4e9"
   },
   {
-    "eid": "ah0bsiOBrjc.m4a",
-    "title": "从业务员到AIBP，把AI跑进上市公司的抖音业务盘 | 对谈三千",
+    "eid": "PAAjTFfsBLx.m4a",
+    "title": "EP129 对话刘可凡：用 try-catch-finally，给独立做产品的内耗写个处理流程 🐛",
     "podcast": {
-      "title": "AI产品经理 Global"
+      "title": "硬地骇客"
     },
-    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/665dbd0694977a26efeb7a75/6aafad360916f6f8b4463d58/media.xyzcdn.net/665dbd0694977a26efeb7a75/llbDE8ubEsGADIZvAah0bsiOBrjc.m4a",
-    "pubDate": "2026-09-20T10:02:29+00:00",
-    "source_rss": "https://feed.xyzfm.space/xwq9gyg6baay"
+    "enclosureUrl": "https://dts-api.xiaoyuzhoufm.com/track/640ee2438be5d40013fe4a87/6a6f9a0cab3a91c24a0eae0f/media.xyzcdn.net/640ee2438be5d40013fe4a87/ludjc3AB_JBwpCI6TPAAjTFfsBLx.m4a",
+    "pubDate": "2026-08-02T19:39:44+00:00",
+    "source_rss": "https://feed.xyzfm.space/byhkljlbep9j"
   }
 ]
