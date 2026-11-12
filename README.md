@@ -1,14 +1,53 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-11 13:36  
+> 📅 **更新时间**: 2026-11-12 00:04  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽
+### 1. 第3201期:World's oldest shipwreck
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OxFoEAAMyKQT3Sdss.m4a?channel=rss&album_id=14812466&track_id=1030900315&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/c47f-audiofreehighqps/6B/54/GKwRIW4OxFoEAAMyKQT3Sdss.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 色阿：做公益展年亏百万，做小卡牌热卖千万，性教育原来可以有趣又赚钱！
+
+**播客**: 搞钱女孩
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6af4bcc53caef3b52f546272/media.xyzcdn.net/63d945ece725b5378a158d29/loFe_VwTJDVsjN2-PxDrSaT6JB3m.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Ep220 周鹏·何川·向付召｜比风更快，比山更高
+
+**播客**: 基本无害 Mostly Harmless
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6af4932a14d01a26f8a87eb0/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljhu6lLXMJTMSeXvuLla7_cO-m7I.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽
 
 **播客**: 随机波动StochasticVolatility
 
@@ -21,7 +60,7 @@
 
 ---
 
-### 2. No.226 💻 文曲星的三十年往事
+### 5. No.226 💻 文曲星的三十年往事
 
 **播客**: 半拿铁 | 商业沉浮录
 
@@ -34,20 +73,20 @@
 
 ---
 
-### 3. 第3200期:Enjoying fashion without costing the planet
+### 6. 热气腾腾广播电视报：小城大事，后会友期
 
-**播客**: 英语每日一听 | 每天少于5分钟
+**播客**: 展开讲讲
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwOxFf3ABR9ewT3SOBb.m4a?channel=rss&album_id=14812466&track_id=1030899580&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/01ed-audiofreehighqps/57/13/GKwRIRwOxFf3ABR9ewT3SOBb.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6af429813caef3b52f5429ba/media.xyzcdn.net/5e280faa418a84a0461f9bfb/lixq5poKFX3qGahM7vlUk0OChqC4.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
+### 7. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
 
 **播客**: 贝望录
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
+### 8. 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
 
 **播客**: 乱翻书
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
+### 9. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
 
 **播客**: 忽左忽右
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥
+### 10. 啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥
 
 **播客**: AI炼金术
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OyGO9AjXCKAT47nxz.m4a?channel=rss&album_id=74194808&track_id=1031626765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fc67-audiofreehighqps/6A/55/GKwRIW4OyGO9AjXCKAT47nxz.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOx2N2A5pykQT4ioWI.m4a?channel=rss&album_id=29887212&track_id=1031418625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cf59-audiofreehighqps/4D/2C/GKwRIDoOx2N2A5pykQT4ioWI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 151 ✪ 从「需要」到「想要」：中国时尚品牌集体向上
-
-**播客**: 疯投圈
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep151.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 🌃舒缓睡前 Mixtape：沉浸入流
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_gVbfIs9F3IP1ZQ1T.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
