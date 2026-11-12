@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-12 00:04:09
+> 📅 生成时间: 2026-11-12 14:40:06
 > 📊 总计: 10 个播客
 
 ---
@@ -100,15 +100,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6af4932a14d01a26
 
 ---
 
-### 4. 【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽
+### 4. How bodegas led to the Yemeni coffeehouse explosion
 
-**播客名称**: 随机波动StochasticVolatility
+**播客名称**: Planet Money
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985
 ```
 
 **导入状态**: ⬜ 待导入
@@ -120,41 +120,14 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=2b2b7650-a4cf-405c-89a0-9c4dc4e2daf7&feed=hvWWWzRv&t=podcast&e=nx-s1-6036839&p=510289&d=1441&size=23060985
 ```
 
 </details>
 
 ---
 
-### 5. No.226 💻 文曲星的三十年往事
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a
-```
-
-</details>
-
----
-
-### 6. 热气腾腾广播电视报：小城大事，后会友期
+### 5. 热气腾腾广播电视报：小城大事，后会友期
 
 **播客名称**: 展开讲讲
 
@@ -181,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e280faa418a84a0461f9bfb/6af429813caef3b5
 
 ---
 
-### 7. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
+### 6. 246. 从《克拉克森的农场》到中国现代牧场，养1.4万头奶牛，是一门怎样的生意？
 
 **播客名称**: 贝望录
 
@@ -208,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af33e13b4a4e202
 
 ---
 
-### 8. 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
+### 7. 278.在红果做AI漫剧的人，是骆驼祥子吗？一个人、16亿播放、七位数收入
 
 **播客名称**: 乱翻书
 
@@ -235,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/61358d971c5d56efe5bcb5d2/6af316b6b4a4e202
 
 ---
 
-### 9. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
+### 8. 515 从铁幕创作到解冻文艺：漫谈世界电影史中的波兰巨匠安杰伊·瓦伊达
 
 **播客名称**: 忽左忽右
 
@@ -262,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af2df3ab4a4e202
 
 ---
 
-### 10. 啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥
+### 9. 啊？？？用 AI 替自己看小姐姐跳舞？？？｜对谈超线性学院鸭哥
 
 **播客名称**: AI炼金术
 
@@ -283,6 +256,33 @@ https://jt.ximalaya.com//GKwRIW4OyGO9AjXCKAT47nxz.m4a?channel=rss&album_id=74194
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIW4OyGO9AjXCKAT47nxz.m4a?channel=rss&album_id=74194808&track_id=1031626765&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fc67-audiofreehighqps/6A/55/GKwRIW4OyGO9AjXCKAT47nxz.m4a
+```
+
+</details>
+
+---
+
+### 10. Vol.360 盲刺客：爱得稀里糊涂，但咱痛得明明白白啊
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOx2N2A5pykQT4ioWI.m4a?channel=rss&album_id=29887212&track_id=1031418625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cf59-audiofreehighqps/4D/2C/GKwRIDoOx2N2A5pykQT4ioWI.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOx2N2A5pykQT4ioWI.m4a?channel=rss&album_id=29887212&track_id=1031418625&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/cf59-audiofreehighqps/4D/2C/GKwRIDoOx2N2A5pykQT4ioWI.m4a
 ```
 
 </details>
