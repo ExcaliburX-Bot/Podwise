@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-13 13:57  
+> 📅 **更新时间**: 2026-11-13 23:16  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 1. BYM 354 | BYM 354 | 他们相互坑害，但也相互成全
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEOzMXrANxelwT6y-ca.m4a?channel=rss&album_id=6990384&track_id=1032444597&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dbf3-audiofreehighqps/82/77/GKwRIJEOzMXrANxelwT6y-ca.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+### 3. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
 
 **播客**: 忽左忽右
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+### 4. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
 
 **播客**: 晚点聊 LateTalk
 
@@ -47,33 +60,7 @@
 
 ---
 
-### 4. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 第3202期:UK City of Culture 2029: Who are the contenders?
+### 5. 第3202期:UK City of Culture 2029: Who are the contenders?
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -82,6 +69,19 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OxFuiAATqsAT3SqlZ.m4a?channel=rss&album_id=14812466&track_id=1030901258&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5943-audiofreehighqps/3D/20/GKwRIW4OxFuiAATqsAT3SqlZ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,15 +99,15 @@
 
 ---
 
-### 8. 306 李在明支持率一路走跌 韩国左右派各待洗牌
+### 8. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
 
-**播客**: 东亚观察局
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 色阿：做公益展年亏百万，做小卡牌热卖千万，性教育原来可以有趣又赚钱！
+### 10. 306 李在明支持率一路走跌 韩国左右派各待洗牌
 
-**播客**: 搞钱女孩
+**播客**: 东亚观察局
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6af4bcc53caef3b52f546272/media.xyzcdn.net/63d945ece725b5378a158d29/loFe_VwTJDVsjN2-PxDrSaT6JB3m.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
