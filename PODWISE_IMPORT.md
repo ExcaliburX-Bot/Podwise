@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-13 05:12:01
+> 📅 生成时间: 2026-11-13 13:57:50
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+### 1. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+
+**播客名称**: 知行小酒馆
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a
+```
+
+</details>
+
+---
+
+### 2. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+
+**播客名称**: 忽左忽右
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a
+```
+
+</details>
+
+---
+
+### 3. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -46,34 +100,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ad3b
 
 ---
 
-### 2. 第3202期:UK City of Culture 2029: Who are the contenders?
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIW4OxFuiAATqsAT3SqlZ.m4a?channel=rss&album_id=14812466&track_id=1030901258&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5943-audiofreehighqps/3D/20/GKwRIW4OxFuiAATqsAT3SqlZ.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIW4OxFuiAATqsAT3SqlZ.m4a?channel=rss&album_id=14812466&track_id=1030901258&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5943-audiofreehighqps/3D/20/GKwRIW4OxFuiAATqsAT3SqlZ.m4a
-```
-
-</details>
-
----
-
-### 3. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
+### 4. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
 
 **播客名称**: 贝望录
 
@@ -100,7 +127,88 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26
 
 ---
 
-### 4. 306 李在明支持率一路走跌 韩国左右派各待洗牌
+### 5. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
+
+**播客名称**: 沈奕斐的播客
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a
+```
+
+</details>
+
+---
+
+### 6. 第3202期:UK City of Culture 2029: Who are the contenders?
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIW4OxFuiAATqsAT3SqlZ.m4a?channel=rss&album_id=14812466&track_id=1030901258&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5943-audiofreehighqps/3D/20/GKwRIW4OxFuiAATqsAT3SqlZ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIW4OxFuiAATqsAT3SqlZ.m4a?channel=rss&album_id=14812466&track_id=1030901258&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5943-audiofreehighqps/3D/20/GKwRIW4OxFuiAATqsAT3SqlZ.m4a
+```
+
+</details>
+
+---
+
+### 7. 156. 《侠》｜对影之刃零制作人梁其伟6小时访谈
+
+**播客名称**: 张小珺Jùn｜商业访谈录
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
+```
+
+</details>
+
+---
+
+### 8. 306 李在明支持率一路走跌 韩国左右派各待洗牌
 
 **播客名称**: 东亚观察局
 
@@ -127,7 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26
 
 ---
 
-### 5. 红果短剧！字节把AI从赔钱货变成了印钞机？
+### 9. 红果短剧！字节把AI从赔钱货变成了印钞机？
 
 **播客名称**: 人民公园说AI
 
@@ -154,34 +262,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26
 
 ---
 
-### 6. S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？
-
-**播客名称**: 创业内幕 Startup Insider
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a
-```
-
-</details>
-
----
-
-### 7. 色阿：做公益展年亏百万，做小卡牌热卖千万，性教育原来可以有趣又赚钱！
+### 10. 色阿：做公益展年亏百万，做小卡牌热卖千万，性教育原来可以有趣又赚钱！
 
 **播客名称**: 搞钱女孩
 
@@ -202,87 +283,6 @@ https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6af4bcc53caef3b5
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/63d945ece725b5378a158d29/6af4bcc53caef3b52f546272/media.xyzcdn.net/63d945ece725b5378a158d29/loFe_VwTJDVsjN2-PxDrSaT6JB3m.m4a
-```
-
-</details>
-
----
-
-### 8. Ep220 周鹏·何川·向付召｜比风更快，比山更高
-
-**播客名称**: 基本无害 Mostly Harmless
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6af4932a14d01a26f8a87eb0/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljhu6lLXMJTMSeXvuLla7_cO-m7I.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6af4932a14d01a26f8a87eb0/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljhu6lLXMJTMSeXvuLla7_cO-m7I.m4a
-```
-
-</details>
-
----
-
-### 9. 【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3
-```
-
-</details>
-
----
-
-### 10. No.226 💻 文曲星的三十年往事
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6af33d7eb4a4e20202f7e101/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lsVk2xdiAoRgaL4qNadYy4dFXVqu.m4a
 ```
 
 </details>
