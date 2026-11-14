@@ -1,7 +1,7 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-14 05:01  
+> 📅 **更新时间**: 2026-11-14 12:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
@@ -60,20 +60,33 @@
 
 ---
 
-### 5. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
+### 5. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
 
-**播客**: 晚点聊 LateTalk
+**播客**: 忽左忽右
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ad3b421a-d013-4a69-9613-924fa6d47992.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 6. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
+### 6. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
+
+**播客**: 沈奕斐的播客
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 7. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
 
 **播客**: 贝望录
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”
+### 8. 156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”
 
 **播客**: 张小珺Jùn｜商业访谈录
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 306 李在明支持率一路走跌 韩国左右派各待洗牌
+### 9. 306 李在明支持率一路走跌 韩国左右派各待洗牌
 
 **播客**: 东亚观察局
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. Ep220 周鹏·何川·向付召｜比风更快，比山更高
+### 10. S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？
 
-**播客**: 基本无害 Mostly Harmless
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5eae66d1418a84a046472b4d/6af4932a14d01a26f8a87eb0/media.xyzcdn.net/5eae66d1418a84a046472b4d/ljhu6lLXMJTMSeXvuLla7_cO-m7I.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 【随机波动181】李颖迪：当我试图书写家庭中的爱与污秽
-
-**播客**: 随机波动StochasticVolatility
+**播客**: 创业内幕 Startup Insider
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/c420c4e6-df49-4def-9a1b-8c4012f5169c.mp3)
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
