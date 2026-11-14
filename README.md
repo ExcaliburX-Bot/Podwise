@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-14 12:59  
+> 📅 **更新时间**: 2026-11-14 21:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3203期:Paraguayan President resigns over scandal
+### 1. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
+
+**播客**: 42章经
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6af6678d14d01a26f8a916f6/media.xyzcdn.net/648b0b641c48983391a63f98/ljFjTMoAfZYwI_agBwi1wZPgHCax.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3203期:Paraguayan President resigns over scandal
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Are wildfires making the future uninsurable?
+### 3. Are wildfires making the future uninsurable?
 
 **播客**: Planet Money
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. BYM 354 | BYM 354 | 他们相互坑害，但也相互成全
+### 4. BYM 354 | BYM 354 | 他们相互坑害，但也相互成全
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 5. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+### 6. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
 
 **播客**: 忽左忽右
 
@@ -73,28 +86,15 @@
 
 ---
 
-### 6. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
+### 7. 187: 对话LiberAI刘松铭：Astra来袭，00后物理AI创始人看到的胜率
 
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
-
-**播客**: 贝望录
+**播客**: 晚点聊 LateTalk
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/ad3b421a-d013-4a69-9613-924fa6d47992.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -112,28 +112,28 @@
 
 ---
 
-### 9. 306 李在明支持率一路走跌 韩国左右派各待洗牌
+### 9. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
 
-**播客**: 东亚观察局
+**播客**: 贝望录
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 10. S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？
+### 10. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
 
-**播客**: 创业内幕 Startup Insider
+**播客**: 沈奕斐的播客
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
