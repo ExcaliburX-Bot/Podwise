@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-15 13:28:02
+> 📅 生成时间: 2026-11-15 22:29:51
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,88 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
+### 1. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
+
+**播客名称**: 十字路口Crossing
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af936ea14d01a26f8a9fd94/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhHxptqOANRsmGIh0htFeLq-znBg.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af936ea14d01a26f8a9fd94/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhHxptqOANRsmGIh0htFeLq-znBg.m4a
+```
+
+</details>
+
+---
+
+### 2. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/77706b7f-cf2f-4400-826c-0331ae6c62a8.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/77706b7f-cf2f-4400-826c-0331ae6c62a8.mp3
+```
+
+</details>
+
+---
+
+### 3. 第3204期:Antonelli becomes the youngest world champion in F1 history
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIRwOxGFCAAwNagT3TTbR.m4a?channel=rss&album_id=14812466&track_id=1030904016&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f681-audiofreehighqps/5B/89/GKwRIRwOxGFCAAwNagT3TTbR.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIRwOxGFCAAwNagT3TTbR.m4a?channel=rss&album_id=14812466&track_id=1030904016&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f681-audiofreehighqps/5B/89/GKwRIRwOxGFCAAwNagT3TTbR.m4a
+```
+
+</details>
+
+---
+
+### 4. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
 
 **播客名称**: 42章经
 
@@ -46,7 +127,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6af6678d14d01a26
 
 ---
 
-### 2. Are wildfires making the future uninsurable?
+### 5. Are wildfires making the future uninsurable?
 
 **播客名称**: Planet Money
 
@@ -73,34 +154,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 3. BYM 354 | BYM 354 | 他们相互坑害，但也相互成全
-
-**播客名称**: Blow Your Mind (BYM S02)
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIJEOzMXrANxelwT6y-ca.m4a?channel=rss&album_id=6990384&track_id=1032444597&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dbf3-audiofreehighqps/82/77/GKwRIJEOzMXrANxelwT6y-ca.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIJEOzMXrANxelwT6y-ca.m4a?channel=rss&album_id=6990384&track_id=1032444597&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dbf3-audiofreehighqps/82/77/GKwRIJEOzMXrANxelwT6y-ca.m4a
-```
-
-</details>
-
----
-
-### 4. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 6. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -127,7 +181,7 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26
 
 ---
 
-### 5. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+### 7. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
 
 **播客名称**: 忽左忽右
 
@@ -154,7 +208,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b5
 
 ---
 
-### 6. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
+### 8. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
 
 **播客名称**: 贝望录
 
@@ -181,34 +235,7 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26
 
 ---
 
-### 7. 156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
-```
-
-</details>
-
----
-
-### 8. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
+### 9. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
 
 **播客名称**: 沈奕斐的播客
 
@@ -235,15 +262,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b5
 
 ---
 
-### 9. 红果短剧！字节把AI从赔钱货变成了印钞机？
+### 10. 156. 对影之刃零梁其伟的6小时访谈：3A动作游戏、武侠、“最强者是朴实的”，“世界没有敌人，只有你和你的另一个自己”
 
-**播客名称**: 人民公园说AI
+**播客名称**: 张小珺Jùn｜商业访谈录
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26f8a8fb5c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkHXdIfRPnwHDE9hAoEvuzZTZeFA.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26f8a8fb5c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkHXdIfRPnwHDE9hAoEvuzZTZeFA.m4a
-```
-
-</details>
-
----
-
-### 10. 306 李在明支持率一路走跌 韩国左右派各待洗牌
-
-**播客名称**: 东亚观察局
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a
+https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6af5debf14d01a26f8a900ac/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/lvnhry4gLCC3Ut_6NMJN7QRmdDaN.m4a
 ```
 
 </details>
