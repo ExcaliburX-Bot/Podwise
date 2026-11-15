@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-15T04:55:10.851207",
+  "generated_at": "2026-11-15T13:28:02.661587",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
-      "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
-      "podcast": "晚点聊 LateTalk",
-      "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/77706b7f-cf2f-4400-826c-0331ae6c62a8.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 2,
-      "title": "第3204期:Antonelli becomes the youngest world champion in F1 history",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIRwOxGFCAAwNagT3TTbR.m4a?channel=rss&album_id=14812466&track_id=1030904016&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f681-audiofreehighqps/5B/89/GKwRIRwOxGFCAAwNagT3TTbR.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 3,
       "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
       "podcast": "42章经",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6af6678d14d01a26f8a916f6/media.xyzcdn.net/648b0b641c48983391a63f98/ljFjTMoAfZYwI_agBwi1wZPgHCax.m4a",
@@ -33,10 +13,30 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 2,
       "title": "Are wildfires making the future uninsurable?",
       "podcast": "Planet Money",
       "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "BYM 354 | BYM 354 | 他们相互坑害，但也相互成全",
+      "podcast": "Blow Your Mind (BYM S02)",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEOzMXrANxelwT6y-ca.m4a?channel=rss&album_id=6990384&track_id=1032444597&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/dbf3-audiofreehighqps/82/77/GKwRIJEOzMXrANxelwT6y-ca.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
+      "podcast": "知行小酒馆",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
@@ -74,6 +74,16 @@
     },
     {
       "rank": 8,
+      "title": "274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶",
+      "podcast": "沈奕斐的播客",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "红果短剧！字节把AI从赔钱货变成了印钞机？",
       "podcast": "人民公园说AI",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26f8a8fb5c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkHXdIfRPnwHDE9hAoEvuzZTZeFA.m4a",
@@ -83,20 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "306 李在明支持率一路走跌 韩国左右派各待洗牌",
       "podcast": "东亚观察局",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e9a4e25418a84a046bc6156/6af60b7214d01a26f8a908b1/media.xyzcdn.net/5e9a4e25418a84a046bc6156/lpAueClimJyaagWoDnsfwCMiJ6Yj.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？",
-      "podcast": "创业内幕 Startup Insider",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
