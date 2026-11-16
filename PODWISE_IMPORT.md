@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-15 22:29:51
+> 📅 生成时间: 2026-11-16 04:52:24
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
+### 1. 一把 Bass，藏着什么流行音乐的秘密？
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
+```
+
+</details>
+
+---
+
+### 2. 902: The Missing Minutes
+
+**播客名称**: This American Life
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
+```
+
+</details>
+
+---
+
+### 3. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
 
 **播客名称**: 十字路口Crossing
 
@@ -46,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af936ea14d01a26
 
 ---
 
-### 2. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+### 4. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -73,34 +127,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7770
 
 ---
 
-### 3. 第3204期:Antonelli becomes the youngest world champion in F1 history
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOxGFCAAwNagT3TTbR.m4a?channel=rss&album_id=14812466&track_id=1030904016&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f681-audiofreehighqps/5B/89/GKwRIRwOxGFCAAwNagT3TTbR.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOxGFCAAwNagT3TTbR.m4a?channel=rss&album_id=14812466&track_id=1030904016&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f681-audiofreehighqps/5B/89/GKwRIRwOxGFCAAwNagT3TTbR.m4a
-```
-
-</details>
-
----
-
-### 4. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
+### 5. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
 
 **播客名称**: 42章经
 
@@ -127,7 +154,7 @@ https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6af6678d14d01a26
 
 ---
 
-### 5. Are wildfires making the future uninsurable?
+### 6. Are wildfires making the future uninsurable?
 
 **播客名称**: Planet Money
 
@@ -154,7 +181,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 6. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 7. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客名称**: 知行小酒馆
 
@@ -175,33 +202,6 @@ https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a
-```
-
-</details>
-
----
-
-### 7. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
-
-**播客名称**: 忽左忽右
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a
 ```
 
 </details>
