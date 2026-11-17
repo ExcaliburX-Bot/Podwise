@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-17 01:36  
+> 📅 **更新时间**: 2026-11-17 15:31  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109
+### 1. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
+
+**播客**: 忽左忽右
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f52c4c8ff6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltXaoST4PGQhjdIRwAS15VizersJ.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3206期:The Toad by Brian Taylor
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIOzcKKAARPBwT7Js3v.m4a?channel=rss&album_id=14812466&track_id=1032625936&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/2bfd-audiofreehighqps/7A/F9/GKwRIaIOzcKKAARPBwT7Js3v.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109
 
 **播客**: 脑放电波
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. vol.277体检前嘴硬如铁，检后报告不敢瞥
+### 4. vol.277体检前嘴硬如铁，检后报告不敢瞥
 
 **播客**: 正经叭叭
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 一把 Bass，藏着什么流行音乐的秘密？
+### 5. 一把 Bass，藏着什么流行音乐的秘密？
 
 **播客**: Vibration 歪波音室
 
@@ -47,20 +73,7 @@
 
 ---
 
-### 4. 902: The Missing Minutes
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
+### 6. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
 
 **播客**: 十字路口Crossing
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+### 7. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
+### 8. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
 
 **播客**: 42章经
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. Are wildfires making the future uninsurable?
+### 9. Are wildfires making the future uninsurable?
 
 **播客**: Planet Money
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 10. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
-
-**播客**: 忽左忽右
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
