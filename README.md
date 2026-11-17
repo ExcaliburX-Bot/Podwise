@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-16 14:51  
+> 📅 **更新时间**: 2026-11-17 01:36  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 一把 Bass，藏着什么流行音乐的秘密？
+### 1. 机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109
+
+**播客**: 脑放电波
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6afb2af6fe62f8f52c4c362f/media.xyzcdn.net/636669d51064cb55f31505fc/lvck8S4CYGxejET4lYqZ90RRoz4s.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. vol.277体检前嘴硬如铁，检后报告不敢瞥
+
+**播客**: 正经叭叭
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6afadb44fe62f8f52c4c0e65/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrhTA2xG6tweWvvz6VfET58RLLLz.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 一把 Bass，藏着什么流行音乐的秘密？
 
 **播客**: Vibration 歪波音室
 
@@ -21,7 +47,7 @@
 
 ---
 
-### 2. 902: The Missing Minutes
+### 4. 902: The Missing Minutes
 
 **播客**: This American Life
 
@@ -34,7 +60,7 @@
 
 ---
 
-### 3. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
+### 5. 【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳
 
 **播客**: 十字路口Crossing
 
@@ -47,7 +73,7 @@
 
 ---
 
-### 4. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
+### 6. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +86,7 @@
 
 ---
 
-### 5. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
+### 7. 复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛
 
 **播客**: 42章经
 
@@ -73,7 +99,20 @@
 
 ---
 
-### 6. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
+### 8. Are wildfires making the future uninsurable?
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. E258 这个东西，我真的好想要！｜小酒馆故事会🍻
 
 **播客**: 知行小酒馆
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
+### 10. 516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮
 
 **播客**: 忽左忽右
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化
-
-**播客**: 贝望录
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶
-
-**播客**: 沈奕斐的播客
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 红果短剧！字节把AI从赔钱货变成了印钞机？
-
-**播客**: 人民公园说AI
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26f8a8fb5c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkHXdIfRPnwHDE9hAoEvuzZTZeFA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---

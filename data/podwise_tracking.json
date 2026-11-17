@@ -1,9 +1,29 @@
 {
-  "generated_at": "2026-11-16T14:51:38.940758",
+  "generated_at": "2026-11-17T01:36:05.464811",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109",
+      "podcast": "脑放电波",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/636669d51064cb55f31505fc/6afb2af6fe62f8f52c4c362f/media.xyzcdn.net/636669d51064cb55f31505fc/lvck8S4CYGxejET4lYqZ90RRoz4s.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "vol.277体检前嘴硬如铁，检后报告不敢瞥",
+      "podcast": "正经叭叭",
+      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6afadb44fe62f8f52c4c0e65/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrhTA2xG6tweWvvz6VfET58RLLLz.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
       "title": "一把 Bass，藏着什么流行音乐的秘密？",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a",
@@ -13,7 +33,7 @@
       "notes": ""
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "902: The Missing Minutes",
       "podcast": "This American Life",
       "audio_url": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache",
@@ -23,7 +43,7 @@
       "notes": ""
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "【年终复盘③】用 Kimi 加速 Kimi：RSI前夜，一个AI infra人的10个Aha Moments｜对话赵晨阳",
       "podcast": "十字路口Crossing",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/60502e253c92d4f62c2a9577/6af936ea14d01a26f8a9fd94/media.xyzcdn.net/60502e253c92d4f62c2a9577/lhHxptqOANRsmGIh0htFeLq-znBg.m4a",
@@ -33,7 +53,7 @@
       "notes": ""
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/77706b7f-cf2f-4400-826c-0331ae6c62a8.mp3",
@@ -43,7 +63,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "复盘 2C 和 2B Agent 发展脉络｜对谈 Afk.surf 创始人嘉琛",
       "podcast": "42章经",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/648b0b641c48983391a63f98/6af6678d14d01a26f8a916f6/media.xyzcdn.net/648b0b641c48983391a63f98/ljFjTMoAfZYwI_agBwi1wZPgHCax.m4a",
@@ -53,7 +73,17 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Are wildfires making the future uninsurable?",
+      "podcast": "Planet Money",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/4bb23a81-c77c-46d0-a3bc-f001ff4783d0/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=4bb23a81-c77c-46d0-a3bc-f001ff4783d0&feed=hvWWWzRv&t=podcast&e=nx-s1-6040434&p=510289&d=2470&size=39525630",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 9,
       "title": "E258 这个东西，我真的好想要！｜小酒馆故事会🍻",
       "podcast": "知行小酒馆",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/6013f9f58e2f7ee375cf4216/6af6b7ca14d01a26f8a94459/media.xyzcdn.net/6013f9f58e2f7ee375cf4216/lmB4VjRQeKLl_DHzaFF4gJTbEWGN.m4a",
@@ -63,40 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "516 从马克·布洛赫入祀先贤祠看年鉴学派与当代法国社会文化思潮",
       "podcast": "忽左忽右",
       "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6af6e5b03caef3b52f5543d4/media.xyzcdn.net/5e4ee557418a84a0466737b7/lhu6NYRedC2pU2nxvQMrHxW1R6n_.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "247. 美国人为什么不再支持特朗普? 一个美籍华人眼中的美国民意变化",
-      "podcast": "贝望录",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6af5b83f14d01a26f8a8ee10/media.xyzcdn.net/5e285856418a84a04627b7be/lhk4NjlI2bFiDCybv5l0mP-hWVyP.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "274.年轻人养生，怎么吃才靠谱？药食同源究竟是什么？｜医学知识系列01：对话耿文叶",
-      "podcast": "沈奕斐的播客",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/5f4e170c9504bbdb77566a19/6af5c3a63caef3b52f54d60a/media.xyzcdn.net/5f4e170c9504bbdb77566a19/lpSNddCxehqDCtNdDZ7OGxSYFJfU.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "红果短剧！字节把AI从赔钱货变成了印钞机？",
-      "podcast": "人民公园说AI",
-      "audio_url": "https://dts-api.xiaoyuzhoufm.com/track/65257ff6e8ce9deaf70a65e9/6af5d2dd14d01a26f8a8fb5c/media.xyzcdn.net/65257ff6e8ce9deaf70a65e9/lkHXdIfRPnwHDE9hAoEvuzZTZeFA.m4a",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
