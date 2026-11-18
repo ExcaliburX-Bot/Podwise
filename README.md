@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-18 00:33  
+> 📅 **更新时间**: 2026-11-18 15:08  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3207期:Sneakers by Scott C. Holstad
+### 1. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. No.227 📺 长虹往事：彩电大王今何在
+
+**播客**: 半拿铁 | 商业沉浮录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6afb0d32fe62f8f52c4c284f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lp9uZysxutAoplk8SqYbXp5ZD7Ug.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. Two ways big bets on data centers might affect you (Two Indicators)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. 157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象
+
+**播客**: 张小珺Jùn｜商业访谈录
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6afd12c6a4a79edf137afd61/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltU-y2wl0s2fvaEJBluGHouM2hO0.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 第3207期:Sneakers by Scott C. Holstad
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +73,7 @@
 
 ---
 
-### 2. 248. 在AI加速迭代的时代，为什么这群做AI的人坚持建立一个要线下交流的社群？
+### 6. 248. 在AI加速迭代的时代，为什么这群做AI的人坚持建立一个要线下交流的社群？
 
 **播客**: 贝望录
 
@@ -34,7 +86,7 @@
 
 ---
 
-### 3. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+### 7. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
 **播客**: 疯投圈
 
@@ -47,7 +99,7 @@
 
 ---
 
-### 4. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
+### 8. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
 
 **播客**: 忽左忽右
 
@@ -60,20 +112,7 @@
 
 ---
 
-### 5. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 6. 机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109
+### 9. 机器人学干活，教它的人却在算日结：具身智能数采田野调查-Vol 109
 
 **播客**: 脑放电波
 
@@ -86,54 +125,15 @@
 
 ---
 
-### 7. BYM 355 | 从十九世纪的直播看AI发展
+### 10. vol.277体检前嘴硬如铁，检后报告不敢瞥
 
-**播客**: Blow Your Mind (BYM S02)
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIRwO0I_MASVSQAT8N9zP.m4a?channel=rss&album_id=6990384&track_id=1033112726&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c8a2-audiofreehighqps/88/AB/GKwRIRwO0I_MASVSQAT8N9zP.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 一把 Bass，藏着什么流行音乐的秘密？
-
-**播客**: Vibration 歪波音室
+**播客**: 正经叭叭
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 902: The Missing Minutes
-
-**播客**: This American Life
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 188: 黄仁勋闪电离职之后：英伟达、AI 基建、中美竞争和算力江湖
-
-**播客**: 晚点聊 LateTalk
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/77706b7f-cf2f-4400-826c-0331ae6c62a8.mp3)
+- 🎵 [音频文件](https://dts-api.xiaoyuzhoufm.com/track/60e43cecc4e7c8188c2f92a4/6afadb44fe62f8f52c4c0e65/media.xyzcdn.net/60e43cecc4e7c8188c2f92a4/lrhTA2xG6tweWvvz6VfET58RLLLz.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
