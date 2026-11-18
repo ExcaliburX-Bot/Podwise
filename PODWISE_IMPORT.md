@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-18 15:08:25
+> 📅 生成时间: 2026-11-18 23:54:25
 > 📊 总计: 10 个播客
 
 ---
@@ -19,15 +19,15 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+### 1. 从AI面试助手到蒸馏广告投手｜对谈Michael Guan
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3
+https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -39,14 +39,41 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11c
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3
+https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a
 ```
 
 </details>
 
 ---
 
-### 2. No.227 📺 长虹往事：彩电大王今何在
+### 2. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
+```
+
+</details>
+
+---
+
+### 3. No.227 📺 长虹往事：彩电大王今何在
 
 **播客名称**: 半拿铁 | 商业沉浮录
 
@@ -73,7 +100,7 @@ https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6afb0d32fe62f8f5
 
 ---
 
-### 3. Two ways big bets on data centers might affect you (Two Indicators)
+### 4. Two ways big bets on data centers might affect you (Two Indicators)
 
 **播客名称**: Planet Money
 
@@ -100,61 +127,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 4. 157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6afd12c6a4a79edf137afd61/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltU-y2wl0s2fvaEJBluGHouM2hO0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6afd12c6a4a79edf137afd61/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltU-y2wl0s2fvaEJBluGHouM2hO0.m4a
-```
-
-</details>
-
----
-
-### 5. 第3207期:Sneakers by Scott C. Holstad
-
-**播客名称**: 英语每日一听 | 每天少于5分钟
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIRwOzcRiAAQl6QT7J3CB.m4a?channel=rss&album_id=14812466&track_id=1032626663&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/1D/6B/GKwRIRwOzcRiAAQl6QT7J3CB.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIRwOzcRiAAQl6QT7J3CB.m4a?channel=rss&album_id=14812466&track_id=1032626663&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/1D/6B/GKwRIRwOzcRiAAQl6QT7J3CB.m4a
-```
-
-</details>
-
----
-
-### 6. 248. 在AI加速迭代的时代，为什么这群做AI的人坚持建立一个要线下交流的社群？
+### 5. 248. 在AI加速迭代的时代，为什么这群做AI的人坚持建立一个要线下交流的社群？
 
 **播客名称**: 贝望录
 
@@ -181,15 +154,15 @@ https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6afb0f7bfe62f8f5
 
 ---
 
-### 7. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+### 6. 第3207期:Sneakers by Scott C. Holstad
 
-**播客名称**: 疯投圈
+**播客名称**: 英语每日一听 | 每天少于5分钟
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://rio.xyzcdn.net/crazycapital/ep152.mp3
+https://jt.ximalaya.com//GKwRIRwOzcRiAAQl6QT7J3CB.m4a?channel=rss&album_id=14812466&track_id=1032626663&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/1D/6B/GKwRIRwOzcRiAAQl6QT7J3CB.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -201,14 +174,14 @@ https://rio.xyzcdn.net/crazycapital/ep152.mp3
 
 音频链接（点击复制）:
 ```
-https://rio.xyzcdn.net/crazycapital/ep152.mp3
+https://jt.ximalaya.com//GKwRIRwOzcRiAAQl6QT7J3CB.m4a?channel=rss&album_id=14812466&track_id=1032626663&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/6400-audiofreehighqps/1D/6B/GKwRIRwOzcRiAAQl6QT7J3CB.m4a
 ```
 
 </details>
 
 ---
 
-### 8. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
+### 7. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
 
 **播客名称**: 忽左忽右
 
@@ -229,6 +202,33 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f5
 音频链接（点击复制）:
 ```
 https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f52c4c8ff6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltXaoST4PGQhjdIRwAS15VizersJ.m4a
+```
+
+</details>
+
+---
+
+### 8. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
 ```
 
 </details>
