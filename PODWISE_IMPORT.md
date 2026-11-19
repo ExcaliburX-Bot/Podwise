@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-19 05:59:40
+> 📅 生成时间: 2026-11-19 15:38:13
 > 📊 总计: 10 个播客
 
 ---
@@ -73,15 +73,15 @@ https://jt.ximalaya.com//GKwRIDoOzts9AAVUagT7iCE-.m4a?channel=rss&album_id=14812
 
 ---
 
-### 3. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+### 3. 从AI面试助手到蒸馏广告投手｜对谈Michael Guan
 
-**播客名称**: What's Next｜科技早知道
+**播客名称**: AI炼金术
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3
+https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -93,7 +93,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11c
 
 音频链接（点击复制）:
 ```
-https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3
+https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a
 ```
 
 </details>
@@ -127,115 +127,7 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7
 
 ---
 
-### 5. No.227 📺 长虹往事：彩电大王今何在
-
-**播客名称**: 半拿铁 | 商业沉浮录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6afb0d32fe62f8f52c4c284f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmF13uG2gcoy0mAyXKx6llPsKwaV.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/62382c1103bea1ebfffa1c00/6afb0d32fe62f8f52c4c284f/media.xyzcdn.net/62382c1103bea1ebfffa1c00/lmF13uG2gcoy0mAyXKx6llPsKwaV.m4a
-```
-
-</details>
-
----
-
-### 6. Two ways big bets on data centers might affect you (Two Indicators)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090
-```
-
-</details>
-
----
-
-### 7. 157. 复盘Personal Agent集体诞生背后：和蔡伟聊AI产品史、需求真伪、入口与未来想象
-
-**播客名称**: 张小珺Jùn｜商业访谈录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6afd12c6a4a79edf137afd61/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltU-y2wl0s2fvaEJBluGHouM2hO0.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/626b46ea9cbbf0451cf5a962/6afd12c6a4a79edf137afd61/media.xyzcdn.net/626b46ea9cbbf0451cf5a962/ltU-y2wl0s2fvaEJBluGHouM2hO0.m4a
-```
-
-</details>
-
----
-
-### 8. 248. 在AI加速迭代的时代，为什么这群做AI的人坚持建立一个要线下交流的社群？
-
-**播客名称**: 贝望录
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6afb0f7bfe62f8f52c4c299b/media.xyzcdn.net/5e285856418a84a04627b7be/lqvT7P1NE9M2Pf6UI6hNc-dK_TC1.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://dts-api.xiaoyuzhoufm.com/track/5e285856418a84a04627b7be/6afb0f7bfe62f8f52c4c299b/media.xyzcdn.net/5e285856418a84a04627b7be/lqvT7P1NE9M2Pf6UI6hNc-dK_TC1.m4a
-```
-
-</details>
-
----
-
-### 9. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+### 5. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
 **播客名称**: 疯投圈
 
@@ -262,15 +154,15 @@ https://rio.xyzcdn.net/crazycapital/ep152.mp3
 
 ---
 
-### 10. 517 关陇集团是如何炼成的：「八柱国」与西魏北周政权的崛起
+### 6. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
 
-**播客名称**: 忽左忽右
+**播客名称**: 文化有限
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f52c4c8ff6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltXaoST4PGQhjdIRwAS15VizersJ.m4a
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
 ```
 
 **导入状态**: ⬜ 待导入
@@ -282,7 +174,115 @@ https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f5
 
 音频链接（点击复制）:
 ```
-https://dts-api.xiaoyuzhoufm.com/track/5e4ee557418a84a0466737b7/6afc18f3fe62f8f52c4c8ff6/media.xyzcdn.net/5e4ee557418a84a0466737b7/ltXaoST4PGQhjdIRwAS15VizersJ.m4a
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
+```
+
+</details>
+
+---
+
+### 7. 一把 Bass，藏着什么流行音乐的秘密？
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
+```
+
+</details>
+
+---
+
+### 8. S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？
+
+**播客名称**: 创业内幕 Startup Insider
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a
+```
+
+</details>
+
+---
+
+### 9. 扭扭爵士 New Nu-Jazz 2026 年第三辑
+
+**播客名称**: 周末变奏 Key Change
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3
+```
+
+</details>
+
+---
+
+### 10. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
+
+**播客名称**: 少数派播客 SSPAI Podcast
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3
 ```
 
 </details>
