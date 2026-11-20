@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-20 00:19  
+> 📅 **更新时间**: 2026-11-20 14:55  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3209期:Haitian security forces regain control of the stadium.
+### 1. AI来了，这些公司快死了……吗？
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194808&track_id=1034331062&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fbda-audiofreehighqps/19/F3/GKwRIJEO1hn0Awb1twT-hPlj.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3209期:Haitian security forces regain control of the stadium.
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 3. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客**: 创业内幕 Startup Insider
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. BYM 356｜我觉得她会高兴
+### 4. BYM 356｜我觉得她会高兴
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -43,19 +56,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 4. Personal Agent 怎么从尝鲜变成常用？｜对谈千问蒋冠军
-
-**播客**: AI炼金术
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIO1J6eAzbIcQT93FsA.m4a?channel=rss&album_id=74194808&track_id=1034046447&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/afc8-audiofreehighqps/72/A7/GKwRIJIO1J6eAzbIcQT93FsA.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -99,7 +99,20 @@
 
 ---
 
-### 8. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+### 8. Two ways big bets on data centers might affect you (Two Indicators)
+
+**播客**: Planet Money
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/b19ce1fb-95ca-4339-9f74-93cd72d20032/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=b19ce1fb-95ca-4339-9f74-93cd72d20032&feed=hvWWWzRv&t=podcast&e=nx-s1-6044772&p=510289&d=1108&size=17739090)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
 **播客**: 疯投圈
 
@@ -112,7 +125,7 @@
 
 ---
 
-### 9. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
+### 10. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
 
 **播客**: 文化有限
 
@@ -121,19 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 一把 Bass，藏着什么流行音乐的秘密？
-
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
