@@ -1,9 +1,49 @@
 {
-  "generated_at": "2026-11-19T15:38:13.059389",
+  "generated_at": "2026-11-20T00:19:04.365875",
   "total_count": 10,
   "episodes": [
     {
       "rank": 1,
+      "title": "第3209期:Haitian security forces regain control of the stadium.",
+      "podcast": "英语每日一听 | 每天少于5分钟",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIOzt25ABD_NAT7iW45.m4a?channel=rss&album_id=14812466&track_id=1032819073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1384-audiofreehighqps/DF/00/GKwRIJIOzt25ABD_NAT7iW45.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 2,
+      "title": "S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司",
+      "podcast": "创业内幕 Startup Insider",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119986&track_id=1033972178&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/8431-audiofreehighqps/C8/15/GKwRIJEO1DSKAV4xpAT9p00T.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 3,
+      "title": "BYM 356｜我觉得她会高兴",
+      "podcast": "Blow Your Mind (BYM S02)",
+      "audio_url": "https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 4,
+      "title": "Personal Agent 怎么从尝鲜变成常用？｜对谈千问蒋冠军",
+      "podcast": "AI炼金术",
+      "audio_url": "https://jt.ximalaya.com//GKwRIJIO1J6eAzbIcQT93FsA.m4a?channel=rss&album_id=74194808&track_id=1034046447&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/afc8-audiofreehighqps/72/A7/GKwRIJIO1J6eAzbIcQT93FsA.m4a",
+      "xiaoyuzhou_url": "",
+      "imported": false,
+      "podwise_url": "",
+      "notes": ""
+    },
+    {
+      "rank": 5,
       "title": "189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始",
       "podcast": "晚点聊 LateTalk",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.mp3",
@@ -13,27 +53,17 @@
       "notes": ""
     },
     {
-      "rank": 2,
-      "title": "第3208期:Inventor!",
-      "podcast": "英语每日一听 | 每天少于5分钟",
-      "audio_url": "https://jt.ximalaya.com//GKwRIDoOzts9AAVUagT7iCE-.m4a?channel=rss&album_id=14812466&track_id=1032817842&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9742-audiofreehighqps/69/CB/GKwRIDoOzts9AAVUagT7iCE-.m4a",
+      "rank": 6,
+      "title": "当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36",
+      "podcast": "What's Next｜科技早知道",
+      "audio_url": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",
       "notes": ""
     },
     {
-      "rank": 3,
-      "title": "从AI面试助手到蒸馏广告投手｜对谈Michael Guan",
-      "podcast": "AI炼金术",
-      "audio_url": "https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 4,
+      "rank": 7,
       "title": "【随机波动182】谈《可能的爱》：电影作为一个开罐器",
       "podcast": "随机波动StochasticVolatility",
       "audio_url": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3",
@@ -43,7 +73,7 @@
       "notes": ""
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "152 ✪ 韩国考察回顾：文化乘数赋能消费品牌",
       "podcast": "疯投圈",
       "audio_url": "https://rio.xyzcdn.net/crazycapital/ep152.mp3",
@@ -53,7 +83,7 @@
       "notes": ""
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主",
       "podcast": "文化有限",
       "audio_url": "https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a",
@@ -63,40 +93,10 @@
       "notes": ""
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "一把 Bass，藏着什么流行音乐的秘密？",
       "podcast": "Vibration 歪波音室",
       "audio_url": "https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 8,
-      "title": "S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？",
-      "podcast": "创业内幕 Startup Insider",
-      "audio_url": "https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 9,
-      "title": "扭扭爵士 New Nu-Jazz 2026 年第三辑",
-      "podcast": "周末变奏 Key Change",
-      "audio_url": "https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3",
-      "xiaoyuzhou_url": "",
-      "imported": false,
-      "podwise_url": "",
-      "notes": ""
-    },
-    {
-      "rank": 10,
-      "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
-      "podcast": "少数派播客 SSPAI Podcast",
-      "audio_url": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3",
       "xiaoyuzhou_url": "",
       "imported": false,
       "podwise_url": "",

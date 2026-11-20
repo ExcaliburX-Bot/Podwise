@@ -1,14 +1,66 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-19 15:38  
+> 📅 **更新时间**: 2026-11-20 00:19  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+### 1. 第3209期:Haitian security forces regain control of the stadium.
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOzt25ABD_NAT7iW45.m4a?channel=rss&album_id=14812466&track_id=1032819073&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/1384-audiofreehighqps/DF/00/GKwRIJIOzt25ABD_NAT7iW45.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+
+**播客**: 创业内幕 Startup Insider
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119986&track_id=1033972178&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/8431-audiofreehighqps/C8/15/GKwRIJEO1DSKAV4xpAT9p00T.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. BYM 356｜我觉得她会高兴
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 4. Personal Agent 怎么从尝鲜变成常用？｜对谈千问蒋冠军
+
+**播客**: AI炼金术
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIO1J6eAzbIcQT93FsA.m4a?channel=rss&album_id=74194808&track_id=1034046447&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/afc8-audiofreehighqps/72/A7/GKwRIJIO1J6eAzbIcQT93FsA.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
 
 **播客**: 晚点聊 LateTalk
 
@@ -21,33 +73,20 @@
 
 ---
 
-### 2. 第3208期:Inventor!
+### 6. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
 
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoOzts9AAVUagT7iCE-.m4a?channel=rss&album_id=14812466&track_id=1032817842&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9742-audiofreehighqps/69/CB/GKwRIDoOzts9AAVUagT7iCE-.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. 从AI面试助手到蒸馏广告投手｜对谈Michael Guan
-
-**播客**: AI炼金术
+**播客**: What's Next｜科技早知道
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIUEO04LHAoihXAT9dN7q.m4a?channel=rss&album_id=74194808&track_id=1033824004&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/7189-audiofreehighqps/E0/24/GKwRIUEO04LHAoihXAT9dN7q.m4a)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
 
-### 4. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+### 7. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
 
 **播客**: 随机波动StochasticVolatility
 
@@ -60,7 +99,7 @@
 
 ---
 
-### 5. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+### 8. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
 **播客**: 疯投圈
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
+### 9. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
 
 **播客**: 文化有限
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 一把 Bass，藏着什么流行音乐的秘密？
+### 10. 一把 Bass，藏着什么流行音乐的秘密？
 
 **播客**: Vibration 歪波音室
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. S8 Vol.31 Red Dot AI荚济民：让物理世界拥有智能，一度电如何创造更多有效Token？
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJIOyz4QAQ2rwAT6LBO5.m4a?channel=rss&album_id=20119986&track_id=1032120087&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/1326-audiofreehighqps/9C/9B/GKwRIJIOyz4QAQ2rwAT6LBO5.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 扭扭爵士 New Nu-Jazz 2026 年第三辑
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 线索若隐若现：深入 Tim Cook 和 Nike 的商业连接
-
-**播客**: 少数派播客 SSPAI Podcast
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
