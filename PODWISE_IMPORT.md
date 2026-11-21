@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-20 23:42:11
+> 📅 生成时间: 2026-11-21 05:43:58
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. AI来了，这些公司快死了……吗？
+### 1. You Can Seize Everything (The U.S. is reviving pirate law)
+
+**播客名称**: Planet Money
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527
+```
+
+</details>
+
+---
+
+### 2. AI来了，这些公司快死了……吗？
 
 **播客名称**: AI炼金术
 
@@ -46,7 +73,7 @@ https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194
 
 ---
 
-### 2. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 3. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -73,7 +100,61 @@ https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119
 
 ---
 
-### 3. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+### 4. BYM 356｜我觉得她会高兴
+
+**播客名称**: Blow Your Mind (BYM S02)
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a
+```
+
+</details>
+
+---
+
+### 5. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+
+**播客名称**: 晚点聊 LateTalk
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.mp3
+```
+
+</details>
+
+---
+
+### 6. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
 
 **播客名称**: What's Next｜科技早知道
 
@@ -94,87 +175,6 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11c
 音频链接（点击复制）:
 ```
 https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3
-```
-
-</details>
-
----
-
-### 4. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
-
-**播客名称**: 随机波动StochasticVolatility
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
-```
-
-</details>
-
----
-
-### 5. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
-
-**播客名称**: 疯投圈
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://rio.xyzcdn.net/crazycapital/ep152.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://rio.xyzcdn.net/crazycapital/ep152.mp3
-```
-
-</details>
-
----
-
-### 6. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
-
-**播客名称**: 文化有限
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
 ```
 
 </details>
