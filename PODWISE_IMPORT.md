@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-21 05:43:58
+> 📅 生成时间: 2026-11-21 14:15:14
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,34 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. You Can Seize Everything (The U.S. is reviving pirate law)
+### 1. 第3210期:Meghan's father was detained by US police.
+
+**播客名称**: 英语每日一听 | 每天少于5分钟
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIDoOzt_lAA5XUwT7il2R.m4a?channel=rss&album_id=14812466&track_id=1032820078&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/08a4-audiofreehighqps/EC/26/GKwRIDoOzt_lAA5XUwT7il2R.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIDoOzt_lAA5XUwT7il2R.m4a?channel=rss&album_id=14812466&track_id=1032820078&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/08a4-audiofreehighqps/EC/26/GKwRIDoOzt_lAA5XUwT7il2R.m4a
+```
+
+</details>
+
+---
+
+### 2. You Can Seize Everything (The U.S. is reviving pirate law)
 
 **播客名称**: Planet Money
 
@@ -46,7 +73,7 @@ https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.po
 
 ---
 
-### 2. AI来了，这些公司快死了……吗？
+### 3. AI来了，这些公司快死了……吗？
 
 **播客名称**: AI炼金术
 
@@ -73,7 +100,7 @@ https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194
 
 ---
 
-### 3. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 4. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119
 
 ---
 
-### 4. BYM 356｜我觉得她会高兴
+### 5. BYM 356｜我觉得她会高兴
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -121,33 +148,6 @@ https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=69903
 音频链接（点击复制）:
 ```
 https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a
-```
-
-</details>
-
----
-
-### 5. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
-
-**播客名称**: 晚点聊 LateTalk
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9d2a2-21ec-4404-bd78-0d7eb20e6ae5.mp3
 ```
 
 </details>
@@ -181,7 +181,88 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11c
 
 ---
 
-### 7. 一把 Bass，藏着什么流行音乐的秘密？
+### 7. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+
+**播客名称**: 随机波动StochasticVolatility
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3
+```
+
+</details>
+
+---
+
+### 8. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
+
+**播客名称**: 疯投圈
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://rio.xyzcdn.net/crazycapital/ep152.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://rio.xyzcdn.net/crazycapital/ep152.mp3
+```
+
+</details>
+
+---
+
+### 9. Vol.361 人鼠之间：人字的结构就是相互支撑｜1962诺奖得主
+
+**播客名称**: 文化有限
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://jt.ximalaya.com//GKwRIaIO0EKpArd_8AT8C_gD.m4a?channel=rss&album_id=29887212&track_id=1033036763&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/3b3f-audiofreehighqps/E8/FD/GKwRIaIO0EKpArd_8AT8C_gD.m4a
+```
+
+</details>
+
+---
+
+### 10. 一把 Bass，藏着什么流行音乐的秘密？
 
 **播客名称**: Vibration 歪波音室
 
@@ -202,87 +283,6 @@ https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
 音频链接（点击复制）:
 ```
 https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
-```
-
-</details>
-
----
-
-### 8. 902: The Missing Minutes
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
-```
-
-</details>
-
----
-
-### 9. 扭扭爵士 New Nu-Jazz 2026 年第三辑
-
-**播客名称**: 周末变奏 Key Change
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3
-```
-
-</details>
-
----
-
-### 10. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
-
-**播客名称**: 放学以后After school
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3
 ```
 
 </details>
