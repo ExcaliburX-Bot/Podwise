@@ -1,6 +1,6 @@
 # 🎙️ Podwise 导入清单
 
-> 📅 生成时间: 2026-11-22 14:05:15
+> 📅 生成时间: 2026-11-22 23:15:50
 > 📊 总计: 10 个播客
 
 ---
@@ -19,7 +19,61 @@
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3211期:A senior U.S. military soldier was arrested in the UK
+### 1. 庄达菲《感，觉》：把生活里的小事，慢慢写成歌
+
+**播客名称**: Vibration 歪波音室
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a
+```
+
+</details>
+
+---
+
+### 2. E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
+
+**播客名称**: 硅谷101
+
+**简介**: 暂无简介
+
+**音频链接**:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3
+```
+
+**导入状态**: ⬜ 待导入
+
+**Podwise 链接**: _导入后填写_
+
+<details>
+<summary>📋 快速复制</summary>
+
+音频链接（点击复制）:
+```
+https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3
+```
+
+</details>
+
+---
+
+### 3. 第3211期:A senior U.S. military soldier was arrested in the UK
 
 **播客名称**: 英语每日一听 | 每天少于5分钟
 
@@ -46,34 +100,7 @@ https://jt.ximalaya.com//GKwRIW4OzuMWAA8n1gT7i9Qt.m4a?channel=rss&album_id=14812
 
 ---
 
-### 2. You Can Seize Everything (The U.S. is reviving pirate law)
-
-**播客名称**: Planet Money
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527
-```
-
-</details>
-
----
-
-### 3. AI来了，这些公司快死了……吗？
+### 4. AI来了，这些公司快死了……吗？
 
 **播客名称**: AI炼金术
 
@@ -100,7 +127,7 @@ https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194
 
 ---
 
-### 4. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 5. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客名称**: 创业内幕 Startup Insider
 
@@ -127,7 +154,7 @@ https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119
 
 ---
 
-### 5. BYM 356｜我觉得她会高兴
+### 6. BYM 356｜我觉得她会高兴
 
 **播客名称**: Blow Your Mind (BYM S02)
 
@@ -154,7 +181,7 @@ https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=69903
 
 ---
 
-### 6. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+### 7. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
 
 **播客名称**: 晚点聊 LateTalk
 
@@ -181,7 +208,7 @@ https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/26f9
 
 ---
 
-### 7. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+### 8. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
 
 **播客名称**: What's Next｜科技早知道
 
@@ -208,7 +235,7 @@ https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11c
 
 ---
 
-### 8. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+### 9. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
 
 **播客名称**: 随机波动StochasticVolatility
 
@@ -235,15 +262,15 @@ https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7
 
 ---
 
-### 9. 一把 Bass，藏着什么流行音乐的秘密？
+### 10. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
-**播客名称**: Vibration 歪波音室
+**播客名称**: 疯投圈
 
 **简介**: 暂无简介
 
 **音频链接**:
 ```
-https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
+https://rio.xyzcdn.net/crazycapital/ep152.mp3
 ```
 
 **导入状态**: ⬜ 待导入
@@ -255,34 +282,7 @@ https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
 
 音频链接（点击复制）:
 ```
-https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a
-```
-
-</details>
-
----
-
-### 10. 902: The Missing Minutes
-
-**播客名称**: This American Life
-
-**简介**: 暂无简介
-
-**音频链接**:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
-```
-
-**导入状态**: ⬜ 待导入
-
-**Podwise 链接**: _导入后填写_
-
-<details>
-<summary>📋 快速复制</summary>
-
-音频链接（点击复制）:
-```
-https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache
+https://rio.xyzcdn.net/crazycapital/ep152.mp3
 ```
 
 </details>

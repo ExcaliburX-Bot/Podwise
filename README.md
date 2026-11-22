@@ -1,14 +1,40 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-22 14:05  
+> 📅 **更新时间**: 2026-11-22 23:15  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3211期:A senior U.S. military soldier was arrested in the UK
+### 1. 庄达菲《感，觉》：把生活里的小事，慢慢写成歌
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
+
+**播客**: 硅谷101
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 3. 第3211期:A senior U.S. military soldier was arrested in the UK
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,20 +47,7 @@
 
 ---
 
-### 2. You Can Seize Everything (The U.S. is reviving pirate law)
-
-**播客**: Planet Money
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d58dad88-3a45-458b-ab87-01448967415e/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d58dad88-3a45-458b-ab87-01448967415e&feed=hvWWWzRv&t=podcast&e=nx-s1-6049085&p=510289&d=1475&size=23613527)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 3. AI来了，这些公司快死了……吗？
+### 4. AI来了，这些公司快死了……吗？
 
 **播客**: AI炼金术
 
@@ -47,7 +60,7 @@
 
 ---
 
-### 4. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 5. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客**: 创业内幕 Startup Insider
 
@@ -60,7 +73,7 @@
 
 ---
 
-### 5. BYM 356｜我觉得她会高兴
+### 6. BYM 356｜我觉得她会高兴
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -73,7 +86,7 @@
 
 ---
 
-### 6. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+### 7. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
 
 **播客**: 晚点聊 LateTalk
 
@@ -86,7 +99,7 @@
 
 ---
 
-### 7. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+### 8. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
 
 **播客**: What's Next｜科技早知道
 
@@ -99,7 +112,7 @@
 
 ---
 
-### 8. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+### 9. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
 
 **播客**: 随机波动StochasticVolatility
 
@@ -112,28 +125,15 @@
 
 ---
 
-### 9. 一把 Bass，藏着什么流行音乐的秘密？
+### 10. 152 ✪ 韩国考察回顾：文化乘数赋能消费品牌
 
-**播客**: Vibration 歪波音室
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://tk.wavpub.com/WPTK_9xM2hJ9c49qqkrNQ.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 902: The Missing Minutes
-
-**播客**: This American Life
+**播客**: 疯投圈
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
+- 🎵 [音频文件](https://rio.xyzcdn.net/crazycapital/ep152.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
