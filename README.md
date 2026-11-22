@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-22 05:13  
+> 📅 **更新时间**: 2026-11-22 14:05  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. You Can Seize Everything (The U.S. is reviving pirate law)
+### 1. 第3211期:A senior U.S. military soldier was arrested in the UK
+
+**播客**: 英语每日一听 | 每天少于5分钟
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4OzuMWAA8n1gT7i9Qt.m4a?channel=rss&album_id=14812466&track_id=1032821270&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/b42f-audiofreehighqps/A1/98/GKwRIW4OzuMWAA8n1gT7i9Qt.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. You Can Seize Everything (The U.S. is reviving pirate law)
 
 **播客**: Planet Money
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. AI来了，这些公司快死了……吗？
+### 3. AI来了，这些公司快死了……吗？
 
 **播客**: AI炼金术
 
@@ -34,7 +47,7 @@
 
 ---
 
-### 3. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 4. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客**: 创业内幕 Startup Insider
 
@@ -47,7 +60,20 @@
 
 ---
 
-### 4. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
+### 5. BYM 356｜我觉得她会高兴
+
+**播客**: Blow Your Mind (BYM S02)
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 189: Geodesic顾全全：预训练有点“无聊”了，但用scaling改变AI制药才刚开始
 
 **播客**: 晚点聊 LateTalk
 
@@ -60,7 +86,20 @@
 
 ---
 
-### 5. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+### 7. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 8. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
 
 **播客**: 随机波动StochasticVolatility
 
@@ -73,7 +112,7 @@
 
 ---
 
-### 6. 一把 Bass，藏着什么流行音乐的秘密？
+### 9. 一把 Bass，藏着什么流行音乐的秘密？
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +125,7 @@
 
 ---
 
-### 7. 902: The Missing Minutes
+### 10. 902: The Missing Minutes
 
 **播客**: This American Life
 
@@ -95,45 +134,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/86cdb257-086f-434a-b0a1-2e41f02fb2f5/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=86cdb257-086f-434a-b0a1-2e41f02fb2f5&nocache)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. 扭扭爵士 New Nu-Jazz 2026 年第三辑
-
-**播客**: 周末变奏 Key Change
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 9. 68 是谁抱着金碗在要饭？镜子里有没有你的脸？
-
-**播客**: 放学以后After school
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/127357179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-12%2Fb273ca3d-cb31-21a1-5f7c-5e9521ad9060.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 10. 71. AI x 肿瘤社区 | 当癌症患者开始自救：小x宝开源项目的诞生
-
-**播客**: 扩博智聊 | 有AI味道的访谈节目
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoMu5LbAZwgVQQePavV.m4a?channel=rss&album_id=58531642&track_id=918653265&uid=395843527&jt=https://aod.cos.tx.xmcdn.com/storages/1fe4-audiofreehighqps/7B/EE/GKwRIDoMu5LbAZwgVQQePavV.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
