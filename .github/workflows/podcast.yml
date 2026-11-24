@@ -5,31 +5,34 @@ on:
   schedule:
     - cron: '0 */6 * * *'
 
+permissions:
+  contents: write
+
 jobs:
   fetch-and-process:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: 检出仓库
-        uses: actions/checkout@v3
-      
+        uses: actions/checkout@v4
+
       - name: 设置 Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
-      
+
       - name: 安装依赖
         run: pip install requests
-      
+
       - name: 抓取播客数据
         run: python scripts/fetch_data.py
-      
-      - name: 生成综合报告
-        run: python scripts/generate_report.py
-      
+
+      # 「生成综合报告」已移除：导入清单由 daily_update.yml 负责生成，
+      # 而且这里原本也不会提交 PODWISE_IMPORT.md
+
       - name: 提交更改到仓库
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add data/*.json README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "📊 更新播客热榜数据 $(date '+%Y-%m-%d %H:%M:%S')" && git push)
+          git add data/xyz_*.json
+          git diff --staged --quiet || (git commit -m "📊 更新播客热榜数据 $(date '+%Y-%m-%d %H:%M:%S')" && git pull --rebase && git push)
