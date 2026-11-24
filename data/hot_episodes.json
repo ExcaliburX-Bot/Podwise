@@ -1,33 +1,23 @@
 [
   {
-    "eid": "2564246590b.mp3",
-    "title": "190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么",
-    "podcast": {
-      "title": "晚点聊 LateTalk"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7bc6cc68-a934-4e3a-9f88-52564246590b.mp3",
-    "pubDate": "2026-11-23T09:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
-    "eid": "Za1RdqzWax6.m4a",
-    "title": "庄达菲《感，觉》：把生活里的小事，慢慢写成歌",
-    "podcast": {
-      "title": "Vibration 歪波音室"
-    },
-    "enclosureUrl": "https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a",
-    "pubDate": "2026-11-23T06:30:00+08:00",
-    "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
-  },
-  {
-    "eid": "Bg2fwT-vpev.m4a",
-    "title": "第3212期:Can we see sounds as shapes?",
+    "eid": "ANljAT-v3BU.m4a",
+    "title": "第3213期:Oxford Street partially pedestrianised",
     "podcast": {
       "title": "英语每日一听 | 每天少于5分钟"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJIO1tJPABg2fwT-vpev.m4a?channel=rss&album_id=14812466&track_id=1034453684&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/5316-audiofreehighqps/B6/6F/GKwRIJIO1tJPABg2fwT-vpev.m4a",
-    "pubDate": "2026-11-23T00:00:00+00:00",
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4O1tQGAANljAT-v3BU.m4a?channel=rss&album_id=14812466&track_id=1034454508&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f093-audiofreehighqps/46/D3/GKwRIW4O1tQGAANljAT-v3BU.m4a",
+    "pubDate": "2026-11-24T00:00:00+00:00",
     "source_rss": "https://www.ximalaya.com/album/14812466.xml"
+  },
+  {
+    "eid": "_VjHwT_4dVr.m4a",
+    "title": "Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？",
+    "podcast": {
+      "title": "文化有限"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4O2aT_A_VjHwT_4dVr.m4a?channel=rss&album_id=29887212&track_id=1034860419&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/4332-audiofreehighqps/1B/D4/GKwRIW4O2aT_A_VjHwT_4dVr.m4a",
+    "pubDate": "2026-11-23T23:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
     "eid": "a6b95ca&nocache",
@@ -70,6 +60,16 @@
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
   },
   {
+    "eid": "V4xpAT9p00T.m4a",
+    "title": "S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119986&track_id=1033972178&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/8431-audiofreehighqps/C8/15/GKwRIJEO1DSKAV4xpAT9p00T.m4a",
+    "pubDate": "2026-11-19T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
     "eid": "KYxigT9-66J.m4a",
     "title": "BYM 356｜我觉得她会高兴",
     "podcast": {
@@ -88,16 +88,6 @@
     "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3",
     "pubDate": "2026-11-18T20:00:00+08:00",
     "source_rss": "https://feeds.fireside.fm/guiguzaozhidao/rss"
-  },
-  {
-    "eid": "6d07e709f2a.mp3",
-    "title": "【随机波动182】谈《可能的爱》：电影作为一个开罐器",
-    "podcast": {
-      "title": "随机波动StochasticVolatility"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3",
-    "pubDate": "2026-11-18T12:00:00+08:00",
-    "source_rss": "https://feeds.fireside.fm/stovol/rss"
   },
   {
     "eid": "4123_542642.mp3",
@@ -130,14 +120,14 @@
     "source_rss": "https://sspai.typlog.io/episodes/feed.xml"
   },
   {
-    "eid": "i15AARpYX8B.m4a",
-    "title": "一位自由译者转型之路和她经历的AI未来",
+    "eid": "616d2/media.mp3",
+    "title": "神探霍克尼：真实世界的观看之道",
     "podcast": {
-      "title": "二维吾码"
+      "title": "艺术有读"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a",
-    "pubDate": "2026-02-11T06:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
+    "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3",
+    "pubDate": "2026-06-12T14:14:57+00:00",
+    "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
   },
   {
     "eid": "a7e460d19ed.mp3",
@@ -158,16 +148,6 @@
     "enclosureUrl": "https://jt.ximalaya.com//CKwRIMAEihDpAJBsfQCy1Ihw-aacv2-48K.m4a?channel=rss&album_id=23446672&track_id=420278002&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/4df6-audiofreehighqps/44/40/CKwRIMAEihDpAJBsfQCy1Ihw-aacv2-48K.m4a",
     "pubDate": "2021-05-31T02:45:34+00:00",
     "source_rss": "https://www.ximalaya.com/album/23446672.xml"
-  },
-  {
-    "eid": "o-aacv2-48K.m4a",
-    "title": "00.美音磨耳朵28句（词汇简单）",
-    "podcast": {
-      "title": "高效磨耳朵 | 最好的英语听力资源"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//CKwRINsEAmKjAE5qdQCIedho-aacv2-48K.m4a?channel=rss&album_id=46602128&track_id=386545338&uid=16647096&jt=https://aod.cos.tx.xmcdn.com/storages/52ff-audiofreehighqps/A9/FA/CKwRINsEAmKjAE5qdQCIedho-aacv2-48K.m4a",
-    "pubDate": "2021-02-17T04:46:18+00:00",
-    "source_rss": "https://www.ximalaya.com/album/46602128.xml"
   },
   {
     "eid": "y=172BB350-0089",
