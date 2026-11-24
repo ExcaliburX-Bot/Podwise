@@ -1,14 +1,27 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-24 03:49  
+> 📅 **更新时间**: 2026-11-24 16:59  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3213期:Oxford Street partially pedestrianised
+### 1. 69 生命里那些虚惊一场：命运如何温柔地放过了我们？
+
+**播客**: 放学以后After school
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://anchor.fm/s/81d05f80/podcast/play/129976179/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-23%2F9df51ffe-fa43-00f1-f885-5472f5f81dba.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 2. 第3213期:Oxford Street partially pedestrianised
 
 **播客**: 英语每日一听 | 每天少于5分钟
 
@@ -21,7 +34,7 @@
 
 ---
 
-### 2. Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？
+### 3. Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？
 
 **播客**: 文化有限
 
@@ -34,7 +47,33 @@
 
 ---
 
-### 3. 436: The Psychopath Test
+### 4. 190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么
+
+**播客**: 晚点聊 LateTalk
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7bc6cc68-a934-4e3a-9f88-52564246590b.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 5. 庄达菲《感，觉》：把生活里的小事，慢慢写成歌
+
+**播客**: Vibration 歪波音室
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 6. 436: The Psychopath Test
 
 **播客**: This American Life
 
@@ -47,20 +86,7 @@
 
 ---
 
-### 4. E259｜机械神教与反人性策略：华尔街量化巨头的AI之路
-
-**播客**: 硅谷101
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/bc105fa7-23de-4c70-a338-6d70daf9aed1.mp3)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. You Can Seize Everything (The U.S. is reviving pirate law)
+### 7. You Can Seize Everything (The U.S. is reviving pirate law)
 
 **播客**: Planet Money
 
@@ -73,7 +99,7 @@
 
 ---
 
-### 6. AI来了，这些公司快死了……吗？
+### 8. AI来了，这些公司快死了……吗？
 
 **播客**: AI炼金术
 
@@ -82,32 +108,6 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194808&track_id=1034331062&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fbda-audiofreehighqps/19/F3/GKwRIJEO1hn0Awb1twT-hPlj.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 7. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
-
-**播客**: 创业内幕 Startup Insider
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119986&track_id=1033972178&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/8431-audiofreehighqps/C8/15/GKwRIJEO1DSKAV4xpAT9p00T.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 8. BYM 356｜我觉得她会高兴
-
-**播客**: Blow Your Mind (BYM S02)
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
@@ -125,15 +125,15 @@
 
 ---
 
-### 10. 扭扭爵士 New Nu-Jazz 2026 年第三辑
+### 10. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
 
-**播客**: 周末变奏 Key Change
+**播客**: 随机波动StochasticVolatility
 
 **状态**: ⏳ 等待导入
 
 **链接**:
 - 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://r.typlog.com/eyJzIjoxNDAxLCJlIjo5MDc0MywidCI6MX0.680wyu5kO4KcBEOFHxl6kmFiHPA/keychangefm/8205054123_542642.mp3)
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
