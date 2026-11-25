@@ -10,14 +10,14 @@
     "source_rss": "https://anchor.fm/s/81d05f80/podcast/rss"
   },
   {
-    "eid": "ANljAT-v3BU.m4a",
-    "title": "第3213期:Oxford Street partially pedestrianised",
+    "eid": "8a7008b2d62.mp3",
+    "title": " E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场",
     "podcast": {
-      "title": "英语每日一听 | 每天少于5分钟"
+      "title": "硅谷101"
     },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIW4O1tQGAANljAT-v3BU.m4a?channel=rss&album_id=14812466&track_id=1034454508&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/f093-audiofreehighqps/46/D3/GKwRIW4O1tQGAANljAT-v3BU.m4a",
-    "pubDate": "2026-11-24T00:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/14812466.xml"
+    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/34b5fd41-4431-485c-98e6-c8a7008b2d62.mp3",
+    "pubDate": "2026-11-24T15:30:00-08:00",
+    "source_rss": "https://feeds.fireside.fm/sv101/rss"
   },
   {
     "eid": "_VjHwT_4dVr.m4a",
@@ -30,16 +30,6 @@
     "source_rss": "https://www.ximalaya.com/album/29887212.xml"
   },
   {
-    "eid": "2564246590b.mp3",
-    "title": "190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么",
-    "podcast": {
-      "title": "晚点聊 LateTalk"
-    },
-    "enclosureUrl": "https://aphid.fireside.fm/d/1437767933/19a49f52-28ee-4e25-b8e9-4f0ee70917e0/7bc6cc68-a934-4e3a-9f88-52564246590b.mp3",
-    "pubDate": "2026-11-23T09:00:00+08:00",
-    "source_rss": "https://podcast.latepost.com/rss"
-  },
-  {
     "eid": "Za1RdqzWax6.m4a",
     "title": "庄达菲《感，觉》：把生活里的小事，慢慢写成歌",
     "podcast": {
@@ -48,16 +38,6 @@
     "enclosureUrl": "https://tk.wavpub.com/WPTK_16hf6Za1RdqzWax6.m4a",
     "pubDate": "2026-11-23T06:30:00+08:00",
     "source_rss": "https://s2.proxy.wavpub.com/vibration.xml"
-  },
-  {
-    "eid": "a6b95ca&nocache",
-    "title": "436: The Psychopath Test",
-    "podcast": {
-      "title": "This American Life"
-    },
-    "enclosureUrl": "https://pfx.vpixl.com/6qj4J/dts.podtrac.com/redirect.mp/pdst.fm/e/prefix.up.audio/s/npr.simplecastaudio.com/d3081dd9-fcaf-445a-977c-4f56c28f5a6e/episodes/cb3d614d-f743-413d-977f-ff4e8a6b95ca/audio/128/default.mp3?awCollectionId=d3081dd9-fcaf-445a-977c-4f56c28f5a6e&awEpisodeId=cb3d614d-f743-413d-977f-ff4e8a6b95ca&nocache",
-    "pubDate": "2026-11-22T20:00:00-05:00",
-    "source_rss": "https://www.thisamericanlife.org/podcast/rss.xml"
   },
   {
     "eid": "5&size=23613527",
@@ -78,6 +58,26 @@
     "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEO1hn0Awb1twT-hPlj.m4a?channel=rss&album_id=74194808&track_id=1034331062&uid=28103699&jt=https://aod.cos.tx.xmcdn.com/storages/fbda-audiofreehighqps/19/F3/GKwRIJEO1hn0Awb1twT-hPlj.m4a",
     "pubDate": "2026-11-20T13:20:18+00:00",
     "source_rss": "https://www.ximalaya.com/album/74194808.xml"
+  },
+  {
+    "eid": "V4xpAT9p00T.m4a",
+    "title": "S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司",
+    "podcast": {
+      "title": "创业内幕 Startup Insider"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJEO1DSKAV4xpAT9p00T.m4a?channel=rss&album_id=20119986&track_id=1033972178&uid=103704303&jt=https://aod.cos.tx.xmcdn.com/storages/8431-audiofreehighqps/C8/15/GKwRIJEO1DSKAV4xpAT9p00T.m4a",
+    "pubDate": "2026-11-19T22:00:00+00:00",
+    "source_rss": "https://www.ximalaya.com/album/20119986.xml"
+  },
+  {
+    "eid": "KYxigT9-66J.m4a",
+    "title": "BYM 356｜我觉得她会高兴",
+    "podcast": {
+      "title": "Blow Your Mind (BYM S02)"
+    },
+    "enclosureUrl": "https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a",
+    "pubDate": "2026-11-19T14:32:53+00:00",
+    "source_rss": "https://www.ximalaya.com/album/6990384.xml"
   },
   {
     "eid": "5bd1187c7ec.mp3",
@@ -120,6 +120,16 @@
     "source_rss": "https://keychange.xyz/episodes/feed.xml"
   },
   {
+    "eid": "2930_348547.mp3",
+    "title": "线索若隐若现：深入 Tim Cook 和 Nike 的商业连接",
+    "podcast": {
+      "title": "少数派播客 SSPAI Podcast"
+    },
+    "enclosureUrl": "https://r.typlog.com/eyJzIjoxODkzLCJlIjo4Nzg0NCwidCI6MX0.tnM4OCkZPaXBDROwALgWKqbArkk/sspai/8218162930_348547.mp3",
+    "pubDate": "2026-06-16T03:09:31+00:00",
+    "source_rss": "https://sspai.typlog.io/episodes/feed.xml"
+  },
+  {
     "eid": "616d2/media.mp3",
     "title": "神探霍克尼：真实世界的观看之道",
     "podcast": {
@@ -128,16 +138,6 @@
     "enclosureUrl": "https://sphinx.acast.com/p/open/s/618ae0957929510012e11e6a/e/3db07743-2b2e-4477-82a0-ab3ab2b616d2/media.mp3",
     "pubDate": "2026-06-12T14:14:57+00:00",
     "source_rss": "https://feeds.acast.com/public/shows/618ae0957929510012e11e6a"
-  },
-  {
-    "eid": "i15AARpYX8B.m4a",
-    "title": "一位自由译者转型之路和她经历的AI未来",
-    "podcast": {
-      "title": "二维吾码"
-    },
-    "enclosureUrl": "https://jt.ximalaya.com//GKwRIJENYaQrAi15AARpYX8B.m4a?channel=rss&album_id=44299765&track_id=956278605&uid=273061034&jt=https://aod.cos.tx.xmcdn.com/storages/ae64-audiofreehighqps/53/9C/GKwRIJENYaQrAi15AARpYX8B.m4a",
-    "pubDate": "2026-02-11T06:00:00+00:00",
-    "source_rss": "https://www.ximalaya.com/album/44299765.xml"
   },
   {
     "eid": "ZwgVQQePavV.m4a",
@@ -190,14 +190,14 @@
     "source_rss": "http://feeds.feedburner.com/ChinesePodcastSocietyAndCulture"
   },
   {
-    "eid": "y=172BB350-0090",
-    "title": "克里斯·格迪斯: 未来的赛车 -- 每公里150英里, 并且没有司机 | Chris Gerdes",
+    "eid": "y=172BB350-0086",
+    "title": "Robert Gupta:音乐是良药，音乐令人心智健全 | Robert Gupta",
     "podcast": {
-      "title": "TEDTalks 科技"
+      "title": "TEDTalks 音乐"
     },
-    "enclosureUrl": "https://download.ted.com/talks/ChrisGerdes_2012X-480p-zh-cn.mp4?apikey=172BB350-0090",
-    "pubDate": "2012-07-11T15:00:23+00:00",
-    "source_rss": "http://video.ted.com/distribution/rss/ChinesePodcastTechnology.xml"
+    "enclosureUrl": "https://download.ted.com/talks/RobertGupta_2010U-480p-zh-cn.mp4?apikey=172BB350-0086",
+    "pubDate": "2010-03-26T08:54:00+00:00",
+    "source_rss": "http://video.ted.com/distribution/rss/ChinesePodcastMusic.xml"
   },
   {
     "eid": "y=172BB350-0088",
