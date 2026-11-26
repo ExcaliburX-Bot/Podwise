@@ -1,27 +1,14 @@
 # 🎙️ 小宇宙播客热榜 - AI 智能分析版
 
 > 🤖 **AI 分析**: [Podwise](https://podwise.ai)  
-> 📅 **更新时间**: 2026-11-26 01:35  
+> 📅 **更新时间**: 2026-11-26 16:26  
 > 📊 **分析进度**: 0/10 已完成
 
 ---
 
 ## 🎯 Top 10 热门播客
 
-### 1. 第3215期:Anthropic's shares surged on its first day of trading
-
-**播客**: 英语每日一听 | 每天少于5分钟
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1tsRABCloQT-woRI.m4a?channel=rss&album_id=14812466&track_id=1034457883&uid=83949625&jt=https://aod.cos.tx.xmcdn.com/storages/9cc6-audiofreehighqps/EE/7C/GKwRIDoO1tsRABCloQT-woRI.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 2. How to steal a truckload of bourbon and not get caught
+### 1. How to steal a truckload of bourbon and not get caught
 
 **播客**: Planet Money
 
@@ -34,7 +21,7 @@
 
 ---
 
-### 3.  E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场
+### 2.  E260｜黄仁勋归来之际，深聊英伟达、CoreWeave和算力信用市场
 
 **播客**: 硅谷101
 
@@ -47,20 +34,7 @@
 
 ---
 
-### 4. Vol.362 万历十五年：大失败时代的人还能拿到大结果吗？
-
-**播客**: 文化有限
-
-**状态**: ⏳ 等待导入
-
-**链接**:
-- 🎧 [小宇宙收听]()
-- 🎵 [音频文件](https://jt.ximalaya.com//GKwRIW4O2aT_A_VjHwT_4dVr.m4a?channel=rss&album_id=29887212&track_id=1034860419&uid=68693381&jt=https://aod.cos.tx.xmcdn.com/storages/4332-audiofreehighqps/1B/D4/GKwRIW4O2aT_A_VjHwT_4dVr.m4a)
-- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
-
----
-
-### 5. 190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么
+### 3. 190: 对话蚂蚁灵光蔡伟：大厂首个「个人 Agent」，验证了什么
 
 **播客**: 晚点聊 LateTalk
 
@@ -73,7 +47,7 @@
 
 ---
 
-### 6. 庄达菲《感，觉》：把生活里的小事，慢慢写成歌
+### 4. 庄达菲《感，觉》：把生活里的小事，慢慢写成歌
 
 **播客**: Vibration 歪波音室
 
@@ -86,7 +60,7 @@
 
 ---
 
-### 7. 436: The Psychopath Test
+### 5. 436: The Psychopath Test
 
 **播客**: This American Life
 
@@ -99,7 +73,7 @@
 
 ---
 
-### 8. AI来了，这些公司快死了……吗？
+### 6. AI来了，这些公司快死了……吗？
 
 **播客**: AI炼金术
 
@@ -112,7 +86,7 @@
 
 ---
 
-### 9. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
+### 7. S8 Vol.32 K2 Lab王铭：Personal Agent的创业终局，是垂直智能公司
 
 **播客**: 创业内幕 Startup Insider
 
@@ -125,7 +99,7 @@
 
 ---
 
-### 10. BYM 356｜我觉得她会高兴
+### 8. BYM 356｜我觉得她会高兴
 
 **播客**: Blow Your Mind (BYM S02)
 
@@ -134,6 +108,32 @@
 **链接**:
 - 🎧 [小宇宙收听]()
 - 🎵 [音频文件](https://jt.ximalaya.com//GKwRIDoO1MvPAKYxigT9-66J.m4a?channel=rss&album_id=6990384&track_id=1034084072&uid=43720750&jt=https://aod.cos.tx.xmcdn.com/storages/c277-audiofreehighqps/9C/07/GKwRIDoO1MvPAKYxigT9-66J.m4a)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 9. 当 AI 研发下一代 AI，人类研究员还剩下什么？|S10E36
+
+**播客**: What's Next｜科技早知道
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/4931937e-0184-4c61-a658-6b03c254754d/c11cceb2-07c2-4c2f-9124-95bd1187c7ec.mp3)
+- 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
+
+---
+
+### 10. 【随机波动182】谈《可能的爱》：电影作为一个开罐器
+
+**播客**: 随机波动StochasticVolatility
+
+**状态**: ⏳ 等待导入
+
+**链接**:
+- 🎧 [小宇宙收听]()
+- 🎵 [音频文件](https://aphid.fireside.fm/d/1437767933/a05075d5-4f3a-45ac-afff-580f795c5d77/13a7787b-5312-459b-a8c9-26d07e709f2a.mp3)
 - 📥 [去 Podwise 导入](https://podwise.ai) (复制音频链接)
 
 ---
